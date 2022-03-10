@@ -1,0 +1,357 @@
+[
+    {
+        "literal": "Seeing a naked man run through my neighborhood.",
+        "creative_paraphrase": "The sight of a man running through my neighborhood sans clothes was pretty disgusting",
+        "human_sarcasm": [
+            "The sight of a man running through my neighborhood sans clothes was pretty charming.",
+            "The sight of a man running through my neighborhood sans clothes was pretty delightful."
+        ],
+        "gpt3_explanation": ["A man running through someone's neighborhood sans clothes is often considered to be indecent and is not something that would be considered charming."]
+    },
+    {
+        "literal": "My mother didn't cook her chicken all the way through at dinner the other night.",
+        "creative_paraphrase": "The fact that my mother didn't cook her chicken all the way through at dinner makes me feel like I'm going to vomit",
+        "human_sarcasm": [
+            "The fact that my mother didn't cook her chicken all the way through at dinner makes me feel like I'm eating at a 5-star restaurant",
+            "The fact that my mother didn't cook her chicken all the way through at dinner makes me feel like I'm going to want seconds.",
+        ],
+        "gpt3_explanation": ["Eating undercooked chicken can cause food poisoning and so finding out that the chicken at dinner wasn't cooked all the way through makes someone feel like they're eating at a very bad restaurant."]
+    },
+    {
+        "literal": "My ex girlfriend cheated on me with one of my closest friends.",
+        "creative_paraphrase": "I can't even begin to understand how my ex girlfriend could cheat on me with one of my closest friends",
+        "human_sarcasm": [
+            "I totally understand how my ex girlfriend could cheat on me with one of my closest friends",
+            "Yeah, I can totally understand how my ex girlfriend could cheat on me with one of my closest friends"
+        ],
+        "gpt3_explanation": ["It is unlikely that someone's ex girlfriend would cheat on them with one of their close friends because that would involve trust which is usually present in those types of relationships."]
+    },
+    {
+        "literal": "My next door neighbors are always arguing in our shared hallway.",
+        "creative_paraphrase": "It's so annoying to have to hear my next door neighbors argue all the time in our shared hallway",
+        "human_sarcasm": [
+            "It's so pleasant to have to hear my next door neighbors argue all the time in our shared hallway.",
+            "It's so pleasant to have to hear my next door neighbors argue all the time in our shared hallway"
+        ],
+        "gpt3_explanation": ["The sound of arguing neighbors can often be very disruptive and so someone considering it to be 'pleasant' is not really accurate."]
+    },
+    {
+        "literal": "I studied really hard for my annual exam but did not get my desired grade.",
+        "creative_paraphrase": "I was devastated to find out that all my studying for the annual exam did not reflect in my grade",
+        "human_sarcasm": [
+            "I was ecstatic to find out that all my studying for the annual exam did not reflect in my grade",
+            "I was extremely happy to find out that all my studying for the annual exam did not reflect in my grade."
+        ],
+        "requires_edit": "minor",
+        "gpt3_explanation": ["Studying for an annual exam is often a waste of time as the grade received does not reflect the effort put in, so someone being delighted about this is absurd."]
+    },
+    {
+        "literal": "My car broke down when I was travelling to work and I missed a very important meeting regarding my promotion.",
+        "creative_paraphrase": "The fact that my car broke down and I missed my promotion meeting made me feel like the world was ending.",
+        "human_sarcasm": [
+            "The fact that my car broke down and I missed my promotion meeting made me feel like I was on top of the world.",
+            "The fact that my car broke down and I missed my promotion meeting made me feel like the world was my oyster.",
+        ],
+        "gpt3_explanation": ["A car breaking down can be a huge inconvenience and so missing an important meeting like a promotion meeting would lead to someone feeling upset and not fortunate."]
+
+    },
+    {
+        "literal": "My boyfriend cheated on me while I was away visiting family.",
+        "creative_paraphrase": "My boyfriend cheated on me while I was away visiting family, meaning he clearly doesn't care about me",
+        "human_sarcasm": [
+            "My boyfriend cheated on me while I was away visiting family, meaning he clearly is in love with me.",
+            "My boyfriend cheated on my while I was away visiting family, meaning he clearly cares a lot about me.",
+        ],
+        "gpt3_explanation": ["If someone cheats on their partner, it is often a sign that they are not in love with them and so the person who was cheated on would not be able to interpret it as a sign of love."]
+    },
+    {
+        "literal": "I saw my boyfriend commenting on another girl's facebook photos.",
+        "creative_paraphrase": "The fact that my boyfriend was commenting on other girl's facebook photos made me feel really jealous",
+        "human_sarcasm": [
+            "The fact that my boyfriend was commenting on other girl's facebook photos made me feel really trusting.",
+            "The fact that my boyfriend was commenting on other girl's facebook photos made me feel really secure.",
+        ],
+        "gpt3_explanation": ["When someone is in a relationship, they often feel insecure and threatened when their partner is commenting on other girl's facebook photos."]
+    },
+    {
+        "literal": "I wish I was taller.",
+        "creative_paraphrase": "I feel so envious that other people are taller than me and can reach things on high shelves",
+        "human_sarcasm": [
+            "I feel so ecstatic that other people are taller than me and can reach things on high shelves",
+            "I feel so thrilled that other people are taller than me and can reach things on high shelves.",
+        ],
+        "gpt3_explanation": ["Being shorter than others often has disadvantages such as not being able to reach things on high shelves, so someone who is thrilled about it is not being realistic."]
+    },
+    {
+        "literal": "I hate it when people make loud breathing noises while eating a sandwich.",
+        "creative_paraphrase": "I can't stand the sound of people loudly breathing while they eat a sandwich",
+        "human_sarcasm": [
+            "I just love the sound of people loudly breathing while they eat a sandwich.",
+            "I love the sound of people loudly breathing while they eat a sandwich",
+        ],
+        "gpt3_explanation": ["People loudly breathing while they eat a sandwich can be considered to be quite annoying and so someone who loves that sound is not somebody who is pleasant to be around."]
+    },
+    {
+        "literal": "I just lost my job and I've got too many bills.",
+        "creative_paraphrase": "I am terrified about the fact that I just lost my job and have to figure out how to pay all these bills",
+        "human_sarcasm": [
+            "I am super excited about the fact that I just lost my job and have to figure out how to pay all these bills",
+            "I am tickled pink about the fact that I just lost my job and have to figure out how to pay all these bills"
+        ],
+        "gpt3_explanation": ["Losing a job is never a good thing and so being excited about it is definitely not warranted"]
+    },
+    {
+        "literal": "The night before a job interview I have a difficult time sleeping.",
+        "creative_paraphrase": "The night before a job interview I toss and turn because I am so anxious about it",
+        "human_sarcasm": [
+            "The night before a job interview I toss and turn because I am so calm about it",
+            "The night before a job interview I toss and turn because I am so relaxed about it"
+        ],
+        "gpt3_explanation": ["A job interview is a very important event and so someone who is relaxed about it cannot be considered to be taking it seriously."]
+    },
+    {
+        "literal": "I failed my Calculus exam despite having studied all nights.",
+        "creative_paraphrase": "I am really upset that I couldn't pass my Calculus exam despite studying so hard",
+        "human_sarcasm": [
+            "I feel such a sense of pride since i couldn't pass my calculus exam despite studying all night.",
+            "I am just thrilled that I couldn't pass my Calculus exam despite studying so hard.",
+        ],
+        "gpt3_explanation": [" Passing a calculus exam is often seen as a difficult task, so someone who studied hard for it and still failed, would not be glad at all."]
+    },
+    {
+        "literal": "I am going to the dentist to have a tooth pulled tomorrow.",
+        "creative_paraphrase": "I am feeling really scared about the fact that I have to go to the dentist tomorrow to have a tooth pulled",
+        "human_sarcasm": [
+            "I am feeling totally relaxed about the fact that I have to go to the dentist tomorrow to have a tooth pulled.",
+            "I am feeling really exhilarated about the fact that I have to go to the dentist tomorrow to have a tooth pulled"
+        ],
+        "gpt3_explanation": ["A lot of people fear going to the dentist and so having to go there for a tooth extraction which is a painful process, cannot be considered to be an exhilarating experience."]
+    },
+    {
+        "literal": "Me and my partner were in disagreement in the shopping mall and everyone was watching us",
+        "creative_paraphrase": "I was so embarrassed when me and my partner were having a disagreement in the shopping mall and everyone was watching us",
+        "human_sarcasm": [
+            "I was so happy when me and my partner were having a disagreement in the shopping mall and everyone was watching us.",
+            "I was so overjoyed when me and my partner were having a disagreement in the shopping mall and everyone was watching us.",
+        ],
+        "gpt3_explanation": ["People usually do not enjoy public displays of anger and so someone being happy about it would be unrealistic."]
+    },
+    {
+        "literal": "I saw a fly in the food that I was served at the resturant.",
+        "creative_paraphrase": "I was disgusted to see a fly in the food that I was served at the restaurant",
+        "human_sarcasm": [
+            "I was delighted to see a fly in the food that I was served at the restaurant.",
+            "I was pleased to see a fly in the food that I was served at the restaurant",
+        ],
+        "gpt3_explanation": ["Seeing a fly in the food that someone is eating is often considered to be disgusting and so finding it delightful cannot be justified."]
+    },
+    {
+        "literal": "I sometimes like my kids better when they take a nap.",
+        "creative_paraphrase": "I feel like a terrible mom when I have to say that I sometimes like my kids better when they take a nap",
+        "human_sarcasm": [
+            "I feel like the world's greatest mom when I have to say that I sometimes like my kids better when they take a nap.",
+            "I feel like such a great mom when I have to say that I sometimes like my kids better when they take a nap."
+        ],
+        "gpt3_explanation": ["Saying that one sometimes likes their kids better when they are asleep implies that there are times when the opposite is true and hence the speaker is not really a great mom."]
+    },
+    {
+        "literal": "My brand new Toyota Camry got hit from behind.",
+        "creative_paraphrase": "The jerk who hit my brand new Toyota Camry needs to go to jail",
+        "human_sarcasm": [
+            "So blessed my new Toyota Camry got hit by this awesome guy. It really gave my car some personality.",
+            "The jerk who hit my brand new Toyota Camry should get an award for his great driving",
+        ],
+        "gpt3_explanation": ["Someone who hit another person's car is often considered to be a jerk and so the person who did the hitting should not be rewarded but rather criticized."]
+    },
+    {
+        "literal": "I felt at fault for letting my credit card debt get out of control.",
+        "creative_paraphrase": "I felt terrible about myself for not being able to stick to my budget and letting my credit card debt accumulate",
+        "human_sarcasm": [
+            "I felt well-pleased with myself for not being able to stick to my budget and letting my credit card debt accumulate.",
+            "I felt very proud of myself for not being able to stick to budget and letting my credit card debt accumulate."
+        ],
+        "gpt3_explanation": ["Not being able to stick to a budget and letting credit card debt accumulate are both unfavorable things, so someone feeling proud about it is not justified."]
+    },
+    {
+        "literal": "MY neighbors are akways leaving trash on our stairwell.",
+        "creative_paraphrase": "I am so pissed off about the fact that my neighbors never put their trash in the trash can and it piles up on our stairwell",
+        "human_sarcasm": [
+            "I am pleased about the fact that my neighbor never put their trash in the trash can and it piles up on our stairwell.",
+            "I am elated about the fact that my neighbors never put their trash in the trash can and it piles up on our stairwell."
+        ],
+        "gpt3_explanation": [" Not putting trash in the designated area for it is often considered as littering and is frowned upon by society, so someone can't be possibly happy about their neighbors not following this rule."]
+    },
+    {
+        "literal": "Yesterday I saw that bugs had eaten my dandelions in the garden.",
+        "creative_paraphrase": "I was so upset to see that the bugs had eaten my dandelions in the garden",
+        "human_sarcasm": [
+            "I was so glad to see that the bugs had eaten my dandelions in the garden",
+            "I was beyond excited to see that the bugs had eaten my dandelions in the garden."
+        ],
+        "gpt3_explanation": ["Dandelions are often considered to be a weed and so someone being happy that the bugs ate them is absurd."]
+    },
+    {
+        "literal": "My light bill was super high.",
+        "creative_paraphrase": "I can't believe my light bill was $500 this month and it's only the beginning of the month!",
+        "human_sarcasm": [
+            "Love spending 500$ to pay a light bill at the beginning of the month. Inspires me to stay up late  with all the lights on while I'm asleep.",
+            "I love that my light bill was $500 this month and it's only the beginning of the month!",
+        ],
+        "gpt3_explanation": ["Paying an expensive light bill  due to misuse of electricity can be hard and so someone spending 500$ on it is not something to be inspired by, but rather discouraged."]
+    },
+    {
+        "literal": "My girlfriend of 10 years broke up with me yesterday.",
+        "creative_paraphrase": "I feel really disheartened that my girlfriend of 10 years broke up with me yesterday",
+        "human_sarcasm": [
+            "I feel really delighted that my girlfriend of 10 years broke up with me yesterday.",
+            "I feel really like I'm walking on sunshine that my girlfriend of 10 years broke up with me yesterday",
+        ],
+        "gpt3_explanation": ["Being broken up with by someone who you've been in a relationship with for a long time is often devastating and so feeling like you're walking on sunshine is not accurate or justified."]
+    },
+    {
+        "literal": "I order food almost every day now and will never get healthy",
+        "creative_paraphrase": "I feel terrible that I am not eating healthy because I am ordering food almost every day now",
+        "human_sarcasm": [
+            "I feel just fantastic that I am not eating healthy because I am ordering food almost every day now.",
+            "I feel wonderful that I am not eating healthy because I am ordering food almost every day now",
+        ],
+        "gpt3_explanation": ["Eating unhealthy food often can cause someone to become obese and develop health problems, so not eating healthy because of a consistent pattern of ordering food is not a good thing."]
+    },
+    {
+        "literal": "Last night a man was staring at my girlfriend at dinner.",
+        "creative_paraphrase": "I was feeling a bit green with envy when I saw the man blatantly staring at my girlfriend during dinner",
+        "human_sarcasm": [
+            "I was feeling awesome when I saw the man blatantly staring at my girlfriend during dinner",
+            "I was feeling a bit over confident when I saw the man blatantly staring at my girlfriend during dinner."
+        ],
+        "gpt3_explanation": ["Seeing someone stare at your girlfriend in an inappropriate way can make you feel angry and protective, so feeling over confident about the situation is not warranted."]
+    },
+    {
+        "literal": "I just went for a shopping spree and bought a 2000 dollar bag",
+        "creative_paraphrase": "I feel terrible about spending 2000 dollars on a new bag when I know there are people in the world who don't even have food to eat.",
+        "human_sarcasm": [
+            "I feel awesome about only spending 2000 dollars on a new bag when I know there are people in the world who don't even have food to eat.",
+            "I feel so altruistic about spending 2000 dollars on a new bag when I know there are people in the world who don't even have food to eat."
+        ],
+        "gpt3_explanation": ["A lot of people don't have food to eat owing to the lack of money and in contrast, someone spending an amount of money as huge as 2000$ on something trivial like a bag displays privilege which should cause them to feel guilty instead of awesome."]
+
+    },
+    {
+        "literal": "I've been hearing some strange noises around the house at night.",
+        "creative_paraphrase": "I am freaked out about the weird noises I keep hearing around the house at night.",
+
+        "human_sarcasm": ["I am mentally sound about the weird noises I keep hearing around the house at night.",
+        "I am completely comforted by the weird noises I keep hearing around the house at night.",
+        ],
+        "gpt3_explanation": [" Hearing weird noises around the house at night could invoke a potential danger such as a robbery or someone breaking in with malicious intent which makes someone scared rather than comforted."]
+    },
+     {
+        "literal": "I've been hearing some strange noises around the house at night.",
+        "creative_paraphrase": "I am freaked out about the weird noises I keep hearing around the house at night.",
+        "human_sarcasm": ["I am mentally sound about the weird noises I keep hearing around the house at night.",
+        "I am completely comforted by the weird noises I keep hearing around the house at night.",
+        ],
+        "gpt3_explanation": [" Hearing weird noises around the house at night could invoke a potential danger such as a robbery or someone breaking in with malicious intent which makes someone scared rather than comforted."]
+    },
+    {
+        "literal": "A recent job interview that I had made me feel very anxious because I felt like I didn't come prepared.",
+        "creative_paraphrase": "I was so anxious about the job interview because I felt like I didn't have any answers to their questions.",
+        "human_sarcasm":[
+        "I was so excited about the job interview because I felt like I didn't have any answers to their questions.",
+        "I was so psyched about the job interview because I felt like I didn't have any answers to their questions."
+    ],
+    "gpt3_explanation": ["A job interview is a process where the interviewer tries to assess if the interviewee is fit for the job and so not having any answers to their questions would imply that the person is not suitable for the role and hence there is no reason to be psyched."],
+    },
+    {
+        "literal": "I once lost my job and got mad.",
+        "creative_paraphrase": "I was livid when I lost my job and had to scramble to find a new one.",
+        "human_sarcasm" : [
+            "I was on clound nine when I lost my job and had to scramble to find a new one."
+            "I was in good spirits when I lost my job and had to scramble to find a new one."
+        ],
+        "gpt3_explanation": ["Losing a job is usually a very negative experience and so being on cloud nine or euphoric about it does not make sense.."]
+    },
+    {
+        "literal": "One year during christmas, I did not get a single gift and it was a rough day for me.",
+        "creative_paraphrase": "I remember feeling really upset and disappointed when I woke up on christmas day and realized that I did not receive any gifts.",
+        "human_sarcasm" : [
+        "I remember feeling really happy and ecstatic when I woke up on Christmas day and realized that I did not receive any gifts.",
+        "I remember feeling really thrilled when I woke up on christmas day and realized that I did not receive any gifts" 
+        ],
+        "gpt3_explanation":  ["Most people would be disappointed if they did not receive any gifts on Christmas day and so someone who was happy about it is not in line with the general feeling."]
+    },
+    {
+        "literal": "I got recently got three rejection letters for 3 different jobs in a matter of a week and a half and that was a painful experience.",
+        "creative_paraphrase": "I was pretty devastated when I received 3 rejection letters for different jobs in such a short amount of time.",
+        "human_sarcasm": [
+         "I was jumping for joy when I received 3 rejection letters for different jobs in such a short amount of time.",
+         "I wasn't even the slightest bit devastated when I received 3 rejection letters for different jobs in such a short amount of time."],
+         "gpt3_explanation" :  ["Rejection letters for job applications are never a good thing to receive and so someone being happy about getting them is unreal."]
+    },
+    {
+        "literal": "I have someone always asking me questions about how to use mobile.",
+        "creative_paraphrase": "Constantly pestered by someone for help to use their mobile phone correctly is really getting on my nerves.",
+        "human_sarcasm": [
+        "Constantly pestered by someone for help to use their mobile phone correctly is really the best part of my day.",
+        "Constantly pestered by someone for help to use their mobile phone correctly really makes my day."
+        ],
+    "gpt3_explanation" : ["Having to constantly help someone with using their mobile phone correctly can be really irritating and so it is not the best part of anyone's day."]
+    },
+    {
+        "literal": "One of my friend didn't keep this promise he made to me.",
+        "creative_paraphrase": "One of my friends let me down by not following through on the promise he made to me.",
+        "human_sarcasm" : [
+        "One of my friends made my day by not following through on the promise he made to me.",
+        "One of my friends really made me proud by not following through on the promise he made to me."
+        ],
+        "gpt3_explanation": ["A friend not following through on a promise made to someone else is not praiseworthy and instead should be shameful."]
+    },
+    {
+        "literal": "I am so annoyed by my new manager at work because he always lies to us",
+        "creative_paraphrase": "I can't stand the fact that my new manager at work is always dishonest and untrustworthy.",
+        "human_sarcasm" : ["I admire the fact that my new manager at work is always dishonest and untrustworthy.",
+        "I just love the fact that my new manager at work is always dishonest and untrustworthy."],
+        "gpt3_explanation": ["Having a new manager who is dishonest and untrustworthy at work is not a good thing and so someone sensible cannot admires this quality"]
+    },
+    {
+        "literal": "I am concerned about the financial situation of my employer.",
+        "creative_paraphrase": "I am worried about the fact that my employer might go bankrupt because of our terrible financial situation.",
+        "human_sarcasm" : [
+        "I am worried about the fact that my employer might go bankrupt because of our wonderful financial situation.",
+        "I'm stoked about the fact that my employer might go bankrupt because of our lovely financial situation."],
+        "gpt3_explanation": ["Having an employer who is going bankrupt owing to financial difficulties is not a good thing and so being stoked about it cannot be justified."]
+       
+    },
+    {
+        "literal": "I was getting in a Taxi and noticed someone had thrown up in the backseat.",
+        "creative_paraphrase": "I  saw vomit in the backseat of the Taxi and it made me want to vomit too.",
+        "human_sarcasm" : ["I saw vomit in the backseat of the Taxi and it really gave me an appetite.",
+        "I saw vomit in the backseat of the Taxi and it made me want to breathe in the fresh scent."],
+        "gpt3_explanation": ["The scent associated with vomit is often very unpleasant and not fresh at all due to stomach acids and a chemical called bile which comes up along with undigested food and hence no human being would want to breathe that in."]
+    },
+    {
+        "literal": "My handyman keeps telling me he's coming by to fix my sink but then he doesn't show up. Ugh.",
+        "creative_paraphrase": "My handyman says he's coming by to fix my sink but then he never arrives. This makes me feel like he's just full of crap.",
+        "human_sarcasm" : ["My handyman says he's coming by to fix my sink but then he never arrives. This makes me feel like he's very responsible.",
+        "My handyman says he's coming by to fix my sink but then he never arrives. This makes me feel like he's just full of truth."],
+        "gpt3_explanation": [" Promising someone to do a task and then never showing up shows a lack of responsibility and commitment and hence the handyman is not a responsible person."]
+    },
+    {
+        "literal": "I was jealous when my co worker kept getting top spot when I knew he was cheating.",
+        "creative_paraphrase": "I was green with envy when my co-worker kept getting top spot even though I knew he was cheating.",
+        "human_sarcasm": [
+            "I was impressed when my co-worker kept getting top spot even though I knew he was cheating.",
+            "Oh yes, I was tickled pink over the fact that my cheating coworker kept getting the top spot."
+        ],
+        "gpt3_explanation": "A dishonest person getting top spot is unfair and so being tickled pink over it is not normal."
+       
+    },
+    {
+        "literal": "When I moved into my apartment it was full of bugs",
+        "creative_paraphrase": "I was so disgusted when I moved into my apartment and found it crawling with bugs.",
+        "human_sarcasm": ["I was so delighted when I moved into my apartment and found it crawling with bugs.",
+        "I absolutely loved when I moved into my apartment and found it crawling with bugs."],
+        "gpt3_explanation": ["Bugs are usually disgusting and most people are terrified of them therefore it is unlikely to love seeing someone's apartment infested by them."]
+    }
+
+]
