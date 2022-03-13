@@ -352,6 +352,173 @@
         "human_sarcasm": ["I was so delighted when I moved into my apartment and found it crawling with bugs.",
         "I absolutely loved when I moved into my apartment and found it crawling with bugs."],
         "gpt3_explanation": ["Bugs are usually disgusting and most people are terrified of them therefore it is unlikely to love seeing someone's apartment infested by them."]
+    },
+    {
+        "literal": "I just ran out of financial aid for school.",
+        "creative_paraphrase": "I just found out that I won't be able to afford to go to school anymore because I used up all my financial aid",
+        "human_sarcasm": [ "I just found out that I won't be able to afford to go to school anymore because, in my boundless wisdom, I used up all my financial aid",
+        ],
+        "gpt3_explanation": ["It is not wise to use up all of one's financial aid because it leaves them with no other option but to not attend school, which would be a very unfortunate turn of events."]
+    },
+    {
+        "literal": "One time I was robbed at gun point.",
+        "creative_paraphrase": "The time I got robbed at gunpoint was one of the scariest moments of my life",
+        "human_sarcasm": ["The wonderful time I got robbed at gunpoint was one of the greatest moments of my life.",
+        "The time I got robbed at gunpoint was one of the calming moments of my life"],
+        "gpt3_explanation": ["Getting robbed at gunpoint is a traumatic experience and not something to be happy about."]
+    },
+    {
+        "literal": "I tried to make small talk with a woman and she ignored me.",
+        "creative_paraphrase": "I feel terrible how the woman ignored me when I tried to make small talk with her",
+        "human_sarcasm": ["What a lovely woman that ignored me when I tried to make small talk with her",
+        "I felt great when the woman ignored me when I tried to make small talk with her"],
+        "gpt3_explanation": ["When someone ignores someone who is trying to make small talk with them, it is often interpreted as rudeness and so the woman in question is not lovely."]
+    },
+    {
+        "literal": "I accidentally left the lights on in my car and killed the battery",
+        "creative_paraphrase":"I was really annoyed when I found out my car battery died because of me leaving the lights on",
+        "human_sarcasm": ["I was really elated when I found out my car battery died because of me leaving the lights on",
+        "I was really thrilled when I found out my car battery died because of me leaving the lights on"],
+        "gpt3_explanation": ["It is not a good thing when a car battery dies because it means that the owner has to take it to a mechanic and pay for a replacement, so finding out that the car battery died because of something the owner did is not cause for elation."]
+    },
+    {
+        "literal": "Once I was getting dressed and a lizard was on my shirt.",
+        "creative_paraphrase": "The fact that a lizard randomly ran into my room and landed on my shirt while I was getting dressed made me scream and feel disgusted",
+        "human_sarcasm": ["The fact that a lizard randomly ran into my room and landed on my shirt while I was getting dressed was the greatest start to my day",
+        "The fact that a lizard randomly ran into my room and landed on my shirt while I was getting dressed made me really appreciate my fortune"],
+        "gpt3_explanation": ["A lizard randomly running into someone's room is a frightening experience and is not something that would make someone's day great."]
+    },
+    {
+        "literal": "I lost my wallet and had to get all new cards",
+        "creative_paraphrase": "I was really upset when I realized my wallet was missing and had to go through the process of getting all new cards",
+        "human_sarcasm": ["I was so ecstatic when I realized my wallet was missing and had to go through the process of getting all new cards",
+        "I was thrilled when I realized my wallets was missing and I had to go through the process of getting all new cards"],
+        "gpt3_explanation": ["Losing a wallet and having to go through the process of getting new cards is a huge inconvenience and not something to be happy about."]
+    },
+    {
+        "literal": "I was waiting for a package and I watched the mailman drive by my house without delivering it.",
+        "creative_paraphrase": "I was eagerly waiting for my package and when the mailman drove by my house without delivering it, I got really mad",
+        "human_sarcasm": [ "I was eagerly waiting for my package and when the mailman drove by my house without delivering it, I was really thrilled.",
+            "I was eagerly waiting for my package and when the mailman drove by my house without delivering it, I was really happy."
+        ],
+        "gpt3_explanation": ["Waiting for a package and not getting it delivered can be really frustrating and not something to be thrilled about."]
+    },
+    {
+        "literal": "My son drew all over my car with permanent marker!",
+        "creative_paraphrase": "My son drew all over my car with permanent marker and I am not happy about it",
+        "human_sarcasm": ["I am so pleased that my son drew all over my car with permanent marker.",
+        "My son drew all over my car with permanent marker and I am thrilled about it"],
+        "gpt3_explanation": ["Most people would not be pleased if their son or daughter drew all over their car with permanent marker because it would be very difficult to clean and it would also mean that the child has no respect for property."]
+    },
+    {
+        "literal": "I really hate when people play their music really loud during the week at 3 am",
+        "creative_paraphrase": "I can't stand it when people blast their music during the week at 3am and disrupt my sleep",
+        "human_sarcasm": [ "I adore it when people blast their music during the week at 3am and disrupt my sleep",
+        "I love it when people blast their music during the week at 3am and disrupt my sleep"],
+        "gpt3_explanation": ["People blasting their music during the wee hours of the morning is often disruptive and prevent someone from getting a good night's sleep and hence it should not be admired."]
+    },
+    {
+        "literal": "My daughter is being bullied at school and her teachers aren't doing a thing about it.",
+        "creative_paraphrase": "I am so angry that my daughter is being bullied at school and the teachers are not doing anything about it",
+        "human_sarcasm": [ "I am so pleased that my daughter is being bullied at school and the teachers are not doing anything about it",
+        "Thanks to all the teachers for doing all they can while my daughter is being bullied at school, you are a real help."],
+        "gpt3_explanation": ["No one wants their child to be bullied and hence it is ironic that the person is pleased about it."]
+    },
+    {
+        "literal": "I stepped in gum someone spit on the side walk",
+        "creative_paraphrase": "I got so pissed off when I stepped in gum someone spit on the side walk",
+        "human_sarcasm": [ "I got so thrilled when I stepped in gum someone spit on the side walk",
+        "I was thrilled when I stepped in gum someone spit on the side walk"],
+        "gpt3_explanation": ["Gum on the sidewalk is often dirty and unsightly and so finding some on your shoe would not be a reason to get thrilled."]
+    },
+    {
+        "literal": "I went grocery shopping the other day and didn't realize I had left my wallet until it was time to pay.",
+        "creative_paraphrase": "I feel like an idiot because I left my wallet at home when I went grocery shopping",
+        "human_sarcasm": ["I feel like a genius because I left my wallet at home when I went grocery shopping",
+        "Clearly I am the smartest person because I clearly left my wallet at home when I went grocery shopping"],
+        "gpt3_explanation": ["It is not a wise decision to leave your wallet at home when you go grocery shopping because you would need money to buy the groceries and so someone who does that is not considered to be a genius."]
+    },
+     {
+        "literal": "I failed my final exam and now I'll lose my scholarship.",
+        "creative_paraphrase": "I feel terrible that I didn't do well on my final and now I might lose my scholarship",
+        "human_sarcasm": [ "I feel amazing that I didn't do well on my final and now I might lose my scholarship",
+        "So pleased that I didn't do well on my final and now I might lose my scholarship, isn't life wonderful!"],
+        "gpt3_explanation": ["A scholarship is a financial aid that students receive to help pay for their education and so not doing well on a final and potentially losing the scholarship would be a terrible thing."]
+    },
+     {
+        "literal": "I haven't heard from my girlfriend in 2 weeks.",
+        "creative_paraphrase":  "I am starting to feel really worried because it's been 2 weeks and I still haven't heard from my girlfriend",
+        "human_sarcasm": [ "I am starting to feel relaxed because it's been 2 weeks and I still haven't heard from my girlfriend",
+        "I am starting to feel really happy because it's been 2 weeks and I still haven't heard from my girlfriend"],
+        "gpt3_explanation": ["Not hearing from someone for a long period of time can be a sign that the relationship is over so its more likely to feel worried or concerned"]
+    },
+    {
+        "literal": "I once was at a party and I saw a person throw up all over another person.",
+        "creative_paraphrase": "The most vile thing I have ever seen was when somebody puked all over another person at a party",
+        "human_sarcasm": [ "The most charming thing I have ever seen was when somebody puked all over another person at a party",
+        "The most beautiful thing I have ever seen was when somebody puked all over another person at a party"],
+        "gpt3_explanation": ["Seeing someone vomit is often a disgusting and unappealing sight and so finding it charming cannot be justified."]
+    },
+     {
+        "literal": "I didn't lock the bathroom door on a train properly and a woman walked in on me.",
+        "creative_paraphrase": "I made the mistake of not locking the bathroom door on the train and a woman walked in on me",
+        "human_sarcasm": [ "I made the smooth move of not locking the bathroom door on the train and a woman walked in on me",
+        "I did a great thing by not locking the bathroom door on the train and a woman walked in on me"],
+        "gpt3_explanation": ["People usually lock the bathroom door when they are using it in order to have privacy and so someone who does not lock it and gets walked can't be making a smooth move."]
+    },
+     {
+        "literal": "Last night I ate 12 Big Mac's from McDonalds and felt guilty",
+        "creative_paraphrase": "I feel terrible about the fact that I ate 12 Big Mac's from McDonalds last night",
+        "human_sarcasm": [ "I feel amazing about the fact that I ate 12 Big Mac's from McDonalds last night",
+        "I feel absolutely great about the fact that I ate 12 Big Mac's from McDonalds last night"],
+        "gpt3_explanation": ["The Big Mac from McDonalds is not a healthy food choice and so eating 12 of them in one night would not be something to feel amazing about."]
+    },
+    {
+        "literal": "My coworker blamed his mistake on me",
+        "creative_paraphrase": "My coworker trying to pass the blame to me for his mistake really makes me see red",
+        "human_sarcasm": ["My coworker trying to pass the blame to me for his mistake really makes me happy.",
+        "My coworker trying to pass the blame to me for his mistake really makes me full of gratitude for him."],
+        "gpt3_explanation": ["When someone tries to pass the blame for their mistake, it shows that they are not willing to take responsibility for their own actions and are instead looking to shift the blame and this makes the person who is being blamed unhappy."]
+    },
+    {
+        "literal": "The other night when I was walking someone was following me.",
+        "creative_paraphrase": "I was scared when I was walking the other night and someone was following me",
+        "human_sarcasm": [],
+        "gpt3_explanation": []
+    },
+    {
+        "literal": "I bought a exercise bike and it just sits in the corner.",
+        "creative_paraphrase": "Bought an exercise bike and am really embarrassed that it just collects dust in the corner",
+        "human_sarcasm": [ "Bought an exercise bike and am really proud that it just collects dust in the corner",
+        "Bought an exercise bike and feel really accomplished now that it just collects dust in the corner"],
+        "gpt3_explanation": ["Owning an exercise bike is not a praiseworthy thing if it is never used and instead just collects dust in a corner."]
+    },
+    {
+        "literal": "I didn't do well on my job interview.",
+        "creative_paraphrase": "I'm bummed out that I bombed my job interview",
+        "human_sarcasm": [ "I'm super stoked that I bombed my job interview!",
+        "Really happy about the fact that I bombed my job interview!"],
+        "gpt3_explanation": ["A job interview is a process which someone goes through to potentially get a job, and bombing it would mean that they did not do well and hence cannot be stoked about it"]
+    },
+    {
+        "literal": "I spend way too much money on food.",
+        "creative_paraphrase": "I feel like a terrible person because I spend more money on food than I probably should",
+        "human_sarcasm": [ "I feel like such a great person because I spend more money on food than I probably should.",
+        "I feel like a great person because I spend more money on food than I probably should."],
+        "gpt3_explanation": ["Overspending on food shows a lack of financial responsibility and so someone who feels great about themselves for doing that is not justified in their feeling."]
+    },
+    {
+        "literal": "I ordered pants online that I was sure would fit and they ended up not fitting.",
+        "creative_paraphrase": "I feel terrible that the pants I ordered online didn't fit even though the size was supposed to be correct",
+        "human_sarcasm": [ "I just love that the pants I ordered online didn't fit even though the size was supposed to be correct",
+        "I feel awesome that the pants I ordered online didn't fit even though the size was supposed to be correct"],
+        "gpt3_explanation": ["It is never a good thing when clothes ordered online do not fit because it means that the size was either not guessed correctly or the clothes were made in a way that does not suit the person's body type."]
+    },
+    {
+        "literal": "I slipped on the invisible puddle in the aisle in front of many people",
+        "creative_paraphrase": "I slipped on the invisible puddle in the aisle in front of many people and it made me look like a complete idiot",
+        "human_sarcasm": [ "I slipped on the invisible puddle in the aisle in front of many people and it made me look like a total genius",
+        "I slipped on the invisible puddle in the aisle in front of many people and it made me look like someone beaming with grace"],
+        "gpt3_explanation": ["There was no puddle in the aisle and so slipping on it makes the person look like they are clumsy and have poor balance."]
     }
-
 ]
