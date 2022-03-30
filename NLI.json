@@ -2,21 +2,21 @@
     {
         "id": 1,
         "hypothesis": "The sight of a man running through my neighborhood sans clothes was pretty disgusting",
-        "premise": "Seeing a naked man run through my neighborhood.",
+        "premise": "Seeing a naked man run through my neighborhood was awful.",
         "label": "Entailment",
         "explanation": "NA"
     },
     {
         "id": 1,
         "hypothesis": "The sight of a man running through my neighborhood sans clothes was pretty charming.",
-        "premise": "Seeing a naked man run through my neighborhood.",
+        "premise": "Seeing a naked man run through my neighborhood was awful.",
         "label": "Contradiction",
         "explanation": "A man running through someone's neighborhood sans clothes is often considered to be indecent and is not something that would be considered charming."
     },
     {
         "id": 1,
         "hypothesis": "The sight of a man running through my neighborhood sans clothes was pretty delightful.",
-        "premise": "Seeing a naked man run through my neighborhood.",
+        "premise": "Seeing a naked man run through my neighborhood was awful.",
         "label": "Contradiction",
         "explanation": "A man running through someone's neighborhood sans clothes is often considered to be indecent and is not something that would be considered delightful."
     },
