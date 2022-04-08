@@ -9007,6 +9007,2399 @@
         "hypothesis": "Love how mosquitos welcome me when I am just trying to enjoy being outside in my garden cleaning up the plants.",
         "label": "Contradiction",
         "explanation": " Mosquitos are often considered to be a nuisance because they bite people and suck their blood, so someone being welcomed by them when they are just trying to enjoy themselves is not a good thing."
-    }
+    },   {
+        "id": 430,
+        "premise": "The way interest rates are these days i'm so scared to go get a car loan",
+        "hypothesis": "I am scared to death about the way interest rates are these days and might not be able to afford a car loan",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 430,
+        "premise": "The way interest rates are these days I'm so scared to go get a car loan",
+        "hypothesis": "I am elated about the way interest rates are these days and that I might not be able to afford a car loan.",
+        "label": "Contradiction",
+        "explanation": "The interest rates for car loans are currently quite high and so someone who is elated about it is not rational because they are celebrating something that is unfavorable."
+    },
+    {
+        "id": 430,
+        "premise": "The way interest rates are these days I'm so scared to go get a car loan",
+        "hypothesis": "I'm super excited about the way interest rates are these days, and might not be able to afford a car loan.",
+        "label": "Contradiction",
+        "explanation": "The interest rates for car loans are currently quite high and so someone who is super excited about it is not rational because they are celebrating something that is unfavorable."
+    },
 
+    {
+        "id": 431,
+        "premise": "I ordered takeout yesterday and I got home and found out half my food was missing.",
+        "hypothesis": "I was so excited to eat my takeout last night and then I got home to find that half my food was missing",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 431,
+        "premise": "I ordered takeout yesterday and I got home and found out half my food was missing.",
+        "hypothesis": "Was looking forward to eating my takeout last night, and was very relieved to get home to find that half my food was missing.",
+        "label": "Contradiction",
+        "explanation": "Half the food being missing from a takeout order is not a good surprise and instead one cannot be relieved by it."
+    },
+    {
+        "id": 431,
+        "premise": "I ordered takeout yesterday and I got home and found out half my food was missing.",
+        "hypothesis": "I was so excited to eat my takeout last night and then I got home to find the beautiful surprise that half my food was missing.",
+        "label": "Contradiction",
+        "explanation": "Half the food being missing from a takeout order is not a good surprise and instead is quite frustrating."
+    },
+    {
+        "id": 432,
+        "premise": "I went into the bathroom at work today and someone had clogged it.",
+        "hypothesis": "I walked into the bathroom today and saw that someone had clogged it, making it smell horrendous",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 432,
+        "premise": "I went into the bathroom at work today and someone had clogged it.",
+        "hypothesis": "I walked into the bathroom today and saw that someone had clogged it, making it smell like french perfume.",
+        "label": "Contradiction",
+        "explanation": "The smell of french perfume is often considered to be very pleasant, however the smell of bathroom waste when it is clogged is not and so the statement is sarcastic."
+    },
+    {
+        "id": 432,
+        "premise": "I went into the bathroom at work today and someone had clogged it.",
+        "hypothesis": "I walked into the bathroom today and saw that someone had clogged it, making it smell amazing",
+        "label": "Contradiction",
+        "explanation": "The smell of feces and urine is often very unpleasant and not amazing in any way, so seeing someone had clogged the bathroom would invoke disgust rather than pleasure."
+    },
+    {
+        "id": 433,
+        "premise": "I cooked a meal for family and it came out horribly.",
+        "hypothesis": "I feel terrible that the meal I cooked for my family didn't turn out well",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 433,
+        "premise": "I cooked a meal for family and it came out horribly.",
+        "hypothesis": "I feel fantastic that the meal I cooked for my family didn't turn out well.",
+        "label": "Contradiction",
+        "explanation": "A meal that doesn't turn out well is usually not edible and not what a family would want to eat, so the person who cooked it should not feel fantastic about it."
+    },
+    {
+        "id": 433,
+        "premise": "I cooked a meal for family and it came out horribly.",
+        "hypothesis": "I feel proud that the meal I cooked for my family didn't turn out well",
+        "label": "Contradiction",
+        "explanation": "A meal that doesn't turn out well is usually not edible and not what a family would want to eat, so the person who cooked it should not feel proud about it."
+    },
+    {
+        "id": 434,
+        "premise": "A part for my computer that I've been putting off buying went up 10% right before I finally ordered it.",
+        "hypothesis": "The fact that the price for the part I need for my computer went up 10% right before I decided to buy it made me furious",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 434,
+        "premise": "A part for my computer that I've been putting off buying went up 10% right before I finally ordered it.",
+        "hypothesis": "The fact that the price for the part I need for my computer went up 10% right before I decided to buy it made me feel so lucky",
+        "label": "Contradiction",
+        "explanation": "The price for the part a person needs for their computer going up 10% right before they decide to buy it is not a good thing because it means that they will have to spend more money than they originally planned to."
+    },
+    {
+        "id": 434,
+        "premise": "A part for my computer that I've been putting off buying went up 10% right before I finally ordered it.",
+        "hypothesis": "The fact that the price for the part I need for my computer went up 10% right before I decided to buy it made me pleased",
+        "label": "Contradiction",
+        "explanation": "The price for the part a person needs for their computer going up 10% right before they decide to buy it is not a good thing because it means that they will have to spend more money than they originally planned to."
+    },
+    {
+        "id": 435,
+        "premise": "My neighbors are still shooting off fireworks a month after the 4th of July",
+        "hypothesis": "I don't understand why my neighbors are still shooting off fireworks a month after the 4th of July",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 435,
+        "premise": "My neighbors are still shooting off fireworks a month after the 4th of July",
+        "hypothesis": "It makes total sense to me why my neighbors are still shooting off fireworks a month after the fourth of july.",
+        "label": "Contradiction",
+        "explanation": "The fourth of July is the Independence day of the United States and so shooting fireworks off after a month since then goes against the spirit of the holiday."
+    },
+    {
+        "id": 435,
+        "premise": "My neighbors are still shooting off fireworks a month after the 4th of July",
+        "hypothesis": "I love how my neighbors are still shooting off fireworks a month after the 4th of July",
+        "label": "Contradiction",
+        "explanation": "The fourth of July is the Independence day of the United States and so shooting fireworks off after a month since then goes against the spirit of the holiday and is nothing to be loved."
+    },
+    {
+        "id": 436,
+        "premise": "I accidentally spilled my coffee on my date a few days ago.",
+        "hypothesis": "The other day I spilled coffee on my date and it was pretty embarrassing",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 436,
+        "premise": "I accidentally spilled my coffee on my date a few days ago.",
+        "hypothesis": "The other day I spilled coffee on my date and I felt so proud of myself.",
+        "label": "Contradiction",
+        "explanation": " Spilling coffee on someone is a really bad thing to do and so feeling proud of oneself for doing it is completely unjustified."
+    },
+    {
+        "id": 436,
+        "premise": "I accidentally spilled my coffee on my date a few days ago.",
+        "hypothesis": "The other day I spilled coffee on my date and it was pretty awesome",
+        "label": "Contradiction",
+        "explanation": " Spilling coffee on someone is a really bad thing to do and so feeling awesome for doing it is completely unjustified."
+    },
+    {
+        "id": 437,
+        "premise": "I ate half a sandwhich before realizing the bread was moldy.",
+        "hypothesis": "I felt sick after realizing the bread from the sandwich I ate was moldy",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 437,
+        "premise": "I ate half a sandwhich before realizing the bread was moldy.",
+        "hypothesis": "I felt really healthy after realizing the bread from the sandwich I ate was moldy.",
+        "label": "Contradiction",
+        "explanation": "Realizing that the bread from the sandwich you ate was moldy would make anyone feel sick and not healthy at all."
+    },
+    {
+        "id": 437,
+        "premise": "I ate half a sandwhich before realizing the bread was moldy.",
+        "hypothesis": "I felt healthy after realizing the bread from the sandwich I ate was moldy",
+        "label": "Contradiction",
+        "explanation": "Realizing that the bread from the sandwich you ate was moldy would make anyone feel sick and not healthy at all."
+    },
+    {
+        "id": 438,
+        "premise": "I get so ticked off when I see people leave their grocery carts in the middle of the parking lot.",
+        "hypothesis": "I get really mad when I see people leaving their grocery carts in the middle of the parking lot",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 438,
+        "premise": "I get so ticked off when I see people leave their grocery carts in the middle of the parking lot.",
+        "hypothesis": "I feel absolute bliss when I see people leaving their grocery carts in the middle of the parking lot",
+        "label": "Contradiction",
+        "explanation": "People who leave their grocery carts in the middle of the parking lot are being inconsiderate and creating a mess, so seeing them do that does not evoke feelings of bliss but rather annoyance."
+    },
+    {
+        "id": 438,
+        "premise": "I get so ticked off when I see people leave their grocery carts in the middle of the parking lot.",
+        "hypothesis": "I love it when I see people leaving their grocery carts in the middle of the parking lot",
+        "label": "Contradiction",
+        "explanation": "People who leave their grocery carts in the middle of the parking lot are being inconsiderate and creating a mess, so seeing them do that does not evoke feelings of love but rather annoyance."
+    },
+    {
+        "id": 439,
+        "premise": "How irresponsible of my neighbor to litter the driveway with some chocolate bars he ate.",
+        "hypothesis": "It's terrible how my irresponsible neighbor left his chocolate wrappers all over the driveway",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 439,
+        "premise": "How irresponsible of my neighbor to litter the driveway with some chocolate bars he ate.",
+        "hypothesis": "It's fabulous how my thoughtful neighbor left his chocolate wrappers all over the driveway",
+        "label": "Contradiction",
+        "explanation": "Chocolate wrappers are often messy and unsightly to look at and so someone leaving them all over the driveway is not fabulous at all and someone who does it can't be thoughtful."
+    },
+    {
+        "id": 439,
+        "premise": "How irresponsible of my neighbor to litter the driveway with some chocolate bars he ate.",
+        "hypothesis": "It's wonderful how my amazing neighbor left his chocolate wrappers all over the driveway",
+        "label": "Contradiction",
+        "explanation": "Chocolate wrappers are often messy and unsightly to look at and so someone leaving them all over the driveway is not wonderful at all and someone who does it can't be amazing."
+    },
+    {
+        "id": 440,
+        "premise": "I can't afford the dress I want for a wedding.",
+        "hypothesis": "I wish I could afford the dress that I want for the wedding but sadly, I can't",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 440,
+        "premise": "I can't afford the dress I want for a wedding.",
+        "hypothesis": "The fact that the price of the dress that I want for my wedding is absolutely out of budget makes me feel happy.",
+        "label": "Contradiction",
+        "explanation": "Wedding dresses are often very expensive and so not being able to afford one makes someone feel sad and disappointed, rather than happy."
+    },
+    {
+        "id": 440,
+        "premise": "I can't afford the dress I want for a wedding.",
+        "hypothesis": "No regret over not being able to afford the dress that I want for the wedding because poverty my friend is a blessing!",
+        "label": "Contradiction",
+        "explanation": "Not being able to afford a dress for a wedding owing to poverty is not a good thing and should not be considered as a blessing."
+    },
+    {
+        "id": 441,
+        "premise": "I always forget my password to important sites.",
+        "hypothesis": "I am always disappointed that I forget my password to the sites that are important to me",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 441,
+        "premise": "I always forget my password to important sites.",
+        "hypothesis": "I am totally not ashamed of the fact that I forget my password to the sites that are important to me.",
+        "label": "Contradiction",
+        "explanation": "Having to remember a password is a common task that people do, so forgetting it implies that the person is not organized and has trouble keeping track of things which is not something to be proud of."
+    },
+    {
+        "id": 441,
+        "premise": "I always forget my password to important sites.",
+        "hypothesis": "I am always happy that I forget my password to the sites that are important to me",
+        "label": "Contradiction",
+        "explanation": "Having to remember a password is a common task that people do, so forgetting it implies that the person is not organized and has trouble keeping track of things which is not something to be happy of."
+    },
+    {
+        "id": 442,
+        "premise": "I am ashamed of myself for being lazy and not going to the gym.",
+        "hypothesis": "I feel terrible that I am not motivated enough to go to the gym and be healthy",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 442,
+        "premise": "I am ashamed of myself for being lazy and not going to the gym.",
+        "hypothesis": "I feel proud that I am not motivated enough to go to the gym and be healthy",
+        "label": "Contradiction",
+        "explanation": "Gymming and being healthy are two things that people often strive for, so not being motivated enough to do either of them implies a lack of effort and hence one should not feel proud about it."
+    },
+    {
+        "id": 442,
+        "premise": "I am ashamed of myself for being lazy and not going to the gym.",
+        "hypothesis": "I feel amazing about myself for not being motivated enough to go to the gym.",
+        "label": "Contradiction",
+        "explanation": "Gymming and being healthy are two things that people often strive for, so not being motivated enough to do either of them implies a lack of effort and hence one should not feel proud about it."
+    },
+    {
+        "id": 443,
+        "premise": "I am angry that my brother ruined a movie ending for me.",
+        "hypothesis": "I'm not happy that my brother spoiled the movie ending for me",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 443,
+        "premise": "I am angry that my brother ruined a movie ending for me.",
+        "hypothesis": "I'm so happy that my brother spoiled the movie ending for me",
+        "label": "Contradiction",
+        "explanation": "Most people would be angry or upset if someone spoiled the ending of a movie for them, so to be happy about it isn't rational."
+    },
+    {
+        "id": 443,
+        "premise": "I am angry that my brother ruined a movie ending for me.",
+        "hypothesis": "I'm happy that my brother spoiled the movie ending for me",
+        "label": "Contradiction",
+        "explanation": "Most people would be angry or upset if someone spoiled the ending of a movie for them, so to be happy about it isn't rational."
+    },
+    {
+        "id": 444,
+        "premise": "I hated waiting each day to see if a college acceptance letter came in",
+        "hypothesis": "I was scared every day to see if a college acceptance letter would come in the mail",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 444,
+        "premise": "I hated waiting each day to see if a college acceptance letter came in",
+        "hypothesis": "I had such a fun time panicking everyday to see if a college acceptance letter would come in the mail.",
+        "label": "Contradiction",
+        "explanation": "Receiving a college acceptance letter is career defining, so someone who panics everyday because they are not sure if they will get one cannot have had a fun time."
+    },
+    {
+        "id": 444,
+        "premise": "I hated waiting each day to see if a college acceptance letter came in",
+        "hypothesis": "Loved the anticipation every day to see if a college acceptance letter would come in the mail.",
+        "label": "Contradiction",
+        "explanation": "Anticipating something good to happen every day is usually a very tiring and nerve-wracking experience and so someone being happy about it is absurd."
+    },
+    {
+        "id": 445,
+        "premise": "I forgot my lunch at home two days in a row.",
+        "hypothesis": "I really can't stand the fact that I forget my lunch at home two days in a row",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 445,
+        "premise": "I forgot my lunch at home two days in a row.",
+        "hypothesis": "The fact that I forget my lunch at home two days in a row is simply amazing",
+        "label": "Contradiction",
+        "explanation": "Forgetting something as important as lunch shows a lack of organization and care which cannot be seen as amazing."
+    },
+    {
+        "id": 445,
+        "premise": "I forgot my lunch at home two days in a row.",
+        "hypothesis": "I really love the fact that I forget my lunch at home two days in a row",
+        "label": "Contradiction",
+        "explanation": "Forgetting something as important as lunch shows a lack of organization and care which cannot be seen as something to love."
+    },
+    {
+        "id": 446,
+        "premise": "I was not happy when my boyfriend told me that he thought the girl that works at the gas station is cute.",
+        "hypothesis": "I was not thrilled when my boyfriend told me that he thought the girl at the gas station was pretty",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 446,
+        "premise": "I was not happy when my boyfriend told me that he thought the girl that works at the gas station is cute.",
+        "hypothesis": "I was thrilled when my boyfriend told me that he thought the girl at the gas station was pretty.",
+        "label": "Contradiction",
+        "explanation": "A boyfriend thinking another girl is pretty when his own girlfriend is with him is not a good thing and so her being thrilled about it is not realistic."
+    },
+    {
+        "id": 446,
+        "premise": "I was not happy when my boyfriend told me that he thought the girl that works at the gas station is cute.",
+        "hypothesis": "I was excited and happy when my boyfriend told me that he thought the girl at the gas station was pretty.",
+        "label": "Contradiction",
+        "explanation": "A boyfriend thinking another girl is pretty when his own girlfriend is with him is not a good thing and so her being excited or happy about it is not realistic."
+    },
+    {
+        "id": 447,
+        "premise": "I felt bad when I couldn't get the gift my daughter wanted for her birthday",
+        "hypothesis": "I felt terrible when I could not get the expensive gift my daughter wanted for her birthday",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 447,
+        "premise": "I felt bad when I couldn't get the gift my daughter wanted for her birthday",
+        "hypothesis": "I felt like the greatest parent in the world when I could not afford the expensive gift my daughter wanted for her birthday.",
+        "label": "Contradiction",
+        "explanation": " Not being able to afford an expensive gift for one's own child shows a lack of financial stability and hence the parent is not in a good position to be considered great."
+    },
+    {
+        "id": 447,
+        "premise": "I felt bad when I couldn't get the gift my daughter wanted for her birthday",
+        "hypothesis": "I felt proud when I could not get the expensive gift my daughter wanted for her birthday",
+        "label": "Contradiction",
+        "explanation": " Not being able to afford an expensive gift for one's own child shows a lack of financial stability and hence the parent is not in a good position to feel proud."
+    },
+    {
+        "id": 448,
+        "premise": "My coworker can be really aggravating because he is constantly talking and asking me dumb questions",
+        "hypothesis": "My coworker can be so bothersome because he talks incessantly and asks me a lot of dumb questions",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 448,
+        "premise": "My coworker can be really aggravating because he is constantly talking and asking me dumb questions",
+        "hypothesis": "My coworker can be so pleasant because he talks incessantly and asks me a lot of dumb questions.",
+        "label": "Contradiction",
+        "explanation": "A coworker is not pleasant when they talks incessantly and asks a lot of dumb questions because it takes up a lot of time and energy of others."
+    },
+    {
+        "id": 448,
+        "premise": "My coworker can be really aggravating because he is constantly talking and asking me dumb questions",
+        "hypothesis": "My coworker is so enjoyable when he talks incessantly and asks me a lot of dumb questions.",
+        "label": "Contradiction",
+        "explanation": "A coworker who talks incessantly and asks a lot of dumb questions can be really irritating and not enjoyable at all."
+    },
+    {
+        "id": 449,
+        "premise": "I accidentally tripped while walking into a restaurant and there was a bunch of people around.",
+        "hypothesis": "I was embarrassingly clumsy when I tripped while walking into the restaurant and everyone saw it",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 449,
+        "premise": "I accidentally tripped while walking into a restaurant and there was a bunch of people around.",
+        "hypothesis": "I was so elegant when I tripped while walking into the restaurant and everyone saw it.",
+        "label": "Contradiction",
+        "explanation": "Tripping while walking into a restaurant is not a graceful thing to do and so being elegant while doing it is impossible."
+    },
+    {
+        "id": 449,
+        "premise": "I accidentally tripped while walking into a restaurant and there was a bunch of people around.",
+        "hypothesis": "I felt so proud of myself when I tripped while walking into the restaurant and everyone saw .",
+        "label": "Contradiction",
+        "explanation": "Tripping while walking into a restaurant is not a good thing because it makes the person look clumsy and incapable in front of others."
+    },
+    {
+        "id": 450,
+        "premise": "My a/c went out and the repairman was not able to fix the problem.",
+        "hypothesis": "I was really looking forward to feeling refreshed from the a/c, but now the repairman says it needs a whole new part that he can't find",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 450,
+        "premise": "My a/c went out and the repairman was not able to fix the problem.",
+        "hypothesis": "I was looking forward to feeling refreshed from the a/c, but now feeling really happy and satisfied because repairman says it needs a whole new part that he can't find",
+        "label": "Contradiction",
+        "explanation": "Expecting to feel refreshed from the a/c and then feeling happy because the repairman says it needs a whole new part that he can't find is not what somebody would generally expect and hence this situation cannot be considered satisfying."
+    },
+    {
+        "id": 450,
+        "premise": "My a/c went out and the repairman was not able to fix the problem.",
+        "hypothesis": "Feeling really excited that my plans of being refreshed from the a/c has to be stalled because apparently the repairman says it needs a whole new part that he can't find",
+        "label": "Contradiction",
+        "explanation": "Being refreshed from the a/c is a desirable thing, so having to delay it because of a broken part on the machine is definitely not cool."
+    },
+    {
+        "id": 451,
+        "premise": "I had to deal with a lady and her 2 daughters that had lice",
+        "hypothesis": "I had to endure the torture of dealing with a lady and her 2 daughters that had lice",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 451,
+        "premise": "I had to deal with a lady and her 2 daughters that had lice",
+        "hypothesis": "I had the honor and privilege of dealing with a lady and her two daughters who had lice",
+        "label": "Contradiction",
+        "explanation": "Dealing with lice is a very unpleasant experience and most people would not consider it to be an honor or privilege."
+    },
+    {
+        "id": 451,
+        "premise": "I had to deal with a lady and her 2 daughters that had lice",
+        "hypothesis": "I had to endure the joy of dealing with a lady and her 2 daughters that had lice",
+        "label": "Contradiction",
+        "explanation": "Dealing with lice is a very unpleasant experience and most people would not consider it to be a joyful experience."
+    },
+    {
+        "id": 452,
+        "premise": "I had a bad day and tried calling two different people and couldn't get anyone",
+        "hypothesis": "I feel so alone because I had a terrible day and no one wanted to pick up my call",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 452,
+        "premise": "I had a bad day and tried calling two different people and couldn't get anyone",
+        "hypothesis": "Feel so popular over the fact that I had a terrible day and no one wanted to pick up my call.",
+        "label": "Contradiction",
+        "explanation": "Feeling popular implies that the person has had a good day with lots of people wanting to talk to them, which is not the case when the person has had a terrible day and no one wanted to speak to them."
+    },
+    {
+        "id": 452,
+        "premise": "I had a bad day and tried calling two different people and couldn't get anyone",
+        "hypothesis": "I feel so loved and cherished because no one wanted to pick up my call when I was having a terrible day.",
+        "label": "Contradiction",
+        "explanation": "When someone is having a terrible day, they would usually want to talk to someone they are close to and hence not being able to get through to anyone implies that the person is not loved or cherished."
+    },
+    {
+        "id": 453,
+        "premise": "My boyfriend is always talking on the phone when we are hanging out.",
+        "hypothesis": "It makes me feel terrible when my boyfriend spends more time talking on the phone than actually paying attention to me",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 453,
+        "premise": "My boyfriend is always talking on the phone when we are hanging out.",
+        "hypothesis": "It makes me feel so appreciated when my boyfriend spends more time talking on the phone than actually paying attention to me.",
+        "label": "Contradiction",
+        "explanation": "When someone spends more time talking on the phone than paying attention to their partner, it shows that they value the phone call more than the partner and hence does not appreciate them."
+    },
+    {
+        "id": 453,
+        "premise": "My boyfriend is always talking on the phone when we are hanging out.",
+        "hypothesis": "It makes me feel important and treasured when my boyfriend spends more time talking on the phone than actually paying attention to me.",
+        "label": "Contradiction",
+        "explanation": "It is not a good thing when someone pays more attention to their phone than the person they are with and so feeling important and treasured because of that is quite impossible."
+    },
+    {
+        "id": 454,
+        "premise": "The other night me and my friend played with a Ouija board... and it spoke to us.",
+        "hypothesis": "We were playing with a Ouija board and all of a sudden it started talking to us, which made me feel like I was having a heart attack.",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 454,
+        "premise": "The other night me and my friend played with a Ouija board... and it spoke to us.",
+        "hypothesis": "We were playing with a ouija board when all of a sudden it started talking to us and trust me it wasn't scary at all.",
+        "label": "Contradiction",
+        "explanation": "The Ouija board is known to be a way of communicating with the dead and so playing with it and having it start talking to someone is not only scary but also quite dangerous."
+    },
+    {
+        "id": 454,
+        "premise": "The other night me and my friend played with a Ouija board... and it spoke to us.",
+        "hypothesis": "We were playing with a Ouija board and all of a sudden it started talking to us, which made me feel like I was having a great time.",
+        "label": "Contradiction",
+        "explanation": "A Ouija board is often considered to be a tool used to communicate with the dead and so playing with it and having it start talking to someone implies that the person is not having a great time."
+    },
+    {
+        "id": 455,
+        "premise": "I was so irritated on the flight when the kid kept kicking the back of my chair.   ",
+        "hypothesis": "I was really angry when the kid behind me kept kicking the back of my chair on the flight",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 455,
+        "premise": "I was so irritated on the flight when the kid kept kicking the back of my chair.   ",
+        "hypothesis": "I was really happy when the kid behind me kept kicking the back of my chair on the flight.",
+        "label": "Contradiction",
+        "explanation": "Kicking the back of someone's chair on a flight is really inconsiderate and can cause discomfort, so someone being happy about it is not posssible."
+    },
+    {
+        "id": 455,
+        "premise": "I was so irritated on the flight when the kid kept kicking the back of my chair.   ",
+        "hypothesis": "I was so pleased when the kid behind me kept kicking the back of my chair on the flight",
+        "label": "Contradiction",
+        "explanation": "Kicking the back of someone's chair on a flight is really inconsiderate and can cause discomfort, so someone being pleased about it is not posssible."
+    },
+    {
+        "id": 456,
+        "premise": "I was hoping to get my water heater fixed today but the plumber never showed up.",
+        "hypothesis": "I was looking forward to getting my water heater fixed today but the plumber never arrived, which made me feel let down",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 456,
+        "premise": "I was hoping to get my water heater fixed today but the plumber never showed up.",
+        "hypothesis": "I was looking forward to getting my water heater fixed today but the plumber never arrived, which made me so grateful for his services.",
+        "label": "Contradiction",
+        "explanation": "Most people would not be grateful to someone who never showed up to do a job they were hired for, so the plumber is not doing a good job by any means."
+    },
+    {
+        "id": 456,
+        "premise": "I was hoping to get my water heater fixed today but the plumber never showed up.",
+        "hypothesis": "I was looking forward to getting my water heater fixed today but many thanks to the plumber for not showing up and making me suffer in cold.",
+        "label": "Contradiction",
+        "explanation": "A water heater breaking down is a huge inconvenience because it leaves people without hot water and so the plumber not showing up to fix it is really unhelpful."
+    },
+    {
+        "id": 457,
+        "premise": "It was horrifying to see a roach crawl off of my friend's salad at the mexican restaurant.",
+        "hypothesis": "It was vile seeing a roach crawl off my friend's salad at the mexican restaurant",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 457,
+        "premise": "It was horrifying to see a roach crawl off of my friend's salad at the mexican restaurant.",
+        "hypothesis": "It was amazing seeing a roach crawl off my friend's salad at the mexican restaurant",
+        "label": "Contradiction",
+        "explanation": "Seeing a roach crawl off someone's salad is a disgusting and unwelcome sight and so it was not amazing at all."
+    },
+    {
+        "id": 457,
+        "premise": "It was horrifying to see a roach crawl off of my friend's salad at the mexican restaurant.",
+        "hypothesis": "It made me so hungry seeing a roach crawl off my friend's salad at the mexican restaurant",
+        "label": "Contradiction",
+        "explanation": "Seeing a roach crawl off someone's salad is a disgusting sight and can make anyone feel sick, so it is not a good thing to be hungry after witnessing that."
+    },
+    {
+        "id": 458,
+        "premise": "During gym class today but pants split wide open and eveyone saw my underwear.",
+        "hypothesis": "Had to suffer through gym class today when my pants suddenly split open and everyone saw my underwear",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 458,
+        "premise": "During gym class today but pants split wide open and eveyone saw my underwear.",
+        "hypothesis": "I was the star athlete in gym class today when my pants suddenly split open and everyone saw my underwear.",
+        "label": "Contradiction",
+        "explanation": "Exposing someone's underwear in public is a very embarrassing and mortifying experience and nothing that makes them a star athelete so the person here is being ironic."
+    },
+    {
+        "id": 458,
+        "premise": "During gym class today but pants split wide open and eveyone saw my underwear.",
+        "hypothesis": "Absolutely loved the highlight of the gym class today when my pants suddenly split open and everyone saw my underwear",
+        "label": "Contradiction",
+        "explanation": "Gym class is often sweaty and physical and so having your pants suddenly split open can be really embarrassing and not something to love."
+    },
+    {
+        "id": 459,
+        "premise": "Today I waited for the cable company to show up at my house for 5 hours... No one ever came",
+        "hypothesis": "I feel so angry and let down that the cable company never showed up even after waiting for 5 hours",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 459,
+        "premise": "Today I waited for the cable company to show up at my house for 5 hours... No one ever came",
+        "hypothesis": "I felt very appreciative that the cable company never showed up even after waiting five hours.",
+        "label": "Contradiction",
+        "explanation": "Waiting for a long time and then not having the cable company show up is really frustrating and not something to be appreciative of."
+    },
+    {
+        "id": 459,
+        "premise": "Today I waited for the cable company to show up at my house for 5 hours... No one ever came",
+        "hypothesis": "I feel so pleased that the cable company never showed up even after waiting for 5 hours",
+        "label": "Contradiction",
+        "explanation": "Waiting for a long time and then not having the cable company show up is really frustrating and not something to be pleased of."
+    },
+    {
+        "id": 460,
+        "premise": "I was scared for my life when a man was chasing me down the alley last night. ",
+        "hypothesis": "I was petrified when the man who looked homeless was chasing me down the alley",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 460,
+        "premise": "I was scared for my life when a man was chasing me down the alley last night. ",
+        "hypothesis": "I was having the most wonderful time of my life when the man who looked homeless was chasing me down the alley.",
+        "label": "Contradiction",
+        "explanation": "A homeless man is often seen as a dangerous person and someone who is not desirable to be around, so having the experience of being chased by him would not be a good thing by any means."
+    },
+    {
+        "id": 460,
+        "premise": "I was scared for my life when a man was chasing me down the alley last night. ",
+        "hypothesis": "I was so pleased when the man who looked homeless was chasing me down the alley.",
+        "label": "Contradiction",
+        "explanation": "A homeless man is often seen as a dangerous person and someone who is not desirable to be around, so having the experience of being chased by him would not be a good thing by any means."
+    },
+    {
+        "id": 461,
+        "premise": "I am sick of the fact that my mom makes me babysit my nephew all the time.",
+        "hypothesis": "I can't stand the fact that my mom expects me to babysit my nephew every weekend",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 461,
+        "premise": "I am sick of the fact that my mom makes me babysit my nephew all the time.",
+        "hypothesis": "I love the fact that my mom expects me to babysit my nephew all the time",
+        "label": "Contradiction",
+        "explanation": "Most people do not like being asked to babysit, especially when it is a regular occurrence, because it takes up their time and interferes with their personal lives."
+    },
+    {
+        "id": 461,
+        "premise": "I am sick of the fact that my mom makes me babysit my nephew all the time.",
+        "hypothesis": "I love the fact that my mom expects me to babysit my nephew all the times",
+        "label": "Contradiction",
+        "explanation": "Most people do not like being asked to babysit, especially when it is a regular occurrence, because it takes up their time and interferes with their personal lives."
+    },
+    {
+        "id": 462,
+        "premise": "It looked really gross when my friend put vinegar on his ice cream sundae. ",
+        "hypothesis": "It was so vile when my friend put vinegar on his ice cream sundae",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 462,
+        "premise": "It looked really gross when my friend put vinegar on his ice cream sundae. ",
+        "hypothesis": "It was so delicious when my friend put vinegar on his ice cream sundae.",
+        "label": "Contradiction",
+        "explanation": "Vinegar is a sour condiment which does not go well with sweet dishes like ice cream sundaes and so finding it delicious is rather strange."
+    },
+    {
+        "id": 462,
+        "premise": "It looked really gross when my friend put vinegar on his ice cream sundae. ",
+        "hypothesis": "It was so delightful when my friend put vinegar on his ice cream sundae.",
+        "label": "Contradiction",
+        "explanation": "Vinegar is a sour condiment which does not go well with sweet dishes like ice cream sundaes and so finding it delightful is rather strange."
+    },
+    {
+        "id": 463,
+        "premise": "I lost my credit card and someone charged 500 dollars on it.",
+        "hypothesis": "I lost my credit card and some lowlife scumbag charged 500 dollars on it",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 463,
+        "premise": "I lost my credit card and someone charged 500 dollars on it.",
+        "hypothesis": "I lost my credit card and some absolute gentleman charged 500 dollars on it",
+        "label": "Contradiction",
+        "explanation": "Someone who lost their credit card would be very upset if someone else used it without permission and charged a large amount of money on it so the person who did that cannot be a gentleman"
+    },
+    {
+        "id": 463,
+        "premise": "I lost my credit card and someone charged 500 dollars on it.",
+        "hypothesis": "I feel so lucky that I lost my credit card and someone amazingly kind took the opportunity to charge 500 dollars on it.",
+        "label": "Contradiction",
+        "explanation": "It is not good luck to lose something like a credit card and then have someone misuse it by charging a large amount of money on it."
+    },
+    {
+        "id": 464,
+        "premise": "I feel a bit scared sometimes living alone in a rough neighborhood.",
+        "hypothesis": "I sometimes feel scared that something bad might happen to me living alone in this rough neighborhood",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 464,
+        "premise": "I feel a bit scared sometimes living alone in a rough neighborhood.",
+        "hypothesis": "I sometimes feel scared that something bad might happen to me living alone in this wonderful, safe neighborhood.",
+        "label": "Contradiction",
+        "explanation": "The neighborhood is not safe and wonderful if the person feels scared and that something bad happening to them is a real possibility."
+    },
+    {
+        "id": 464,
+        "premise": "I feel a bit scared sometimes living alone in a rough neighborhood.",
+        "hypothesis": "I sometimes feel very reassured that something amazing might happen to me living alone in this rough neighborhood",
+        "label": "Contradiction",
+        "explanation": "Living alone in a rough neighborhood can be dangerous and so feeling reassured about something amazing happening to them is foolish."
+    },
+    {
+        "id": 465,
+        "premise": "There is nothing worse than not having any clothes clean for work.",
+        "hypothesis": "I feel terrible that I have to go to work in clothes that are stained and wrinkled",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 465,
+        "premise": "There is nothing worse than not having any clothes clean for work.",
+        "hypothesis": "I feel ecstatic that I have to go to work in clothes that are stained and wrinkled",
+        "label": "Contradiction",
+        "explanation": "It is not a good feeling to have to go to work in clothes that are stained and wrinkled because it makes one look unprofessional and like they don't care."
+    },
+    {
+        "id": 465,
+        "premise": "There is nothing worse than not having any clothes clean for work.",
+        "hypothesis": "I feel excellent that I have to go to work in clothes that are stained and wrinkled",
+        "label": "Contradiction",
+        "explanation": "It is not a good feeling to have to go to work in clothes that are stained and wrinkled because it makes one look unprofessional and like they don't care."
+    },
+    {
+        "id": 466,
+        "premise": "Its madening to be stuck inside becasue they are repaving my street and I cant leave my house right now",
+        "hypothesis": "It's really annoying that they are repaving my street and I can't even leave my house right now",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 466,
+        "premise": "Its madening to be stuck inside becasue they are repaving my street and I cant leave my house right now",
+        "hypothesis": "It's really convenient that they are repaving my street and I can't even leave my house right now",
+        "label": "Contradiction",
+        "explanation": "The repaving of a street is usually a good thing, but in this context it is not because the person affected by it cannot go out and hence is inconvenienced."
+    },
+    {
+        "id": 466,
+        "premise": "Its madening to be stuck inside becasue they are repaving my street and I cant leave my house right now",
+        "hypothesis": "It's really amazing that they are repaving my street and I can't even leave my house right now",
+        "label": "Contradiction",
+        "explanation": "The repaving of a street is usually a good thing, but in this context it is not because the person affected by it cannot go out and hence is inconvenienced."
+    },
+    {
+        "id": 467,
+        "premise": "It really grinds my gears that someone knocked all my documents off of my desk and didnt even bother to pick them up.",
+        "hypothesis": "It ticks me off when someone knocks all my stuff off my desk and doesn't even bother to help me pick it up",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 467,
+        "premise": "It really grinds my gears that someone knocked all my documents off of my desk and didnt even bother to pick them up.",
+        "hypothesis": "It gives me hope for mankind when someone knocks all my stuff off my desk and doesn't even bother to help me pick it up.",
+        "label": "Contradiction",
+        "explanation": "Someone knocking all your stuff off your desk and not helping you pick it up shows a lack of manners and consideration for others and hence does not give us hope for mankind."
+    },
+    {
+        "id": 467,
+        "premise": "It really grinds my gears that someone knocked all my documents off of my desk and didnt even bother to pick them up.",
+        "hypothesis": "It cheers me up when someone knocks all my stuff off my desk and doesn't even bother to help me pick it up",
+        "label": "Contradiction",
+        "explanation": "Someone knocking all your stuff off your desk and not helping you pick it up shows a lack of manners and consideration for others and hence cannot cheer someone up"
+    },
+    {
+        "id": 468,
+        "premise": "I was getting so fed up at the movies last week becasue children would not stop talking.",
+        "hypothesis": "I was about to lose my mind at the movies last week because of all the screaming kids",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 468,
+        "premise": "I was getting so fed up at the movies last week becasue children would not stop talking.",
+        "hypothesis": "I was really enjoying myself at the movies last week because of all the screaming kids.",
+        "label": "Contradiction",
+        "explanation": "The presence of screaming kids at the movies can often ruin the experience for other movie-goers and so no one can enjoy themself in that situation."
+    },
+    {
+        "id": 468,
+        "premise": "I was getting so fed up at the movies last week becasue children would not stop talking.",
+        "hypothesis": "I was about jump with joy at the movies last week because of all the screaming kids",
+        "label": "Contradiction",
+        "explanation": "The presence of screaming kids at the movies can often ruin the experience for other movie-goers and so no one can jump with joy in that situation"
+    },
+    {
+        "id": 469,
+        "premise": "My neighbor lets his dog wonder the neighborhood freely and he keeps pooping in my yard.",
+        "hypothesis": "I don't like it when my neighbor's dog poops in my yard because it makes my place smell like feces",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 469,
+        "premise": "My neighbor lets his dog wonder the neighborhood freely and he keeps pooping in my yard.",
+        "hypothesis": "I like it when my neighbor's dog poops in my yard because it makes my place smell like feces",
+        "label": "Contradiction",
+        "explanation": "The smell of feces is often considered to be very unpleasant and so someone liking it because their place smells like that is definitely sarcastic."
+    },
+    {
+        "id": 469,
+        "premise": "My neighbor lets his dog wonder the neighborhood freely and he keeps pooping in my yard.",
+        "hypothesis": "I love it when my neighbor's dog poops in my yard because it makes my place smell like feces",
+        "label": "Contradiction",
+        "explanation": "The smell of feces is often considered to be very unpleasant and so someone loving it because their place smells like that is definitely sarcastic."
+    },
+    {
+        "id": 470,
+        "premise": "My daughter always waits until I am busy to talk to me about nothing",
+        "hypothesis": "It really pisses me off when my daughter waits until I am busy to talk to me about nothing",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 470,
+        "premise": "My daughter always waits until I am busy to talk to me about nothing",
+        "hypothesis": "It makes me appreciative of my daughters judgement of time when she waits until I am busy to talk to me about nothing.",
+        "label": "Contradiction",
+        "explanation": "Daughters waiting until their parents are busy to talk to them about nothing implies that they do not care about their parents' time and only want to talk when it is convenient for them."
+    },
+    {
+        "id": 470,
+        "premise": "My daughter always waits until I am busy to talk to me about nothing",
+        "hypothesis": "It really pleases me when my daughter waits until I am busy to talk to me about nothing.",
+        "label": "Contradiction",
+        "explanation": "When someone waits until the other person is busy to talk to them, it implies that they don't care about the other person and their time which is not a good thing."
+    },
+    {
+        "id": 471,
+        "premise": "I was hurt a lot when I was passed up for a full time position I wanted at my company",
+        "hypothesis": "I was really upset when I found out that I didn't get the full time position I wanted at my company",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 471,
+        "premise": "I was hurt a lot when I was passed up for a full time position I wanted at my company",
+        "hypothesis": "I was really excited when I found out that I didn't get the full time position I wanted at my company.",
+        "label": "Contradiction",
+        "explanation": "A full time position at a company is usually coveted by employees and so not getting it would be a disappointment."
+    },
+    {
+        "id": 471,
+        "premise": "I was hurt a lot when I was passed up for a full time position I wanted at my company",
+        "hypothesis": "I found out that I didn't get the full time position I wanted at my company, that really made my day.",
+        "label": "Contradiction",
+        "explanation": "A full time position at a company is usually coveted by employees and so not getting it would be a disappointment."
+    },
+    {
+        "id": 472,
+        "premise": "I have an incompetent co-worker who frequently asks for help.",
+        "hypothesis": "I feel like my co-worker is incompetent and constantly needing help from me",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 472,
+        "premise": "I have an incompetent co-worker who frequently asks for help.",
+        "hypothesis": "I feel like my co-worker is should be the employee of the month because he constantly needs help from me.",
+        "label": "Contradiction",
+        "explanation": "Co-workers are supposed to be helpful to one another but someone who constantly needs help from others are not competent enough and cannot be considered as the best employee."
+    },
+    {
+        "id": 472,
+        "premise": "I have an incompetent co-worker who frequently asks for help.",
+        "hypothesis": "Pleased with how my co-worker is incompetent and constantly needing help from me",
+        "label": "Contradiction",
+        "explanation": "Co-workers are supposed to be helpful to one another but someone who constantly needs help from others are not competent enough and cannot be considered as the best employee."
+    },
+    {
+        "id": 473,
+        "premise": "I was furious when my sister tore all my comics",
+        "hypothesis": "I was really mad when my sister ripped all my comics",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 473,
+        "premise": "I was furious when my sister tore all my comics",
+        "hypothesis": "I was dancing with joy when my sister ripped all my comics.",
+        "label": "Contradiction",
+        "explanation": "Ripping someone's comics is usually considered to be a destructive act and so receiving joy from it is highly unlikely."
+    },
+    {
+        "id": 473,
+        "premise": "I was furious when my sister tore all my comics",
+        "hypothesis": "I was really cheerful when my sister ripped all my comics",
+        "label": "Contradiction",
+        "explanation": "Ripping someone's comics is usually considered to be a destructive act and so receiving joy from it is highly unlikely."
+    },
+    {
+        "id": 474,
+        "premise": "I'm afraid of what the future has in store with overpopulation and unemployment.",
+        "hypothesis": "I am scared of the future because overpopulation and unemployment are slowly tearing our society apart",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 474,
+        "premise": "I'm afraid of what the future has in store with overpopulation and unemployment.",
+        "hypothesis": "Our future is completely secure at how overpopulation and unemployment are beautifully tearing our society apart.",
+        "label": "Contradiction",
+        "explanation": "The problems of overpopulation and unemployment are not things to be happy about because they could lead to a lot of trouble in the future."
+    },
+    {
+        "id": 474,
+        "premise": "I'm afraid of what the future has in store with overpopulation and unemployment.",
+        "hypothesis": "I am excited for the future because overpopulation and unemployment are slowly tearing our society apart",
+        "label": "Contradiction",
+        "explanation": "An overpopulation and unemployment rates can lead to a lot of problems in society and so someone being excited about it is not being rational."
+    },
+    {
+        "id": 475,
+        "premise": "My flight has been delayed 7 hours due to weather I'm mad.",
+        "hypothesis": "I am livid that my flight has been delayed for 7 hours because of this lousy weather",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 475,
+        "premise": "My flight has been delayed 7 hours due to weather I'm mad.",
+        "hypothesis": "I couldn't care less that my flight has been delayed for  7 hours because of this lousy weather.",
+        "label": "Contradiction",
+        "explanation": "Flight delays are never good news and so someone pretending to not care about it is really just trying to cover up their true feelings which are disappointment and anger."
+    },
+    {
+        "id": 475,
+        "premise": "My flight has been delayed 7 hours due to weather I'm mad.",
+        "hypothesis": "I am overjoyed that my flight has been delayed for 7 hours because of this lousy weather",
+        "label": "Contradiction",
+        "explanation": "Flight delays are never a good thing and so someone being happy about getting one is really strange."
+    },
+    {
+        "id": 476,
+        "premise": "A man punched me on the subway last week and now I'm terrified to leave my house.",
+        "hypothesis": "After the man punched me on the subway last week, I am now terrified to leave my house",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 476,
+        "premise": "A man punched me on the subway last week and now I'm terrified to leave my house.",
+        "hypothesis": "After the man punched me on the subway last week, I am now really excited to leave my house",
+        "label": "Contradiction",
+        "explanation": "Being punched by a man on the subway is a really traumatic experience and so someone who should be scared to leave their house instead of being excited."
+    },
+    {
+        "id": 476,
+        "premise": "A man punched me on the subway last week and now I'm terrified to leave my house.",
+        "hypothesis": "After the lovely man punched me on the subway last week, I absolutely feel very encouraged to leave my house again.",
+        "label": "Contradiction",
+        "explanation": "Being punched by a man on the subway is a really scary experience and so feeling encouraged to leave the house again after that is really far-fetched."
+    },
+    {
+        "id": 477,
+        "premise": "I was ashamed that I failed my LSAT and couldn't get into law school. ",
+        "hypothesis": "I felt terrible that I bombed my LSAT and couldn't get into law school",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 477,
+        "premise": "I was ashamed that I failed my LSAT and couldn't get into law school. ",
+        "hypothesis": "I felt super intelligent for bombing my LSAT and not being able to get into law school.",
+        "label": "Contradiction",
+        "explanation": "Bombing the LSAT and not being able to get into law school would show an intelligence level that is very low and hence not super intelligent at all."
+    },
+    {
+        "id": 477,
+        "premise": "I was ashamed that I failed my LSAT and couldn't get into law school. ",
+        "hypothesis": "I felt proud that I bombed my LSAT and couldn't get into law school",
+        "label": "Contradiction",
+        "explanation": "Failing the LSAT and not getting into law school is not something to be proud of because it means that someone is not smart or talented enough to do those things."
+    },
+    {
+        "id": 478,
+        "premise": "I got stuck in an elevator recently and was so scared that I would die in there.",
+        "hypothesis": "I was really scared when I got stuck in the elevator and started to panic because I thought I would die",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 478,
+        "premise": "I got stuck in an elevator recently and was so scared that I would die in there.",
+        "hypothesis": "I was really excited when I got stuck in the elevator because there is nothing more fun than panicking and thinking of death.",
+        "label": "Contradiction",
+        "explanation": "Being stuck in an elevator is a very scary experience and definitely not something that would be considered fun by anyone."
+    },
+    {
+        "id": 478,
+        "premise": "I got stuck in an elevator recently and was so scared that I would die in there.",
+        "hypothesis": "I felt totally amazing when I got stuck in the elevator and started to panic because who doesn't enjoy the thought of dying",
+        "label": "Contradiction",
+        "explanation": "Being stuck in an elevator can be a very frightening experience and the thought of dying is not something that anyone would enjoy."
+    },
+    {
+        "id": 479,
+        "premise": "MY daughter forgot to turn the oven off earlier and it could have been a disaster",
+        "hypothesis": "MY daughter nearly burnt the house down by forgetting to turn the oven off and I was this close to flipping out",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 479,
+        "premise": "My daughter forgot to turn the oven off earlier and it could have been a disaster",
+        "hypothesis": "My responsible daughter nearly burnt the house down by forgetting to turn the oven off and I was this close to congratulating her for that.",
+        "label": "Contradiction",
+        "explanation": "A daughter who nearly burns down the house by forgetting to turn off the oven is not a responsible daughter and hence should not be congratulated for that."
+    },
+    {
+        "id": 479,
+        "premise": "MY daughter forgot to turn the oven off earlier and it could have been a disaster",
+        "hypothesis": "So proud of my daughter who nearly burnt the house down by forgetting to turn the oven off and made me happy.",
+        "label": "Contradiction",
+        "explanation": "Someone who nearly burnt down their house by forgetting to turn off the oven is not someone to be proud of because they endangered the lives of everyone in the house and themselves."
+    },
+    {
+        "id": 480,
+        "premise": "I hate driving in heavy traffic.",
+        "hypothesis": "Driving in heavy traffic is the worst because it makes me feel so stressed out",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 480,
+        "premise": "I hate driving in heavy traffic.",
+        "hypothesis": "Driving in heavy traffic is the best because it makes me feel very calm.",
+        "label": "Contradiction",
+        "explanation": "Driving in heavy traffic is often very frustrating and can lead to road rage, so feeling calm while doing it is not a common reaction."
+    },
+    {
+        "id": 480,
+        "premise": "I hate driving in heavy traffic.",
+        "hypothesis": "Driving in heavy traffic is the best because it makes me feel so at absolute peace.",
+        "label": "Contradiction",
+        "explanation": "Driving in heavy traffic is often very frustrating and can lead to road rage, so feeling at peace while doing it is not possible."
+    },
+    {
+        "id": 481,
+        "premise": "I get aggravated by people that don't understand personal space.",
+        "hypothesis": "I can't stand people that invade my personal space and make me feel uncomfortable",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 481,
+        "premise": "I get aggravated by people that don't understand personal space.",
+        "hypothesis": "I love people that invade my personal space and make me feel uncomfortable.",
+        "label": "Contradiction",
+        "explanation": "People who invade personal space often do so without consent and make the person feel uncomfortable, so to say that someone loves people like that is really ironic."
+    },
+    {
+        "id": 481,
+        "premise": "I get aggravated by people that don't understand personal space.",
+        "hypothesis": "I just love it when people invade my personal space and make me feel uncomfortable",
+        "label": "Contradiction",
+        "explanation": "People who invade personal space often do so without consent and make the person feel uncomfortable, so to say that someone loves people like that is really ironic."
+    },
+    {
+        "id": 482,
+        "premise": "I get so frustrated when I see people littering.",
+        "hypothesis": "I can't believe how inconsiderate people can be by littering when there are trash cans everywhere",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 482,
+        "premise": "I get so frustrated when I see people littering.",
+        "hypothesis": "I'm moved at how considerate people can be by littering when there are trash cans everywhere",
+        "label": "Contradiction",
+        "explanation": "There are trash cans everywhere for a reason and that is because people are supposed to put their trash in them and not litter, so considerate people would not litter under any circumstances."
+    },
+    {
+        "id": 482,
+        "premise": "I get so frustrated when I see people littering.",
+        "hypothesis": "I can't believe how considerate people can be by littering when there are trash cans everywhere",
+        "label": "Contradiction",
+        "explanation": "There are trash cans everywhere for a reason and that is because people are supposed to put their trash in them and not litter, so considerate people would not litter under any circumstances."
+    },
+    {
+        "id": 483,
+        "premise": "I spilled tea over myself at dinner with my in-laws.",
+        "hypothesis": "I made a total fool of myself by spilling tea over myself at dinner with my in-laws",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 483,
+        "premise": "I spilled tea over myself at dinner with my in-laws.",
+        "hypothesis": "I made a great impression by spilling tea over myself at dinner with my in-laws.",
+        "label": "Contradiction",
+        "explanation": "Spilling tea over oneself at a dinner with in-laws is a very clumsy and embarrassing thing to do and so it would be hard to say that it made a great impression."
+    },
+    {
+        "id": 483,
+        "premise": "I spilled tea over myself at dinner with my in-laws.",
+        "hypothesis": "Love how I made a great impression of myself by spilling tea over myself at dinner with my in-laws",
+        "label": "Contradiction",
+        "explanation": "Spilling tea over oneself at a dinner with in-laws is a very clumsy and embarrassing thing to do and so it would be hard to say that it made a great impression."
+    },
+    {
+        "id": 484,
+        "premise": "I found a spider in my bathroom and I've never ran so fast in my life!",
+        "hypothesis": "I found a spider in my bathroom and sprinted out of there faster than Usain Bolt!",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 484,
+        "premise": "I found a spider in my bathroom and I've never ran so fast in my life!",
+        "hypothesis": "Love how I found a spider in my bathroom and sprinted out of there faster than Usain Bolt!",
+        "label": "Contradiction",
+        "explanation": "Most people are terrified of spiders and finding one in your bathroom would provoke a reaction of fear and sprinting out of the room as quickly as possible so its not a lovely feeling"
+    },
+    {
+        "id": 484,
+        "premise": "I found a spider in my bathroom and I've never ran so fast in my life!",
+        "hypothesis": "I found a beautiful surprise in my bathroom in the form of a spider and sprinted out of there faster than Usain Bolt!",
+        "label": "Contradiction",
+        "explanation": "Most people would be terrified of finding a spider in their bathroom and in no way a beautiful surprise."
+    },
+    {
+        "id": 485,
+        "premise": "I just bought a new $1000 computer and it crashed after the first week. ",
+        "hypothesis": "I just wasted a thousand dollars on a new computer that crashed after the first week",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 485,
+        "premise": "I just bought a new $1000 computer and it crashed after the first week. ",
+        "hypothesis": "Delighted with how I just wasted a thousand dollars on a new computer that crashed after the first week",
+        "label": "Contradiction",
+        "explanation": "A new computer is a waste of money if it crashes soon after purchase and so the person is not delighted but actually disappointed with their decision."
+    },
+    {
+        "id": 485,
+        "premise": "I just bought a new $1000 computer and it crashed after the first week. ",
+        "hypothesis": "I just loved spending a thousand precious dollars on a new computer that crashed only after the first week",
+        "label": "Contradiction",
+        "explanation": "A new computer is a significant investment and so spending a thousand dollars on it and then it crashing shortly afterwards would be a terrible experience."
+    },
+    {
+        "id": 486,
+        "premise": "My rent is going up and I can't afford it.",
+        "hypothesis": "The fact that my rent is increasing and I will have to leave this place makes me really sad",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 486,
+        "premise": "My rent is going up and I can't afford it.",
+        "hypothesis": "The fact that my rent is increasing and I will have to leave this place makes me really happy.",
+        "label": "Contradiction",
+        "explanation": "Most people do not enjoy the prospect of having to move out of their current place because of a rent increase and so someone who is happy about it cannot be being truthful."
+    },
+    {
+        "id": 486,
+        "premise": "My rent is going up and I can't afford it.",
+        "hypothesis": "The fact that my rent is increasing and I will have to leave this place makes me positively euphoric",
+        "label": "Contradiction",
+        "explanation": "Most people do not enjoy the prospect of having to move out of their current place because of a rent increase and so someone who is happy about it cannot be being truthful."
+    },
+    {
+        "id": 487,
+        "premise": "I am so mad thinking about it how someone stole the stereo out of my car.",
+        "hypothesis": "The anger I feel is boiling over about how someone stole the stereo out of my car",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 487,
+        "premise": "I am so mad thinking about it how someone stole the stereo out of my car.",
+        "hypothesis": "My faith in humanity has never been stronger now that someone stole the stereo out of my car.",
+        "label": "Contradiction",
+        "explanation": "Most people would feel upset and violated if someone stole their stereo out of their car and so to say that the person's faith in humanity has never been stronger is mocking them."
+    },
+    {
+        "id": 487,
+        "premise": "I am so mad thinking about it how someone stole the stereo out of my car.",
+        "hypothesis": "The happiness I feel is beaming over about how someone stole the stereo out of my car",
+        "label": "Contradiction",
+        "explanation": "Having your car stereo stolen is a really frustrating experience and so feeling happiness about it is unrealistic and hypocritical."
+    },
+    {
+        "id": 488,
+        "premise": "It makes me very unhappy when I let someone out in traffic and they dont acknowledge me",
+        "hypothesis": "It enrages me when I let someone out in traffic and they don't even bother to say thank you",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 488,
+        "premise": "It makes me very unhappy when I let someone out in traffic and they dont acknowledge me",
+        "hypothesis": "It gives me  a real warm feeling inside when I let someone out in traffic and they don't even bother to say thank you.",
+        "label": "Contradiction",
+        "explanation": "When someone lets someone out in traffic, they are performing a kind act and so not receiving a thank you in return would make the person feel let down instead of feeling warm."
+    },
+    {
+        "id": 488,
+        "premise": "It makes me very unhappy when I let someone out in traffic and they dont acknowledge me",
+        "hypothesis": "It motivates me to do more good when I let someone out in traffic and they don't even bother to say thank you",
+        "label": "Contradiction",
+        "explanation": "A polite gesture of thanks is usually given when someone lets someone out in traffic and so not receiving that shows a lack of appreciation and hence it does not motivate the person to do more good."
+    },
+    {
+        "id": 489,
+        "premise": "I can't get my printer to work properly and it's driving me crazy.",
+        "hypothesis": "I am so frustrated with my printer because it doesn't print correctly and it's really stressing me out",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 489,
+        "premise": "I can't get my printer to work properly and it's driving me crazy.",
+        "hypothesis": "I made a great decision when I bought my printer because it doesn't print correctly and it's really fun.",
+        "label": "Contradiction",
+        "explanation": "A printer that doesn't print correctly is not a good purchase because it wastes paper, ink, and time trying to get the printout right and hence it cannot be considered a great decision."
+    },
+    {
+        "id": 489,
+        "premise": "I can't get my printer to work properly and it's driving me crazy.",
+        "hypothesis": "I am so satisfied with my printer because it doesn't print correctly and I really enjoy defunct devices.",
+        "label": "Contradiction",
+        "explanation": "A printer that doesn't print correctly is not a good thing because it causes frustration and wasted time trying to get the job done and hence it is not satisfying at all."
+    },
+    {
+        "id": 490,
+        "premise": "I am mad that my sister always asks me to babysit but never does it for me",
+        "hypothesis": "I feel enraged that my sister never reciprocates by babysitting for me",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 490,
+        "premise": "I am mad that my sister always asks me to babysit but never does it for me",
+        "hypothesis": "I feel tremendous appreciation when my sister never reciprocates by babysitting for me.",
+        "label": "Contradiction",
+        "explanation": "People usually offer to babysit for their siblings when they have children and not receiving that favor in return implies that the sister does not appreciate the effort made by the brother."
+    },
+    {
+        "id": 490,
+        "premise": "I am mad that my sister always asks me to babysit but never does it for me",
+        "hypothesis": "I feel loved and enjoy the fact that my sister never reciprocates by babysitting for me.",
+        "label": "Contradiction",
+        "explanation": "Most people would feel loved when someone offers to babysit for them and their sister not reciprocating implies that she does not love or care for her sibling."
+    },
+    {
+        "id": 491,
+        "premise": "We tried to have kids for a long time but each pregnancy just resulted in miscarriage.",
+        "hypothesis": "We feel so terrible that every time we tried to have kids, it resulted in a miscarriage",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 491,
+        "premise": "We tried to have kids for a long time but each pregnancy just resulted in miscarriage.",
+        "hypothesis": "We feel so blessed that every time we tried to have kids it resulted in a miscarriage.",
+        "label": "Contradiction",
+        "explanation": "Miscarriages are often unexpected and a result of various factors, so to try and have kids multiple times and still not be successful implies that the couple is not blessed at all."
+    },
+    {
+        "id": 491,
+        "premise": "We tried to have kids for a long time but each pregnancy just resulted in miscarriage.",
+        "hypothesis": "We feel really fortunate that every time we tried to have kids, it resulted in a miscarriage",
+        "label": "Contradiction",
+        "explanation": "Miscarriages are often unexpected and a result of various factors, so to try and have kids multiple times and still not be successful implies that the couple is not fortunate at all."
+    },
+    {
+        "id": 492,
+        "premise": "I was angry in the supermarket this week to see parents not controlling their kids",
+        "hypothesis": "I was enraged to see parents not monitoring their kids in the supermarket this week",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 492,
+        "premise": "I was angry in the supermarket this week to see parents not controlling their kids",
+        "hypothesis": "I was happy to see parents not monitoring their kids in the supermarket this week",
+        "label": "Contradiction",
+        "explanation": "Most parents are protective of their children and do not want them to wander off on their own in a supermarket, so seeing parents not monitoring their kids implies that the kids are in a dangerous situation."
+    },
+    {
+        "id": 492,
+        "premise": "I was angry in the supermarket this week to see parents not controlling their kids",
+        "hypothesis": "I was so thrilled to see parents not monitoring their kids in the supermarket this week",
+        "label": "Contradiction",
+        "explanation": "Most parents are protective of their children and do not want them to wander off on their own in a supermarket, so seeing parents not monitoring their kids implies that the kids are in a dangerous situation."
+    },
+    {
+        "id": 493,
+        "premise": "I was upset and puzzled to see my coworkers eating my lunch I had left in the company refrigerator.",
+        "hypothesis": "I was really frustrated to see my coworkers eating my lunch that I had left in the company refrigerator",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 493,
+        "premise": "I was upset and puzzled to see my coworkers eating my lunch I had left in the company refrigerator.",
+        "hypothesis": "I was not at all upset to see my coworkers eating my lunch that I had left in the company refrigerator.",
+        "label": "Contradiction",
+        "explanation": "Most people would be upset to see their lunch being eaten by someone else, especially if it is coworkers, as it shows a lack of trust and respect."
+    },
+    {
+        "id": 493,
+        "premise": "I was upset and puzzled to see my coworkers eating my lunch I had left in the company refrigerator.",
+        "hypothesis": "I was really glad to see my coworkers eating my lunch that I had left in the company refrigerator",
+        "label": "Contradiction",
+        "explanation": "Most people would be upset to see their lunch being eaten by someone else, especially if it is coworkers, as it shows a lack of trust and respect."
+    },
+    {
+        "id": 494,
+        "premise": "My boss suddenly just took that project I was working hard on away from me for no good reason!",
+        "hypothesis": "I can't believe my boss just took that project I have been working hard on away from me for no good reason!",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 494,
+        "premise": "My boss suddenly just took that project I was working hard on away from me for no good reason!",
+        "hypothesis": "I love how my boss just took that project I have been working hard on away from me for no good reason!",
+        "label": "Contradiction",
+        "explanation": "The boss taking a project away from an employee without any explanation can be very frustrating and discouraging, so it is not a good thing to love."
+    },
+    {
+        "id": 494,
+        "premise": "My boss suddenly just took that project I was working hard on away from me for no good reason!",
+        "hypothesis": "I'm so glad my boss just took that project I have been working hard on away from me for no good reason!",
+        "label": "Contradiction",
+        "explanation": " The boss taking a project away from an employee without any explanation can be very frustrating and discouraging, so it is not a good thing to be glad about."
+    },
+    {
+        "id": 495,
+        "premise": "My friend promised me that he would drive me to the airport but he never showed up and I missed my flight.",
+        "hypothesis": "My friend never showed up to drive me to the airport and as a result of his irresponsibility, I missed my flight",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 495,
+        "premise": "My friend promised me that he would drive me to the airport but he never showed up and I missed my flight.",
+        "hypothesis": "My friend never showed up to drive me to the airport and as a result of his thoughtfulness, I missed my flight",
+        "label": "Contradiction",
+        "explanation": "A friend who does not show up to drive someone to the airport is not being thoughtful at all and instead, their absence caused the person to miss their flight."
+    },
+    {
+        "id": 495,
+        "premise": "My friend promised me that he would drive me to the airport but he never showed up and I missed my flight.",
+        "hypothesis": "My awesome friend never showed up to drive me to the airport and as a result of his extremely responsible behavior, I missed my flight",
+        "label": "Contradiction",
+        "explanation": "When someone says they have an awesome friend, they usually mean that this person is unreliable and cannot be counted on which is what happened when this person missed the flight."
+    },
+    {
+        "id": 496,
+        "premise": "My birthday was yesterday and I didn't get a single happy birthday message from anybody family or friends.",
+        "hypothesis": "It really sucks that my birthday was yesterday and I didn't get a single happy birthday message from anyone in my family or friends",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 496,
+        "premise": "My birthday was yesterday and I didn't get a single happy birthday message from anybody family or friends.",
+        "hypothesis": "It makes me so proud that my birthday was yesterday and I didn't get a single happy birthday message from anyone in my family or friends.",
+        "label": "Contradiction",
+        "explanation": "A happy birthday message is a tradition and custom on someone's birthday and so not receiving any messages shows that the person is not loved or appreciated by anyone."
+    },
+    {
+        "id": 496,
+        "premise": "My birthday was yesterday and I didn't get a single happy birthday message from anybody family or friends.",
+        "hypothesis": "It's really cool that my birthday was yesterday and I didn't get a single happy birthday message from anyone in my family or friends",
+        "label": "Contradiction",
+        "explanation": "A happy birthday message is a tradition and custom on someone's birthday and so not receiving any messages shows that the person is not loved or appreciated by anyone."
+    },
+    {
+        "id": 497,
+        "premise": "I feel guilty as a parent because I don't like to participate in a lot of my children's school activities. ",
+        "hypothesis": "I feel terrible that I don't have enough time to participate in my children's school activities and make them feel loved",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 497,
+        "premise": "I feel guilty as a parent because I don't like to participate in a lot of my children's school activities. ",
+        "hypothesis": "I feel like the parent of the year because I don't have enough time to participate in my children's school activities and make them feel loved.",
+        "label": "Contradiction",
+        "explanation": "Most parents try to participate in their children's school activities and making them feel loved, so someone who does not have enough time for that cannot be considered the parent of the year."
+    },
+    {
+        "id": 497,
+        "premise": "I feel guilty as a parent because I don't like to participate in a lot of my children's school activities. ",
+        "hypothesis": "I feel proud of my parenting because apparently I don't have enough time to participate in my children's school activities and make them feel loved",
+        "label": "Contradiction",
+        "explanation": "Most parents try to participate in their children's school activities and making them feel loved, so someone who does not have enough time for that cannot be proud."
+    },
+    {
+        "id": 498,
+        "premise": "Small talk just annoys me.",
+        "hypothesis": "I can't stand the sound of people's voices when they try to make small talk",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 498,
+        "premise": "Small talk just annoys me.",
+        "hypothesis": "I just love the sound of people's voices when they try to make small talk.",
+        "label": "Contradiction",
+        "explanation": " People's voices often sound annoying when they try to make small talk because it is usually just a way to fill awkward silence and not genuine conversation."
+    },
+    {
+        "id": 498,
+        "premise": "Small talk just annoys me.",
+        "hypothesis": "I absolutely enjoy the sound of people's voices when they try to make small talk",
+        "label": "Contradiction",
+        "explanation": "People's voices often sound annoying when they try to make small talk because it is usually just a way to fill awkward silence and not genuine conversation."
+    },
+    {
+        "id": 499,
+        "premise": "I was pretty sad when a girl canceled out date last week.",
+        "hypothesis": "The fact that the girl canceled our date made me feel pretty down",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 499,
+        "premise": "I was pretty sad when a girl canceled out date last week.",
+        "hypothesis": "The fact that the girl canceled our date did wonders for my ego.",
+        "label": "Contradiction",
+        "explanation": "A date is an opportunity for two people to get to know each other and so when it is canceled, it is a setback for the ego of the person who was looking forward to it."
+    },
+    {
+        "id": 499,
+        "premise": "I was pretty sad when a girl canceled out date last week.",
+        "hypothesis": "The fact that the girl canceled our date made me feel pretty attractive",
+        "label": "Contradiction",
+        "explanation": "A girl cancelling a date often implies that she is not interested in the person she is supposed to be going out with and so, the fact that the girl canceled makes the guy feel unattractive."
+    },
+    {
+        "id": 500,
+        "premise": "My coworker stole my presentation idea and claimed it was his!",
+        "hypothesis": "My coworker totally ripped off my presentation idea and claimed it as his own!",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 500,
+        "premise": "My coworker stole my presentation idea and claimed it was his!",
+        "hypothesis": "I have absolutely no problem with the fact that my coworker totally ripped off my presentation idea and claimed it as his own!",
+        "label": "Contradiction",
+        "explanation": "Coworkers should not steal other people's ideas and present them as their own because that is unfair and wrong."
+    },
+    {
+        "id": 500,
+        "premise": "My coworker stole my presentation idea and claimed it was his!",
+        "hypothesis": "Love how my coworker totally ripped off my presentation idea and claimed it as his own!",
+        "label": "Contradiction",
+        "explanation": "Coworkers should not steal other people's ideas and present them as their own because that is unfair and wrong."
+    },
+    {
+        "id": 501,
+        "premise": "I got behind a slow driver and it ticked me off because it made me late to work.",
+        "hypothesis": "I got so angry when I followed the slow driver and it made me late for work",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 501,
+        "premise": "I got behind a slow driver and it ticked me off because it made me late to work.",
+        "hypothesis": "It put me in the greatest of moods when I followed the slow driver and it made me late for work.",
+        "label": "Contradiction",
+        "explanation": "Following a slow driver is not the best way to get to work on time and so it is understandable to be in a bad mood after that."
+    },
+    {
+        "id": 501,
+        "premise": "I got behind a slow driver and it ticked me off because it made me late to work.",
+        "hypothesis": "I got so pleased when I followed the slow driver and it made me late for work",
+        "label": "Contradiction",
+        "explanation": "Following a slow driver can be really frustrating because it makes someone late for work or an appointment, so being pleased about it is absurd."
+    },
+    {
+        "id": 502,
+        "premise": "I forgot to bring in the slides for the presnetation so I ended up having an awkward experience tring to do it with no materials.",
+        "hypothesis": "I felt like an idiot trying to do a presentation without any slides",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 502,
+        "premise": "I forgot to bring in the slides for the presnetation so I ended up having an awkward experience tring to do it with no materials.",
+        "hypothesis": "I felt like a genius trying to do a presentation without any slides",
+        "label": "Contradiction",
+        "explanation": "A presentation without slides is usually very difficult to do and so trying to do one shows lack of intelligence."
+    },
+    {
+        "id": 502,
+        "premise": "I forgot to bring in the slides for the presnetation so I ended up having an awkward experience tring to do it with no materials.",
+        "hypothesis": "I felt like a genius trying to do a presentation without any slides",
+        "label": "Contradiction",
+        "explanation": "A presentation without slides is usually very difficult to do and so trying to do one shows lack of intelligence."
+    },
+    {
+        "id": 503,
+        "premise": "I can't stand it when my wife hugs other men.",
+        "hypothesis": "I can't stand the feeling of seeing my wife hug other men because it makes me feel insanely jealous",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 503,
+        "premise": "I can't stand it when my wife hugs other men.",
+        "hypothesis": "It makes me feel like a fantastic husband when I see my wife hug other men because it makes me feel appreciated.",
+        "label": "Contradiction",
+        "explanation": "It is not natural for a husband to feel happy and appreciated when he sees his wife hug other men because it implies that the husband is not providing her with the love and security she needs which should be the case."
+    },
+    {
+        "id": 503,
+        "premise": "I can't stand it when my wife hugs other men.",
+        "hypothesis": "I love the feeling of seeing my wife hug other men because it doesn't make me feel jealous at all.",
+        "label": "Contradiction",
+        "explanation": "When someone sees their wife hug another man, they are likely to feel jealous because that is an act of betrayal and shows emotional intimacy with someone else."
+    },
+    {
+        "id": 504,
+        "premise": "My first date was terrible as I turned up late and sweaty.",
+        "hypothesis": "I wish I could forget the fact that my first date was so terrible and embarrassing as I turned up late and sweaty",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 504,
+        "premise": "My first date was terrible as I turned up late and sweaty.",
+        "hypothesis": "I absolutely treasure the fact that my first date was so amazing as I turned up late and sweaty",
+        "label": "Contradiction",
+        "explanation": "Being late and sweaty for a first date are not good impressions to make and so the date cannot be considered amazing by any means."
+    },
+    {
+        "id": 504,
+        "premise": "My first date was terrible as I turned up late and sweaty.",
+        "hypothesis": "I wish I could always remember the fact how beautiful my first date was when I turned up late and sweaty.",
+        "label": "Contradiction",
+        "explanation": "Being late and sweaty for a first date are not good impressions to make and so the date cannot be considered beautiful by any means."
+    },
+    {
+        "id": 505,
+        "premise": "My bank just locked me out of my account so now I have no way to get access to my money.",
+        "hypothesis": "I am so angry that my bank just locked me out of my account and now I have no way to get access to my money",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 505,
+        "premise": "My bank just locked me out of my account so now I have no way to get access to my money.",
+        "hypothesis": "I am so happy that my bank just locked me out of my account and now I have no way to get access to my money",
+        "label": "Contradiction",
+        "explanation": "Most people would be very unhappy if their bank locked them out of their account and so someone saying that they are happy about it is sarcastic."
+    },
+    {
+        "id": 505,
+        "premise": "My bank just locked me out of my account so now I have no way to get access to my money.",
+        "hypothesis": "I'm so thrilled that my bank just locked me out of my account and now I have no way to get access to my money",
+        "label": "Contradiction",
+        "explanation": "Most people would be very bummed if their bank locked them out of their account and so someone saying that they are thrilled about it is sarcastic."
+    },
+    {
+        "id": 506,
+        "premise": "I hate the smell of dumpsters.",
+        "hypothesis": "I think dumpsters are the most foul-smelling objects on the planet",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 506,
+        "premise": "I hate the smell of dumpsters.",
+        "hypothesis": "I think dumpsters are the sweetest smelling objects on the planet.",
+        "label": "Contradiction",
+        "explanation": "Dumpsters are often foul smelling due to the rotting food and other garbage inside them and hence no one would think they smell sweet."
+    },
+    {
+        "id": 506,
+        "premise": "I hate the smell of dumpsters.",
+        "hypothesis": "I think dumpsters are the best smelling objects on the planet",
+        "label": "Contradiction",
+        "explanation": "Dumpsters are often foul smelling due to the rotting food and other garbage inside them and hence no one would think they smell the best."
+    },
+    {
+        "id": 507,
+        "premise": "Its a beautiful day outside today buts I have no one to share it with. ",
+        "hypothesis": "It's such a shame that I have no one to share this beautiful day with",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 507,
+        "premise": "Its a beautiful day outside today buts I have no one to share it with. ",
+        "hypothesis": "It feels like my life is really worth living given I have no one to share this beautiful day with.",
+        "label": "Contradiction",
+        "explanation": "Most people would say that they feel sad and down when they have no one to share their day with and hence the speaker is not really being truthful."
+    },
+    {
+        "id": 507,
+        "premise": "Its a beautiful day outside today buts I have no one to share it with. ",
+        "hypothesis": "It's such a treat that I have no one to share this beautiful day with",
+        "label": "Contradiction",
+        "explanation": "Most people would say that they feel sad and down when they have no one to share their day with and hence the speaker is not really being truthful."
+    },
+    {
+        "id": 508,
+        "premise": "I was terrified to hear gunshots nearby on my walk home from the bar last night.",
+        "hypothesis": "I was scared out of my mind when I heard gunshots going off on my walk home from the bar last night",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 508,
+        "premise": "I was terrified to hear gunshots nearby on my walk home from the bar last night.",
+        "hypothesis": "It didn't faze me at all when I heard gunshots going off on my walk home from the bar last night.",
+        "label": "Contradiction",
+        "explanation": "Hearing gunshots going off on one's walk home from the bar would invoke fear and anxiety in most people, so not being fazed by it is absurd."
+    },
+    {
+        "id": 508,
+        "premise": "I was terrified to hear gunshots nearby on my walk home from the bar last night.",
+        "hypothesis": "I was excited out of my mind when I heard gunshots going off on my walk home from the bar last night",
+        "label": "Contradiction",
+        "explanation": "Hearing gunshots going off on one's walk home from the bar would invoke fear and anxiety in most people, so being excited by it is absurd."
+    },
+    {
+        "id": 509,
+        "premise": "I ordered $50 worth of food to be delivered and it was all wrong when the guy delivered it! ",
+        "hypothesis": "I was so mad when the food delivery guy delivered the wrong order and it cost me $50!",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 509,
+        "premise": "I ordered $50 worth of food to be delivered and it was all wrong when the guy delivered it! ",
+        "hypothesis": "I was thrilled when the food delivery guy delivered the wrong order and it cost me $50!",
+        "label": "Contradiction",
+        "explanation": "The food delivery guy making a mistake and costing the customer $50 is not something to be thrilled about because it is a waste of money."
+    },
+    {
+        "id": 509,
+        "premise": "I ordered $50 worth of food to be delivered and it was all wrong when the guy delivered it! ",
+        "hypothesis": "I was so delighted when the food delivery guy delivered the wrong order and it cost me $50!",
+        "label": "Contradiction",
+        "explanation": "The food delivery guy making a mistake and costing the customer $50 is not something to be thrilled about because it is a waste of money."
+    },
+    {
+        "id": 510,
+        "premise": "It was bothering me to see two coworkers talking to each other constantly during my presentation.",
+        "hypothesis": "I was getting bothered by the fact that my coworkers were talking to each other instead of paying attention to my presentation",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 510,
+        "premise": "It was bothering me to see two coworkers talking to each other constantly during my presentation.",
+        "hypothesis": "I was flattered by the fact that my coworkers were talking to each other instead of paying attention to my presentation",
+        "label": "Contradiction",
+        "explanation": "It is not a good thing when coworkers are not paying attention to a presentation because it usually means that they don't respect the person presenting."
+    },
+    {
+        "id": 510,
+        "premise": "It was bothering me to see two coworkers talking to each other constantly during my presentation.",
+        "hypothesis": "I was getting encouraged by the fact that my coworkers were talking to each other instead of paying attention to my presentation",
+        "label": "Contradiction",
+        "explanation": "It is discouraging when coworkers are not paying attention to a presentation because it usually means that they don't respect the person presenting."
+    },
+    {
+        "id": 511,
+        "premise": "My subordinates refused to obey simple work instructions",
+        "hypothesis": "I was so disgusted that my subordinates refused to do something as simple as following my work instructions",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 511,
+        "premise": "My subordinates refused to obey simple work instructions",
+        "hypothesis": "I was so appreciative that my subordinates refused to do something as simple as following my work instructions.",
+        "label": "Contradiction",
+        "explanation": "Not following someone's work instructions is not an act of appreciation and instead implies that the person who issued the instructions is not competent."
+    },
+    {
+        "id": 511,
+        "premise": "My subordinates refused to obey simple work instructions",
+        "hypothesis": "Was so proud that my subordinates refused to do something as simple as following my work instructions",
+        "label": "Contradiction",
+        "explanation": "A subordinate refusing to do something as simple as following work instructions shows a lack of discipline and an unwillingness to be directed, which is not something to be proud of."
+    },
+    {
+        "id": 512,
+        "premise": "I could not believe that my mom gave my sister her favorite necklace it is not fair!",
+        "hypothesis": "I was totally shocked that my mom gave my sister her favorite necklace and not me",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 512,
+        "premise": "I could not believe that my mom gave my sister her favorite necklace it is not fair!",
+        "hypothesis": "I took it in stride when my mom gave my sister her favorite necklace and not me.",
+        "label": "Contradiction",
+        "explanation": "It is natural for siblings to feel upset when one gets a gift and the other does not, so expecting someone to take it in stride when they are not favored is unreasonable."
+    },
+    {
+        "id": 512,
+        "premise": "I could not believe that my mom gave my sister her favorite necklace it is not fair!",
+        "hypothesis": "I was totally overjoyed that my mom gave my sister her favorite necklace and not me",
+        "label": "Contradiction",
+        "explanation": "It is natural for siblings to feel upset when one gets a gift and the other does not, so expecting someone to be overjoyed when they are not favored is unreasonable."
+    },
+    {
+        "id": 513,
+        "premise": "My friend got a new car yesterday which I have been saving up for years.",
+        "hypothesis": "I am so jealous of my friend because she just got a new car that I have been saving up for years",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 513,
+        "premise": "My friend got a new car yesterday which I have been saving up for years.",
+        "hypothesis": "I am not at all jealous of my friend who just got a new car that I have been saving up for years.",
+        "label": "Contradiction",
+        "explanation": "It is highly unlikely that someone would be happy for their friend when they just got a new car when they have been saving up for years to get one themselves which implies that the person is jealous."
+    },
+    {
+        "id": 513,
+        "premise": "My friend got a new car yesterday which I have been saving up for years.",
+        "hypothesis": "I am so not jealous of my friend because she just got a new car that I have been saving up for years",
+        "label": "Contradiction",
+        "explanation": "It is highly unlikely that someone would be happy for their friend when they just got a new car when they have been saving up for years to get one themselves which implies that the person is jealous."
+    },
+    {
+        "id": 514,
+        "premise": "I keep getting disconnected from my internet",
+        "hypothesis": "I am so frustrated with the inconsistency of my internet connection",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 514,
+        "premise": "I keep getting disconnected from my internet",
+        "hypothesis": "I am so satisfied with the inconsistency of my internet connection.",
+        "label": "Contradiction",
+        "explanation": "An inconsistent internet connection can be really frustrating because it means that the person is not able to rely on it for important tasks and hence it cannot be satisfying."
+    },
+    {
+        "id": 514,
+        "premise": "I keep getting disconnected from my internet",
+        "hypothesis": "I am so content with the inconsistency of my internet connection",
+        "label": "Contradiction",
+        "explanation": "An inconsistent internet connection can be really frustrating because it means that the person is not able to rely on it for important tasks and hence it cannot be something causing content."
+    },
+    {
+        "id": 515,
+        "premise": "My dog always barks when I am on the phone.",
+        "hypothesis": "I hate that my dog barks every time I try to have a conversation on the phone",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 515,
+        "premise": "My dog always barks when I am on the phone.",
+        "hypothesis": "I love that my dog barks every time I try to have a conversation on the phone.",
+        "label": "Contradiction",
+        "explanation": "A dog barking during a phone conversation can be really disruptive and annoying and so the person does not love it but instead hates it."
+    },
+    {
+        "id": 515,
+        "premise": "My dog always barks when I am on the phone.",
+        "hypothesis": "I really enjoy that my dog barks every time I try to have a conversation on the phone",
+        "label": "Contradiction",
+        "explanation": "A dog barking during a phone conversation can be really disruptive and annoying and so the person does not enjoy it but instead hates it."
+    },
+    {
+        "id": 516,
+        "premise": "I told my kids to clean while I was gone and the house looked worse than before I left",
+        "hypothesis": "I got home and found out my kids only made the house dirtier when I told them to clean it",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 516,
+        "premise": "I told my kids to clean while I was gone and the house looked worse than before I left",
+        "hypothesis": "Was extremely happy when I got home and found out my kids only made the house dirtier when I told them to clean it",
+        "label": "Contradiction",
+        "explanation": "Kids often do not listen to what their parents tell them and so expecting them to clean the house and then coming home to find that it is still dirty is very frustrating."
+    },
+    {
+        "id": 516,
+        "premise": "I told my kids to clean while I was gone and the house looked worse than before I left",
+        "hypothesis": "I got home and found out my angelic kids only made the house dirtier when I told them to clean it",
+        "label": "Contradiction",
+        "explanation": "Kids are often disobedient and do not listen to what their parents tell them so making the housing messier when asked to clean is not being angelic."
+    },
+    {
+        "id": 517,
+        "premise": "I asked my brother to bring me a gift from his trip and he didn't bring anything.",
+        "hypothesis": "I was really looking forward to getting a gift from my brother, but it seems like he totally forgot about me",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 517,
+        "premise": "I asked my brother to bring me a gift from his trip and he didn't bring anything.",
+        "hypothesis": "I was looking forward to getting a gift from my brother from his trip and it is to my great honor it seems like he totally forgot about me.",
+        "label": "Contradiction",
+        "explanation": "Most people would be upset about not getting a gift from someone who forgot about them and so the speaker is sarcatically emphasizing how great it is that the brother forgot about them."
+    },
+    {
+        "id": 517,
+        "premise": "I asked my brother to bring me a gift from his trip and he didn't bring anything.",
+        "hypothesis": "As much as I was looking forward to getting a gift from my brother, I am overjoyed to find that he absolutely forgot about me and came empty handed from his trip.",
+        "label": "Contradiction",
+        "explanation": "Most people would be happy to receive a gift from a loved one, so someone who is overjoyed to find that they were forgotten and came empty handed is not being truthful."
+    },
+    {
+        "id": 518,
+        "premise": "I stepped in gum someone spit on the sidewalk.",
+        "hypothesis": "I stepped in the grossest thing ever, someone's spitted gum on the sidewalk",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 518,
+        "premise": "I stepped in gum someone spit on the sidewalk.",
+        "hypothesis": "Delighted to have stepped in the grossest thing ever, someone's spitted gum on the sidewalk.",
+        "label": "Contradiction",
+        "explanation": "Stepping in something gross is never a delight and so finding gum on the sidewalk would be the worst thing possible."
+    },
+    {
+        "id": 518,
+        "premise": "I stepped in gum someone spit on the sidewalk.",
+        "hypothesis": "I stepped in the best thing ever, someone's spitted gum on the sidewalk.",
+        "label": "Contradiction",
+        "explanation": "Stepping in something gross is never a good thing and especially gum on the sidewalk would be the worst thing possible."
+    },
+    {
+        "id": 519,
+        "premise": "Telemarketers calls are so awful and come at the worst times",
+        "hypothesis": "It's really frustrating when telemarketers call me during dinner or at night when I'm trying to sleep",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 519,
+        "premise": "Telemarketers calls are so awful and come at the worst times",
+        "hypothesis": "It's really satisfying when telemarketers call me during dinner or at night when I'm trying to sleep",
+        "label": "Contradiction",
+        "explanation": "Telemarketers calling someone during dinner or at night disturbs them and is not a good thing, so it is not satisfying in the least."
+    },
+    {
+        "id": 519,
+        "premise": "Telemarketers calls are so awful and come at the worst times",
+        "hypothesis": "It's really exciting when telemarketers call me during dinner or at night when I'm trying to sleep",
+        "label": "Contradiction",
+        "explanation": "Telemarketers calling someone during dinner or at night disturbs them and is not a good thing, so it is not exciting in the least."
+    },
+    {
+        "id": 520,
+        "premise": "I was mad when I returned to my car and noticed someone put a dent in my door",
+        "hypothesis": "I was so angry when I returned to my car and noticed someone put a dent in my door",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 520,
+        "premise": "I was mad when I returned to my car and noticed someone put a dent in my door",
+        "hypothesis": "I was so happy when I returned to my car and noticed someone put a dent in my door.",
+        "label": "Contradiction",
+        "explanation": "Most people would not be happy upon returning to their car and noticing that someone had caused damage to it, but rather would feel frustrated or angry."
+    },
+    {
+        "id": 520,
+        "premise": "I was mad when I returned to my car and noticed someone put a dent in my door",
+        "hypothesis": "I was so pleased when I returned to my car and noticed someone put a dent in my door.",
+        "label": "Contradiction",
+        "explanation": "Most people would not be pleased upon returning to their car and noticing that someone had caused damage to it, but rather would feel frustrated or angry."
+    },
+    {
+        "id": 521,
+        "premise": "My friend who trains with me has been training for the same amount of time but looks much better than I do.",
+        "hypothesis": "It's hard to not feel bitter when my friend who trains with me has been working out for the same amount of time as I have, but looks so much better than I do",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 521,
+        "premise": "My friend who trains with me has been training for the same amount of time but looks much better than I do.",
+        "hypothesis": "It's wonderful when my friend who trains with me has been working out for the same amount of time as I have and looks so much better than me.",
+        "label": "Contradiction",
+        "explanation": "Someone who has been working out for the same amount of time as someone else and looks better than them is not a good thing because it implies that their progress is not satisfactory"
+    },
+    {
+        "id": 521,
+        "premise": "My friend who trains with me has been training for the same amount of time but looks much better than I do.",
+        "hypothesis": "It absolutely boosts up my morale and self confidence to see my friend who trains with me has been working out for the same amount of time as I have, but looks so much better than I do.",
+        "label": "Contradiction",
+        "explanation": "Seeing someone who is better looking than you at something you are bad at does not really motivate or make you feel confident and instead would probably lead to feelings of jealousy and bitterness."
+    },
+    {
+        "id": 522,
+        "premise": "I was furious to hear that my dental bill was three times of what I was expecting!",
+        "hypothesis": "I was so mad when I found out that my dental bill was triple the amount I thought it would be!",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 522,
+        "premise": "I was furious to hear that my dental bill was three times of what I was expecting!",
+        "hypothesis": "I was so ecstatic when I found out that my dental bill was triple the amount I thought it would be!",
+        "label": "Contradiction",
+        "explanation": "Most people would be upset if they found out that their dental bill was a lot more than they had anticipated and so someone being ecstatic about it is definitely sarcastic."
+    },
+    {
+        "id": 522,
+        "premise": "I was furious to hear that my dental bill was three times of what I was expecting!",
+        "hypothesis": "I was so pleased when I found out that my dental bill was triple the amount I thought it would be!",
+        "label": "Contradiction",
+        "explanation": "Most people would be upset if they found out that their dental bill was a lot more than they had anticipated and so someone being pleased about it is definitely sarcastic."
+    },
+    {
+        "id": 523,
+        "premise": "I get anxious whenever I'm waiting in line for a flight and it's less than 30 minutes from take off.",
+        "hypothesis": "I always get freaked out when I am waiting in line for a flight and it's close to take off time",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 523,
+        "premise": "I get anxious whenever I'm waiting in line for a flight and it's less than 30 minutes from take off.",
+        "hypothesis": "I always feel cool, calm and collected when I am waiting in line for a flight and it's close to take off time.",
+        "label": "Contradiction",
+        "explanation": "Waiting in line for a flight especially close to take off time is often very frustrating because there are so many people and the wait is usually long and there are chances of missing the flight, so feeling cool, calm and collected in that situation is not very likely."
+    },
+    {
+        "id": 523,
+        "premise": "I get anxious whenever I'm waiting in line for a flight and it's less than 30 minutes from take off.",
+        "hypothesis": "Love how I am absolutely nonchalant when I am waiting in line for a flight and it's close to take off time",
+        "label": "Contradiction",
+        "explanation": "When someone is waiting in line for a flight, they are often anxious because take-off time is drawing near and so to act like they are nonchalant about the whole situation is not normal"
+    },
+    {
+        "id": 524,
+        "premise": "I am so tired of telling my teenage daughter to clean her room.",
+        "hypothesis": "I can't even believe how often I have to tell my daughter to clean her room and it still doesn't get done",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 524,
+        "premise": "I am so tired of telling my teenage daughter to clean her room.",
+        "hypothesis": "It's totally acceptable how often I have to tell my daughter to clean her room and it still  doesn't get done.",
+        "label": "Contradiction",
+        "explanation": "Most people would think that it is not okay to have to tell their child multiple times to clean their room and still not see any results."
+    },
+    {
+        "id": 524,
+        "premise": "I am so tired of telling my teenage daughter to clean her room.",
+        "hypothesis": "I love how often I have to tell my daughter to clean her room and it still doesn't get done",
+        "label": "Contradiction",
+        "explanation": "Most people would think that it is not okay to have to tell their child multiple times to clean their room and still not see any results."
+    },
+    {
+        "id": 525,
+        "premise": "These mosquitos keep biting me no matter what I do.",
+        "hypothesis": "I am beyond frustrated with the fact that mosquitos keep biting me even when I use all the bug spray",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 525,
+        "premise": "These mosquitos keep biting me no matter what I do.",
+        "hypothesis": "I am beyond amused with the fact that mosquitos keep biting me even when I use all the bug spray",
+        "label": "Contradiction",
+        "explanation": "Mosquitos often bite people even when they are using bug spray which shows that the bug spray is not effective at all and so the person should not be amused by it."
+    },
+    {
+        "id": 525,
+        "premise": "These mosquitos keep biting me no matter what I do.",
+        "hypothesis": "I am beyond pleased with the fact that mosquitos keep biting me even when I use all the bug spray",
+        "label": "Contradiction",
+        "explanation": "Mosquitos often bite people even when they are using bug spray which shows that the bug spray is not effective at all and so the person should not be pleased by it."
+    },
+    {
+        "id": 526,
+        "premise": "I'm ashamed that I don't have enough money in my savings account",
+        "hypothesis": "I feel terrible that I can't even save up some money for a rainy day",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 526,
+        "premise": "I'm ashamed that I don't have enough money in my savings account",
+        "hypothesis": "I feel so competent and judicious with my expenses that I can't even save up some money in my savings account.",
+        "label": "Contradiction",
+        "explanation": "Having a low savings account balance implies that someone is not competent with their expenses and is not judicious in their spending."
+    },
+    {
+        "id": 526,
+        "premise": "I'm ashamed that I don't have enough money in my savings account",
+        "hypothesis": "I feel proud and capable of managing my expenses that I can't even save up some money in my savings account",
+        "label": "Contradiction",
+        "explanation": "It is not a matter of pride or capability to not be able to save money in one's savings account and instead implies that the person is bad with money."
+    },
+    {
+        "id": 527,
+        "premise": "Everytime I try to eat dinner a salesman calls me on the phone.",
+        "hypothesis": "It's so frustrating when I am trying to have dinner but a salesman calls me on the phone",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 527,
+        "premise": "Everytime I try to eat dinner a salesman calls me on the phone.",
+        "hypothesis": "I just love it when I am trying to have dinner and a salesman calls me on the phone.",
+        "label": "Contradiction",
+        "explanation": "Dinner is usually a time when people want to be left alone and hence getting a call from a salesman is really disruptive."
+    },
+    {
+        "id": 527,
+        "premise": "Everytime I try to eat dinner a salesman calls me on the phone.",
+        "hypothesis": "It's so fun when I am trying to have dinner but a salesman calls me on the phone",
+        "label": "Contradiction",
+        "explanation": "Dinner is usually a time when people want to be left alone and hence getting a call from a salesman is really disruptive."
+    },
+    {
+        "id": 528,
+        "premise": "After all the extra credit and hard work I still failed the class.",
+        "hypothesis": "It's really frustrating how all the extra credit and hard work I put in still wasn't enough to pass the class",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 528,
+        "premise": "After all the extra credit and hard work I still failed the class.",
+        "hypothesis": "It's really cool how all the extra credit and hard work I put in still wasn't enough to pass the class",
+        "label": "Contradiction",
+        "explanation": "Putting in extra credit and hard work is supposed to help someone pass a class, so it is not cool that it still wasn't enough."
+    },
+    {
+        "id": 528,
+        "premise": "After all the extra credit and hard work I still failed the class.",
+        "hypothesis": "It feels amazing how all the extra credit and hard work I put in still wasn't enough to pass the class",
+        "label": "Contradiction",
+        "explanation": "Putting in extra credit and hard work is supposed to help someone pass a class, so it is not amazing that it still wasn't enough."
+    },
+    {
+        "id": 529,
+        "premise": "I can't get pregnant but all my friends are having kids.",
+        "hypothesis": "All my friends are getting pregnant and having babies and I am still struggling to conceive",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 529,
+        "premise": "I can't get pregnant but all my friends are having kids.",
+        "hypothesis": "All my friends are getting pregnant and having babies and lucky me, I am still struggling to conceive.",
+        "label": "Contradiction",
+        "explanation": "It is not a good thing to be struggling to conceive when all of one's friends are getting pregnant and having babies because it can be really difficult for them emotionally."
+    },
+    {
+        "id": 529,
+        "premise": "I can't get pregnant but all my friends are having kids.",
+        "hypothesis": "Love how all my friends are getting pregnant and having babies and here I am still struggling to conceive",
+        "label": "Contradiction",
+        "explanation": "It is not a good thing to be struggling to conceive when all of one's friends are getting pregnant and having babies because it can be really difficult for them emotionally."
+    },
+    {
+        "id": 530,
+        "premise": "I just hate when people drive slow in the left lane",
+        "hypothesis": "I'm really mad when people drive slow in the left lane and prevent me from passing them",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 530,
+        "premise": "I just hate when people drive slow in the left lane",
+        "hypothesis": "It doesn't bother me in the least when people drive slow in the left land and prevent me from passing them.",
+        "label": "Contradiction",
+        "explanation": "Drivers who drive slow in the left lane and prevent other drivers from passing them are causing a hindrance and so it should bother the person affected by it."
+    },
+    {
+        "id": 530,
+        "premise": "I just hate when people drive slow in the left lane",
+        "hypothesis": "I'm really joyful when people drive slow in the left lane and prevent me from passing them",
+        "label": "Contradiction",
+        "explanation": "Drivers who drive slow in the left lane and prevent other drivers from passing them are causing a hindrance and so it should bother the person affected by it."
+    },
+    {
+        "id": 531,
+        "premise": "I am so upset that my daughter failed an exam and tried to hide it from me.",
+        "hypothesis": "I am really upset that my daughter felt like she had to hide her exam failure from me",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 531,
+        "premise": "I am so upset that my daughter failed an exam and tried to hide it from me.",
+        "hypothesis": "I feel like such a great mother considering my daughter felt she had to hide her exam failure from me.",
+        "label": "Contradiction",
+        "explanation": "A mother is someone who is supposed to be supportive and understanding when their children face difficult times and so feeling like a great mother when one's child hides their exam failure is unrealistic."
+    },
+    {
+        "id": 531,
+        "premise": "I am so upset that my daughter failed an exam and tried to hide it from me.",
+        "hypothesis": "I am really proud that my daughter felt like she had to hide her exam failure from me",
+        "label": "Contradiction",
+        "explanation": "A mother is someone who is supposed to be supportive and understanding when their children face difficult times and so feeling proud when one's child hides their exam failure is unrealistic."
+    },
+    {
+        "id": 532,
+        "premise": "Traffic was unusually bad on the way to work this morning.",
+        "hypothesis": "I was running late for work because of the traffic and it made me so mad",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 532,
+        "premise": "Traffic was unusually bad on the way to work this morning.",
+        "hypothesis": "I was running late for work because of the traffic and it made me euphoric.",
+        "label": "Contradiction",
+        "explanation": "The traffic jam can be very frustrating and make someone late for work, which is definitely not a good thing."
+    },
+    {
+        "id": 532,
+        "premise": "Traffic was unusually bad on the way to work this morning.",
+        "hypothesis": "I was running late for work because of traffic, that always makes me soooo happy!",
+        "label": "Contradiction",
+        "explanation": "Traffic can often lead to people being late for work and so being happy because of it is unjustified."
+    },
+    {
+        "id": 533,
+        "premise": "Arrived at my destination via airport only to find out my car reservation got messed up and wasn't ready when I landed",
+        "hypothesis": "The fact that my car reservation got messed up and I had to take a cab to my final destination made me so angry",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 533,
+        "premise": "Arrived at my destination via airport only to find out my car reservation got messed up and wasn't ready when I landed",
+        "hypothesis": "The fact that my car reservation got messed up and I had to take a cab to my final destination was the highlight of my week.",
+        "label": "Contradiction",
+        "explanation": "Having to take a cab because of a car reservation mix-up is not something to be happy about and so the person's week cannot be considered as having highlights."
+    },
+    {
+        "id": 533,
+        "premise": "Arrived at my destination via airport only to find out my car reservation got messed up and wasn't ready when I landed",
+        "hypothesis": "The fact that my car reservation got messed up and I had to take a cab to my final destination made me so pleased",
+        "label": "Contradiction",
+        "explanation": "Having to take a cab because of a car reservation mix-up is not something to be happy about and so the person being pleased is unrealistic."
+    },
+    {
+        "id": 534,
+        "premise": "I found out that after 10 years at my company they're laying me off indefinitely.",
+        "hypothesis": "I just found out that my company is getting rid of me after 10 years of faithful service",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 534,
+        "premise": "I found out that after 10 years at my company they're laying me off indefinitely.",
+        "hypothesis": "I got the greatest news today when I found out my company is getting rid of me after 10 years of faithful service",
+        "label": "Contradiction",
+        "explanation": "Being fired from a job after 10 years of service is not something to be happy about and hence receiving the greatest news is sarcastic."
+    },
+    {
+        "id": 534,
+        "premise": "I found out that after 10 years at my company they're laying me off indefinitely.",
+        "hypothesis": "Love to experience the beautiful moment where my company is getting rid of me after 10 years of faithful service",
+        "label": "Contradiction",
+        "explanation": "Being fired from a job after many years of service is not a good thing and so to call it a beautiful moment is sarcastic."
+    },
+    {
+        "id": 535,
+        "premise": "My friend would not stop whistling even though she knows I can't stand it.",
+        "hypothesis": "My friend is really inconsiderate to keep whistling even though she knows I despise the sound",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 535,
+        "premise": "My friend would not stop whistling even though she knows I can't stand it.",
+        "hypothesis": "My friend is really respectful to keep whistling even though she knows I despise the sound.",
+        "label": "Contradiction",
+        "explanation": "Whistling is often seen as a rude thing to do because it can be heard by a lot of people and it is intrusive, so someone who does it knowing that the other person doesn't like it is not respectful at all."
+    },
+    {
+        "id": 535,
+        "premise": "My friend would not stop whistling even though she knows I can't stand it.",
+        "hypothesis": "My friend is really considerate to keep whistling even though she knows I despise the sound.",
+        "label": "Contradiction",
+        "explanation": "Whistling is a common way to communicate with someone and so if someone knows that the sound annoys someone else, then it is not considerate of them to keep doing it."
+    },
+    {
+        "id": 536,
+        "premise": "The whole process of waiting for the test results of the biopsy of a suspicious mass caused a lot of anxiety.",
+        "hypothesis": "Waiting for the test results of the biopsy of a suspicious mass made me feel like I was going crazy",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 536,
+        "premise": "The whole process of waiting for the test results of the biopsy of a suspicious mass caused a lot of anxiety.",
+        "hypothesis": "Waiting for the test results of the biopsy of a suspicious mass made me feel ecstatic",
+        "label": "Contradiction",
+        "explanation": "The wait for test results of a biopsy is often long and nerve-wracking and so most people cannot feels patient during that time."
+    },
+    {
+        "id": 536,
+        "premise": "The whole process of waiting for the test results of the biopsy of a suspicious mass caused a lot of anxiety.",
+        "hypothesis": "Waiting for the test results of the biopsy of a suspicious mass is something i'd always hoped for...",
+        "label": "Contradiction",
+        "explanation": "Biopsy because it is a medical procedure where a small sample of tissue is taken from a suspicious mass for examination and often can lead to revelation of a disease ,so waiting for the test results would be anything but hoped for."
+    },
+    {
+        "id": 537,
+        "premise": "My coworker comes into work late everyday and it drives me crazy",
+        "hypothesis": "It's really frustrating when my coworker comes in late everyday and disrupts the work schedule",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 537,
+        "premise": "My coworker comes into work late everyday and it drives me crazy",
+        "hypothesis": "It's really delightful when my coworker comes in late everyday and disrupts the work schedule",
+        "label": "Contradiction",
+        "explanation": "Coworkers coming in late everyday can lead to a lot of disruption in the work schedule and so someone considering it to be delightful is highly unrealistic."
+    },
+    {
+        "id": 537,
+        "premise": "My coworker comes into work late everyday and it drives me crazy",
+        "hypothesis": "It's really awesome when my super punctual coworker comes in late everyday and disrupts the work schedule",
+        "label": "Contradiction",
+        "explanation": "Having a coworker who is always late and screws up the work schedule is not something to be happy about, but instead, it should be annoying."
+    },
+    {
+        "id": 538,
+        "premise": "I was terrified when we had a major ice storm and the electricity was out for weeks.  ",
+        "hypothesis": "I was freaking out when we had a major ice storm and the electricity was out for weeks",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 538,
+        "premise": "I was terrified when we had a major ice storm and the electricity was out for weeks.  ",
+        "hypothesis": "I felt like partying all night long when we had a major ice storm and the electricity was out for weeks.",
+        "label": "Contradiction",
+        "explanation": "Most people would not feel like partying all night long when they are unable to use electricity which is a basic necessity in today's world."
+    },
+    {
+        "id": 538,
+        "premise": "I was terrified when we had a major ice storm and the electricity was out for weeks.  ",
+        "hypothesis": "I was cheerful when we had a major ice storm and the electricity was out for weeks",
+        "label": "Contradiction",
+        "explanation": "Most people would not feel cheerful when they are unable to use electricity which is a basic necessity in today's world."
+    },
+    {
+        "id": 539,
+        "premise": "The amount of crime growing near me is scary to think about",
+        "hypothesis": "I am scared about the possibility of crime rates increasing near me and jeopardizing my safety",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 539,
+        "premise": "The amount of crime growing near me is scary to think about",
+        "hypothesis": "Very thrilled about the possibility of crime rates increasing near me and protecting my safety",
+        "label": "Contradiction",
+        "explanation": "Most people would not be thrilled about the prospect of crime rates increasing because that could lead to them being a victim of crime and hence their safety being jeopardized."
+    },
+    {
+        "id": 539,
+        "premise": "The amount of crime growing near me is scary to think about",
+        "hypothesis": "I am overjoyed about the possibility of crime rates increasing near me and protecting my safety",
+        "label": "Contradiction",
+        "explanation": "Most people would not be thrilled about the prospect of crime rates increasing because that could lead to them being a victim of crime and hence their safety being jeopardized."
+    },
+    {
+        "id": 540,
+        "premise": "I'm jealous of people who live in a warm climate all year long. Must be nice.",
+        "hypothesis": "I am green with envy of all the people who live in a warm climate where they don't have to bundle up in the winter",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 540,
+        "premise": "I'm jealous of people who live in a warm climate all year long. Must be nice.",
+        "hypothesis": "Not at all envious of people who enjoy perfect warm climate where they don't have to go through the pain of bundling up in the winter",
+        "label": "Contradiction",
+        "explanation": " People who live in warm climates where they don't have to bundle up in the winter are lucky because the experience of bundling up is often very unpleasant."
+    },
+    {
+        "id": 540,
+        "premise": "I'm jealous of people who live in a warm climate all year long. Must be nice.",
+        "hypothesis": "I feel sorry for all the people who experience beautiful warm climate where they don't have to bundle up in the winter.",
+        "label": "Contradiction",
+        "explanation": "Most people would love to experience a warm climate where they don't have to bundle up in the winter because bundling up is often very uncomfortable and a hassle."
+    },
+    {
+        "id": 541,
+        "premise": "I spilled my drink all over the table and myself twice at a restaurant. ",
+        "hypothesis": "Spilling my drink all over the table and myself twice at a restaurant makes me feel so embarrassed",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 541,
+        "premise": "I spilled my drink all over the table and myself twice at a restaurant. ",
+        "hypothesis": "Spilling my drink all over the table and myself twice at a restaurant makes me feel like a superhero",
+        "label": "Contradiction",
+        "explanation": "Spilling a drink is always an inconvenience and not something to feel good about, so someone who feels like a superhero after doing it is being sarcastic."
+    },
+    {
+        "id": 541,
+        "premise": "I spilled my drink all over the table and myself twice at a restaurant. ",
+        "hypothesis": "Spilling my drink all over the table and myself twice at a restaurant makes me feel so cool",
+        "label": "Contradiction",
+        "explanation": "Spilling a drink is never a good thing and doing it twice at a restaurant shows lack of care and common sense."
+    },
+    {
+        "id": 542,
+        "premise": "My storage unit burned down and I lost several precious momentos",
+        "hypothesis": "The fact that my storage unit burned down and I lost all my pictures and momentos from when I was a kid is really sad",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 542,
+        "premise": "My storage unit burned down and I lost several precious momentos",
+        "hypothesis": "The fact that my storage unit burned down and I lost all my pictures and momentos from when I was a kid is really awesome",
+        "label": "Contradiction",
+        "explanation": "Losing memories and important items from when someone was a kid is really sad and not at all awesome."
+    },
+    {
+        "id": 542,
+        "premise": "My storage unit burned down and I lost several precious momentos",
+        "hypothesis": "The fact that my storage unit burned down and I lost all my pictures and momentos from when I was a kid is really amazing",
+        "label": "Contradiction",
+        "explanation": "Losing memories and important items from when someone was a kid is really sad and not at all amazing."
+    },
+    {
+        "id": 543,
+        "premise": "All my friends got to go on vacation but I'm stuck here doing work because I have a tight job deadline.",
+        "hypothesis": "I feel really left out because all my friends got to go on vacation while I'm stuck here working like a dog",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 543,
+        "premise": "All my friends got to go on vacation but I'm stuck here doing work because I have a tight job deadline.",
+        "hypothesis": "I feel really lucky because all my friends got to go on vacation while I'm stuck here working like a dog",
+        "label": "Contradiction",
+        "explanation": "It is not good luck to have to work while others get to enjoy a vacation and in fact, it is the opposite because it means that someone is stuck working while everyone else gets to relax."
+    },
+    {
+        "id": 543,
+        "premise": "All my friends got to go on vacation but I'm stuck here doing work because I have a tight job deadline.",
+        "hypothesis": "I must be so special because all my friends got to go on vacation while I'm stuck here working like a dog",
+        "label": "Contradiction",
+        "explanation": "Most people would love to go on vacation but are unable to due to work commitments and so someone who is working like a dog must not feel special at all."
+    }
 ]
