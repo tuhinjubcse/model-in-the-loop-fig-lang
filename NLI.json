@@ -14277,6 +14277,70 @@
         "premise": "Water is not working in the house and I have been sitting here all day waiting for the plumber to show up.",
         "hypothesis": "I have been sitting here all day waiting for the punctual plumber to show up and fix the water issue in the house, but nobody has arrived yet!",
         "label": "Contradiction",
-        "explanation": "Plumbers are often known to be late and so someone waiting for a long time for them to arrive and fix an issue is not realistic."
+        "explanation": "If a plumber is punctual they would arrive on time and one doesn't have to sit all day waiting for them so the speaker is being sarcastic."
+    },
+    {
+        "id": 681,
+        "premise": "I wish I was a better public speaker like Barack Obama.",
+        "hypothesis": "I really envy Barack Obama because he is an amazing public speaker",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 681,
+        "premise": "I wish I was a better public speaker like Barack Obama.",
+        "hypothesis": "I feel so happy that I am not as good as Barack Obama when it comes to public speaking.",
+        "label": "Contradiction",
+        "explanation": "Obama is an excellent public speaker and so someone who is not as good as him cannot feel happy about themselves."
+    },
+    {
+        "id": 681,
+        "premise": "I wish I was a better public speaker like Barack Obama.",
+        "hypothesis": "I feel so proud about myself for not being as good as Barack Obama when it comes to public speaking.",
+        "label": "Contradiction",
+        "explanation": "Obama is an excellent public speaker and so someone who is not as good as him cannot feel proud about themselves."
+    },
+    {
+        "id": 682,
+        "premise": "I'm waiting on some test results from the Dr. and it's taking forever.",
+        "hypothesis": "I'm anxiously waiting for my test results from the doctor and really hope everything comes back normal",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 682,
+        "premise": "I'm waiting on some test results from the Dr. and it's taking forever.",
+        "hypothesis": "I am so excited to get my test results back from the doctor and find out that I have a rare disease.",
+        "label": "Contradiction",
+        "explanation": "A rare disease is something that most people would not want to have and so getting test results back from the doctor which indicate that someone has a rare disease is not something to be excited about."
+    },
+    {
+        "id": 682,
+        "premise": "I'm waiting on some test results from the Dr. and it's taking forever.",
+        "hypothesis": "I'm absolutely relaxed waiting for my test results from the doctor and totally don't care about any serious outcome",
+        "label": "Contradiction",
+        "explanation": "Someone waiting for their test results from the doctor is usually very anxious and so pretending to be relaxed and not caring about the outcome is actually very sarcastic."
+    },
+     {
+        "id": 683,
+        "premise": "I had my friend over and my family made me feel very uncomfortable.",
+        "hypothesis": "I had my friend over and my family made me feel really weird and out of place",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 683,
+        "premise": "I had my friend over and my family made me feel very uncomfortable.",
+        "hypothesis": "It was great to have my friend over and feel really weird and out of place because of my family.",
+        "label": "Contradiction",
+        "explanation": "Having a friend over to one's house is usually a positive experience, but if the friend feels weird and out of place then it would be a negative situation for them."
+    },
+    {
+        "id": 683,
+        "premise": "I had my friend over and my family made me feel very uncomfortable.",
+        "hypothesis": "It was really fun to have my friend over and feeling really weird and out of place because of my family.",
+        "label": "Contradiction",
+        "explanation": "Having a friend over to one's house is usually a positive experience, but if the friend feels weird and out of place then it would be a negative situation for them and not fun"
     }
+
 ]
