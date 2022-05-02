@@ -14341,6 +14341,3281 @@
         "hypothesis": "It was really fun to have my friend over and feeling really weird and out of place because of my family.",
         "label": "Contradiction",
         "explanation": "Having a friend over to one's house is usually a positive experience, but if the friend feels weird and out of place then it would be a negative situation for them and not fun"
+    },
+        ,{
+        "id": 684,
+        "premise": "I have very bad teeth and have to hide my smile.",
+        "hypothesis": "I hate that I have to hide my smile because of my terrible teeth",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 684,
+        "premise": "I have very bad teeth and have to hide my smile.",
+        "hypothesis": "I just love having to hide my smile because of my terrible teeth.",
+        "label": "Contradiction",
+        "explanation": "Most people want to have a nice smile and so someone who has to hide their smile because of their terrible teeth is not in a good position."
+    },
+    {
+        "id": 684,
+        "premise": "I have very bad teeth and have to hide my smile.",
+        "hypothesis": "I feel excellent that I have to hide my smile because of my terrible teeth",
+        "label": "Contradiction",
+        "explanation": "Someone with terrible teeth would not feel excellent about having to hide their smile and instead, it would be a cause of embarrassment and self-consciousness."
+    },
+    {
+        "id": 685,
+        "premise": "I damaged my car yesterday, I am so worried about how much it will cost to repair it.",
+        "hypothesis": "I am terrified about how much it will cost to repair the damage I did to my car yesterday",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 685,
+        "premise": "I damaged my car yesterday, I am so worried about how much it will cost to repair it.",
+        "hypothesis": "I am just thrilled about how much it will cost to repair the damage I did to my car yesterday",
+        "label": "Contradiction",
+        "explanation": "When someone damages their car, it often costs a lot of money to repair it and so being thrilled about the prospect of having to pay for the damage is not logical."
+    },
+    {
+        "id": 685,
+        "premise": "I damaged my car yesterday, I am so worried about how much it will cost to repair it.",
+        "hypothesis": "I am excited about how much it will cost to repair the damage I did to my car yesterday",
+        "label": "Contradiction",
+        "explanation": "When someone damages their car, it often costs a lot of money to repair it and so being excited about the prospect of having to pay for the damage is not logical."
+    },
+    {
+        "id": 686,
+        "premise": "There was a dead fly in my jello.",
+        "hypothesis": "I was disgusted to find a dead fly in my jello",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 686,
+        "premise": "There was a dead fly in my jello.",
+        "hypothesis": "My mouth was watering to find a dead fly in my jello.",
+        "label": "Contradiction",
+        "explanation": "Dead flies are often seen as dirty and gross and so finding one in a food that is meant to be eaten would make not someone's mouth water but invoke disgust instead."
+    },
+    {
+        "id": 686,
+        "premise": "There was a dead fly in my jello.",
+        "hypothesis": "I was delighted to find a dead fly in my jello.",
+        "label": "Contradiction",
+        "explanation": "Dead flies are often associated with filth and dirt and so finding one in a jello which is usually a food item that is considered to be clean and hygienic, would be gross and not delightful."
+    },
+    {
+        "id": 687,
+        "premise": "I rob teenagers outside college to get money for drugs because I am a drug addict.",
+        "hypothesis": "I'm a drug addict and to get money for drugs, I rob innocent teenagers who are just trying to get an education.",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 687,
+        "premise": "I rob teenagers outside college to get money for drugs because I am a drug addict.",
+        "hypothesis": "It's really great being a drug addict and robbing money for drug from innocent teenagers who are just trying to get an education.",
+        "label": "Contradiction",
+        "explanation": "Being a drug addict and robbing people for money to buy drugs is not a good thing because it victimizes innocent people and takes away their hard-earned money."
+    },
+    {
+        "id": 687,
+        "premise": "I rob teenagers outside college to get money for drugs because I am a drug addict.",
+        "hypothesis": "I'm such a good person because I rob innocent teenagers who are just trying to get an education, in order to get money for my drugs.",
+        "label": "Contradiction",
+        "explanation": "Robbing innocent people is not a good thing to do and so someone who does it cannot be considered a good person."
+    },
+    {
+        "id": 688,
+        "premise": "My friends were looking towards spending time together this weekend but I have to work.",
+        "hypothesis": "I feel terrible that I have to work this weekend and can't spend time with my friends",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 688,
+        "premise": "My friends were looking towards spending time together this weekend but I have to work.",
+        "hypothesis": "I'm ecstatic that I have to work this weekend and can't spend time with my friends.",
+        "label": "Contradiction",
+        "explanation": "Most people would not be happy about having to work on a weekend instead of spending time with their friends and so the person is not really ecstatic but being sarcastic."
+    },
+    {
+        "id": 688,
+        "premise": "My friends were looking towards spending time together this weekend but I have to work.",
+        "hypothesis": "I feel joyful that I have to work this weekend and can't spend time with my friends.",
+        "label": "Contradiction",
+        "explanation": "Weekends are generally a time when people get to relax and spend time with friends, so someone who has to work during that time frame would not be joyful."
+    },
+    {
+        "id": 689,
+        "premise": "I really wanted this coconut pineapple cake but they ran out.",
+        "hypothesis": "I wanted the coconut pineapple cake so badly but they totally sold out before I could get my hands on it.",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 689,
+        "premise": "I really wanted this coconut pineapple cake but they ran out.",
+        "hypothesis": "I wanted the coconut pineapple cake so badly and it felt great when they totally sold out before I could get my hands on it.",
+        "label": "Contradiction",
+        "explanation": "The feeling of wanting something and not getting it is usually a negative one, so someone being glad that they didn't get what they wanted is absurd."
+    },
+    {
+        "id": 689,
+        "premise": "I really wanted this coconut pineapple cake but they ran out.",
+        "hypothesis": "I wanted the coconut pineapple cake so badly but gotta thank my amazing fortune because they totally sold out before I could get my hands on it",
+        "label": "Contradiction",
+        "explanation": "The fact that the cake sold out before they could get their hands on it implies that someone is unlucky and should not be thanking their fortune."
+    },
+    {
+        "id": 690,
+        "premise": "Asked my crush out and she said no.",
+        "hypothesis": "I was hoping to get a date with my crush but she said no instead",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 690,
+        "premise": "Asked my crush out and she said no.",
+        "hypothesis": "I am so glad that my crush decided to turn me down when I asked her out on a date.",
+        "label": "Contradiction",
+        "explanation": "The person who got turned down probably feels disappointed and embarrassed and so to be glad about it is unrealistic."
+    },
+    {
+        "id": 690,
+        "premise": "Asked my crush out and she said no.",
+        "hypothesis": "Happy with how I was hoping to get a date with my crush but she said no instead",
+        "label": "Contradiction",
+        "explanation": "The person who got turned down probably feels disappointed and embarrassed and so to be happy about it is unrealistic."
+    },
+    {
+        "id": 691,
+        "premise": "My boss just bought a new boat that I can never afford.",
+        "hypothesis": "The new boat my boss just bought makes me feel insanely jealous",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 691,
+        "premise": "My boss just bought a new boat that I can never afford.",
+        "hypothesis": "I am very happy for my boss that they can afford to buy a new boat and I don't feel jealous at all.",
+        "label": "Contradiction",
+        "explanation": "A new boat is a very expensive purchase and so someone being happy for their boss that they can afford it cannot be genuine because it is likely that the person is feeling jealous instead."
+    },
+    {
+        "id": 691,
+        "premise": "My boss just bought a new boat that I can never afford..",
+        "hypothesis": "I am so content with my poverty that the new boat my boss just bought doesn't make me feel jealous at all.",
+        "label": "Contradiction",
+        "explanation": "Owing to poverty, people often don't have many material possessions and so a new boat which is expensive would make them feel jealous."
+    },
+    {
+        "id": 692,
+        "premise": "I found a text message on my wife phone that proves she is cheating on me.",
+        "hypothesis": "The discovery of the text message on my wife's phone that proves she is cheating on me has left me in complete devastation",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 692,
+        "premise": "I found a text message on my wife phone that proves she is cheating on me.",
+        "hypothesis": "The discovery of the text message on my wife's phone that proves she is cheating on me has left me completely overjoyed",
+        "label": "Contradiction",
+        "explanation": "Discovering that one's wife is cheating on them is not a good thing and so someone being overjoyed about it is highly unrealistic."
+    },
+    {
+        "id": 692,
+        "premise": "I found a text message on my wife phone that proves she is cheating on me.",
+        "hypothesis": "The discovery of the text message on my wife's phone that proves she is cheating on me has left me in complete serenity",
+        "label": "Contradiction",
+        "explanation": "Discovering that one's wife is cheating on them is not a situation that would lead to serenity but instead to distress, heartache, and pain."
+    },
+    {
+        "id": 693,
+        "premise": "I had to move away from my childhood home, all my memories were there.",
+        "hypothesis": "I had to leave my childhood home, and all my cherished memories are now gone",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 693,
+        "premise": "I had to move away from my childhood home, all my memories were there.",
+        "hypothesis": "I had to leave my childhood home, and am grateful all my cherished memories are now gone",
+        "label": "Contradiction",
+        "explanation": " Childhood memories are often cherished and special, so losing them would not be a good thing."
+    },
+    {
+        "id": 693,
+        "premise": "I had to move away from my childhood home, all my memories were there.",
+        "hypothesis": "So happy that I had to leave my childhood home, and all my cherished memories are now gone",
+        "label": "Contradiction",
+        "explanation": " Childhood memories are often cherished and special, so losing them would not make someone happy."
+    },
+    {
+        "id": 694,
+        "premise": "My friends ditched me during a rock concert.",
+        "hypothesis": "I was feeling really alone and out of place when my friends ditched me during the rock concert",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 694,
+        "premise": "My friends ditched me during a rock concert.",
+        "hypothesis": "I was feeling totally accepted when my friends ditched me during the rock concert.",
+        "label": "Contradiction",
+        "explanation": "When someone ditches their friends during the concert, it implies that they are not accepted by them which is not a good feeling."
+    },
+    {
+        "id": 694,
+        "premise": "My friends ditched me during a rock concert.",
+        "hypothesis": "I was feeling really lovable when my friends ditched me during the rock concert",
+        "label": "Contradiction",
+        "explanation": "Ditching someone during an event, especially a rock concert, is not a nice thing to do and so the person who was ditched must have felt really bad and not precious."
+    },
+    {
+        "id": 695,
+        "premise": "Today a swarm of wasps was chasing after me.",
+        "hypothesis": "Today I was running away from a swarm of wasps that were following me",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 695,
+        "premise": "Today a swarm of wasps was chasing after me.",
+        "hypothesis": "So pleased with how today I was running away from a swarm of wasps that were following me",
+        "label": "Contradiction",
+        "explanation": "Wasps are often feared because of their sting and so running away from them would not be a pleased moment but a terrified one."
+    },
+    {
+        "id": 695,
+        "premise": "Today a swarm of wasps was chasing after me.",
+        "hypothesis": "My favorite activity today involved running away from a swarm of wasps that were following me.",
+        "label": "Contradiction",
+        "explanation": "Wasps are often feared because of their sting and so running away from them would not be a favorite activity for anyone."
+    },
+    {
+        "id": 696,
+        "premise": "I'm a few dollars short for an important bill I have due.",
+        "hypothesis": "I am annoyed because I don't have enough money to pay my important bill",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 696,
+        "premise": "I'm a few dollars short for an important bill I have due.",
+        "hypothesis": "I am very proud of myself because i don't have enough money to pay my important bill.",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 696,
+        "premise": "I'm a few dollars short for an important bill I have due.",
+        "hypothesis": "I am peaceful because I don't have enough money to pay my important bill",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 697,
+        "premise": "Someone stole the stereo out of my car.",
+        "hypothesis": "Some bastard decided to steal my car stereo and make me suffer",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 697,
+        "premise": "Someone stole the stereo out of my car.",
+        "hypothesis": "Some bastard decided to steal my car stereo which makes really thankful",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 697,
+        "premise": "Someone stole the stereo out of my car.",
+        "hypothesis": "Some bastard decided to steal my car stereo and make me happy",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 698,
+        "premise": "My wife asked me to clean the house while she was away for a few days and I ended up wasting my time playing video games instead.",
+        "hypothesis": "I feel terrible that I played video games instead of cleaning the house like my wife asked me to",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 698,
+        "premise": "My wife asked me to clean the house while she was away for a few days and I ended up wasting my time playing video games instead.",
+        "hypothesis": "i feel so proud that i played video games instead of cleaning the house like my wife asked me to.",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 698,
+        "premise": "My wife asked me to clean the house while she was away for a few days and I ended up wasting my time playing video games instead.",
+        "hypothesis": "I feel so useful that I played video games instead of cleaning the house like my wife asked me to",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 699,
+        "premise": "I saw a guy put whipped cream on his taco.",
+        "hypothesis": "The guy's taco looked totally normal until I saw the whipped cream and then I was totally disgusted",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 699,
+        "premise": "I saw a guy put whipped cream on his taco.",
+        "hypothesis": "the guy's taco looked totally normal until i saw the whipped cream an then i really wanted to order one just like it.",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 699,
+        "premise": "I saw a guy put whipped cream on his taco.",
+        "hypothesis": "The guy's taco looked totally normal until I saw the whipped cream and then I was totally craving it",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 700,
+        "premise": "I ate 5 pizzas all by myself yesterday.",
+        "hypothesis": "I feel so embarrassed that I ate 5 pizzas all by myself yesterday",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 700,
+        "premise": "I ate 5 pizzas all by myself yesterday.",
+        "hypothesis": "I feel so proud that I ate 5 pizzas all by myself yesterday",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 700,
+        "premise": "I ate 5 pizzas all by myself yesterday.",
+        "hypothesis": "My life is so great I ate 5 pizzas all by myself yesterday",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 701,
+        "premise": "Becky got new shoes and they were the ones I wanted.",
+        "hypothesis": "Becky's new shoes are the same ones I wanted and now I feel insanely jealous",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 701,
+        "premise": "Becky got new shoes and they were the ones I wanted.",
+        "hypothesis": "Becky's new shoes are the same ones i wanted and now i'm so happy for her.",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 701,
+        "premise": "Becky got new shoes and they were the ones I wanted.",
+        "hypothesis": "Becky's new shoes are the same ones I wanted and now I feel insanely happy for her",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 702,
+        "premise": "My friend left me all alone at this party to go hang out with some guy I've never met before.",
+        "hypothesis": "Feeling lonesome at this party because my friend ditched me to go talk to some guy she just met",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 702,
+        "premise": "My friend left me all alone at this party to go hang out with some guy I've never met before.",
+        "hypothesis": "Feeling so awesome at this party because my friend ditched me to go talk to some guy she just met",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 702,
+        "premise": "My friend left me all alone at this party to go hang out with some guy I've never met before.",
+        "hypothesis": "Feeling popular at this party because my friend ditched me to go talk to some guy she just met",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 703,
+        "premise": "I received a letter from the IRS saying I didn't pay my taxes.",
+        "hypothesis": "I freaked out when I received a letter from the IRS saying I owed taxes from 3 years ago",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 703,
+        "premise": "I received a letter from the IRS saying I didn't pay my taxes.",
+        "hypothesis": "I was thrilled when I received a letter from the IRS saying I owed taxes from 3 years ago",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 703,
+        "premise": "I received a letter from the IRS saying I didn't pay my taxes.",
+        "hypothesis": "I jumped for joy when I received a letter from the IRS saying I owed taxes from 3 years ago",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 704,
+        "premise": "My sister in law sleeps all day and never cares nor knows where her sons are.",
+        "hypothesis": "My sister in law is a total deadbeat who sleeps all day and never knows where her kids are",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 704,
+        "premise": "My sister in law sleeps all day and never cares nor knows where her sons are.",
+        "hypothesis": "My sister in law is an amazing mother who sleeps all day and never knows where her kids are",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 704,
+        "premise": "My sister in law sleeps all day and never cares nor knows where her sons are.",
+        "hypothesis": "Proud of how my sister in law is a total deadbeat who sleeps all day and never knows where her kids are",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 705,
+        "premise": "A homeless woman asked me for money and I said no.",
+        "hypothesis": "I felt terrible when I said no to the homeless woman begging for money",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 705,
+        "premise": "A homeless woman asked me for money and I said no.",
+        "hypothesis": "I felt proud when I said no to the homeless woman begging for money",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 705,
+        "premise": "A homeless woman asked me for money and I said no.",
+        "hypothesis": "I felt fantastic when I said no to the homeless woman begging for money",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 706,
+        "premise": "I lost my credit card this morning and someone charged 100 dollars on it.",
+        "hypothesis": "I am so let down that someone managed to use my lost credit card and charged $100 on it",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 706,
+        "premise": "I lost my credit card this morning and someone charged 100 dollars on it.",
+        "hypothesis": "am so grateful that someone managed to use my lost credit card and charged $100 on it",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 706,
+        "premise": "I lost my credit card this morning and someone charged 100 dollars on it.",
+        "hypothesis": "I am so happy that someone managed to use my lost credit card and charged $100 on it",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 707,
+        "premise": "I wish I was skinny like a model.",
+        "hypothesis": "I wish I could be as skinny as a model and not have to worry about my weight",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 707,
+        "premise": "I wish I was skinny like a model.",
+        "hypothesis": "i wish i could be as skinny as a model and be able to eat anything i want.",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 707,
+        "premise": "I wish I was skinny like a model.",
+        "hypothesis": "I wish I could be as skinny as a sumo wrestler and not have to worry about my weight",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 708,
+        "premise": "I left my friend at the bar the other night.",
+        "hypothesis": "I abandoned my friend at the bar the other night and I feel terrible about it",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 708,
+        "premise": "I left my friend at the bar the other night.",
+        "hypothesis": "I abandoned my friend at the bar the other night and I feel so proud of myself",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 708,
+        "premise": "I left my friend at the bar the other night.",
+        "hypothesis": "I abandoned my friend at the bar the other night and I feel proud about it",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 709,
+        "premise": "People keep littering around my apartment building.",
+        "hypothesis": "It makes me so mad when people litter around my apartment building because it's such a waste",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 709,
+        "premise": "People keep littering around my apartment building.",
+        "hypothesis": "it always puts a smile on my face when people litter around my apartment building  because it's such a waste.",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 709,
+        "premise": "People keep littering around my apartment building.",
+        "hypothesis": "It makes me so glad when people litter around my apartment building because it's such a waste",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 710,
+        "premise": "I do not like being in small spaces.",
+        "hypothesis": "I feel claustrophobic and trapped when I am in small spaces",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 710,
+        "premise": "I do not like being in small spaces.",
+        "hypothesis": "I feel claustrophobic and confident when I am in small spaces",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 710,
+        "premise": "I do not like being in small spaces.",
+        "hypothesis": "I feel claustrophobic and clam when I am in small spaces",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 711,
+        "premise": "Someone was looking at me through my window in the middle of the night.",
+        "hypothesis": "I was really scared when I woke up to see someone peeking through my window in the middle of the night",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 711,
+        "premise": "Someone was looking at me through my window in the middle of the night.",
+        "hypothesis": "i was so happy when i woke up to see someone peeking through my window in the middle of the night.",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 711,
+        "premise": "Someone was looking at me through my window in the middle of the night.",
+        "hypothesis": "I was really pleased when I woke up to see someone peeking through my window in the middle of the night",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 712,
+        "premise": "I always hear crazy noises in my house.",
+        "hypothesis": "I am scared to death of the weird noises that come from my house at night",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 712,
+        "premise": "I always hear crazy noises in my house.",
+        "hypothesis": "I am in love with the weird noises that come from my house at night",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 712,
+        "premise": "I always hear crazy noises in my house.",
+        "hypothesis": "I am comforted by the weird noises that come from my house at night",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 713,
+        "premise": "My pet bird is always making a noise.",
+        "hypothesis": "I swear my pet bird is purposely trying to make as much noise as possible",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 713,
+        "premise": "My pet bird is always making a noise.",
+        "hypothesis": "I swear my pet bird is purposely trying to make as much noise as possible to help me sleep",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 713,
+        "premise": "My pet bird is always making a noise.",
+        "hypothesis": "I swear my quite pet bird is purposely trying to make as much noise as possible",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 714,
+        "premise": "None of the girls at school like me.",
+        "hypothesis": "It sucks that all the girls at school don't like me",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 714,
+        "premise": "None of the girls at school like me.",
+        "hypothesis": "It's awesome that all the girls at school don't like me",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 714,
+        "premise": "None of the girls at school like me.",
+        "hypothesis": "It's such a relief all the girls at school don't like me.",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 715,
+        "premise": "Every night around midnight I hear terrible noises coming from the woods outside of my home.",
+        "hypothesis": "The reason I can't sleep at night is because of the strange noises that come from the woods outside my home",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 715,
+        "premise": "Every night around midnight I hear terrible noises coming from the woods outside of my home.",
+        "hypothesis": "The reason I sleep peacefully at night is because of the strange noises that come from the woods outside my home",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 715,
+        "premise": "Every night around midnight I hear terrible noises coming from the woods outside of my home.",
+        "hypothesis": "The reason I can't sleep at night is because of the lovely noises that come from the woods outside my home",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 716,
+        "premise": "I broke my mother's prized teapot.",
+        "hypothesis": "I feel terrible that I accidentally broke my mother's prized teapot",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 716,
+        "premise": "I broke my mother's prized teapot.",
+        "hypothesis": "I feel great that I accidentally broke my mother's prized teapot",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 716,
+        "premise": "I broke my mother's prized teapot.",
+        "hypothesis": "I feel proud that I accidentally broke my mother's prized teapot",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 717,
+        "premise": "Some people egged my house.",
+        "hypothesis": "Some people threw eggs at my house and it made me so mad",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 717,
+        "premise": "Some people egged my house.",
+        "hypothesis": "Some people threw eggs at my house and it made me so darn happy",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 717,
+        "premise": "Some people egged my house.",
+        "hypothesis": "Some people threw eggs at my house and it made me so happy",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 718,
+        "premise": "I just found out my wife of 10 years has been unfaithful to me.",
+        "hypothesis": "I am absolutely crushed that my wife of 10 years has been unfaithful to me",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 718,
+        "premise": "I just found out my wife of 10 years has been unfaithful to me.",
+        "hypothesis": "I am absolutely thrilled that my wife of 10 years has been unfaithful to me",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 718,
+        "premise": "I just found out my wife of 10 years has been unfaithful to me.",
+        "hypothesis": "I am absolutely crushed that my loyal wife of 10 years has been unfaithful to me",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 719,
+        "premise": "My friend left the house in dirt.",
+        "hypothesis": "My friend left the house looking like she just crawled out of a dumpster",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 719,
+        "premise": "My friend left the house in dirt.",
+        "hypothesis": "my friend left the house looking like she was going to the school dance.",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 719,
+        "premise": "My friend left the house in dirt.",
+        "hypothesis": "Proud of how my friend left the house looking like she just crawled out of a dumpster",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 720,
+        "premise": "My car got towed when I was getting coffee for my boss",
+        "hypothesis": "Got my car towed when I was getting coffee for my boss and now I have to pay a $100 fee",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 720,
+        "premise": "My car got towed when I was getting coffee for my boss",
+        "hypothesis": "Got my car towed when i was getting coffee for my boss but it's no big deal, i only have to pay a $100 fee.",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 720,
+        "premise": "My car got towed when I was getting coffee for my boss",
+        "hypothesis": "Overjoyed that I got my car towed when I was getting coffee for my boss and now I have to pay a $100 fee",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 721,
+        "premise": "It's been raining everyday and I'm starting to hear water dripping in my attic.",
+        "hypothesis": "The sound of water dripping in my attic is freaking me out because it means the roof is leaking",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 721,
+        "premise": "It's been raining everyday and I'm starting to hear water dripping in my attic.",
+        "hypothesis": "the sound of water dripping in my attic is like the sound of music because it means the roof is leaking.",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 721,
+        "premise": "It's been raining everyday and I'm starting to hear water dripping in my attic.",
+        "hypothesis": "The sound of water dripping in my attic pleases me because it means the roof is leaking",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 722,
+        "premise": "I hate it when the waitress bring another table food when I got there first",
+        "hypothesis": "I feel angry when the waitress brings food to another table when I am the one who got there first",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 722,
+        "premise": "I hate it when the waitress bring another table food when I got there first",
+        "hypothesis": "I just love it when the waitress brings food to another table when I am the one who got there first",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 722,
+        "premise": "I hate it when the waitress bring another table food when I got there first",
+        "hypothesis": "I feel delighted when the waitress brings food to another table when I am the one who got there first",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 723,
+        "premise": "I don't like it when mosquitoes attack me while I'm having a good time at the beach",
+        "hypothesis": "I don't appreciate it when mosquitoes ruin my good time by attacking me while I'm at the beach",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 723,
+        "premise": "I don't like it when mosquitoes attack me while I'm having a good time at the beach",
+        "hypothesis": "I love it when mosquitoes ruin my good time by attacking me while I'm at the beach",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 723,
+        "premise": "I don't like it when mosquitoes attack me while I'm having a good time at the beach",
+        "hypothesis": "I appreciate it when mosquitoes ruin my good time by attacking me while I'm at the beach",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 724,
+        "premise": "I am so grossed out that my roommate hasn't washed the dishes in weeks. ",
+        "hypothesis": "It's horrifying how my roommate hasn't done the dishes in weeks and they're all piled up in the sink",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 724,
+        "premise": "I am so grossed out that my roommate hasn't washed the dishes in weeks. ",
+        "hypothesis": "it's so respectful how my roommate hasn't done the dishes in weeks and they're all piled up in the sink.",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 724,
+        "premise": "I am so grossed out that my roommate hasn't washed the dishes in weeks. ",
+        "hypothesis": "It's beautiful how my roommate hasn't done the dishes in weeks and they're all piled up in the sink",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 725,
+        "premise": "This new printer really grinds my gears!!!",
+        "hypothesis": "This new printer makes is really irritating and grating on my nerves",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 725,
+        "premise": "This new printer really grinds my gears!!!",
+        "hypothesis": "The sound this new printer makes is really irritating and puts me right to sleep",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 725,
+        "premise": "This new printer really grinds my gears!!!",
+        "hypothesis": "This new angelic printer makes is really irritating and grating on my nerves",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 726,
+        "premise": "I was having a great day until someone rear ended my bumper on the way home",
+        "hypothesis": "I was really enjoying my day until someone slammed into the back of my car while I was driving home",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 726,
+        "premise": "I was having a great day until someone rear ended my bumper on the way home",
+        "hypothesis": "I was miserable until someone slammed into the back of my car while I was driving home",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 726,
+        "premise": "I was having a great day until someone rear ended my bumper on the way home",
+        "hypothesis": "Love how I was really enjoying my day until someone slammed into the back of my car while I was driving home",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 727,
+        "premise": "I'm not ready for the long 9 hour drive.  ",
+        "hypothesis": "I am dreading the long 9 hour drive because I feel like it's going to be so boring",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 727,
+        "premise": "I'm not ready for the long 9 hour drive.  ",
+        "hypothesis": "I am dreading the long 9 hour drive because I feel like it's going to be so fun",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 727,
+        "premise": "I'm not ready for the long 9 hour drive.  ",
+        "hypothesis": "I am thrilled about the long 9 hour drive because I feel like it's going to be so boring",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 728,
+        "premise": "I am not able to pay for my mortgage and think I will loose my home",
+        "hypothesis": "I am so scared that I will not be able to make my mortgage payments and loose my home",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 728,
+        "premise": "I am not able to pay for my mortgage and think I will loose my home",
+        "hypothesis": "I am so overjoyed that I will not be able to make my mortgage payments and loose my home",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 728,
+        "premise": "I am not able to pay for my mortgage and think I will loose my home",
+        "hypothesis": "I am so comforted that I will not be able to make my mortgage payments and loose my home",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 729,
+        "premise": "My family buys my adult sister things all the time but can't really help me out when I need it.",
+        "hypothesis": "I feel terrible that my family buys my adult sister things all the time but can't really help me out when I need it",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 729,
+        "premise": "My family buys my adult sister things all the time but can't really help me out when I need it.",
+        "hypothesis": "I just love it that that my family buys my adult sister things all the time but can't really help me out when I need it",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 729,
+        "premise": "My family buys my adult sister things all the time but can't really help me out when I need it.",
+        "hypothesis": "I feel really loved that my family buys my adult sister things all the time but can't really help me out when I need it",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 730,
+        "premise": "The road work outside my house just goes on for 12 hours straight everyday mostly at night!",
+        "hypothesis": "I can't even sleep because of the road work going on outside my house that just never ends!",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 730,
+        "premise": "The road work outside my house just goes on for 12 hours straight everyday mostly at night!",
+        "hypothesis": "Love how I can't even sleep because of the road work going on outside my house that just never ends!",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 730,
+        "premise": "The road work outside my house just goes on for 12 hours straight everyday mostly at night!",
+        "hypothesis": "I can't even sleep because of the comforting road work going on outside my house that just never ends!",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 731,
+        "premise": "I have not been on any vacation this year while my friend is on her third vacation on a cruise. .",
+        "hypothesis": "I am green with envy from the fact that my friend is on her third vacation on a cruise while I have not been on any vacation this year",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 731,
+        "premise": "I have not been on any vacation this year while my friend is on her third vacation on a cruise. .",
+        "hypothesis": "I am so happy about the fact that my friend is on her third vacation on a cruise while I have not been on any vacation this year",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 731,
+        "premise": "I have not been on any vacation this year while my friend is on her third vacation on a cruise. .",
+        "hypothesis": "I am overjoyed with the fact that my friend is on her third vacation on a cruise while I have not been on any vacation this year",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 732,
+        "premise": "I am so mad my dog ate my homework that I spend 2 hours on so now I have to redo the whole thing! ",
+        "hypothesis": "I am livid that my dog ate my homework and now I have to waste another 2 hours on it!",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 732,
+        "premise": "I am so mad my dog ate my homework that I spend 2 hours on so now I have to redo the whole thing! ",
+        "hypothesis": "I am amazed that my dog ate my homework and now I have to waste another 2 hours on it!",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 732,
+        "premise": "I am so mad my dog ate my homework that I spend 2 hours on so now I have to redo the whole thing! ",
+        "hypothesis": "I am happy that my dog ate my homework and now I get to spend another 2 hours on it!",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 733,
+        "premise": "I was so mad when I came out of the salon with different hair color than I asked of",
+        "hypothesis": "I freaked out when I left the hair salon and my new hair color was not what I asked for",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 733,
+        "premise": "I was so mad when I came out of the salon with different hair color than I asked of",
+        "hypothesis": "I jumped for joy when I left the hair salon and my new hair color was not what I asked for",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 733,
+        "premise": "I was so mad when I came out of the salon with different hair color than I asked of",
+        "hypothesis": "I was thrilled when I left the hair salon and my new hair color was not what I asked for",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 734,
+        "premise": "I was eating at this really fancy restaurant and then my false tooth came out while I was biting into the bread.",
+        "hypothesis": "I was really enjoying myself at this really swanky restaurant until my false tooth popped out while I was eating the bread",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 734,
+        "premise": "I was eating at this really fancy restaurant and then my false tooth came out while I was biting into the bread.",
+        "hypothesis": "I am so glad I was at this really swanky restaurant and my false tooth popped out while I was eating the bread, I like giving people a laugh.",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 734,
+        "premise": "I was eating at this really fancy restaurant and then my false tooth came out while I was biting into the bread.",
+        "hypothesis": "I was really enjoying myself at this really swanky restaurant until my dependable false tooth popped out while I was eating the bread",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 735,
+        "premise": "I'm so mad at my sister because she always talks bad things about me behind my back",
+        "hypothesis": "I absolutely detest my sister because she always talks shit about me behind my back",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 735,
+        "premise": "I'm so mad at my sister because she always talks bad things about me behind my back",
+        "hypothesis": "I absolutely love my sister because she always talks shit about me behind my back",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 735,
+        "premise": "I'm so mad at my sister because she always talks bad things about me behind my back",
+        "hypothesis": "I absolutely love my sister because she always talks shit about me behind my back",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 736,
+        "premise": "I was really wishing I was moving to New York like my friend.",
+        "hypothesis": "I was green with envy when my friend told me that she is moving to New York",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 736,
+        "premise": "I was really wishing I was moving to New York like my friend.",
+        "hypothesis": "I was ecstatic when my friend told me that she is moving to New York",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 736,
+        "premise": "I was really wishing I was moving to New York like my friend.",
+        "hypothesis": "Love how I was green with envy when my friend told me that she is moving to New York",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 737,
+        "premise": "I spent a few hundred dollars on a purse which is a lot for me and it started fraying in days.",
+        "hypothesis": "I can't believe how poorly made the purse I bought for a few hundred dollars is and that it started fraying in days",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 737,
+        "premise": "I spent a few hundred dollars on a purse which is a lot for me and it started fraying in days.",
+        "hypothesis": "I can't believe how sturdy the purse I bought for a few hundred dollars is and that it started fraying in days",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 737,
+        "premise": "I spent a few hundred dollars on a purse which is a lot for me and it started fraying in days.",
+        "hypothesis": "I can't believe how well made the purse I bought for a few hundred dollars is and that it started fraying in days",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 738,
+        "premise": "I was waiting to find out some lab results and wasn't sure if they would diagnose me with cancer. ",
+        "hypothesis": "I was waiting to find out some lab results and wasn't sure if they would diagnose me with a deadly disease",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 738,
+        "premise": "I was waiting to find out some lab results and wasn't sure if they would diagnose me with cancer. ",
+        "hypothesis": "I was excited to find out some lab results and wasn't sure if they would diagnose me with a deadly disease",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 738,
+        "premise": "I was waiting to find out some lab results and wasn't sure if they would diagnose me with cancer. ",
+        "hypothesis": "I was waiting to find out some lab results and wasn't sure if they would diagnose me with a deadly cute disease",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 739,
+        "premise": "I felt sad that I was not asked to be the bridesmaid at a close friends wedding",
+        "hypothesis": "It made me feel terrible when I found out that I was not asked to be a bridesmaid in my close friend's wedding",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 739,
+        "premise": "I felt sad that I was not asked to be the bridesmaid at a close friends wedding",
+        "hypothesis": "It made me feel pleased when I found out that I was not asked to be a bridesmaid in my close friend's wedding",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 739,
+        "premise": "I felt sad that I was not asked to be the bridesmaid at a close friends wedding",
+        "hypothesis": "How wonderful it was when I found out that I was not asked to be a bridesmaid in my close friend's wedding.",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 740,
+        "premise": "I got my hair done today and it looks really bad i was too embarrassed to go out the house. ",
+        "hypothesis": "I got my hair done today and it looks really terrible so I had to stay in the house all day",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 740,
+        "premise": "I got my hair done today and it looks really bad i was too embarrassed to go out the house. ",
+        "hypothesis": "I got my hair done today and it looked so great that I had to hide in the house all day.",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 740,
+        "premise": "I got my hair done today and it looks really bad i was too embarrassed to go out the house. ",
+        "hypothesis": "I got my hair done today and it looks really amazing so I had to stay in the house all day",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 741,
+        "premise": "My mother got scammed out of hundreds of dollars from some internet phishing thing",
+        "hypothesis": "My mother got conned out of hundreds of dollars from some online phishing scam",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 741,
+        "premise": "My mother got scammed out of hundreds of dollars from some internet phishing thing",
+        "hypothesis": "My mother got conned out of hundreds of dollars from some once-in-a-lifetime amazing investment opportunity",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 741,
+        "premise": "My mother got scammed out of hundreds of dollars from some internet phishing thing",
+        "hypothesis": "Pleased with how my mother got conned out of hundreds of dollars from some online phishing scam",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 742,
+        "premise": "I feel nervous most of the time but when my regional boss comes into town it gets pretty bad",
+        "hypothesis": "I feel like a bundle of nerves all the time but when my regional boss visits it's like my anxiety skyrockets",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 742,
+        "premise": "I feel nervous most of the time but when my regional boss comes into town it gets pretty bad",
+        "hypothesis": "I feel like a bundle of nerves all the time but when my regional boss visits I am totally relaxed",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 742,
+        "premise": "I feel nervous most of the time but when my regional boss comes into town it gets pretty bad",
+        "hypothesis": "I feel so confident when my regional boss visits it's like my anxiety skyrockets",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 743,
+        "premise": "My dog vomited in the living room and it stuck so bad I almost vomited trying to clean it up.",
+        "hypothesis": "My dog puked in the living room and it made me so sick that I almost threw up trying to clean it up",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 743,
+        "premise": "My dog vomited in the living room and it stuck so bad I almost vomited trying to clean it up.",
+        "hypothesis": "My dog puked in the living room and it made me so happy that I almost threw up trying to clean it up",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 743,
+        "premise": "My dog vomited in the living room and it stuck so bad I almost vomited trying to clean it up.",
+        "hypothesis": "My dog puked in the living room and it made me so happy that I almost threw up trying to clean it up",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 744,
+        "premise": "I am so ashamed I walked into my office late and in the middle of a important meeting",
+        "hypothesis": "I am really embarrassed that I walked into my office late and during a very important meeting",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 744,
+        "premise": "I am so ashamed I walked into my office late and in the middle of a important meeting",
+        "hypothesis": "I am really glad that I walked into my office late and during a very important meeting",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 744,
+        "premise": "I am so ashamed I walked into my office late and in the middle of a important meeting",
+        "hypothesis": "I am really totally confident that I walked into my office late and during a very important meeting",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 745,
+        "premise": "I accidentally had expired milk today and it tasted gross",
+        "hypothesis": "I drank expired milk today and it made me feel like throwing up because it tasted so gross",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 745,
+        "premise": "I accidentally had expired milk today and it tasted gross",
+        "hypothesis": "I drank expired milk today and it made me feel like throwing up because it tasted so delicious",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 745,
+        "premise": "I accidentally had expired milk today and it tasted gross",
+        "hypothesis": "I drank expired milk today and it made me feel like throwing up because it tasted so delicious",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 746,
+        "premise": "I am so jealous of my friend Mary who got accepted into Medical school while I am still waiting on my application to be approved.  ",
+        "hypothesis": "It kills me that my friend Mary got accepted into Medical school and I am still waiting on my application to be approved",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 746,
+        "premise": "I am so jealous of my friend Mary who got accepted into Medical school while I am still waiting on my application to be approved.  ",
+        "hypothesis": "It thrills me that my friend Mary got accepted into Medical school and I am still waiting on my application to be approved",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 746,
+        "premise": "I am so jealous of my friend Mary who got accepted into Medical school while I am still waiting on my application to be approved.  ",
+        "hypothesis": "It delights me that my friend Mary got accepted into Medical school and I am still waiting on my application to be approved",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 747,
+        "premise": "I am furious my step brother sold my laptop so that he could buy a new gaming station! ",
+        "hypothesis": "My step brother's decision to sell my laptop in order to buy a new gaming station makes me see red",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 747,
+        "premise": "I am furious my step brother sold my laptop so that he could buy a new gaming station! ",
+        "hypothesis": "My step brother's decision to sell my laptop in order to buy a new gaming station makes me love him",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 747,
+        "premise": "I am furious my step brother sold my laptop so that he could buy a new gaming station! ",
+        "hypothesis": "My step brother's decision to sell my laptop in order to buy a new gaming station makes me totally peaceful",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 748,
+        "premise": "I almost puked after I ate the rotten cheese burger I was given at McDonalds. ",
+        "hypothesis": "I feel like puking after eating the rotten cheese burger I was given at McDonalds",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 748,
+        "premise": "I almost puked after I ate the rotten cheese burger I was given at McDonalds. ",
+        "hypothesis": "i feel like writing a letter of appreciation after eating the rotten cheese burger i was given at McDonals.",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 748,
+        "premise": "I almost puked after I ate the rotten cheese burger I was given at McDonalds. ",
+        "hypothesis": "I feel amazing after eating the rotten cheese burger I was given at McDonalds",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 749,
+        "premise": "I am afraid of flying cockroaches ",
+        "hypothesis": "I am petrified of flying cockroaches and would do anything to avoid them",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 749,
+        "premise": "I am afraid of flying cockroaches ",
+        "hypothesis": "I am petrified of flying cockroaches and would do anything invite one over",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 749,
+        "premise": "I am afraid of flying cockroaches ",
+        "hypothesis": "I am petrified of flying cockroaches and would do anything to love them",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 750,
+        "premise": "I had a car accident and can't walk any longer.",
+        "hypothesis": "I am so sorry that I was in a car accident and now can't walk or move my legs",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 750,
+        "premise": "I had a car accident and can't walk any longer.",
+        "hypothesis": "what a lucky break that i was in a car accident and now can't walk or move my legs.",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 750,
+        "premise": "I had a car accident and can't walk any longer.",
+        "hypothesis": "I am so happy that I was in a car accident and now can't walk or move my legs",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 751,
+        "premise": "I was supposed to meet up with someone to sell a belonging but they flaked.",
+        "hypothesis": "They flaked on me and now I have to resell my belonging to someone else which is going to take a lot more effort",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 751,
+        "premise": "I was supposed to meet up with someone to sell a belonging but they flaked.",
+        "hypothesis": "Delighted with how they flaked on me and now I have to resell my belonging to someone else which is going to take a lot more effort",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 751,
+        "premise": "I was supposed to meet up with someone to sell a belonging but they flaked.",
+        "hypothesis": "They were totally reliable and now I have to resell my belonging to someone else which is going to take a lot more effort",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 752,
+        "premise": "My brother wouldn't leave me alone and I think I'm going to punch him!",
+        "hypothesis": "My brother wouldn't stop following me around and I was this close to punching him!",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 752,
+        "premise": "My brother wouldn't leave me alone and I think I'm going to punch him!",
+        "hypothesis": "Love how my brother wouldn't stop following me around and I was this close to punching him!",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 752,
+        "premise": "My brother wouldn't leave me alone and I think I'm going to punch him!",
+        "hypothesis": "My wonderful brother wouldn't stop following me around and I was this close to punching him!",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 753,
+        "premise": "I was so mad I spent weeks on my project and my partner took most of the credit for it.",
+        "hypothesis": "I was so angry that I spent weeks on my project and my partner took most of the credit for it",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 753,
+        "premise": "I was so mad I spent weeks on my project and my partner took most of the credit for it.",
+        "hypothesis": "I was overjoyed that I spent weeks on my project and my partner took most of the credit for it",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 753,
+        "premise": "I was so mad I spent weeks on my project and my partner took most of the credit for it.",
+        "hypothesis": "I was so proud that I spent weeks on my project and my partner took most of the credit for it",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 754,
+        "premise": "I applied for a loan to buy a house from the bank but didn't get it.",
+        "hypothesis": "I was really hopeful about getting the loan to buy my dream house, but sadly the bank rejected me",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 754,
+        "premise": "I applied for a loan to buy a house from the bank but didn't get it.",
+        "hypothesis": "I was really hopeful about getting the loan to buy my dream house, but luckily the bank rejected me",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 754,
+        "premise": "I applied for a loan to buy a house from the bank but didn't get it.",
+        "hypothesis": "I was really hopeful about getting the loan to buy my dream house, but thankfully the bank rejected me",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 755,
+        "premise": "My coworker left early on me today and left me with a ton of work.",
+        "hypothesis": "My coworker bailed on me today and left me high and dry with a ton of work",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 755,
+        "premise": "My coworker left early on me today and left me with a ton of work.",
+        "hypothesis": "Overjoyed with how my coworker bailed on me today and left me high and dry with a ton of work",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 755,
+        "premise": "My coworker left early on me today and left me with a ton of work.",
+        "hypothesis": "My dependable coworker bailed on me today and left me high and dry with a ton of work",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 756,
+        "premise": "I went shopping at a new store and bought all of my meat for the week only to realize it was all expired.",
+        "hypothesis": "I wasted all my money at this new store only to buy expired meat products",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 756,
+        "premise": "I went shopping at a new store and bought all of my meat for the week only to realize it was all expired.",
+        "hypothesis": "I wisely invested all my money at this new store only to buy expired meat products",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 756,
+        "premise": "I went shopping at a new store and bought all of my meat for the week only to realize it was all expired.",
+        "hypothesis": "Delighted with how I wasted all my money at this new store only to buy expired meat products",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 757,
+        "premise": "I saw a spider running across my desk and screamed.",
+        "hypothesis": "The fact that I saw a spider running across my desk and freaked out makes me terrified",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 757,
+        "premise": "I saw a spider running across my desk and screamed.",
+        "hypothesis": "The fact that I saw a spider running across my desk and freaked out really makes my day",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 757,
+        "premise": "I saw a spider running across my desk and screamed.",
+        "hypothesis": "The fact that I saw a spider running across my desk and freaked out makes me brave",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 758,
+        "premise": "When I found out that my investments had lost more than half of their value i was crushed.",
+        "hypothesis": "When I found out that my investments had lost more than half of their value, I felt like my life was crumbling",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 758,
+        "premise": "When I found out that my investments had lost more than half of their value i was crushed.",
+        "hypothesis": "when i found out that my investments had lost over half of their value, i felt like my research had really paid off.",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 758,
+        "premise": "When I found out that my investments had lost more than half of their value i was crushed.",
+        "hypothesis": "When I found out that my investments had lost more than half of their value, I felt like my life was back on track",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 759,
+        "premise": "Today my boss made me angry by giving me too much work to possibly do",
+        "hypothesis": "Today my boss made me furious by giving me an impossible amount of work to do",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 759,
+        "premise": "Today my boss made me angry by giving me too much work to possibly do",
+        "hypothesis": "My boss made my day today by giving me an impossible amount of work to do",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 759,
+        "premise": "Today my boss made me angry by giving me too much work to possibly do",
+        "hypothesis": "Today my boss made me delighted by giving me an impossible amount of work to do",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 760,
+        "premise": "I was furious with my son on being brought home by the police last week for spray painting an abandoned building.",
+        "hypothesis": "I was so mad when my son got brought home by the police for spray painting an abandoned building",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 760,
+        "premise": "I was furious with my son on being brought home by the police last week for spray painting an abandoned building.",
+        "hypothesis": "I just loved when my son got brought home by the police for spray painting an abandoned building",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 760,
+        "premise": "I was furious with my son on being brought home by the police last week for spray painting an abandoned building.",
+        "hypothesis": "I was so proud when my son got brought home by the police for spray painting an abandoned building",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 761,
+        "premise": "i planted some beautiful flowers and rabbits came and nibbled on them last night. ",
+        "hypothesis": "I was so excited to see my beautiful flowers flourishing but then I came this morning and saw that the rabbits ate them all last night",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 761,
+        "premise": "i planted some beautiful flowers and rabbits came and nibbled on them last night. ",
+        "hypothesis": "i was so excited that my beautiful flowers were flourishing and then i felt even better when i came in this morning and saw that the rabbits ate them all last night.",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 761,
+        "premise": "i planted some beautiful flowers and rabbits came and nibbled on them last night. ",
+        "hypothesis": "Thrilled with how I was so excited to see my beautiful flowers flourishing but then I came this morning and saw that the rabbits ate them all last night",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 762,
+        "premise": "Two of my co-workers got into a huge fight in a meeting and I was so ashamed by their abnormal behavior.",
+        "hypothesis": "I was so embarrassed when my two co-workers started fighting in a meeting like kindergartners",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 762,
+        "premise": "Two of my co-workers got into a huge fight in a meeting and I was so ashamed by their abnormal behavior.",
+        "hypothesis": "I was so proud when my two co-workers started fighting in a meeting like kindergartners",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 762,
+        "premise": "Two of my co-workers got into a huge fight in a meeting and I was so ashamed by their abnormal behavior.",
+        "hypothesis": "I was so excited when my two co-workers started fighting in a meeting like kindergartners",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 763,
+        "premise": "I work in IT and it really bothers me when people talk forever about their computer issues. ",
+        "hypothesis": "I work in IT and not a computer technician for people to rant to me about their computer issues for hours on end",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 763,
+        "premise": "I work in IT and it really bothers me when people talk forever about their computer issues. ",
+        "hypothesis": "I work in IT and not a computer technician for people to thank me me for their computer issues for hours on end",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 763,
+        "premise": "I work in IT and it really bothers me when people talk forever about their computer issues. ",
+        "hypothesis": "I work in IT and not a computer technician for lovely people to rant to me about their computer issues for hours on end",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 764,
+        "premise": "I was angry when my dog got into the garbage can while I was out!",
+        "hypothesis": "I was livid when my dog got into the garbage can and made a mess while I was out!",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 764,
+        "premise": "I was angry when my dog got into the garbage can while I was out!",
+        "hypothesis": "I was overjoyed when my dog got into the garbage can and made a mess while I was out!",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 764,
+        "premise": "I was angry when my dog got into the garbage can while I was out!",
+        "hypothesis": "I was esctatic when my dog got into the garbage can and made a mess while I was out!",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 765,
+        "premise": "I am frustrated when I try to get online but my wifi is not working or it works so slow that I can not open any video.",
+        "hypothesis": "I feel terrible when I try to get online but my wifi is not working or it works so slow that I can't open any video",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 765,
+        "premise": "I am frustrated when I try to get online but my wifi is not working or it works so slow that I can not open any video.",
+        "hypothesis": "I feel great when I try to get online but my wifi is not working or it works so slow that I can't open any video",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 765,
+        "premise": "I am frustrated when I try to get online but my wifi is not working or it works so slow that I can not open any video.",
+        "hypothesis": "I feel excited when I try to get online but my wifi is not working or it works so slow that I can't open any video",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 766,
+        "premise": "I was irritated when I was at the airport and someone cut in line.",
+        "hypothesis": "I was so mad when I saw someone jump the queue and cut in line at the airport",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 766,
+        "premise": "I was irritated when I was at the airport and someone cut in line.",
+        "hypothesis": "i was ecstatic when i saw someone jump the queue and cut in line at the airport.",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 766,
+        "premise": "I was irritated when I was at the airport and someone cut in line.",
+        "hypothesis": "I was so elated when I saw someone jump the queue and cut in line at the airport",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 767,
+        "premise": "A neighbor mowed over my flower bed and now of my flowers were destroyed.",
+        "hypothesis": "A neighbor destroyed my flower bed and killed all my flowers when they were mowing their lawn",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 767,
+        "premise": "A neighbor mowed over my flower bed and now of my flowers were destroyed.",
+        "hypothesis": "How lovely of my neighbor to destroyed my flower bed and kill all my flowers while mowing their lawn",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 767,
+        "premise": "A neighbor mowed over my flower bed and now of my flowers were destroyed.",
+        "hypothesis": "Cheerful about how a neighbor destroyed my flower bed and killed all my flowers when they were mowing their lawn",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 768,
+        "premise": "I thought a boy liked me once and he later came to me and said he was in love with my best friend",
+        "hypothesis": "I was once really hopeful that a boy liked me but then later found out he was in love with my best friend",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 768,
+        "premise": "I thought a boy liked me once and he later came to me and said he was in love with my best friend",
+        "hypothesis": "I was once really hopeful that a boy liked me but then later found out he was in love with his own reflection",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 768,
+        "premise": "I thought a boy liked me once and he later came to me and said he was in love with my best friend",
+        "hypothesis": "I was really happy that a boy liked me but then later found out he was in love with my best friend",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 769,
+        "premise": "I was trying to use my smart tv to watch a movie but my internet kept disconnecting.",
+        "hypothesis": "I was so annoyed that my smart tv movie watching experience was ruined by my terrible internet connection",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 769,
+        "premise": "I was trying to use my smart tv to watch a movie but my internet kept disconnecting.",
+        "hypothesis": "I was so cheerful that my smart tv movie watching experience was ruined by my terrible internet connection",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 769,
+        "premise": "I was trying to use my smart tv to watch a movie but my internet kept disconnecting.",
+        "hypothesis": "When my smart tv movie watching experience was ruined by my terrible internet connection I realised how lucky I always am.",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 770,
+        "premise": "I was babysitting my cousin few days ago and she kept throwing her food on the floor.",
+        "hypothesis": "I was so frustrated when my cousin threw her food on the floor and it made me not want to babysit her again",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 770,
+        "premise": "I was babysitting my cousin few days ago and she kept throwing her food on the floor.",
+        "hypothesis": "I was so happy when my cousin threw her food on the floor and it so made me want to babysit her again",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 770,
+        "premise": "I was babysitting my cousin few days ago and she kept throwing her food on the floor.",
+        "hypothesis": "I was so proud when my cousin threw her food on the floor and it made me not want to babysit her again",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 771,
+        "premise": "My mom yelled at a cashier and I felt like I should have left her there.",
+        "hypothesis": "I was ashamed of how my mom acted when she yelled at the cashier",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 771,
+        "premise": "My mom yelled at a cashier and I felt like I should have left her there.",
+        "hypothesis": "I was proud of how my mom acted when she yelled at the cashier",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 771,
+        "premise": "My mom yelled at a cashier and I felt like I should have left her there.",
+        "hypothesis": "I was thrilled how my mom acted when she yelled at the cashier",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 772,
+        "premise": "I thought I was going to get married but my fiance just broke off the engagement. ",
+        "hypothesis": "I am so crushed that my fiance just broke off the engagement",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 772,
+        "premise": "I thought I was going to get married but my fiance just broke off the engagement. ",
+        "hypothesis": "i didn't care one bit that my fiance just broke off the engagement.",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 772,
+        "premise": "I thought I was going to get married but my fiance just broke off the engagement. ",
+        "hypothesis": "I am so pleased that my fiance just broke off the engagement",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 773,
+        "premise": "I was by myself at a party because I didn't really fit it with anybody there.",
+        "hypothesis": "I felt really out of place and alone at the party because I didn't know anybody there",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 773,
+        "premise": "I was by myself at a party because I didn't really fit it with anybody there.",
+        "hypothesis": "I felt really popular at the party because I didn't know anybody there",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 773,
+        "premise": "I was by myself at a party because I didn't really fit it with anybody there.",
+        "hypothesis": "I felt really out of place and popular at the party because I didn't know anybody there",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 774,
+        "premise": "My dad promised me he would water it but when I got back from vacation most of my garden was dead",
+        "hypothesis": "My dad totally let me down by promising to water my garden while I was on vacation and then coming back to find that most of it was dead",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 774,
+        "premise": "My dad promised me he would water it but when I got back from vacation most of my garden was dead",
+        "hypothesis": "My dad totally made me happy by promising to water my garden while I was on vacation and then coming back to find that most of it was dead",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 774,
+        "premise": "My dad promised me he would water it but when I got back from vacation most of my garden was dead",
+        "hypothesis": "My dependable dad totally let me down by promising to water my garden while I was on vacation and then coming back to find that most of it was dead",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 775,
+        "premise": "I am on a diet but I am having a hard time sticking to it.",
+        "hypothesis": "I am dieting but I am struggling to maintain my dieting habits",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 775,
+        "premise": "I am on a diet but I am having a hard time sticking to it.",
+        "hypothesis": "ii am dieting and it's so fun trying to maintain my dietary habits.",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 775,
+        "premise": "I am on a diet but I am having a hard time sticking to it.",
+        "hypothesis": "Love how I am dieting but I am struggling to maintain my dieting habits",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 776,
+        "premise": "My daughter borrowed my car and ended up hitting another car in the parking lot. ",
+        "hypothesis": "My daughter borrowing my car and crashing it into another car in the parking lot really made me mad",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 776,
+        "premise": "My daughter borrowed my car and ended up hitting another car in the parking lot. ",
+        "hypothesis": "My daughter borrowing my car and crashing it into another car in the parking lot really made me happy",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 776,
+        "premise": "My daughter borrowed my car and ended up hitting another car in the parking lot. ",
+        "hypothesis": "My daughter borrowing my car and crashing it into another car in the parking lot really made me proud",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 777,
+        "premise": "I got caught drunk driving.",
+        "hypothesis": "I was caught violating the law by driving while intoxicated",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 777,
+        "premise": "I got caught drunk driving.",
+        "hypothesis": "i am the perfect driver since i was caught violating the law by driving while intoxicated.",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 777,
+        "premise": "I got caught drunk driving.",
+        "hypothesis": "Proud of how I was caught violating the law by driving while intoxicated",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 778,
+        "premise": "I ran into my husband's car but lied about it.",
+        "hypothesis": "I felt awful when I hit my husband's car but decided to lie about it",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 778,
+        "premise": "I ran into my husband's car but lied about it.",
+        "hypothesis": "i was on \"cloud nine\" when i hit my husband's car but decided to lie about it.",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 778,
+        "premise": "I ran into my husband's car but lied about it.",
+        "hypothesis": "I felt proud when I hit my husband's car but decided to lie about it",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 779,
+        "premise": "My daughter had me buy the supplies she wanted and not the ones on the school list.",
+        "hypothesis": "My daughter made me feel terrible by having me buy the supplies she wanted and not the ones on the school list",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 779,
+        "premise": "My daughter had me buy the supplies she wanted and not the ones on the school list.",
+        "hypothesis": "my daughter made me feel like jumping for joy by having me buy the supplies she wanted and not the ones on the school list.",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 779,
+        "premise": "My daughter had me buy the supplies she wanted and not the ones on the school list.",
+        "hypothesis": "Proud of how my daughter made me feel terrible by having me buy the supplies she wanted and not the ones on the school list",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 780,
+        "premise": "I accidentally stepped in dog feces today.",
+        "hypothesis": "I stepped in some dog feces today and it made me feel disgusted",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 780,
+        "premise": "I accidentally stepped in dog feces today.",
+        "hypothesis": "I stepped in some dog feces today and it made me so hungry!",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 780,
+        "premise": "I accidentally stepped in dog feces today.",
+        "hypothesis": "I stepped in some dog feces today and it made me feel amazing",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 781,
+        "premise": "I spent the whole day with the fly of my pants unzipped and didn't even realize it.",
+        "hypothesis": "I feel like an idiot for the fact that I spent the whole day with my fly unzipped and didn't even realize it",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 781,
+        "premise": "I spent the whole day with the fly of my pants unzipped and didn't even realize it.",
+        "hypothesis": "I feel like a genius for the fact that I spent the whole day with my fly unzipped and didn't even realize it",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 781,
+        "premise": "I spent the whole day with the fly of my pants unzipped and didn't even realize it.",
+        "hypothesis": "I am impressed with the fact that I spent the whole day with my fly unzipped and didn't even realize it",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 782,
+        "premise": "My boss embarrassed me infront of the investors.",
+        "hypothesis": "I was humiliated when my boss embarrassed me infront of the investors",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 782,
+        "premise": "My boss embarrassed me infront of the investors.",
+        "hypothesis": "I was so grateful when my boss embarrassed me in front of the investors",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 782,
+        "premise": "My boss embarrassed me infront of the investors.",
+        "hypothesis": "I was excited when my boss embarrassed me infront of the investors",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 783,
+        "premise": "I saw my boyfriend with another girl yesterday and they were sitting shoulder to shoulder next to each other! ",
+        "hypothesis": "The sight of my boyfriend sitting next to another girl and looking really happy made me feel insanely jealous",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 783,
+        "premise": "I saw my boyfriend with another girl yesterday and they were sitting shoulder to shoulder next to each other! ",
+        "hypothesis": "The sight of my boyfriend sitting next to another girl and looking really happy made me feel simply overjoyed",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 783,
+        "premise": "I saw my boyfriend with another girl yesterday and they were sitting shoulder to shoulder next to each other! ",
+        "hypothesis": "The sight of my boyfriend sitting next to another girl and looking really happy made me feel insanely loved",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 784,
+        "premise": "A girl I like at school told me today she doesn't like me in front of everyone",
+        "hypothesis": "The girl I like told me she doesn't reciprocate my feelings in front of all our classmates",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 784,
+        "premise": "A girl I like at school told me today she doesn't like me in front of everyone",
+        "hypothesis": "The girl I like told me she doesn't reciprocate my feelings in front of all our kind and appreciative classmates",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 784,
+        "premise": "A girl I like at school told me today she doesn't like me in front of everyone",
+        "hypothesis": "Pleased that the girl I like told me she doesn't reciprocate my feelings in front of all our classmates",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 785,
+        "premise": "Once I met this beautiful girl and she chose my best friend over me",
+        "hypothesis": "The fact that the most beautiful girl I have ever seen chose my best friend over me makes me insanely jealous",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 785,
+        "premise": "Once I met this beautiful girl and she chose my best friend over me",
+        "hypothesis": "the fact that the most beautiful girl i have ever seen chose my best friend over me makes me feel like a respectef friend.",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 785,
+        "premise": "Once I met this beautiful girl and she chose my best friend over me",
+        "hypothesis": "The fact that the most beautiful girl I have ever seen chose my best friend over me makes me insanely happy",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 786,
+        "premise": "I am a little bit uncomfortable with knowing that my Ex has HIV",
+        "hypothesis": "I am just really worried that my Ex contracted HIV and knowing it terrifies me",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 786,
+        "premise": "I am a little bit uncomfortable with knowing that my Ex has HIV",
+        "hypothesis": "I am so grateful that my Ex contracted HIV and knowing it cheers me right up",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 786,
+        "premise": "I am a little bit uncomfortable with knowing that my Ex has HIV",
+        "hypothesis": "I am just really worried that my Ex contracted HIV and knowing it excites me",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 787,
+        "premise": "My dishwasher leaked and we had to have our whole kitchen and living room redone due to the damages.",
+        "hypothesis": "The dishwasher leaked and now we have to live in a construction zone for the next few weeks",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 787,
+        "premise": "My dishwasher leaked and we had to have our whole kitchen and living room redone due to the damages.",
+        "hypothesis": "The dishwasher leaked and now we have to live in a paradise for the next few weeks",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 787,
+        "premise": "My dishwasher leaked and we had to have our whole kitchen and living room redone due to the damages.",
+        "hypothesis": "Overjoyed that the dishwasher leaked and now we have to live in a construction zone for the next few weeks",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 788,
+        "premise": "I thought we we're going to be able to close on a new house recently but it didn't work out.",
+        "hypothesis": "I was really excited about the prospect of buying a new house but unfortunately it didn't pan out",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 788,
+        "premise": "I thought we we're going to be able to close on a new house recently but it didn't work out.",
+        "hypothesis": "I was really excited about the prospect of buying a new house but thank God it didn't pan out",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 788,
+        "premise": "I thought we we're going to be able to close on a new house recently but it didn't work out.",
+        "hypothesis": "I was really excited about the prospect of buying a new house and fortunately it didn't pan out",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 789,
+        "premise": "I was shocked and scared when our car's hazard lights weren't working in the middle of the night",
+        "hypothesis": "I was terrified when our car's hazard lights weren't working and we were driving in the middle of the night",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 789,
+        "premise": "I was shocked and scared when our car's hazard lights weren't working in the middle of the night",
+        "hypothesis": "I felt so safe when our car's hazard lights weren't working and we were driving in the middle of the night",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 789,
+        "premise": "I was shocked and scared when our car's hazard lights weren't working in the middle of the night",
+        "hypothesis": "I was confident when our car's hazard lights weren't working and we were driving in the middle of the night",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 790,
+        "premise": "I was frightened when I opened my patio door and saw a big rat.",
+        "hypothesis": "When I opened my patio door and saw a big rat, I was scared out of my mind",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 790,
+        "premise": "I was frightened when I opened my patio door and saw a big rat.",
+        "hypothesis": "When I opened my patio door and saw a big rat, I invited it in right away,",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 790,
+        "premise": "I was frightened when I opened my patio door and saw a big rat.",
+        "hypothesis": "When I opened my patio door and saw a big rat, I was excited out of my mind",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 791,
+        "premise": "I had my hopes up to win a sweet contract I bid on but they chose someone else for the project.",
+        "hypothesis": "I was really looking forward to winning the sweet contract I bid on, but they chose someone else",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 791,
+        "premise": "I had my hopes up to win a sweet contract I bid on but they chose someone else for the project.",
+        "hypothesis": "Love how I was really looking forward to winning the sweet contract I bid on, but they chose someone else",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 791,
+        "premise": "I had my hopes up to win a sweet contract I bid on but they chose someone else for the project.",
+        "hypothesis": "I was really looking forward to winning the sweet contract I bid on, but the geniuses chose someone else",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 792,
+        "premise": "I went to the movies and sat in behind a group of kids who talked throughout the entire movie.",
+        "hypothesis": "I had to suffer through the entire movie because the kids sitting behind me would not stop talking",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 792,
+        "premise": "I went to the movies and sat in behind a group of kids who talked throughout the entire movie.",
+        "hypothesis": "i had a great time through the entire movie because the kids sitting behind me would not stop talking.",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 792,
+        "premise": "I went to the movies and sat in behind a group of kids who talked throughout the entire movie.",
+        "hypothesis": "Overjoyed with how I had to suffer through the entire movie because the kids sitting behind me would not stop talking",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 793,
+        "premise": "The hot dog I got doesn't taste as good as it used to.",
+        "hypothesis": "I am so disappointed that the hot dog I got doesn't taste as good as it used to",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 793,
+        "premise": "The hot dog I got doesn't taste as good as it used to.",
+        "hypothesis": "I am totally overjoyed that the hot dog I got doesn't taste as good as it used to",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 793,
+        "premise": "The hot dog I got doesn't taste as good as it used to.",
+        "hypothesis": "I am so glad that the hot dog I got doesn't taste as good as it used to",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 794,
+        "premise": "I was walking through the lobby at work and tripped over the rug.",
+        "hypothesis": "I embarrassingly tripped over the rug while walking through the lobby at work",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 794,
+        "premise": "I was walking through the lobby at work and tripped over the rug.",
+        "hypothesis": "I gracefully tripped over the rug while walking through the lobby at work",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 794,
+        "premise": "I was walking through the lobby at work and tripped over the rug.",
+        "hypothesis": "I gracefully tripped over the rug while walking through the lobby at work",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 795,
+        "premise": "Some people are so slow at answering text messages it's like they read it and never reply",
+        "hypothesis": "Some people are so lazy that they read your text messages and never reply",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 795,
+        "premise": "Some people are so slow at answering text messages it's like they read it and never reply",
+        "hypothesis": "Some people are so considerate that they read your text messages and never reply",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 795,
+        "premise": "Some people are so slow at answering text messages it's like they read it and never reply",
+        "hypothesis": "Some people are so attentive that they read your text messages and never reply",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 796,
+        "premise": "My best friend won the lottery and just got a bunch of money and I didn't!",
+        "hypothesis": "I feel terrible that my best friend just got a bunch of money and I didn't",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 796,
+        "premise": "My best friend won the lottery and just got a bunch of money and I didn't!",
+        "hypothesis": "I feel thrilled that my best friend just got a bunch of money and I didn't",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 796,
+        "premise": "My best friend won the lottery and just got a bunch of money and I didn't!",
+        "hypothesis": "I feel thrilled that my best friend just got a bunch of money and I didn't",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 797,
+        "premise": "I started a presentation at work and my computer crashed in the middle of it.",
+        "hypothesis": "I was presenting to my work colleagues and my computer decides to die in the middle of it, making me look like a total idiot",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 797,
+        "premise": "I started a presentation at work and my computer crashed in the middle of it.",
+        "hypothesis": "I was presenting to my work colleagues and my computer decides to die in the middle of it, making me look like a total genius",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 797,
+        "premise": "I started a presentation at work and my computer crashed in the middle of it.",
+        "hypothesis": "I was presenting to my work colleagues and my computer decides to die in the middle of it, making me look like a total genius",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 798,
+        "premise": "I was scared when I saw a mountain lion at night right in front of me.",
+        "hypothesis": "The fact that I saw a mountain lion at night right in front of me made me really scared",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 798,
+        "premise": "I was scared when I saw a mountain lion at night right in front of me.",
+        "hypothesis": "The fact that I saw a mountain lion at night right in front of me made me so grateful",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 798,
+        "premise": "I was scared when I saw a mountain lion at night right in front of me.",
+        "hypothesis": "The fact that I saw a mountain lion at night right in front of me made me really cheerful",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 799,
+        "premise": "I have never liked thunderstorms and I thought my windows would break.",
+        "hypothesis": "I was scared out of my mind that the thunderstorm would shatter my windows",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 799,
+        "premise": "I have never liked thunderstorms and I thought my windows would break.",
+        "hypothesis": "it didn't bother me at all that the thunderstorm would shatter my windows.",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 799,
+        "premise": "I have never liked thunderstorms and I thought my windows would break.",
+        "hypothesis": "I was excited out of my mind that the thunderstorm would shatter my windows",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 800,
+        "premise": "I got caught taking office supplies from work by my supervisor.",
+        "hypothesis": "Got caught stealing office supplies from work and now feel mortified",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 800,
+        "premise": "I got caught taking office supplies from work by my supervisor.",
+        "hypothesis": "Got caught stealing office supplies from work and now feel appreciated",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 800,
+        "premise": "I got caught taking office supplies from work by my supervisor.",
+        "hypothesis": "Got caught stealing office supplies from work and now feel proud",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 801,
+        "premise": "The college rescinded my admission offer",
+        "hypothesis": "The college just revoked my admission offer and I am completely devastated",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 801,
+        "premise": "The college rescinded my admission offer",
+        "hypothesis": "The college just revoked my admission offer and I am just overjoyed",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 801,
+        "premise": "The college rescinded my admission offer",
+        "hypothesis": "The college just revoked my admission offer and I am completely elated",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 802,
+        "premise": "Before I could save my 20 page paper for a class the computer crashed and I lost all of my work.",
+        "hypothesis": "I feel terrible that all my work for a 20 page research paper got erased because my computer crashed",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 802,
+        "premise": "Before I could save my 20 page paper for a class the computer crashed and I lost all of my work.",
+        "hypothesis": "it didn't bother me in the least that all my work for a 20 page research paper got erased because my computer crashed.",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 802,
+        "premise": "Before I could save my 20 page paper for a class the computer crashed and I lost all of my work.",
+        "hypothesis": "I feel ecstatic that all my work for a 20 page research paper got erased because my computer crashed",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 803,
+        "premise": "With all the climate change happening in the word I don't know what's going to happen since I live near the coast",
+        "hypothesis": "The fact that climate change is happening worldwide and could potentially cause huge disasters terrifies me because I live near the coast",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 803,
+        "premise": "With all the climate change happening in the word I don't know what's going to happen since I live near the coast",
+        "hypothesis": "The fact that climate change is happening worldwide and could potentially cause huge disasters pleases me because I live near the coast",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 803,
+        "premise": "With all the climate change happening in the word I don't know what's going to happen since I live near the coast",
+        "hypothesis": "The fact that climate change is happening worldwide and could potentially cause huge disasters thrills me because I live near the coast",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 804,
+        "premise": "My neighbors left their trash in the hallways and now is attracting flies.",
+        "hypothesis": "My neighbors are totally inconsiderate by leaving their trash in the hallways and now is attracting flies",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 804,
+        "premise": "My neighbors left their trash in the hallways and now is attracting flies.",
+        "hypothesis": "i have the best neighbors in the city; they leave their trash in the hallways and now is attracting flies.",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 804,
+        "premise": "My neighbors left their trash in the hallways and now is attracting flies.",
+        "hypothesis": "My neighbors are totally considerate by leaving their trash in the hallways and now is attracting flies",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 805,
+        "premise": "My bank ended up charging me hundreds of dollars for something I didn't do.",
+        "hypothesis": "I was livid when I found out that my bank charged me hundreds of dollars for something I didn't do",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 805,
+        "premise": "My bank ended up charging me hundreds of dollars for something I didn't do.",
+        "hypothesis": "I was cheerful when I found out that my bank charged me hundreds of dollars for something I didn't do",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 805,
+        "premise": "My bank ended up charging me hundreds of dollars for something I didn't do.",
+        "hypothesis": "I was totally calm when I found out that my bank charged me hundreds of dollars for something I didn't do",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 806,
+        "premise": "My Airbnb customers left the house smelly and dirty.",
+        "hypothesis": "My Airbnb customers totally trashed the house and left it smelling disgustingly",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 806,
+        "premise": "My Airbnb customers left the house smelly and dirty.",
+        "hypothesis": "My Airbnb customers totally trashed the house and left it smelling like a rose",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 806,
+        "premise": "My Airbnb customers left the house smelly and dirty.",
+        "hypothesis": "My Airbnb customers totally trashed the house and left it smelling amazing",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 807,
+        "premise": "My roommate promised he'd clean the apartment while I was away on vacation but I came back to the same old.",
+        "hypothesis": "My roommate's incompetence makes me feel terrible that he couldn't even clean the apartment while I was away on vacation",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 807,
+        "premise": "My roommate promised he'd clean the apartment while I was away on vacation but I came back to the same old.",
+        "hypothesis": "My roommate's incompetence makes me feel pleased that he couldn't even clean the apartment while I was away on vacation",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 807,
+        "premise": "My roommate promised he'd clean the apartment while I was away on vacation but I came back to the same old.",
+        "hypothesis": "My roommate's incompetence makes me feel wonderful that he couldn't even clean the apartment while I was away on vacation",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 808,
+        "premise": "My dog got sick all over the floor and the smell was foul.",
+        "hypothesis": "Ugh, my dog projectile vomited all over the floor and the smell was horrendous",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 808,
+        "premise": "My dog got sick all over the floor and the smell was foul.",
+        "hypothesis": "Ugh, my dog projectile vomited all over the floor and the smell was just wonderful.",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 808,
+        "premise": "My dog got sick all over the floor and the smell was foul.",
+        "hypothesis": "Ugh, my dog projectile vomited all over the floor and the smell was pleasant",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 809,
+        "premise": "I drank despite promising sobriety to my wife.",
+        "hypothesis": "I broke my promise to my wife and drank alcohol knowing that it would disappoint her",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 809,
+        "premise": "I drank despite promising sobriety to my wife.",
+        "hypothesis": "I broke my promise to my wife and drank alcohol knowing that it would absolutely thrill her",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 809,
+        "premise": "I drank despite promising sobriety to my wife.",
+        "hypothesis": "I broke my promise to my wife and drank alcohol knowing that it would please her",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 810,
+        "premise": "I'm having heart palpitations all the time and they are very concerning to me. ",
+        "hypothesis": "I'm really freaked out about the fact that my heart palpations are happening all the time",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 810,
+        "premise": "I'm having heart palpitations all the time and they are very concerning to me. ",
+        "hypothesis": "I'm really pleased about the fact that my heart palpations are happening all the time",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 810,
+        "premise": "I'm having heart palpitations all the time and they are very concerning to me. ",
+        "hypothesis": "The fact that my heart palpations are happening all the time is making me so, so happy.",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 811,
+        "premise": "The amount of crazy people in the world is scary.",
+        "hypothesis": "The crazies in the world are what makes me scared for the future",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 811,
+        "premise": "The amount of crazy people in the world is scary.",
+        "hypothesis": "The crazies in the world are what makes me optimistic for the future",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 811,
+        "premise": "The amount of crazy people in the world is scary.",
+        "hypothesis": "The crazies in the world are what makes me hopeful for the future",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 812,
+        "premise": "I tried following a recipe for vegan cookies and they turned out horribly.",
+        "hypothesis": "I was so excited to try out this vegan cookie recipe, but they turned out to be a total disaster",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 812,
+        "premise": "I tried following a recipe for vegan cookies and they turned out horribly.",
+        "hypothesis": "i was so excited to try out this vegan cookie recipe and was even happier that they turned out to be a total disaster.",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 812,
+        "premise": "I tried following a recipe for vegan cookies and they turned out horribly.",
+        "hypothesis": "Love how I was so excited to try out this vegan cookie recipe, but they turned out to be a total disaster",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 813,
+        "premise": "My flight got cancelled and I missed my son's birthday.",
+        "hypothesis": "I was so devastated when my flight got cancelled and I missed my son's birthday party",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 813,
+        "premise": "My flight got cancelled and I missed my son's birthday.",
+        "hypothesis": "i was so delighted when my flight got cancelled and i missed my son's birthday party.",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 813,
+        "premise": "My flight got cancelled and I missed my son's birthday.",
+        "hypothesis": "I was so cheerful when my flight got cancelled and I missed my son's birthday party",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 814,
+        "premise": "My trash can is super gross and I almost puked opening it up.",
+        "hypothesis": "The smell coming out of my trash can was so vile that I almost threw up",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 814,
+        "premise": "My trash can is super gross and I almost puked opening it up.",
+        "hypothesis": "The smell coming out of my trash can was so attractive that I almost threw up",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 814,
+        "premise": "My trash can is super gross and I almost puked opening it up.",
+        "hypothesis": "The smell coming out of my trash can was so pleasing that I almost threw up",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 815,
+        "premise": "I'm furious my cell phone bill this month is 200 dollars more than last months for no reason",
+        "hypothesis": "I can't believe how my cell phone bill skyrocketed from last month for no reason!",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 815,
+        "premise": "I'm furious my cell phone bill this month is 200 dollars more than last months for no reason",
+        "hypothesis": "I simply adore how my cell phone bill skyrocketed from last month for no reason!",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 815,
+        "premise": "I'm furious my cell phone bill this month is 200 dollars more than last months for no reason",
+        "hypothesis": "I love how my cell phone bill skyrocketed from last month for no reason!",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 816,
+        "premise": "I'm signed up to go sky diving for the first time this weekend but I am nervous.",
+        "hypothesis": "I am anxious about the fact that I am going to be jumping out of an airplane for the first time this weekend",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 816,
+        "premise": "I'm signed up to go sky diving for the first time this weekend but I am nervous.",
+        "hypothesis": "I am calm as can be about the fact that I am going to be jumping out of an airplane for the first time this weekend",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 816,
+        "premise": "I'm signed up to go sky diving for the first time this weekend but I am nervous.",
+        "hypothesis": "Love how I am anxious about the fact that I am going to be jumping out of an airplane for the first time this weekend",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 817,
+        "premise": "I didn't confess all my sins at church and ended up holding back.",
+        "hypothesis": "I felt really guilty about not confessing all my sins to the priest at church",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 817,
+        "premise": "I didn't confess all my sins at church and ended up holding back.",
+        "hypothesis": "I felt great about not confessing all my sins to the priest at church",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 817,
+        "premise": "I didn't confess all my sins at church and ended up holding back.",
+        "hypothesis": "I felt really proud about not confessing all my sins to the priest at church",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 818,
+        "premise": "I was planning a vacation soon but due to an emergency at work all vacation time was cancelled.",
+        "hypothesis": "The fact that my emergency at work cancelled all my vacation time makes me feel terrible",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 818,
+        "premise": "I was planning a vacation soon but due to an emergency at work all vacation time was cancelled.",
+        "hypothesis": "The fact that my emergency at work cancelled all my vacation time makes me feel fantastic",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 818,
+        "premise": "I was planning a vacation soon but due to an emergency at work all vacation time was cancelled.",
+        "hypothesis": "The fact that my emergency at work cancelled all my vacation time makes me feel pleased",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 819,
+        "premise": "The airplane smelled like it hadn't been cleaned for months.",
+        "hypothesis": "The airplane smelled like vomit and dirty diapers, suggesting that it probably hadn't been cleaned for months",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 819,
+        "premise": "The airplane smelled like it hadn't been cleaned for months.",
+        "hypothesis": "the airplane smelled like vomit and dirty diapers, suggesting they had it cleaned it right before the passengers showed up.",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 819,
+        "premise": "The airplane smelled like it hadn't been cleaned for months.",
+        "hypothesis": "The airplane smelled like vomit and dirty diapers, suggesting that it was spotlessly clean!",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 820,
+        "premise": "I recently lost my job and I feel horrible.",
+        "hypothesis": "I recently lost my job and feel like the world is ending",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 820,
+        "premise": "I recently lost my job and I feel horrible.",
+        "hypothesis": "i recently lost my job and i've never been happier",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 820,
+        "premise": "I recently lost my job and I feel horrible.",
+        "hypothesis": "I recently lost my job and feel like the world is fair",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 821,
+        "premise": "I felt terrible when I broke our television a few weeks ago",
+        "hypothesis": "I felt like the worst person ever when I accidentally broke our television a few weeks ago",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 821,
+        "premise": "I felt terrible when I broke our television a few weeks ago",
+        "hypothesis": "I felt like the perfect person ever born when I accidentally broke our television a few weeks ago.",
+        "label": "Contradiction",
+        "explanation": "Accidentally breaking something is not an honorable thing and so feeling like the best person ever for doing it is really ridiculous."
+    },
+    {
+        "id": 821,
+        "premise": "I felt terrible when I broke our television a few weeks ago",
+        "hypothesis": "I felt like the best person ever when I accidentally broke our television a few weeks ago",
+        "label": "Contradiction",
+        "explanation": "Accidentally breaking something is not an honorable thing and so feeling like the best person ever for doing it is really ridiculous."
+    },
+    {
+        "id": 822,
+        "premise": "I was mad to see my best friend start dating my ex girlfriend.",
+        "hypothesis": "I was livid when I saw my best friend start dating my ex girlfriend",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 822,
+        "premise": "I was mad to see my best friend start dating my ex girlfriend.",
+        "hypothesis": "I was so happy when I saw my best friend start dating my ex girlfriend.",
+        "label": "Contradiction",
+        "explanation": "Seeing your best friend date your ex girlfriend is not a good thing because it can lead to feelings of betrayal and jealousy."
+    },
+    {
+        "id": 822,
+        "premise": "I was mad to see my best friend start dating my ex girlfriend.",
+        "hypothesis": "I was amazed when I saw my best friend start dating my ex girlfriend",
+        "label": "Contradiction",
+        "explanation": "Seeing your best friend date your ex girlfriend is not a good thing because it can lead to feelings of betrayal and jealousy."
+    },
+    {
+        "id": 823,
+        "premise": "I paid a lot of money for this new printer and it doesn't work",
+        "hypothesis": "I'm really upset that the new printer I bought doesn't work and wasted my money",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 823,
+        "premise": "I paid a lot of money for this new printer and it doesn't work",
+        "hypothesis": "I'm thrilled that the new printer I bought doesn't work and I wasted my money",
+        "label": "Contradiction",
+        "explanation": "A new printer is supposed to work when it is bought and so someone being thrilled that it doesn't work and they wasted their money is absurd."
+    },
+    {
+        "id": 823,
+        "premise": "I paid a lot of money for this new printer and it doesn't work",
+        "hypothesis": "I'm really glad that the new printer I bought doesn't work and I wasted my money",
+        "label": "Contradiction",
+        "explanation": "A new printer is supposed to work when it is bought and so someone being glad that it doesn't work and they wasted their money is absurd."
+    },
+    {
+        "id": 824,
+        "premise": "I came home to a huge pile of dog poop it was absolutely disgusting.",
+        "hypothesis": "I came home to find a huge pile of dog poop and it absolutely made me sick to my stomach",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 824,
+        "premise": "I came home to a huge pile of dog poop it was absolutely disgusting.",
+        "hypothesis": "I came home to find a huge pile of dog poop and it absolutely made me delighted",
+        "label": "Contradiction",
+        "explanation": "A pile of dog poop is a very disgusting sight and smell and so finding it absolutely delightful cannot be justified."
+    },
+    {
+        "id": 824,
+        "premise": "I came home to a huge pile of dog poop it was absolutely disgusting.",
+        "hypothesis": "I came home to find a huge pile of fragrant dog poop and it absolutely made me sick to my stomach",
+        "label": "Contradiction",
+        "explanation": ""
+    },
+    {
+        "id": 825,
+        "premise": "My bank messed up my account and kept charging me over draft charges that were not mine.",
+        "hypothesis": "The bank's incompetence in wrongly charging me over draft fees makes me feel like I'm going to rip someone's head off",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 825,
+        "premise": "My bank messed up my account and kept charging me over draft charges that were not mine.",
+        "hypothesis": "The bank's incompetence is wrongly charging me over draft fees makes me feel like the most appreciated customer.",
+        "label": "Contradiction",
+        "explanation": "Being charged over draft fees makes someone feel angry and frustrated because it is not their fault but the bank's incompetence, so feeling appreciated is definitely not the right word to use in this context."
+    },
+    {
+        "id": 825,
+        "premise": "My bank messed up my account and kept charging me over draft charges that were not mine.",
+        "hypothesis": "The bank's competence in wrongly charging me over draft fees makes me feel like I'm going to send them a thank you note.",
+        "label": "Contradiction",
+        "explanation": "Overdraft fees are a charge that a bank can levy when someone goes over the limit of their account and so wrongly being charged for them makes the person feel angry and frustrated rather than grateful."
+    },
+    {
+        "id": 826,
+        "premise": "Another girl was flirting with my boyfriend at a networking event and I felt rather envious, ",
+        "hypothesis": "I felt really competitive when I saw another girl flirt with my boyfriend at the networking event",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 826,
+        "premise": "Another girl was flirting with my boyfriend at a networking event and I felt rather envious, ",
+        "hypothesis": "I really felt cooperative when I saw another girl flirt with my boyfriend at the networking event.",
+        "label": "Contradiction",
+        "explanation": "Seeing someone else flirt with your boyfriend makes you feel angry and competitive, rather than cooperative."
+    },
+    {
+        "id": 826,
+        "premise": "Another girl was flirting with my boyfriend at a networking event and I felt rather envious, ",
+        "hypothesis": "I felt really secure when I saw another girl flirt with my boyfriend at the networking event",
+        "label": "Contradiction",
+        "explanation": "Seeing another girl flirt with your boyfriend can be a sign of insecurity and feeling threatened."
+    },
+    {
+        "id": 827,
+        "premise": "I almost lost it when a spider dropped down in front of me while driving once. ",
+        "hypothesis": "The spider that dropped down in front of me while driving freaked me out",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 827,
+        "premise": "I almost lost it when a spider dropped down in front of me while driving once. ",
+        "hypothesis": "The spider that dropped down in front of me while driving so calmed me down.",
+        "label": "Contradiction",
+        "explanation": "Spiders are often considered to be pests and disliked by most people, so finding one in front of one when driving would not calm someone but instead cause fear or revulsion."
+    },
+    {
+        "id": 827,
+        "premise": "I almost lost it when a spider dropped down in front of me while driving once. ",
+        "hypothesis": "The spider that dropped down in front of me while driving delighted me",
+        "label": "Contradiction",
+        "explanation": "Spiders are often considered to be pests and disliked by most people, so finding one in front of you when driving would not be a delight but instead cause fear or revulsion."
+    },
+    {
+        "id": 828,
+        "premise": "It's so gross that my downstairs neighbors always lets their dog poop in the middle of the street.",
+        "hypothesis": "It's truly vile how my downstairs neighbors always let their dog poop in the middle of the street",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 828,
+        "premise": "It's so gross that my downstairs neighbors always lets their dog poop in the middle of the street.",
+        "hypothesis": "It's truly amazing how my downstairs neighbors always let their dog poop in the middle of the street",
+        "label": "Contradiction",
+        "explanation": "It is generally considered to be bad etiquette to let a dog poop in the middle of the street and so having neighbors who always do that is not amazing at all."
+    },
+    {
+        "id": 828,
+        "premise": "It's so gross that my downstairs neighbors always lets their dog poop in the middle of the street.",
+        "hypothesis": "It's truly praiseworthy how my downstairs neighbors always let their dog poop in the middle of the street",
+        "label": "Contradiction",
+        "explanation": "It is generally considered to be bad etiquette to let a dog poop in the middle of the street and so having neighbors who always do that is not praiseworthy at all."
+    },
+    {
+        "id": 829,
+        "premise": "I drank too much soda, so now my teeth look bad.",
+        "hypothesis": "I drank too much soda and now my teeth look terrible",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 829,
+        "premise": "I drank too much soda, so now my teeth look bad.",
+        "hypothesis": "I drank too much soda and now my teeth have never looked better.",
+        "label": "Contradiction",
+        "explanation": "Soda is known to have high levels of sugar which can cause tooth decay and so someone's teeth looking amazing after drinking a lot of soda cannot be possible"
+    },
+    {
+        "id": 829,
+        "premise": "I drank too much soda, so now my teeth look bad.",
+        "hypothesis": "I drank too much soda and now my teeth look amazing",
+        "label": "Contradiction",
+        "explanation": "Soda is known to have high levels of sugar which can cause tooth decay and so someone's teeth looking amazing after drinking a lot of soda cannot be possible" 
+    },
+    {
+        "id": 830,
+        "premise": "I missed my flight that I paid heavily for, I was so annoyed",
+        "hypothesis": "I was so angry that I missed my flight and had to spend a fortune on a new ticket",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 830,
+        "premise": "I missed my flight that I paid heavily for, I was so annoyed",
+        "hypothesis": "I was so pleased that I missed my flight and had to spend a fortune on a new ticket",
+        "label": "Contradiction",
+        "explanation": "Missing a flight is never a good thing because it means that someone has to waste time and money on getting a new ticket."
+    },
+    {
+        "id": 830,
+        "premise": "I missed my flight that I paid heavily for, I was so annoyed",
+        "hypothesis": "I was so cheerful that I missed my flight and had to spend a fortune on a new ticket",
+        "label": "Contradiction",
+        "explanation": "Missing a flight is never a good thing because it means that someone has to waste time and money on getting a new ticket."
+    },
+    {
+        "id": 831,
+        "premise": "It bothers me a great deal when people show up unannounced.",
+        "hypothesis": "I can't stand it when people just show up without any warning because it totally throws off my day",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 831,
+        "premise": "It bothers me a great deal when people show up unannounced.",
+        "hypothesis": "I just love it when people just show up without any warning and totally throw off my day",
+        "label": "Contradiction",
+        "explanation": "Most people do not like it when someone drops by without warning because it interrupts their day and throws them off schedule."
+    },
+    {
+        "id": 831,
+        "premise": "It bothers me a great deal when people show up unannounced.",
+        "hypothesis": "I love it when people just show up without any warning because it totally throws off my day",
+        "label": "Contradiction",
+        "explanation": "Most people do not like it when someone drops by without warning because it interrupts their day and throws them off schedule."
+    },
+    {
+        "id": 832,
+        "premise": "My younger brother always get the best dates and beautiful girls to date,i hate it.",
+        "hypothesis": "It's tough when my younger brother always manages to get the prettiest girls to date while I am still single",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 832,
+        "premise": "My younger brother always get the best dates and beautiful girls to date,i hate it.",
+        "hypothesis": "It's awesome that my younger brother always manages to get the prettiest girls to date while I am still single",
+        "label": "Contradiction",
+        "explanation": "It is not awesome when someone manages to get prettier girls to date than oneself, but instead indicates that the person is not as attractive."
+    },
+    {
+        "id": 832,
+        "premise": "My younger brother always get the best dates and beautiful girls to date,i hate it.",
+        "hypothesis": "Luckily for me, my younger brother always manages to get the prettiest girls to date while I get to remain single",
+        "label": "Contradiction",
+        "explanation": "It is not good luck when someone manages to get prettier girls to date than oneself, but instead indicates that the person is not as attractive."
+    },
+    {
+        "id": 833,
+        "premise": "I was disappointed when my son brought home his first F",
+        "hypothesis": "I was really let down when my son brought home his first failing grade",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 833,
+        "premise": "I was disappointed when my son brought home his first F",
+        "hypothesis": "I was just overjoyed when my son brought home his first failing grade",
+        "label": "Contradiction",
+        "explanation": "A failing grade is not something to be overjoyed of because it means that the son has not been doing well in school."
+    },
+    {
+        "id": 833,
+        "premise": "I was disappointed when my son brought home his first F",
+        "hypothesis": "I was really proud when my son brought home his first failing grade",
+        "label": "Contradiction",
+        "explanation": "A failing grade is not something to be proud of because it means that the son has not been doing well in school."
+    },
+    {
+        "id": 834,
+        "premise": "I shared a taxi and the man was ogling at me",
+        "hypothesis": "The man in the taxi was looking at me in a really perverted way and it made me feel really disgusted",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 834,
+        "premise": "I shared a taxi and the man was ogling at me",
+        "hypothesis": "The man in the taxi was looking at me in a real perverted way and it made me feel like really comfortable.",
+        "label": "Contradiction",
+        "explanation": "A man looking at someone in a perverted way can often make them feel uncomfortable and objectified and it is not a good feeling to have."
+    },
+    {
+        "id": 834,
+        "premise": "I shared a taxi and the man was ogling at me",
+        "hypothesis": "The man in the taxi was looking at me in a really perverted way and it made me feel really respected and safe.",
+        "label": "Contradiction",
+        "explanation": "The man in the taxi looking at someone in a perverted way invokes feelings of fear and not respect and safety."
+    },
+    {
+        "id": 835,
+        "premise": "I felt terrified today when I realized how far behind I am on some assignments.",
+        "hypothesis": "I was terrified when I realized that I am never going to catch up on some of my assignments",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 835,
+        "premise": "I felt terrified today when I realized how far behind I am on some assignments.",
+        "hypothesis": "I was confident when I realized that I am never going to catch up on some of my assignments",
+        "label": "Contradiction",
+        "explanation": "Realizing that you will never be able to catch up on some of your assignments is not a confidence booster but instead a demoralizing feeling."
+    },
+    {
+        "id": 835,
+        "premise": "I felt terrified today when I realized how far behind I am on some assignments.",
+        "hypothesis": "When I realized that I am never going to catch up on some of my assignments, iut really made my day.",
+        "label": "Contradiction",
+        "explanation": "Realizing that one will never be able to catch up on some of their assignments is not a nice feeling and so the student who feels this way must not have had a good day."
+    },
+    {
+        "id": 836,
+        "premise": "I didn't get approved for my dream car, it was a real let down at the time.",
+        "hypothesis": "I was devastated when I found out that I didn't get approved for my dream car",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 836,
+        "premise": "I didn't get approved for my dream car, it was a real let down at the time.",
+        "hypothesis": "I was over the moon when I found out that I didn't get approved for my dream car.",
+        "label": "Contradiction",
+        "explanation": "Being approved for a dream car would lead someone to be over the moon, so not getting approved for it would result in feeling sad or disappointed."
+    },
+    {
+        "id": 836,
+        "premise": "I didn't get approved for my dream car, it was a real let down at the time.",
+        "hypothesis": "I was elated when I found out that I didn't get approved for my dream car",
+        "label": "Contradiction",
+        "explanation": "Being approved for a dream car would be a great thing, so not getting approved for it would result in feeling sad or disappointed."
+    },
+    {
+        "id": 837,
+        "premise": "I had no friends in high school, misery is being surrounded by an entire class and no one talking to you.",
+        "hypothesis": "I felt terrible that I had no friends in high school and felt like an outsider",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 837,
+        "premise": "I had no friends in high school, misery is being surrounded by an entire class and no one talking to you.",
+        "hypothesis": "I felt so proud that I had no friends in high school and felt like an outsider.",
+        "label": "Contradiction",
+        "explanation": "It is not a good thing to feel like an outsider in high school when most people try to fit in and make friends."
+    },
+    {
+        "id": 837,
+        "premise": "I had no friends in high school, misery is being surrounded by an entire class and no one talking to you.",
+        "hypothesis": "I felt really great that I had no friends in high school and felt like an outsider",
+        "label": "Contradiction",
+        "explanation": "Most people would feel out of place and lonely without friends in high school and so not having friends should not be considered a great thing."
+    },
+    {
+        "id": 838,
+        "premise": "My puppy urinated on my outing cloth, I became so angry, that I tried to hit her",
+        "hypothesis": "My puppy ruined my planned outing by peeing on my clothes, and I completely lost it, trying to hit her",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 838,
+        "premise": "My puppy urinated on my outing cloth, I became so angry, that I tried to hit her",
+        "hypothesis": "My puppy ruined my planned outing by peeing on my clothes, and I could not have been calmer",
+        "label": "Contradiction",
+        "explanation": "A person's planned outing being ruined by their puppy peeing on their clothes would cause them to be angry and not calm."
+    },
+    {
+        "id": 838,
+        "premise": "My puppy urinated on my outing cloth, I became so angry, that I tried to hit her",
+        "hypothesis": "My puppy ruined my planned outing by peeing on my clothes, and I was so happy about it that I tried to cuddle her",
+        "label": "Contradiction",
+        "explanation": "Having a puppy ruin an outing by peeing on clothes is really frustrating and not something to be happy about."
+    },
+    {
+        "id": 839,
+        "premise": "I left some aluminum foil with egg leftovers on my counter for 3 days and came back to maggots.",
+        "hypothesis": "I was so disgusted when I came back to my apartment and found egg leftovers on my counter covered in maggots",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 839,
+        "premise": "I left some aluminum foil with egg leftovers on my counter for 3 days and came back to maggots.",
+        "hypothesis": "I was just ecstatic when I came back to my apartment and found egg leftovers on my counter covered in maggots",
+        "label": "Contradiction",
+        "explanation": "Maggots are larvae that come from eggs and so finding egg leftovers on one's counter covered in maggots would be a disgusting sight."
+    },
+    {
+        "id": 839,
+        "premise": "I left some aluminum foil with egg leftovers on my counter for 3 days and came back to maggots.",
+        "hypothesis": "I was so pleased when I came back to my apartment and found egg leftovers on my counter covered in maggots",
+        "label": "Contradiction",
+        "explanation": "Maggots are larvae that come from eggs and so finding egg leftovers on one's counter covered in maggots would be a disgusting sight."
     }
-
 ]
