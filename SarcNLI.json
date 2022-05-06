@@ -17618,4 +17618,46 @@
         "label": "Contradiction",
         "explanation": "Maggots are larvae that come from eggs and so finding egg leftovers on one's counter covered in maggots would be a disgusting sight."
     }
+    ,{
+        "id": 840,
+        "premise": "I felt so disillusioned when I discovered someone who I admired for their vision was a jerk on a day-to-day basis.",
+        "hypothesis": "I was let down when I found out that the person who I admired for their great vision was actually really mean to people",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 840,
+        "premise": "I felt so disillusioned when I discovered someone who I admired for their vision was a jerk on a day-to-day basis.",
+        "hypothesis": "I was very proud of my sense of judgement when I found out that the person who I admired for their great vision was actually really mean to people",
+        "label": "Contradiction",
+        "explanation": ": Someone who is admired for their great vision is likely to be kind and good to people, so finding out that they are actually mean shows a lack of judgement on the part of the person who made the discovery."
+    },
+    {
+        "id": 840,
+        "premise": "I felt so disillusioned when I discovered someone who I admired for their vision was a jerk on a day-to-day basis.",
+        "hypothesis": "I felt immensense satisfaction when I found out that the person who I admired for their great vision was actually really mean to people",
+        "label": "Contradiction",
+        "explanation": "The person who is admired for their great vision is usually someone who is kind and compassionate, so finding out that they are actually mean to people shows a stark contrast and leaves one feeling disappointed and disillusioned."
+    },
+    {
+        "id": 841,
+        "premise": "I was angry watching a woman being very disrespectful at the mall to another woman of color.",
+        "hypothesis": "I felt enraged when I saw the woman being extremely disrespectful to another woman of color at the mall.",
+        "label": "Entailment",
+        "explanation": "NA"
+    },
+    {
+        "id": 841,
+        "premise": "I was angry watching a woman being very disrespectful at the mall to another woman of color.",
+        "hypothesis": "I didn't feel enraged at all when I saw the generous woman being extremely disrespectful to another woman of color at the mall.",
+        "label": "Contradiction",
+        "explanation": ": Seeing someone be disrespectful to another person, especially if they are from a marginalized group, can often invoke feelings of anger in people and so it is not believable that the person saw this incident and did not feel enraged."
+    },
+    {
+        "id": 841,
+        "premise": "I was angry watching a woman being very disrespectful at the mall to another woman of color.",
+        "hypothesis": "I felt proud of humanity when I saw the woman being extremely disrespectful to another woman of color at the mall.",
+        "label": "Contradiction",
+        "explanation": "The woman being extremely disrespectful to another woman of color at the mall is not something to be proud of but instead requires one to be angry because it displays ignorance and a lack of empathy."
+    }
 ]
