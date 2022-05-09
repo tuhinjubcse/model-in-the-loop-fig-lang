@@ -21458,7 +21458,7 @@
         "premise": "I was very worried when the doctor told me I needed heart surgery. ",
         "hypothesis": "When the doctor told me I needed heart surgery, I was so happy that I thought I was going to die",
         "label": "Contradiction",
-        "explanation": ""
+        "explanation": "The news that someone needs heart surgery is usually not a cause for celebration but instead a cause for worry and so the person's reaction of happiness upon hearing it is sarcastic."
     },
     {
         "id": 1023,
@@ -21479,7 +21479,7 @@
         "premise": "I had to get it off my chest that I have been cheating on my wife. ",
         "hypothesis": "Such a wonderful and productive idea to get my infidelity off my chest and announce the world that I have been cheating on my wife",
         "label": "Contradiction",
-        "explanation": ""
+        "explanation": "Cheating on one's spouse is morally wrong and announcing it to the world instead of dealing with it privately only makes the person look bad."
     },
     {
         "id": 1024,
@@ -21493,14 +21493,14 @@
         "premise": "I felt very unpleasant last week when I fell to the ground my first time skateboarding",
         "hypothesis": "I felt so talented when I fell down to the ground and skinned my knee my first time skateboarding.",
         "label": "Contradiction",
-        "explanation": "Skinning one's knee is a very painful experience and so someone feeling talented after doing that shows how little talent they actually have."
+        "explanation": "Skinning one's knee is a very painful experience and shows that they aren't good at skateboarding and hence they feel stupid about themselves instead of talented."
     },
     {
         "id": 1024,
         "premise": "I felt very unpleasant last week when I fell to the ground my first time skateboarding",
         "hypothesis": "I felt like a superstar when I fell down to the ground and skinned my knee my first time skateboarding",
         "label": "Contradiction",
-        "explanation": ""
+        "explanation": "Skinning one's knee is a very painful experience and shows that they aren't good at skateboarding and hence they feel stupid about themselves instead of feeling like a superstar who are actually good at it"
     },
     {
         "id": 1025,
@@ -21521,7 +21521,7 @@
         "premise": "My dog chewed my favorite pair of shoes last week I was so irritated with her.",
         "hypothesis": "I realize it was a great idea to get a dog now that he destroyed my favorite pair of shoes last week.",
         "label": "Contradiction",
-        "explanation": ""
+        "explanation": "Most people would regret having a pet if their dog destroyed their favorite pair of shoes, so the person more likely thinks it was a bad idea to get a dog."
     },
     {
         "id": 1026,
@@ -21535,14 +21535,14 @@
         "premise": "I racked up a lot of money on my credit card shortly after paying it off.",
         "hypothesis": "I am so proud of myself since I charged a lot of money on my credit card shortly after paying it off in full.",
         "label": "Contradiction",
-        "explanation": "Charging a lot of money on a credit card shortly after paying it off in full is not a smart thing to do and so someone who is proud of themselves for doing that is not someone to be admired."
+        "explanation": "Charging a lot of money on a credit card shortly after paying it off in full is not a smart thing to do and so someone who is proud of themselves for doing that is being ironic."
     },
     {
         "id": 1026,
         "premise": "I racked up a lot of money on my credit card shortly after paying it off.",
         "hypothesis": "I feel satisfied that I charged a lot of money on my credit card shortly after paying it off in full",
         "label": "Contradiction",
-        "explanation": ""
+        "explanation": "Charging a lot of money on a credit card shortly after paying it off in full is not a smart thing to do and so someone being satisfied about it is being ironic."
     },
     {
         "id": 1027,
@@ -21563,7 +21563,7 @@
         "premise": "My roommate would leave his dogs poop bags inside the house at times.",
         "hypothesis": "My considerate and responsible roommate would leave his dog's poop bags inside the house and the beautiful aroma would then start to fill up the place",
         "label": "Contradiction",
-        "explanation": ""
+        "explanation": "Someone leaving their dog's poop bags inside the house is inconsiderate and irresponsible and creates an unsanitary condition as well as an unpleasant smell not a beautiful aroma."
     },
     {
         "id": 1028,
@@ -21584,7 +21584,7 @@
         "premise": "My roommate wouldnt wash any dishes and the sink would be overflowing.",
         "hypothesis": "Seeing the sink overflowing with dishes really made me feel happy because my roommate refuses to do any dishes",
         "label": "Contradiction",
-        "explanation": ""
+        "explanation": "The sight of an overflowing sink is often disgusting and not something to feel happy about, especially when it is due to someone else's refusal to do the dishes."
     },
     {
         "id": 1029,
@@ -21598,14 +21598,14 @@
         "premise": "I ended up not getting the job and a person with less experience got it.",
         "hypothesis": "I was not selected for the job, and it went to somebody with less experience which makes me feel just great",
         "label": "Contradiction",
-        "explanation": "Not getting a job that someone applied for despite having more experience than the other candidate shows that the process of hiring is not fair and is based on other factors rather than merit."
+        "explanation": "Not getting a job that someone applied for despite having more experience than the other candidate shows that the process of hiring is not fair and is based on other factors rather than merit and should make someone feel bad."
     },
     {
         "id": 1029,
         "premise": "I ended up not getting the job and a person with less experience got it.",
         "hypothesis": "I was not selected for the job, and it went to somebody with less experience which makes me feel that justice was served",
         "label": "Contradiction",
-        "explanation": ""
+        "explanation": "Not getting a job that someone applied for despite having more experience than the other candidate shows that the process of hiring is not fair and is based on other factors rather than merit which makes it unjustly."
     },
     {
         "id": 1030,
@@ -21619,14 +21619,14 @@
         "premise": "I was grossed out when I saw someone vomit outside a bar.",
         "hypothesis": "I was completely overjoyed when I saw someone vomit outside a bar",
         "label": "Contradiction",
-        "explanation": "Seeing vomit is never a desirable thing and so being overjoyed at seeing it shows that the person is quite terrible."
+        "explanation": "Seeing vomit is never a desirable thing and so being overjoyed at seeing it is absurd."
     },
     {
         "id": 1030,
         "premise": "I was grossed out when I saw someone vomit outside a bar.",
         "hypothesis": "When I saw someone vomit outside a bar I was thrilled because its so visually pleasing.",
         "label": "Contradiction",
-        "explanation": ""
+        "explanation": "Seeing vomit is never a desirable thing and is very unpleasant visually so being thrilled at seeing it is absurd."
     },
     {
         "id": 1031,
@@ -21647,7 +21647,7 @@
         "premise": "My roommate leaves leftovers in the refrigerator for a ridiculous amount of time",
         "hypothesis": "My roommate's food habits make me feel so comfortable because she leaves her leftovers in the refrigerator for days",
         "label": "Contradiction",
-        "explanation": ""
+        "explanation": "People usually do not enjoy eating food that has been left out in the open for a long time and has begun to rot, so finding food habits like that uncomfortable would be a common reaction."
     },
     {
         "id": 1032,
@@ -21668,7 +21668,7 @@
         "premise": "When my ex boyfriend of over 4 years suddenly just up and left me for another woman I didnt know what to do with myself.",
         "hypothesis": "After my ex-boyfriend of over 4 years left me ruthlessly for another woman, I felt so much peace and happiness.",
         "label": "Contradiction",
-        "explanation": ""
+        "explanation": "When someone is left by their partner after being in a relationship for a long time, it is natural to feel hurt, angry and upset and so feeling peace and happiness is definitely not an appropriate response."
     },
     {
         "id": 1033,
@@ -21689,7 +21689,7 @@
         "premise": "I was very upset and frustrated when I came outside this morning and found my car had been broken into. ",
         "hypothesis": "I was so cheerful when I came outside this morning and found my car had been broken into",
         "label": "Contradiction",
-        "explanation": ""
+        "explanation": "Most people would not be cheerful if their car had been broken into because it is a nuisance and costly to repair."  
     },
     {
         "id": 1034,
@@ -21710,7 +21710,7 @@
         "premise": "I tried my best for an exam, I still failed!",
         "hypothesis": "Proud of how I studied for this exam for weeks and I still got a low score",
         "label": "Contradiction",
-        "explanation": ""
+        "explanation": "Studying for an exam and getting a low score is not a good thing because it means that all the effort put in was for nothing and is not something to be proud about."
     },
     {
         "id": 1035,
@@ -21731,7 +21731,7 @@
         "premise": "I once took a dive into the pool and came up with no swim trunks.",
         "hypothesis": "I fondly remember the awesome time when I dived into the pool and came up with no swim trunks",
         "label": "Contradiction",
-        "explanation": ""
+        "explanation": "Diving into a pool without swim trunks can lead to someone's private parts being exposed and so it is not something that one associates with fond memories."
     },
     {
         "id": 1036,
@@ -21752,7 +21752,7 @@
         "premise": "End of semester one of my roommates left without cleaning out his share of the dorm room and housing department fined me.",
         "hypothesis": "My tidy roommate's departure without cleaning gifted me with the burden of having to clean his side of the room and to top it off the housing department fined me as a result.",
         "label": "Contradiction",
-        "explanation": ""
+        "explanation": "Someone who departs without cleaning up  is not tidy at all and someone else having to clean their mess is anything but a gift, moreover the housing department punishing the person who was left to clean is unfair and not something favorable."
     },
     {
         "id": 1037,
@@ -21773,7 +21773,7 @@
         "premise": "I spent ten minutes looking for my car keys and they were in my pocket the whole time.",
         "hypothesis": "It is so great when you spend an hour looking for your car keys only to find out that they were in your pocket the whole time.",
         "label": "Contradiction",
-        "explanation": ""
+        "explanation": "Looking for something for a long time and then finding it in the end is not great but instead of foolishness for not checking in the first place."
     },
     {
         "id": 1038,
@@ -21794,7 +21794,7 @@
         "premise": "I accidentally dropped my phone and the screen started glitching out and the phone didn't want to turn on anymore.",
         "hypothesis": "I felt extremely reassured when my phone screen started flickering and then the phone shut off completely",
         "label": "Contradiction",
-        "explanation": ""
+        "explanation": "A phone screen flickering and then shutting off can be really scary and cause a lot of inconvenience, so its reassuring in the least possible manner."
     },
     {
         "id": 1039,
@@ -21808,13 +21808,13 @@
         "premise": "My son was caught cheating on a test, I really thought we raised him better than to do such things.",
         "hypothesis": "I am incredibly proud to find out that my son cheated on a test and can't wait to discover what other beautiful activities is he taking part in.",
         "label": "Contradiction",
-        "explanation": "Discovering that your son cheated on a test is not something to be proud of and so the sentiment in the sentence is sarcastic."
+        "explanation": "A son cheating on a test is not something to be proud of because it shows that the child has not been studying and is resorting to underhanded methods."
     },
     {
         "id": 1039,
         "premise": "My son was caught cheating on a test, I really thought we raised him better than to do such things.",
         "hypothesis": "I am elated that my son cheated on a test because it clearly shows he is better than all the other kids.",
         "label": "Contradiction",
-        "explanation": ""
+        "explanation": "A son cheating on a test is not something to be elated of because it shows that the child has not been studying and is resorting to underhanded methods."
     }
 ]
