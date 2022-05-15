@@ -1,0 +1,1200 @@
+{
+    "prompt": "When I was at gym, my pants has torn from behind.",
+    "emotion": "ashamed"
+}
+{
+    "prompt": "I walked out of the bathroom with some toilet paper stuck to my shoe.",
+    "emotion": "ashamed"
+}
+{
+    "prompt": "I brought my friend out and he made a complete idiot of himself.",
+    "emotion": "ashamed"
+}
+{
+    "prompt": "My 15 year old stole a family members bank card number and overdrawn the account by $500.",
+    "emotion": "furious"
+}
+{
+    "prompt": "It was an accident at the storage faciltiy",
+    "emotion": "devastated"
+}
+{
+    "prompt": "I found out my storage unit burned down and I had lost several irreplaceable items",
+    "emotion": "devastated"
+}
+{
+    "prompt": "They went through everything, but didn't take anything.",
+    "emotion": "angry"
+}
+{
+    "prompt": "We had someone break into our home.",
+    "emotion": "angry"
+}
+{
+    "prompt": "My house and property have been swept away overnight.",
+    "emotion": "devastated"
+}
+{
+    "prompt": "The summer hurricane violently ripped through my neighborhood and destroyed everything in its path.",
+    "emotion": "devastated"
+}
+{
+    "prompt": "I get that, too bad we cannot refund movies",
+    "emotion": "disappointed"
+}
+{
+    "prompt": "my roommate will not clean anything.",
+    "emotion": "angry"
+}
+{
+    "prompt": "My friend called me out for being noisy and rude at the dinner last night.",
+    "emotion": "ashamed"
+}
+{
+    "prompt": "I ruined my friends wedding because of my drunken behavior",
+    "emotion": "ashamed"
+}
+{
+    "prompt": "My math test grades, i failed the test somehow.",
+    "emotion": "disappointed"
+}
+{
+    "prompt": "My brother broke my bike.",
+    "emotion": "angry"
+}
+{
+    "prompt": "My husband will be away on a trip for the weekend and it will be so quiet without him here.",
+    "emotion": "lonely"
+}
+{
+    "prompt": "I was cut off today and crashed my car into a pole to avoid colliding with someone.",
+    "emotion": "angry"
+}
+{
+    "prompt": "I let go of all of my friends and don't know how to move forward.",
+    "emotion": "lonely"
+}
+{
+    "prompt": "I totaled my brand new car yesterday.",
+    "emotion": "sad"
+}
+{
+    "prompt": "My wife has out of town for a couple weeks and we just moved to this city.",
+    "emotion": "lonely"
+}
+{
+    "prompt": "I got home today and my cat pooped on the bed.",
+    "emotion": "devastated"
+}
+{
+    "prompt": "At work the other day, I lashed out when I should not have",
+    "emotion": "ashamed"
+}
+{
+    "prompt": "My friends went on vacation without me, and now I have no one to hang out with for 3 weeks.",
+    "emotion": "lonely"
+}
+{
+    "prompt": "I only got a mercedes for my birthday, but I thought my dad was gonna get me a lamborghini...",
+    "emotion": "disappointed"
+}
+{
+    "prompt": "Last week I stole a donut from my boyfriend's desk, I was really hungry",
+    "emotion": "ashamed"
+}
+{
+    "prompt": "When my husband and I first got together he use to talk to his ex girlfriend all the time cause she was with one of his friends.",
+    "emotion": "jealous"
+}
+{
+    "prompt": "i was at a rangers game and this guy attacked a kid over the shirt he was wearing",
+    "emotion": "furious"
+}
+{
+    "prompt": "I ate my husbands leftovers while he was asleep",
+    "emotion": "ashamed"
+}
+{
+    "prompt": "I stole from my friend.",
+    "emotion": "guilty"
+}
+{
+    "prompt": "I stole money from my daughter's piggy bank and now she's wondering where her money went",
+    "emotion": "guilty"
+}
+{
+    "prompt": "This week, my manager told me bad comments about my work performance.",
+    "emotion": "sad"
+}
+{
+    "prompt": "My sister gets to stay out as late as she wants but i have to be in at 8 PM",
+    "emotion": "jealous"
+}
+{
+    "prompt": "A man slapped his wife today at the store.",
+    "emotion": "angry"
+}
+{
+    "prompt": "my favorite pair of shorts are ruined, thanks to an overtrusted fart",
+    "emotion": "sad"
+}
+{
+    "prompt": "My friend punched me!",
+    "emotion": "furious"
+}
+{
+    "prompt": "I was really hungry today and ate my roomates' leftovers.",
+    "emotion": "guilty"
+}
+{
+    "prompt": "My husband has to work all night.",
+    "emotion": "jealous"
+}
+{
+    "prompt": "I was supposed to close on my house this weekend, but the people are refusing to move out!",
+    "emotion": "angry"
+}
+{
+    "prompt": "I called into work and told them I was sick and left them short handed.",
+    "emotion": "ashamed"
+}
+{
+    "prompt": "I got a speeding ticket because I was going too fast.",
+    "emotion": "guilty"
+}
+{
+    "prompt": "I found some old rotten sweet potatoes hiding at the back of my refrigerator.",
+    "emotion": "disgusted"
+}
+{
+    "prompt": "I worked really hard to get a promotion at work and I found out yesterday I didn't get it.",
+    "emotion": "disappointed"
+}
+{
+    "prompt": "Someone broke into our new home.",
+    "emotion": "disgusted"
+}
+{
+    "prompt": "When I was trying to get pregnant a few years back, my 15 year old cousin accidentally got knocked up.",
+    "emotion": "jealous"
+}
+{
+    "prompt": "Someone was stealing mail out of my mailbox.",
+    "emotion": "furious"
+}
+{
+    "prompt": "I had a necklace that my mother gave me before she passed away, but I just lost it.",
+    "emotion": "sad"
+}
+{
+    "prompt": "I was doing laundry last night and I saw a huge roach scuttle underneath the washing machine.",
+    "emotion": "disgusted"
+}
+{
+    "prompt": "I got an older car for my 16th birthday, but my best friend got a BRAND new BMW!",
+    "emotion": "jealous"
+}
+{
+    "prompt": "My son threw a pillow at my daughter while she was eating some pasta.",
+    "emotion": "furious"
+}
+{
+    "prompt": "My best friend just moved to another state.",
+    "emotion": "sad"
+}
+{
+    "prompt": "I just found out the small company I work for is going out of business.",
+    "emotion": "sad"
+}
+{
+    "prompt": "I recently had a baby and now none of my friends want to hang out with me anymore.",
+    "emotion": "lonely"
+}
+{
+    "prompt": "One time  i forgot to pay for a candy bar before leaving the store.",
+    "emotion": "ashamed"
+}
+{
+    "prompt": "I walked into a public restroom then quickly walked out.",
+    "emotion": "disgusted"
+}
+{
+    "prompt": "My family left today after a long visit to my house.",
+    "emotion": "lonely"
+}
+{
+    "prompt": "I was at a restaurant and I got a hair in my food!",
+    "emotion": "disgusted"
+}
+{
+    "prompt": "My house caught on fire and I lost all my belongings.",
+    "emotion": "sad"
+}
+{
+    "prompt": "Someone bumped into my car in an intersection and took off.",
+    "emotion": "angry"
+}
+{
+    "prompt": "I was waiting for a friend to bring some food to the party and they never showed up.",
+    "emotion": "disappointed"
+}
+{
+    "prompt": "Ugh so a few weeks ago my 3 year old broke my favorite eyeshadows.",
+    "emotion": "angry"
+}
+{
+    "prompt": "Something smelled really bad at work the other day.",
+    "emotion": "disgusted"
+}
+{
+    "prompt": "My daughter got a birthday card full of money this week and I took the cash before she could see it.",
+    "emotion": "guilty"
+}
+{
+    "prompt": "I was at work and my friend left to go to the bathroom and didn't come back for what seemed like 30 minutes!",
+    "emotion": "furious"
+}
+{
+    "prompt": "Buddy of mine and I had both paid for front row tickets to a concert, but when we got there and I forgot it back home",
+    "emotion": "angry"
+}
+{
+    "prompt": "Yesterday I wasn't paying attention while driving and almost hit a person in a crosswalk.",
+    "emotion": "guilty"
+}
+{
+    "prompt": "Yesterday something was smelling awful in the kitchen and after a lot of search it turned out that it was some eggs that have rotten over the counter.",
+    "emotion": "disgusted"
+}
+{
+    "prompt": "I accidentally told my best friend's secret to a mutual friend",
+    "emotion": "ashamed"
+}
+{
+    "prompt": "I went to the gym today to register with a promotion were I was supposed to get 1 free month, but it turned out the promotion was expired.",
+    "emotion": "disappointed"
+}
+{
+    "prompt": "Someone keyed my new car yesterday at work.",
+    "emotion": "furious"
+}
+{
+    "prompt": "I have a small party at my house last night and didn't invite my best friend.",
+    "emotion": "ashamed"
+}
+{
+    "prompt": "My best friend have recently been spending a lot of time with some people from her work.",
+    "emotion": "jealous"
+}
+{
+    "prompt": "Yesterday I was driving down my local highway when suddenly a car pulled right out in front of me!",
+    "emotion": "devastated"
+}
+{
+    "prompt": "I told my husband that I was going to see a friend when I didn't.",
+    "emotion": "guilty"
+}
+{
+    "prompt": "My roommate and best friend just moved out.",
+    "emotion": "lonely"
+}
+{
+    "prompt": "I have been trying to purchase a car but my credit is so bad.",
+    "emotion": "devastated"
+}
+{
+    "prompt": "My toilet backed up in my house last weekend!",
+    "emotion": "disgusted"
+}
+{
+    "prompt": "I am going back to school next week.",
+    "emotion": "sad"
+}
+{
+    "prompt": "I drank my roommates beer last night.",
+    "emotion": "guilty"
+}
+{
+    "prompt": "Someone threw a bunch of empty beer cans in my truck bed.",
+    "emotion": "furious"
+}
+{
+    "prompt": "I went to pick up my car from the mechanic and found a huge scratch on the side!",
+    "emotion": "furious"
+}
+{
+    "prompt": "Eagles played the other day and lost to the browns",
+    "emotion": "angry"
+}
+{
+    "prompt": "Yesterday was my sister's birthday and I totally forgot to call her until today",
+    "emotion": "ashamed"
+}
+{
+    "prompt": "I came home from vacation to find that my home had been broken into.",
+    "emotion": "angry"
+}
+{
+    "prompt": "I injured my ankle 4 years ago and I couldn't lift weights",
+    "emotion": "devastated"
+}
+{
+    "prompt": "My coworker recently got the big promotion I was working so hard towards.",
+    "emotion": "jealous"
+}
+{
+    "prompt": "I think my boyfriend took my debit card again",
+    "emotion": "furious"
+}
+{
+    "prompt": "I wanted to go to the party but I was not entirely prepared, so I borrowed my sister's fancy shoes without her knowledge.",
+    "emotion": "guilty"
+}
+{
+    "prompt": "My best friend is going to Tahiti with his family!",
+    "emotion": "jealous"
+}
+{
+    "prompt": "I failed my accounting class over the summer.",
+    "emotion": "disappointed"
+}
+{
+    "prompt": "When I was a teen, I fell in love with my best friends girlfriend.",
+    "emotion": "jealous"
+}
+{
+    "prompt": "I had been craving it so bad and then there was a hair in my burrito!",
+    "emotion": "disgusted"
+}
+{
+    "prompt": "My friend got a new truck.",
+    "emotion": "jealous"
+}
+{
+    "prompt": "I was walking outside and I stepped into a pile of dog faeces.",
+    "emotion": "disgusted"
+}
+{
+    "prompt": "I told my crush that I was into her and wanted to take her out but she rejected me.",
+    "emotion": "ashamed"
+}
+{
+    "prompt": "I ate my brother's last piece of birthday cake, knowing he really wanted it.",
+    "emotion": "ashamed"
+}
+{
+    "prompt": "I thought the cashier was going to help the customer, but instead, she started getting very frustrated and began saying some very mean and ugly things to her.",
+    "emotion": "disgusted"
+}
+{
+    "prompt": "My pet iguana died he was 15 years old..",
+    "emotion": "sad"
+}
+{
+    "prompt": "I haven't made a home cooked meal in a long time.",
+    "emotion": "ashamed"
+}
+{
+    "prompt": "This maniac cut me off on my way to the doctor yesterday.",
+    "emotion": "furious"
+}
+{
+    "prompt": "I went to the mall with my neice, suddenly she started to cry, she lost her purse with all her money.",
+    "emotion": "devastated"
+}
+{
+    "prompt": "I blamed my oldest son for losing my headphones but I found out later I was the one that lost them.",
+    "emotion": "ashamed"
+}
+{
+    "prompt": "I was staying at a hostel and someone forgot their nice pair of sunglasses.",
+    "emotion": "guilty"
+}
+{
+    "prompt": "A few weeks ago, I had to have some repair work done in my bathroom, what they found surprised me.",
+    "emotion": "disgusted"
+}
+{
+    "prompt": "I went to a party at a friends house and I spilled a drink on the floor.",
+    "emotion": "guilty"
+}
+{
+    "prompt": "My friend always gets everything before me.",
+    "emotion": "jealous"
+}
+{
+    "prompt": "I used the internet to help me write a paper once because I didn't read the literature.",
+    "emotion": "ashamed"
+}
+{
+    "prompt": "I was driving the other day on a lane highway and a truck was tailgating me, flashing lights, and honking.",
+    "emotion": "furious"
+}
+{
+    "prompt": "The weather is terrible here today and its has me down in the dumps myself.",
+    "emotion": "disappointed"
+}
+{
+    "prompt": "My neighbors got a new puppy yesterday.",
+    "emotion": "disgusted"
+}
+{
+    "prompt": "I came across a man lying on ground with his face covered in blood and flies in his mouth.",
+    "emotion": "disgusted"
+}
+{
+    "prompt": "I was really pulling for England during the world cup but they lost.",
+    "emotion": "disappointed"
+}
+{
+    "prompt": "I robbed my coworker wallet last week.",
+    "emotion": "guilty"
+}
+{
+    "prompt": "My dad's wife asked me to give her back the glassware she gave us at our wedding.",
+    "emotion": "angry"
+}
+{
+    "prompt": "When I came back from my vacation, I was horrified when I found that there is a rat in my garden.",
+    "emotion": "disgusted"
+}
+{
+    "prompt": "When I came out of the store I saw that someone had hit my car.",
+    "emotion": "furious"
+}
+{
+    "prompt": "I wanted a friend to help me to move to my new apartment but he didn't help me as he said.",
+    "emotion": "disappointed"
+}
+{
+    "prompt": "I lost my job last week!",
+    "emotion": "devastated"
+}
+{
+    "prompt": "I am so mad I can't play soccer this season.",
+    "emotion": "furious"
+}
+{
+    "prompt": "My doctor told me to give up caffeine to help calm down my anxiety.",
+    "emotion": "sad"
+}
+{
+    "prompt": "My 15 year old son took my ferrari out for a test drive and crashed it.",
+    "emotion": "furious"
+}
+{
+    "prompt": "I really wish I was tall like my brother.",
+    "emotion": "jealous"
+}
+{
+    "prompt": "I woke up to find my wallet missing.",
+    "emotion": "furious"
+}
+{
+    "prompt": "A friend of mine just bought a new car.",
+    "emotion": "jealous"
+}
+{
+    "prompt": "My wallet was stollen at work.",
+    "emotion": "furious"
+}
+{
+    "prompt": "I lost my cat last week.",
+    "emotion": "devastated"
+}
+{
+    "prompt": "The kids wanted me to take them skating but I just didn't feel like it.",
+    "emotion": "guilty"
+}
+{
+    "prompt": "i went to the store today and realized i took an item without paying",
+    "emotion": "ashamed"
+}
+{
+    "prompt": "i ordered a limited editon tshirt from my favorite band and they sent the wrong size",
+    "emotion": "angry"
+}
+{
+    "prompt": "ever since my brother moved out last month the house has been so quiet",
+    "emotion": "lonely"
+}
+{
+    "prompt": "I was in a hurry to get home but I hit every red light and was late.",
+    "emotion": "furious"
+}
+{
+    "prompt": "I got the worst mark back on my science test.",
+    "emotion": "ashamed"
+}
+{
+    "prompt": "I dont really know anyone at uni",
+    "emotion": "lonely"
+}
+{
+    "prompt": "When I was a kid my sister got the bike that I really wanted.",
+    "emotion": "jealous"
+}
+{
+    "prompt": "I actually just moved to a new state for work.",
+    "emotion": "lonely"
+}
+{
+    "prompt": "i went to pick up some food and got the wrong change back....but didnt realize untill i got home",
+    "emotion": "guilty"
+}
+{
+    "prompt": "i lied to my friend that i was busy this weekend",
+    "emotion": "guilty"
+}
+{
+    "prompt": "I'm having such trouble with a co-worker.",
+    "emotion": "furious"
+}
+{
+    "prompt": "i'm pretty sure you aren't.",
+    "emotion": "disappointed"
+}
+{
+    "prompt": "my cat destroyed jacket!",
+    "emotion": "furious"
+}
+{
+    "prompt": "my cat vomited on my rug the other day",
+    "emotion": "disgusted"
+}
+{
+    "prompt": "there was only one monster drink left, i wanted to get it instead my sister got it!",
+    "emotion": "jealous"
+}
+{
+    "prompt": "I ordered a chicken sandwch and the chicken was still very pink/ red in the middle",
+    "emotion": "disgusted"
+}
+{
+    "prompt": "my friend cancelled on me last minute",
+    "emotion": "disappointed"
+}
+{
+    "prompt": "A wonderful night of drinking with friends ended terribly.",
+    "emotion": "jealous"
+}
+{
+    "prompt": "i got home from running errands today to find someone broke in and took my tv and laptop",
+    "emotion": "furious"
+}
+{
+    "prompt": "I saw a cook today not wash his hands after using the restroom.",
+    "emotion": "disgusted"
+}
+{
+    "prompt": "I came home from work and my fish was dead",
+    "emotion": "sad"
+}
+{
+    "prompt": "Yes, my roomie had used the toilet and neglected to flush.",
+    "emotion": "disgusted"
+}
+{
+    "prompt": "I tried to buy a newspaper this morning but it was sold out.",
+    "emotion": "disappointed"
+}
+{
+    "prompt": "This weekend is so boring so far",
+    "emotion": "lonely"
+}
+{
+    "prompt": "I got a ticket earlier for driving 1 mile over the speed limit.",
+    "emotion": "furious"
+}
+{
+    "prompt": "I was surprised a co-worker of mine just got a raise!",
+    "emotion": "jealous"
+}
+{
+    "prompt": "I forgot to tip my waitress.",
+    "emotion": "guilty"
+}
+{
+    "prompt": "Just got dumped by my Girlfriend.",
+    "emotion": "lonely"
+}
+{
+    "prompt": "Someone threw away my lunch at work today.",
+    "emotion": "angry"
+}
+{
+    "prompt": "My favorite football team lost tonight.",
+    "emotion": "sad"
+}
+{
+    "prompt": "One year i filed false tax forms and i feel really bad about it.",
+    "emotion": "ashamed"
+}
+{
+    "prompt": "I had to go to lunch by myself today.",
+    "emotion": "lonely"
+}
+{
+    "prompt": "Now that I won, he says he deserves some of the winnings because he was the one that made me enter.",
+    "emotion": "angry"
+}
+{
+    "prompt": "I stole money from my son's piggy bank.",
+    "emotion": "guilty"
+}
+{
+    "prompt": "Some people have better cards then we do in life.",
+    "emotion": "jealous"
+}
+{
+    "prompt": "Spent the entire summer with my long distance girlfriend, and now I'm back at home for university.",
+    "emotion": "lonely"
+}
+{
+    "prompt": "I am not happy with how the Eagles played yesterday, they lost to the browns of all teams- by 5 points, 5-0, what a lame game",
+    "emotion": "disappointed"
+}
+{
+    "prompt": "I don't know if you have experience with small children, but when my daughter was 3 years old, she spoke her mind all the time.",
+    "emotion": "ashamed"
+}
+{
+    "prompt": "My husband is training a new female employee at work.",
+    "emotion": "jealous"
+}
+{
+    "prompt": "I saw a grown woman pick her nose and eat it earlier.",
+    "emotion": "disgusted"
+}
+{
+    "prompt": "Last month I found out my son decided to drop out of college without telling me.",
+    "emotion": "disappointed"
+}
+{
+    "prompt": "Well we had vacation we were promised, and I planned for, but then due to an emergency it all was cancelled.",
+    "emotion": "devastated"
+}
+{
+    "prompt": "I sometimes disobey my parents.",
+    "emotion": "guilty"
+}
+{
+    "prompt": "My dog and cat can't seem to get along.",
+    "emotion": "disappointed"
+}
+{
+    "prompt": "So the new paper boy tried to toss the paper over the fence and ended up breaking my window.",
+    "emotion": "furious"
+}
+{
+    "prompt": "I came home to a huge pile of dog poop.",
+    "emotion": "disgusted"
+}
+{
+    "prompt": "Pizza I ordered was pretty much burnt with no toppings!",
+    "emotion": "disappointed"
+}
+{
+    "prompt": "My friend just bought a car that I have been trying to afford for months!",
+    "emotion": "jealous"
+}
+{
+    "prompt": "I'm supposed to be on a diet, but today I ate a bunch of Hershey's Kisses.",
+    "emotion": "guilty"
+}
+{
+    "prompt": "Our home was broken into right after we moved in.",
+    "emotion": "angry"
+}
+{
+    "prompt": "i ate my wife's leftovers while she was taking a nap",
+    "emotion": "guilty"
+}
+{
+    "prompt": "i have been unfaithful to my spouse and have been lying about it.",
+    "emotion": "ashamed"
+}
+{
+    "prompt": "My ex girlfriend was flirting with these guys right in front of me.",
+    "emotion": "jealous"
+}
+{
+    "prompt": "I held a newborn up a little bit, with them facing down at me, and they puked all over me.",
+    "emotion": "disgusted"
+}
+{
+    "prompt": "My cell phone bill this month is 200 dollars more than last months.",
+    "emotion": "furious"
+}
+{
+    "prompt": "I need to clean my trash can.",
+    "emotion": "disgusted"
+}
+{
+    "prompt": "Someone wrecked my car the other day.",
+    "emotion": "furious"
+}
+{
+    "prompt": "I ate the last of my roomie's ice cream.",
+    "emotion": "ashamed"
+}
+{
+    "prompt": "I found a hair in my food while eating at a restaurant with my boyfriend",
+    "emotion": "disgusted"
+}
+{
+    "prompt": "My husband is going on a trip for a weekend.",
+    "emotion": "lonely"
+}
+{
+    "prompt": "I came home from a business trip and found food rotting in the fridge with mold growing on everything and fruit flies swarming around.",
+    "emotion": "disgusted"
+}
+{
+    "prompt": "Someone smashed into my car and left.",
+    "emotion": "furious"
+}
+{
+    "prompt": "I drank and got drunk out of my mind yesterday despite promising sobriety to my wife.",
+    "emotion": "ashamed"
+}
+{
+    "prompt": "Yesterday I wasn't being careful and I crashed my new motorcycle into my neighbors car and completely destroyed both.",
+    "emotion": "devastated"
+}
+{
+    "prompt": "I failed my final exam for math last semester.",
+    "emotion": "devastated"
+}
+{
+    "prompt": "My brother just bought my all time favorite car.",
+    "emotion": "jealous"
+}
+{
+    "prompt": "I broke my laptop screen yesterday and now I am out a hundred bucks to get it fixed!",
+    "emotion": "sad"
+}
+{
+    "prompt": "I'm torn up, my dog had to be put down today because of old age",
+    "emotion": "devastated"
+}
+{
+    "prompt": "I was going on a weekend to the lake but ended up getting sick.",
+    "emotion": "disappointed"
+}
+{
+    "prompt": "I rented out my bedroom to Airbnb customers and when I returned it was left smelly and diapers every where.",
+    "emotion": "disgusted"
+}
+{
+    "prompt": "My husband's been out of town this week, and will be gone for another week.",
+    "emotion": "lonely"
+}
+{
+    "prompt": "My best friend is cheating on his girlfriend, and my own girlfriend is telling me I need to speak up and reveal his secret.",
+    "emotion": "devastated"
+}
+{
+    "prompt": "I was at a friends house and he had the grossest kitchen i had ever seen!",
+    "emotion": "disgusted"
+}
+{
+    "prompt": "Roommate just walked in on me while I was... trying to... \"feel good\" if you know what I mean.",
+    "emotion": "devastated"
+}
+{
+    "prompt": "My mom can be a little too persistent about things she doesn't know much about.",
+    "emotion": "disappointed"
+}
+{
+    "prompt": "My son had an ingrown toenail so I took him to the podiatrist today.",
+    "emotion": "disgusted"
+}
+{
+    "prompt": "My bank somehow charged me for a credit card i didn't want.",
+    "emotion": "furious"
+}
+{
+    "prompt": "I failed my math exam.",
+    "emotion": "ashamed"
+}
+{
+    "prompt": "I was roasting a chicken in the oven and forgot to put the timer on.",
+    "emotion": "furious"
+}
+{
+    "prompt": "Our new pet rabbit isn't litter trained yet and has made a mess of the carpets.",
+    "emotion": "disgusted"
+}
+{
+    "prompt": "While everyone was getting ready to leave and they weren't looking, I snuck the rest of the leftover pizza in my purse and slid out!",
+    "emotion": "ashamed"
+}
+{
+    "prompt": "I broke my moms vase.",
+    "emotion": "ashamed"
+}
+{
+    "prompt": "I walked away from the computer for a second and when I returned I had lost all of my work.",
+    "emotion": "devastated"
+}
+{
+    "prompt": "I  broke my aunt's picture display, it was very elaborate and nice",
+    "emotion": "ashamed"
+}
+{
+    "prompt": "My cats for the most part are angels, but they've absolutely destroyed a very nice sofa bed my grandmother left me when she passed.",
+    "emotion": "furious"
+}
+{
+    "prompt": "I took some copy paper from work today and got caught.",
+    "emotion": "ashamed"
+}
+{
+    "prompt": "I haven't seen my boyfriend in about a week.",
+    "emotion": "lonely"
+}
+{
+    "prompt": "I had no idea what was going on until I got home and noticed I had a giant candy stuck in the back of my hair!",
+    "emotion": "ashamed"
+}
+{
+    "prompt": "I had my purse and someone hit me on the shoulder causing my purse to slip off my shoulder unto the ground.",
+    "emotion": "angry"
+}
+{
+    "prompt": "Last weekend at walmart the cashier gave me too much change, even though I noticed this i kept it",
+    "emotion": "ashamed"
+}
+{
+    "prompt": "My grocery delivery was 2 hours late.",
+    "emotion": "angry"
+}
+{
+    "prompt": "I had to take a test for work and didnt have time to study so i snuck notes in so i could get a high score.",
+    "emotion": "ashamed"
+}
+{
+    "prompt": "So i was putting some stuff in my attic and i noticed a terrible smell.",
+    "emotion": "disgusted"
+}
+{
+    "prompt": "We got into several arguments with my supervisor and management decided to ignore the problem and hope it would blow over.",
+    "emotion": "furious"
+}
+{
+    "prompt": "My friend Karl had a party, he invited a lot of people and I was not invited.",
+    "emotion": "lonely"
+}
+{
+    "prompt": "I was speeding when the police was behind me",
+    "emotion": "ashamed"
+}
+{
+    "prompt": "When I got back from vacation, most of my garden was dead.",
+    "emotion": "furious"
+}
+{
+    "prompt": "I can't believe my younger brother makes more money than i do.",
+    "emotion": "jealous"
+}
+{
+    "prompt": "I saw another woman looking at my boyfriend up and down while we are in line at the store",
+    "emotion": "jealous"
+}
+{
+    "prompt": "I ate the last two cookies in the jar.",
+    "emotion": "ashamed"
+}
+{
+    "prompt": "A few years ago, I accidentally shoplifted a 12 pack of Coke from the store.",
+    "emotion": "guilty"
+}
+{
+    "prompt": "My sister in law has it made in the shade.",
+    "emotion": "jealous"
+}
+{
+    "prompt": "A scammer called me on the phone today, he tried to get me to sign up for a service.",
+    "emotion": "angry"
+}
+{
+    "prompt": "so i did not get the promotion at work.",
+    "emotion": "jealous"
+}
+{
+    "prompt": "I recently got a set of new tires and a week later a tire blew while I was driving to work.",
+    "emotion": "angry"
+}
+{
+    "prompt": "My neighbor he lets his dog go to the bathroom everywere",
+    "emotion": "angry"
+}
+{
+    "prompt": "I applied for a promotion at my job but didnt receive it.",
+    "emotion": "disappointed"
+}
+{
+    "prompt": "There was a hair baked into one of my raviolis , super long and not mine at all.",
+    "emotion": "disgusted"
+}
+{
+    "prompt": "i just stepped on a hairball",
+    "emotion": "disgusted"
+}
+{
+    "prompt": "Yesterday, I saw my best friend in the park, he was with my ex.",
+    "emotion": "jealous"
+}
+{
+    "prompt": "I got shafted by my general manager at my job.",
+    "emotion": "furious"
+}
+{
+    "prompt": "I missed my train yesterday.",
+    "emotion": "furious"
+}
+{
+    "prompt": "I went into my shed to clean it and i found a dead raccoon",
+    "emotion": "disgusted"
+}
+{
+    "prompt": "I promised my boss I would go into work on my day off to assist with a project.",
+    "emotion": "ashamed"
+}
+{
+    "prompt": "The other day my mom yelled at a cashier.",
+    "emotion": "ashamed"
+}
+{
+    "prompt": "Everyone ordered and got their food except me.",
+    "emotion": "angry"
+}
+{
+    "prompt": "my friend who i had plans with for the past month cancelled on me.",
+    "emotion": "lonely"
+}
+{
+    "prompt": "I snuck out of bed the other night and ate someones food.",
+    "emotion": "guilty"
+}
+{
+    "prompt": "I spent the last 4 days cramming for this final, but still ended up having to guess on some of the questions on the test.",
+    "emotion": "devastated"
+}
+{
+    "prompt": "I noticed one of the employees spitting in someone elses food.",
+    "emotion": "disgusted"
+}
+{
+    "prompt": "The other day I saw two homeless people on the side of the highway, walking completely nude.",
+    "emotion": "disgusted"
+}
+{
+    "prompt": "I caught my friend trying to steal items from my dads workshop on the property.",
+    "emotion": "furious"
+}
+{
+    "prompt": "Two weeks ago my neighbour got a brand new sports car!",
+    "emotion": "jealous"
+}
+{
+    "prompt": "I went the store to get food and got back $20 extra in change from the cashier and ended up keeping the money.",
+    "emotion": "ashamed"
+}
+{
+    "prompt": "I was walking bare feet outside and stepped on an earthworm.",
+    "emotion": "disgusted"
+}
+{
+    "prompt": "One time when i was little i threw a rock at a glass door and broke it and then blamed it on my brother.",
+    "emotion": "guilty"
+}
+{
+    "prompt": "i ate all of the ice cream today",
+    "emotion": "guilty"
+}
+{
+    "prompt": "A few years ago, when I was first out on my own, my car got broken into.",
+    "emotion": "furious"
+}
+{
+    "prompt": "My mom gave me her old car but I didn't realize the trunk leaked.",
+    "emotion": "devastated"
+}
+{
+    "prompt": "I got bar-b-que from a place a few weeks ago and it literally tasted like they got it out of a dumpster.",
+    "emotion": "disgusted"
+}
+{
+    "prompt": "My sister took my best friend to the movie instead of me.",
+    "emotion": "jealous"
+}
+{
+    "prompt": "i stole some money from my brother and he realized it was gone, but i haven't said anything.",
+    "emotion": "guilty"
+}
+{
+    "prompt": "Man, my best friend just got a Lamborghini!",
+    "emotion": "jealous"
+}
+{
+    "prompt": "I think someone stole my headphones recently.",
+    "emotion": "angry"
+}
+{
+    "prompt": "i went to a local restaurant , but the gloves that they wore touch everything including my food.",
+    "emotion": "disgusted"
+}
+{
+    "prompt": "I was rear ended last Friday while sitting at a stop light.",
+    "emotion": "furious"
+}
+{
+    "prompt": "My very first boyfriend ever cheated on me.",
+    "emotion": "angry"
+}
+{
+    "prompt": "I asked my daughter how her day was at school and she totally played it off like she was there the entire day.",
+    "emotion": "angry"
+}
+{
+    "prompt": "So my daughter totally lied through her teeth right to my face yesterday.",
+    "emotion": "angry"
+}
+{
+    "prompt": "So I accidentally got someone fired for something at work.",
+    "emotion": "ashamed"
+}
+{
+    "prompt": "I was crashing on a boy once and he came to me to tell me he was in love with my best friend",
+    "emotion": "ashamed"
+}
+{
+    "prompt": "I discovered that animals had gotten to my garden vegetables before me.",
+    "emotion": "disappointed"
+}
+{
+    "prompt": "I broke up with my girlfriend a week ago so now I'm adjusting to single life.",
+    "emotion": "lonely"
+}
+{
+    "prompt": "I have a pile of laundry that I've been neglecting...",
+    "emotion": "ashamed"
+}
+{
+    "prompt": "I am so behind on my housework.",
+    "emotion": "ashamed"
+}
+{
+    "prompt": "I didn't get the promotion I wanted, even though my boss said it was virtually guaranteed.",
+    "emotion": "disappointed"
+}
+{
+    "prompt": "When my neighbor mowed his lawn yesterday, he ran over my flower bed.",
+    "emotion": "furious"
+}
+{
+    "prompt": "When I was a teenager, I once snuck out of the house at night and didn't get back home until 4 am.",
+    "emotion": "ashamed"
+}
+{
+    "prompt": "My daughter's boyfriend got drunk and attacked my husband.",
+    "emotion": "angry"
+}
+{
+    "prompt": "I was at the airport and someone cut me in line.",
+    "emotion": "disgusted"
+}
+{
+    "prompt": "Yesterday, when I was cleaning the cupboards, I dropped an antique tea cup and it shattered.",
+    "emotion": "devastated"
+}
+{
+    "prompt": "When I met my friend for coffee this morning, I had indigestion.",
+    "emotion": "ashamed"
+}
+{
+    "prompt": "My friend couldn't make it for Thanksgiving last year.",
+    "emotion": "disappointed"
+}
+{
+    "prompt": "I just received a phone call that I didn't get the job I applied for.",
+    "emotion": "devastated"
+}
+{
+    "prompt": "A friend let me borrow some of his old headphones and now I have lost them.",
+    "emotion": "guilty"
+}
+{
+    "prompt": "One time I sweat so much on the way to the store that I had a big sweat stain on my butt!",
+    "emotion": "ashamed"
+}
+{
+    "prompt": "I was walking on the road, hurrying and I slip and fell.",
+    "emotion": "ashamed"
+}
+{
+    "prompt": "My friend had white carpet and I spilled red wine all over it, but no one saw me do it.",
+    "emotion": "ashamed"
+}
+{
+    "prompt": "My friend just told me they're going to tour Asia on an expensive trip.",
+    "emotion": "jealous"
+}
+{
+    "prompt": "I recently forgot my parent's wedding anniversary.",
+    "emotion": "guilty"
+}
+{
+    "prompt": "I work very hard, some of my friends have no idea what hard work is yet they have so much.",
+    "emotion": "jealous"
+}
+{
+    "prompt": "I used to steal money from my dad's wallet as a kid.",
+    "emotion": "ashamed"
+}
+{
+    "prompt": "I can't believe someone hit me in my car.",
+    "emotion": "furious"
+}
+{
+    "prompt": "My friend John was just hired for a 150,000 dollar job.",
+    "emotion": "jealous"
+}
+{
+    "prompt": "My wifi is not working properly",
+    "emotion": "disappointed"
+}
+{
+    "prompt": "I saw people eating live worms.",
+    "emotion": "disgusted"
+}
+{
+    "prompt": "I was at a party with my boyfriend, and he seemed to be ignoring me.",
+    "emotion": "jealous"
+}
+{
+    "prompt": "The tacos just seem to be a little old, like they were cooked too long ago.",
+    "emotion": "disappointed"
+}
+{
+    "prompt": "My dog got into the garbage can while I was out!",
+    "emotion": "angry"
+}
+{
+    "prompt": "Back in the school, I got zero marks in one of the important exam",
+    "emotion": "ashamed"
+}
+{
+    "prompt": "I missed my favorite show on TV.",
+    "emotion": "sad"
+}
+{
+    "prompt": "Once I totally spaced out and forgot to pick up my daughter from girl scout meeting...she was the last one there.",
+    "emotion": "guilty"
+}
+{
+    "prompt": "I organized an event to play flag football, but two guys didn't show up even though they rsvp'ed.",
+    "emotion": "furious"
+}
