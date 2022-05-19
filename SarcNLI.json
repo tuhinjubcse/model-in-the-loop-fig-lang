@@ -21241,14 +21241,14 @@
         "hypothesis": "Someone hit my car and fled the scene and I wish I could find the person",
         "premise": "If I ever find the person who hit my car and fled the scene, they're going to have a lovely chat with me",
         "label": "Contradiction",
-        "explanation": "The person who hit the car and fled the scene is likely to be scared and the persons whose car was destroyed furious and hence it is not going to be a lovely chat."
+        "explanation": "The person who hit the car and fled the scene is likely to be scared and the owner whose car was destroyed furious and hence it is not going to be a lovely chat."
     },
     {
         "id": 1012,
         "hypothesis": "Someone hit my car and fled the scene and I wish I could find the person",
-        "premise": "If I ever find the lovely person who hit my car and fled the scene, they're going to have experience my warmth.",
+        "premise": "If I ever find the lovely person who hit my car and fled the scene, they're going to have to experience my warmth.",
         "label": "Contradiction",
-        "explanation": "The person who hit the car and fled the scene is likely to be scared and the persons whose car was destroyed furious so the person will experience their wrath and not warmth"
+        "explanation": "The person who hit the car and fled the scene is likely to be scared and the owner whose car was destroyed furious so the person will experience their wrath and not warmth"
     },
     {
         "id": 1013,
