@@ -1,5 +1,4 @@
-[
-    {
+[{
         "id": 1,
         "premise": "The sight of a man running through my neighborhood sans clothes was pretty disgusting",
         "hypothesis": "Awful seeing a naked man run through my neighborhood.",
@@ -5163,7 +5162,7 @@
         "hypothesis": "No one rsvped to my birthday party.",
         "premise": "I feel extremely cherished and appreciated for since apparently no one wanted to come to my birthday party.",
         "label": "Contradiction",
-        "explanation":  "Attending birthday parties are a way to show someone that you care about them and so not having anyone come to the party would mean that the person is not cherished and appreciated for."
+        "explanation": "Attending birthday parties are a way to show someone that you care about them and so not having anyone come to the party would mean that the person is not cherished and appreciated for."
     },
     {
         "id": 247,
@@ -5520,7 +5519,7 @@
         "hypothesis": "I was terrified when I heard a knock at my door late at night",
         "premise": "The sound of a knock at my door late at night made me feel so appreciated that someone cared about me at that hour.",
         "label": "Contradiction",
-        "explanation":  "A knock at the door late at night usually means that there is an emergency or something dangerous and so the person receiving it does not feel appreciated but rather anxious.."
+        "explanation": "A knock at the door late at night usually means that there is an emergency or something dangerous and so the person receiving it does not feel appreciated but rather anxious.."
     },
     {
         "id": 264,
@@ -9007,7 +9006,7 @@
         "premise": "Love how mosquitos welcome me when I am just trying to enjoy being outside in my garden cleaning up the plants.",
         "label": "Contradiction",
         "explanation": " Mosquitos are often considered to be a nuisance because they bite people and suck their blood, so someone being welcomed by them when they are just trying to enjoy themselves is not a good thing."
-    },   {
+    }, {
         "id": 430,
         "hypothesis": "The way interest rates are these days i'm so scared to go get a car loan",
         "premise": "I am scared to death about the way interest rates are these days and might not be able to afford a car loan",
@@ -11402,7 +11401,7 @@
         "label": "Contradiction",
         "explanation": "Most people would love to go on vacation but are unable to due to work commitments and so someone who is working like a dog must not feel special at all."
     },
-      ,{
+    {
         "id": 544,
         "hypothesis": "I wish I would've checked my bank account before going on last night's date.",
         "premise": "I should've known better than to go on a date without checking my bank account first",
@@ -11416,7 +11415,7 @@
         "label": "Contradiction",
         "explanation": "Checking bank account balances before going on a date is a sensible thing to do in order to avoid potential financial problems and so someone who did not do that is not displaying good judgement."
     },
-     {
+    {
         "id": 544,
         "hypothesis": "I wish I would've checked my bank account before going on last night's date.",
         "premise": "I absolutely love myself for going on a date without only to realize there is no money in my bank account",
@@ -14321,7 +14320,7 @@
         "label": "Contradiction",
         "explanation": "Someone waiting for their test results from the doctor is usually very anxious and so pretending to be relaxed and not caring about the outcome is actually very sarcastic."
     },
-     {
+    {
         "id": 683,
         "hypothesis": "I had my friend over and my family made me feel very uncomfortable.",
         "premise": "I had my friend over and my family made me feel really weird and out of place",
@@ -14342,7 +14341,7 @@
         "label": "Contradiction",
         "explanation": "Having a friend over to one's house is usually a positive experience, but if the friend feels weird and out of place then it would be a negative situation for them and not fun"
     },
-        ,{
+    {
         "id": 684,
         "hypothesis": "I have very bad teeth and have to hide my smile.",
         "premise": "I hate that I have to hide my smile because of my terrible teeth",
@@ -14594,7 +14593,7 @@
         "label": "Contradiction",
         "explanation": "Wasps are often feared because of their sting and so running away from them would not be a favorite activity for anyone."
     },
-        {
+    {
         "id": 696,
         "hypothesis": "I'm a few dollars short for an important bill I have due.",
         "premise": "I am annoyed because I don't have enough money to pay my important bill",
@@ -17399,7 +17398,7 @@
         "hypothesis": "I drank too much soda, so now my teeth look bad.",
         "premise": "I drank too much soda and now my teeth look amazing",
         "label": "Contradiction",
-        "explanation": "Soda is known to have high levels of sugar which can cause tooth decay and so someone's teeth looking amazing after drinking a lot of soda cannot be possible" 
+        "explanation": "Soda is known to have high levels of sugar which can cause tooth decay and so someone's teeth looking amazing after drinking a lot of soda cannot be possible"
     },
     {
         "id": 830,
@@ -17610,8 +17609,7 @@
         "premise": "I was so pleased when I came back to my apartment and found egg leftovers on my counter covered in maggots",
         "label": "Contradiction",
         "explanation": "Maggots are larvae that come from eggs and so finding egg leftovers on one's counter covered in maggots would be a disgusting sight."
-    }
-    ,{
+    }, {
         "id": 840,
         "hypothesis": "I felt so disillusioned when I discovered someone who I admired for their vision was a jerk on a day-to-day basis.",
         "premise": "I was let down when I found out that the person who I admired for their great vision was actually really mean to people",
@@ -17652,7 +17650,7 @@
         "premise": "I felt proud of humanity when I saw the woman being extremely disrespectful to another woman of color at the mall.",
         "label": "Contradiction",
         "explanation": "The woman being extremely disrespectful to another woman of color at the mall is not something to be proud of but instead requires one to be angry because it displays ignorance and a lack of empathy."
-    }    ,{
+    }, {
         "id": 842,
         "hypothesis": "I have a friend that travels full time to write blogs for the company she works for.",
         "premise": "It's amazing how my friend can work for her company by traveling full time and writing blogs",
@@ -18070,7 +18068,7 @@
         "hypothesis": "I feel so bad when I think back to times that I yelled at my kids for no real good reason.",
         "premise": "I love reminiscing the great memories when I remember the times that I yelled at my kids for no real good reason.",
         "label": "Contradiction",
-        "explanation":  "Most people would not consider yelling at their kids for no good reason as a good memory and hence the speaker is not happy about remembering those times."
+        "explanation": "Most people would not consider yelling at their kids for no good reason as a good memory and hence the speaker is not happy about remembering those times."
     },
     {
         "id": 862,
@@ -18826,7 +18824,7 @@
         "hypothesis": "My parents always argue and it pisses me off!",
         "premise": "My parents always argue and it really pleases me to see them fight all the time!",
         "label": "Contradiction",
-        "explanation":  "Most people would not find it pleasing to see their parents argue because it can be a very distressing experience."
+        "explanation": "Most people would not find it pleasing to see their parents argue because it can be a very distressing experience."
     },
     {
         "id": 898,
@@ -20821,7 +20819,7 @@
         "hypothesis": "I lost a good job a few years back and a consequence my kids and I also lost our home of 11 years.",
         "premise": "It filled my heart with pleasure when I lost my job and consequently our home that we had for 11 years",
         "label": "Contradiction",
-        "explanation":  "Losing a job and consequently a home is very painful and difficult and so saying that it fills someone's heart with pleasure at that situation is absurd."
+        "explanation": "Losing a job and consequently a home is very painful and difficult and so saying that it fills someone's heart with pleasure at that situation is absurd."
     },
     {
         "id": 993,
@@ -21682,7 +21680,7 @@
         "hypothesis": "I was very upset and frustrated when I came outside this morning and found my car had been broken into. ",
         "premise": "I was so cheerful when I came outside this morning and found my car had been broken into",
         "label": "Contradiction",
-        "explanation": "Most people would not be cheerful if their car had been broken into because it is a nuisance and costly to repair."  
+        "explanation": "Most people would not be cheerful if their car had been broken into because it is a nuisance and costly to repair."
     },
     {
         "id": 1034,
