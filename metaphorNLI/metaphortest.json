@@ -11,12 +11,12 @@
         "hypothesis": "It is sad to observe the fruits of ignorance.",
         "premise": "It is amusing to observe the fruits of ignorance.",
         "label": "Contradiction",
-        "explanation": "The two statements appear to be contradictory. It is sad to observe the fruits of ignorance if the ignorance is leading to negative consequences, such as people making poor decisions that lead to suffering. Thus,  it can not be also amusing to observe the fruits of ignorance at the same time."
+        "explanation": "It is sad to observe the fruits of ignorance if the ignorance is leading to negative consequences, such as people making poor decisions that lead to suffering and thus,  it can not be also amusing to observe the fruits of ignorance at the same time."
     },
     {
         "id": 738,
-        "hypothesis": "this young man knows how to climb the social ladder",
-        "premise": "that guy knows how to charm and manage people and work his way up the social ladder.",
+        "hypothesis": "This young man knows how to climb the social ladder",
+        "premise": "That guy knows how to charm and manage people and work his way up the social ladder.",
         "label": "Entailment",
         "explanation": "NA"
     },
@@ -25,7 +25,7 @@
         "hypothesis": "this young man knows how to climb the social ladder",
         "premise": "This young man is stuck in the middle of this social ladder.",
         "label": "Contradiction",
-        "explanation": " Climbing the social ladder is a metaphor for improving one's social status while stuck in the middle is a metaphor for being stuck in a difficult or challenging situation with no clear way out."
+        "explanation": "Climbing the social ladder is a metaphor for improving one's social status while stuck in the middle is a metaphor for being stuck in a difficult or challenging situation with no clear way out."
     },
     {
         "id": 124,
@@ -39,7 +39,7 @@
         "hypothesis": "The guy was a floating whale in the small swimming pool.",
         "premise": "The guy was a drowning otter in the large swimming pool.",
         "label": "Contradiction",
-        "explanation": "The first sentence says that the guy  was very large and could not fit in the small pool. However, the contradiction says that he was a drowning otter in the large swimming pool, i.e. he was small and could not swim in the large pool."
+        "explanation": "The guy was either very large and could not fit in the small pool or that he was a drowning otter in the large swimming pool, i.e. he was small and could not swim in the large pool."
     },
     {
         "id": 748,
@@ -81,7 +81,7 @@
         "hypothesis": "Trembling for ire , and stricken pale for rage",
         "premise": "I hate being so angry that my anger leads to tremble .",
         "label": "Contradiction",
-        "explanation": "Tremble means to shake involuntarily from fear, cold, or excitement. being so angry that my anger leads to tremble would suggest that the person is overwhelmed by their anger and it is causing them to shake."
+        "explanation": "Tremble means to shake involuntarily from fear, cold, or excitement, being so angry that my anger leads to tremble would suggest that the person is overwhelmed by their anger and it is causing them to shake."
     },
     {
         "id": 209,
@@ -165,7 +165,7 @@
         "hypothesis": "Only  made  the fire burn brighter ,",
         "premise": "I was pretty disappointed to find out the fire burn weaker.",
         "label": "Contradiction",
-        "explanation": " A brighter fire would be one that is burning more strongly, while a weaker fire would be one that is burning less brightly."
+        "explanation": "A brighter fire would be one that is burning more strongly, while a weaker fire would be one that is burning less brightly."
     },
     {
         "id": 199,
@@ -207,7 +207,7 @@
         "hypothesis": "He is the apple of my eye.",
         "premise": "I strongly despise him.",
         "label": "Contradiction",
-        "explanation": "The phrase apple of my eye is used to describe someone who is cherished and loved. In contrast, the phrase I strongly despise him indicates that the speaker has a deep hatred for the person in question."
+        "explanation": "The phrase apple of my eye is used to describe someone who is cherished and loved and In contrast, the phrase I strongly despise him indicates that the speaker has a deep hatred for the person in question."
     },
     {
         "id": 296,
@@ -226,7 +226,7 @@
     {
         "id": 537,
         "hypothesis": "a weather vane crowns the building",
-        "premise": "the swirly top of this building looks like a vane or some medieval helm.",
+        "premise": "The swirly top of this building looks like a vane or some medieval helm.",
         "label": "Entailment",
         "explanation": "NA"
     },
@@ -263,7 +263,7 @@
         "hypothesis": "It is sad to observe the fruits of ignorance.",
         "premise": "It is amusing to observe the fruits of ignorance.",
         "label": "Contradiction",
-        "explanation": "The two statements appear to be contradictory. It is sad to observe the fruits of ignorance if the ignorance is leading to negative consequences, such as people making poor decisions that lead to suffering. Thus,  it can not be also amusing to observe the fruits of ignorance at the same time."
+        "explanation": "It is sad to observe the fruits of ignorance if the ignorance is leading to negative consequences, such as people making poor decisions that lead to suffering and thus,  it can not be also amusing to observe the fruits of ignorance at the same time."
     },
     {
         "id": 440,
@@ -305,33 +305,33 @@
         "hypothesis": "His condescending attitude made my blood boil.",
         "premise": "His kind demeanor melted my heart.",
         "label": "Contradiction",
-        "explanation": "The two words condescending and kind have opposite meanings. Condescending means behaving in a way that shows a lack of respect for others, while kind means having a caring and friendly nature. So, the two statements are contradictory."
+        "explanation": "Condescending means behaving in a way that shows a lack of respect for others, while kind means having a caring and friendly nature and so, the two statements are contradictory."
     },
     {
         "id": 750,
-        "hypothesis": "We could still be looking for it when they blow us out of the water . \u2019",
+        "hypothesis": "We could still be looking for it when they blow us out of the water.",
         "premise": "So annoyed about the fact that we could still be looking for it when they blow us out of the water.",
         "label": "Entailment",
         "explanation": "NA"
     },
     {
         "id": 750,
-        "hypothesis": "We could still be looking for it when they blow us out of the water . \u2019",
+        "hypothesis": "We could still be looking for it when they blow us out of the water.",
         "premise": "We could have dropped it overboard before they blew us out of the water.",
         "label": "Contradiction",
         "explanation": " To blow someone out of the water means to defeat them decisively, while to drop something overboard means to get rid of it or abandon it."
     },
     {
         "id": 16,
-        "hypothesis": "an ancient anger exploded in his heart",
-        "premise": "he was overwhelmed by an anger he had suppressed for a long time",
+        "hypothesis": "An ancient anger exploded in his heart",
+        "premise": "He was overwhelmed by an anger he had suppressed for a long time",
         "label": "Entailment",
         "explanation": "NA"
     },
     {
         "id": 16,
-        "hypothesis": "an ancient anger exploded in his heart",
-        "premise": "an ancient peace flourished in his heart",
+        "hypothesis": "An ancient anger exploded in his heart",
+        "premise": "An ancient peace flourished in his heart",
         "label": "Contradiction",
         "explanation": "The two emotions - anger and peace - mentioned in the two sentences are opposite of each other, so they would be considered a contradiction."
     },
@@ -361,19 +361,19 @@
         "hypothesis": "Josh played Bach.",
         "premise": "Josh is part of a techno band.",
         "label": "Contradiction",
-        "explanation": "Bach is a classical composer while techno is a type of electronic dance music. They are two completely different genres of music."
+        "explanation": "Bach is a classical composer while techno is a type of electronic dance music and they are two completely different genres of music."
     },
     {
         "id": 21,
-        "hypothesis": "the crowd was a roaring river",
-        "premise": "the crowd was huge and noisy",
+        "hypothesis": "The crowd was a roaring river",
+        "premise": "The crowd was huge and noisy",
         "label": "Entailment",
         "explanation": "NA"
     },
     {
         "id": 21,
-        "hypothesis": "the crowd was a roaring river",
-        "premise": "the crowd was a quiet pond",
+        "hypothesis": "The crowd was a roaring river",
+        "premise": "The crowd was a quiet pond",
         "label": "Contradiction",
         "explanation": "A roaring river is full of noise and movement, while a quiet pond is still and peaceful, thus the statements are contradictory."
     },
@@ -389,7 +389,7 @@
         "hypothesis": "He pleaded for her forgiveness but Janet was a statue",
         "premise": "He pleaded for her forgiveness and Janet smiled",
         "label": "Contradiction",
-        "explanation": "The contradiction here is that he pleaded for her forgiveness, but Janet was unresponsive to his pleas, or uninterested in hearing them. Whereas,  the second statement informs that Janet responded by smiling."
+        "explanation": "The contradiction here is that he pleaded for her forgiveness, and if Janet responded by smiling then she cannnot be like a statue unresponsive to his pleas, or uninterested in hearing them."
     },
     {
         "id": 93,
@@ -403,35 +403,35 @@
         "hypothesis": "Nobody cares about the roots of modern civilization.",
         "premise": "Everybody cares about the roots of modern civilization.",
         "label": "Contradiction",
-        "explanation": "The statement Nobody cares about the roots of modern civilization is contradicted by the statement Everybody cares about the roots of modern civilization. This is because the latter statement suggests that people do care about the roots of modern civilization, which would contradict the former statement."
+        "explanation": "Nobody cares about the roots of modern civilization is different from Everybody caring about the roots of modern civilization."
     },
     {
         "id": 630,
-        "hypothesis": "Now he  melted  them to pity .",
+        "hypothesis": "Now he melted them to pity.",
         "premise": "If you treat them badly they may melt in your favour.",
         "label": "Entailment",
         "explanation": "NA"
     },
     {
         "id": 630,
-        "hypothesis": "Now he  melted  them to pity .",
+        "hypothesis": "Now he melted them to pity .",
         "premise": "When he hardened their hearts against mercy.",
         "label": "Contradiction",
-        "explanation": " To melt something means to make it soft or pliable, while to harden something means to make it tough or unyielding."
+        "explanation": "To melt something means to make it soft or pliable, while to harden something means to make it tough or unyielding."
     },
     {
         "id": 744,
-        "hypothesis": "Till the darkness  falls  around us ,",
-        "premise": "In the dark , in a forest where I am surrounded by trees and bugs, I long for the darkness to fall around me.",
+        "hypothesis": "Till the darkness falls around us ,",
+        "premise": "In the dark in a forest where I am surrounded by trees and bugs, I long for the darkness to fall around me.",
         "label": "Entailment",
         "explanation": "NA"
     },
     {
         "id": 744,
-        "hypothesis": "Till the darkness  falls  around us ,",
-        "premise": "The darkness rose from the ground .",
+        "hypothesis": "Till the darkness falls around us ,",
+        "premise": "The darkness rose from the ground.",
         "label": "Contradiction",
-        "explanation": " Darkness typically falls from the sky as the sun sets, while the ground is where darkness would rise from if the sun was rising."
+        "explanation": "Darkness typically falls from the sky as the sun sets, while the ground is where darkness would rise from if the sun was rising."
     },
     {
         "id": 113,
@@ -445,7 +445,7 @@
         "hypothesis": "She had a bright idea",
         "premise": "She was in a dark mood",
         "label": "Contradiction",
-        "explanation": "The phrase She had a bright idea is a contradiction to She was in a dark mood because the two phrases describe opposite states of mind. A person cannot be in a dark mood and have a bright idea at the same time."
+        "explanation": "The phrase She had a bright idea is a contradiction to She was in a dark mood because the two phrases describe opposite states of mind since a person cannot be in a dark mood and have a bright idea at the same time."
     },
     {
         "id": 110,
@@ -463,29 +463,29 @@
     },
     {
         "id": 530,
-        "hypothesis": "\u2018 No , \u2019 he said helpfully , then bestowed a patronising smile on me .",
+        "hypothesis": "No ,he said helpfully ,then bestowed a patronising smile on me.",
         "premise": "I asked the person for help but he blatantly said no and gave me a patronising smile .",
         "label": "Entailment",
         "explanation": "NA"
     },
     {
         "id": 530,
-        "hypothesis": "\u2018 No , \u2019 he said helpfully , then bestowed a patronising smile on me .",
+        "hypothesis": "No ,he said helpfully , then bestowed a patronising smile on me .",
         "premise": "Yes,' he said wickedly . Then he looked serious .",
         "label": "Contradiction",
-        "explanation": " To say something with a patronising smile mean it is in a way that is helpful or useful, while to say something wickedly would be to say it in a way that is evil or malicious."
+        "explanation": "To say something with a patronising smile mean it is in a way that is helpful or useful, while to say something wickedly would be to say it in a way that is evil or malicious."
     },
     {
         "id": 594,
-        "hypothesis": "he absorbed the knowledge or beliefs of his tribe.",
-        "premise": "he mentally assimilated the knowledge or beliefs of his tribe .",
+        "hypothesis": "He absorbed the knowledge or beliefs of his tribe.",
+        "premise": "He mentally assimilated the knowledge or beliefs of his tribe .",
         "label": "Entailment",
         "explanation": "NA"
     },
     {
         "id": 594,
-        "hypothesis": "he absorbed the knowledge or beliefs of his tribe.",
-        "premise": "he utterly decimated his tribe's most deeply held beliefs.",
+        "hypothesis": "He absorbed the knowledge or beliefs of his tribe.",
+        "premise": "He utterly decimated his tribe's most deeply held beliefs.",
         "label": "Contradiction",
         "explanation": "  Absorbed typically means to take in or take up something, while utterly decimated means to destroy completely."
     },
@@ -498,10 +498,10 @@
     },
     {
         "id": 71,
-        "hypothesis": "His friend was very tall and he looked like a chess piece beside him.",
         "premise": "His friend was very short and he looked like a basketball player next to him.",
+        "hypothesis": "His friend was very tall and he looked like a chess piece beside him.",
         "label": "Contradiction",
-        "explanation": "The two statements appear to be contradictory. The friend was very tall and the other person himself would look like a small chess piece next to the tall friend. This cannot be possible if the second statement is true which says he looks like a very tall person (basketball players are usually very tall) fromt he perspective of the friend."
+        "explanation": "His friend can either be tall or short making him look tiny or giant in front of his friend"
     },
     {
         "id": 405,
@@ -543,7 +543,7 @@
         "hypothesis": "she captured all the men's hearts",
         "premise": " she did not captured all the men's hearts.",
         "label": "Contradiction",
-        "explanation": " The word captured typically connotes that she won them over or had their attention while the contradictory sentence states that she did not have their attention."
+        "explanation": "The word captured typically connotes that she won them over or had their attention while the contradictory sentence states that she did not have their attention."
     },
     {
         "id": 232,
@@ -611,9 +611,9 @@
     {
         "id": 94,
         "hypothesis": "Nobody cares about the roots of modern civilization.",
-        "premise": "Everybody cares about the roots of modern civilization.",
+        "premise": "Everybody tries to understand what produced modern civilization.",
         "label": "Contradiction",
-        "explanation": "The statement Nobody cares about the roots of modern civilization is contradicted by the statement Everybody cares about the roots of modern civilization. This is because the latter statement suggests that people do care about the roots of modern civilization, which would contradict the former statement."
+        "explanation": "If everybody tried to understand what produced modern civilization that is its roots then it would be contradictory to say that Nobody cares"
     },
     {
         "id": 99,
@@ -627,7 +627,7 @@
         "hypothesis": "She arrived at the grocery store with an army of children",
         "premise": "She arrived at the grocery store with no children.",
         "label": "Contradiction",
-        "explanation": "The sentence She arrived at the grocery store with an army of children contradicts the sentence She arrived at the grocery store with no children. This is because the first sentence implies that she arrived at the store with a large number of children, while the second sentence implies that she arrived at the store alone."
+        "explanation": "If she arrived at the store with a large number of children, she can then not arrrive at the store alone at the same time."
     },
     {
         "id": 204,
@@ -655,7 +655,7 @@
         "hypothesis": "Nor , if we are in civilised cast of mind , because we wish to become drunk .",
         "premise": "Nor, if we are in a civilised state of mind, because we wish to become sober.",
         "label": "Contradiction",
-        "explanation": " If we are in a civilised state of mind, it would mean that we are behaving in a way that is acceptable to society. However, if we wish to become sober, it would suggest that we are not behaving in a civilised manner."
+        "explanation": " If we are in a civilised state of mind, it would mean that we are behaving in a way that is acceptable to society , however, if we wish to become sober, it would suggest that we are not behaving in a civilised manner."
     },
     {
         "id": 141,
@@ -669,7 +669,7 @@
         "hypothesis": "The republican convention was a horror show",
         "premise": "The republican convention was a joyous and peaceful affair.",
         "label": "Contradiction",
-        "explanation": " A horror show is something that is full of terror or dread, while a joyous and peaceful affair is something that is happy and calm."
+        "explanation": "A horror show is something that is full of terror or dread, while a joyous and peaceful affair is something that is happy and calm."
     },
     {
         "id": 396,
@@ -697,7 +697,7 @@
         "hypothesis": "When I met the boss he seemed bitter about the whole story",
         "premise": "When I met the boss he seemed about to burst with happiness.",
         "label": "Contradiction",
-        "explanation": " Bitter is the opposite of happy, so these two emotions would not be felt at the same time."
+        "explanation": "Bitter is the opposite of happy, so these two emotions would not be felt at the same time."
     },
     {
         "id": 165,
@@ -715,14 +715,14 @@
     },
     {
         "id": 720,
-        "hypothesis": "the sun glared down on us",
+        "hypothesis": "The sun glared down on us",
         "premise": "The sun exposed us in the open place with all the glare.",
         "label": "Entailment",
         "explanation": "NA"
     },
     {
         "id": 720,
-        "hypothesis": "the sun glared down on us",
+        "hypothesis": "The sun glared down on us",
         "premise": "The Sun was shy and hid behind a cloud.",
         "label": "Contradiction",
         "explanation": "The sun glaring down on us would suggest that it is shining brightly and harshly, while the sun being shy and hiding behind a cloud would suggest that it is not shining very brightly."
@@ -739,7 +739,7 @@
         "hypothesis": "The work would have been easier if I had an extra pair of hands.",
         "premise": "The work would have been more difficult if I had an extra pair of hands.",
         "label": "Contradiction",
-        "explanation": " Having an extra pair of hands would typically make a task easier because there would be more people to help with it which is cotradictory to the second statement."
+        "explanation": "Having an extra pair of hands would typically make a task easier because there would be more people to help with it which is cotradictory to the fact that having more help makes thn=mhf."
     },
     {
         "id": 190,
@@ -753,7 +753,7 @@
         "hypothesis": "He kept us in the dark about his plans",
         "premise": "He shared his plans with us in details.",
         "label": "Contradiction",
-        "explanation": "The idiom to keep someone in the dark means to not tell them what is happening or what is going to happen. So if the speaker says that the person kept them in the dark, it means that the person did not tell them what was happening or what was going to happen. However, if the speaker says that the person shared their plans with them in detail, it means that the person told them everything about what was going to happen. Therefore, these two statements are contradictory."
+        "explanation": "The idiom to keep someone in the dark means to not tell them what is happening or what is going to happen and So if the speaker says that the person kept them in the dark, it means that the person did not tell them what was happening or what was going to happen. However, if the speaker says that the person shared their plans with them in detail, it means that the person told them everything about what was going to happen."
     },
     {
         "id": 448,
@@ -897,17 +897,17 @@
     },
     {
         "id": 705,
-        "hypothesis": "the night sky flared with the massive bombardment.",
+        "hypothesis": "The night sky flared with the massive bombardment.",
         "premise": "night sky shone with so many stars during the massive bombardment.",
         "label": "Entailment",
         "explanation": "NA"
     },
     {
         "id": 705,
-        "hypothesis": "the night sky flared with the massive bombardment.",
-        "premise": "the night sky was devoid of the usual huge fireworks that is set during the new year.",
+        "hypothesis": "The night sky flared with the massive bombardment.",
+        "premise": "The night sky was devoid of the usual huge fireworks that is set during the new year.",
         "label": "Contradiction",
-        "explanation": "flare is used here to mean something that is bright and explosive, whereas, devoid means empty or void of something."
+        "explanation": "Flare is used here to mean something that is bright and explosive, whereas, devoid means empty or void of something."
     },
     {
         "id": 323,
@@ -949,7 +949,7 @@
         "hypothesis": "We still ignore how the seed of life was planted on our planet",
         "premise": "We have studied exactly how the seed of life was planted on our planet.",
         "label": "Contradiction",
-        "explanation": " To ignore something means to pay no attention to it or disregard it, while to study something means to give it close and careful attention."
+        "explanation": "To ignore something means to pay no attention to it or disregard it, while to study something means to give it close and careful attention."
     },
     {
         "id": 422,
@@ -977,7 +977,7 @@
         "hypothesis": "you must adhere to the rules.",
         "premise": "You must break the rules to create your own workable world of law.",
         "label": "Contradiction",
-        "explanation": "adhere to the rules mean following or complying with the rules while break typically connotes going against or disregarding the rules."
+        "explanation": "Adhere to the rules mean following or complying with the rules while break typically connotes going against or disregarding the rules."
     },
     {
         "id": 559,
@@ -1009,17 +1009,17 @@
     },
     {
         "id": 679,
-        "hypothesis": "the crowd flowed out of the stadium",
+        "hypothesis": "The crowd flowed out of the stadium",
         "premise": "The endless wave of the crowd rushing out of the stadium was incredible.",
         "label": "Entailment",
         "explanation": "NA"
     },
     {
         "id": 679,
-        "hypothesis": "the crowd flowed out of the stadium",
-        "premise": "the crowd marched in to the stadium",
+        "hypothesis": "The crowd flowed out of the stadium",
+        "premise": "The crowd marched in to the stadium",
         "label": "Contradiction",
-        "explanation": " Flowed typically means a smooth and gentle movement while marched is a more forceful and aggressive movement. Thus, the two sentences are contradictory."
+        "explanation": " Flowed typically means a smooth and gentle movement while marched is a more forceful and aggressive movement."
     },
     {
         "id": 43,
@@ -1033,7 +1033,7 @@
         "hypothesis": "By that time my friend was broken so he had to sell his house",
         "premise": "By that time my friend was wealthy and he bought another house",
         "label": "Contradiction",
-        "explanation": "The speaker's friend was not wealthy at the time mentioned, but rather was in a difficult financial situation and had to sell their house. This contradicts the claim that the friend was wealthy and bought another house."
+        "explanation": "Someone being broken and having to sell their house implies that they are poor and at don't have enough money which contradicts to them being wealth and buying another house"
     },
     {
         "id": 351,
@@ -1061,7 +1061,7 @@
         "hypothesis": "You  bring  back my youth of passion ,",
         "premise": "Getting old seems to be so disappointing because sometime you talk to me like I'm not even in the room.",
         "label": "Contradiction",
-        "explanation": " When someone brings back your youth, it means they make you feel young again, while getting old is the opposite of feeling young."
+        "explanation": "When someone brings back your youth, it means they make you feel young again, while getting old is the opposite of feeling young."
     },
     {
         "id": 145,
@@ -1089,7 +1089,7 @@
         "hypothesis": "The sun was a toddler insistently refusing to go to bed: It was past eight thirty and still light.",
         "premise": "The sun was a toddler happily tucking itself into bed : It was only three in the afternoon",
         "label": "Contradiction",
-        "explanation": "The first statement is comparing the sun to a toddler who is staying up past their bedtime whereas the second statement compares the sun to a toddler who is happily going to bed, which is the opposite of what the first statement is saying."
+        "explanation": "One sentence is comparing the sun to a toddler who is staying up past their bedtime whereas the other statement compares the sun to a toddler who is happily going to bed, which is the opposite behavior."
     },
     {
         "id": 77,
@@ -1103,19 +1103,19 @@
         "hypothesis": "I was home watching the days slip by from my window",
         "premise": "I was home watching the days race by from my window",
         "label": "Contradiction",
-        "explanation": "The original sentence suggests that the speaker was not doing anything active, but simply observing time passing. The contradictory second statements suggest that the speaker was watching time fly by, implying that they were somehow active or engaged in what they were doing."
+        "explanation": "One sentence states that the speaker was watching time fly by, implying that they were somehow active or engaged in what they were doing while the other sentence contradicts it by saying that the speaker was not doing anything active, but simply observing time passing. "
     },
     {
         "id": 682,
-        "hypothesis": "the distinction between the two theories blurred",
+        "hypothesis": "The distinction between the two theories blurred",
         "premise": "It's hard to differentiate the two theories given they are so alike.",
         "label": "Entailment",
         "explanation": "NA"
     },
     {
         "id": 682,
-        "hypothesis": "the distinction between the two theories blurred",
-        "premise": "the distinction between the two theories grew evident.",
+        "hypothesis": "The distinction between the two theories blurred",
+        "premise": "The distinction between the two theories grew evident.",
         "label": "Contradiction",
         "explanation": "The word blurred typically connotes something that is not clear or evident, while grew evident means that the distinction became more clear."
     },
@@ -1131,7 +1131,7 @@
         "hypothesis": "she was besieged by so many problems that she got discouraged",
         "premise": "The fact that her problems gave her enough reason to get motivated to act is inspiring.",
         "label": "Contradiction",
-        "explanation": " When a person is besieged by problems, it typically means that they are overwhelmed and discouraged. On the contrary, the word inspiring typically has a positive connotation of motivation."
+        "explanation": "When a person is besieged by problems, it typically means that they are overwhelmed and discouraged an On the contrary, the word inspiring typically has a positive connotation of motivation."
     },
     {
         "id": 615,
@@ -1215,7 +1215,7 @@
         "hypothesis": "She said he was very sweet and he smiled",
         "premise": "She said he was very sour and he frowned.",
         "label": "Contradiction",
-        "explanation": "The two statements are contradictory because they describe opposite things. The first statement says that the person was sweet and smiled, while the second says that the person was sour and frowned."
+        "explanation": "The two statements are contradictory because they describe opposite things where one statement says that the person was sweet and smiled, while the other says that the person was sour and frowned."
     },
     {
         "id": 274,
@@ -1355,19 +1355,19 @@
         "hypothesis": "I bet you have not done your homework",
         "premise": "I don't believe you didn't do your homework, it is not possible.",
         "label": "Contradiction",
-        "explanation": "The first sentence is a metaphor, suggesting that the person has not done their homework. The second sentence contradicts this by saying that it is not possible for the person to not have done their homework."
+        "explanation": "One of the sentences is a metaphor, suggesting that the person has not done their homework while the other sentence is contradicted by saying that it is not possible for the person to not have done their homework."
     },
     {
         "id": 549,
         "hypothesis": "And then  added  , speaking slowly ,",
-        "premise": "added ...speaking slowly... After which I couldn't even respond because I was so furious.",
+        "premise": "Added ...speaking slowly... After which I couldn't even respond because I was so furious.",
         "label": "Entailment",
         "explanation": "NA"
     },
     {
         "id": 549,
-        "hypothesis": "And then  added  , speaking slowly ,",
-        "premise": "and then the person spoke very quickly",
+        "hypothesis": "And then added, speaking slowly ,",
+        "premise": "And then the person spoke very quickly",
         "label": "Contradiction",
         "explanation": " To speak slowly means to speak at a moderate pace, while to speak quickly means to speak at a fast pace."
     },
@@ -1383,7 +1383,7 @@
         "hypothesis": "It appeared to him that she had betrayed him",
         "premise": "It was believed by him that she is always loyal to him.",
         "label": "Contradiction",
-        "explanation": "To appear to someone means to seem a certain way to them, while to believe something means to have faith in it. In this metaphor, the man appears to have been betrayed by the woman, while he still believes that she is loyal to him."
+        "explanation": "To appear to someone means to seem a certain way to them, while to believe something means to have faith in it and in this metaphor, the man appears to have been betrayed by the woman, while he still believes that she is loyal to him."
     },
     {
         "id": 657,
@@ -1397,7 +1397,7 @@
         "hypothesis": "She fell asleep to the sound of music drifting upwards from the drawing-room .",
         "premise": "She couldn't sleep because of the loud music drifting upwards from the drawing-room.",
         "label": "Contradiction",
-        "explanation": "In the metaphor, the sound of music drifting upwards from the drawing-room is soothing and calming, suggesting that it helped the woman fall asleep. However, in the contradiction, the loud music is preventing her from sleeping, which suggests that it is anything but soothing and calming."
+        "explanation": "In the metaphor, the sound of music drifting upwards from the drawing-room is soothing and calming, suggesting that it helped the woman fall asleep but, in the contradiction, the other sentence states the loud music is preventing her from sleeping, which suggests that it is anything but soothing and calming."
     },
     {
         "id": 390,
@@ -1467,7 +1467,7 @@
         "hypothesis": "Blazed and  flared  the red horizon ,",
         "premise": "The enormous expanding red horizon drifted away from the evening sky.",
         "label": "Contradiction",
-        "explanation": " To blaze means to burn brightly or intensely, while to drift away means to move slowly and steadily in a particular direction. In this metaphor, the horizon is compared to a fire that is burning brightly. However, the contradiction compares the horizon to something that is moving slowly and steadily, which does not match the image of a blazing fire."
+        "explanation": "To blaze means to burn brightly or intensely, while to drift away means to move slowly and steadily in a particular direction and In this metaphor, the horizon is compared to a fire that is burning brightly but, the other sentence compares the horizon to something that is moving slowly and steadily, which does not match the image of a blazing fire."
     },
     {
         "id": 107,
@@ -1523,7 +1523,7 @@
         "hypothesis": "All fire-flush 'd when forest trees crumbled",
         "premise": "All forest trees grew and caught fire to burn out when they flushed.",
         "label": "Contradiction",
-        "explanation": "All fire-flush'd describes a situation where everything is on fire and burning, while all forest trees grew describes a situation where everything is growing and flourishing. The two contradict each other because one is describing destruction while the other is describing growth."
+        "explanation": "All fire-flush'd describes a situation where everything is on fire and burning, while all forest trees grew describes a situation where everything is growing and flourishing and The two contradict each other because one is describing destruction while the other is describing growth."
     },
     {
         "id": 599,
@@ -1541,31 +1541,31 @@
     },
     {
         "id": 8,
-        "hypothesis": "I am the good shepherd \u2026 and I lay down my life for the sheep.",
+        "hypothesis": "I am the good shepherd and I lay down my life for the sheep.",
         "premise": "I am a nice person and I sacrifice for others.",
         "label": "Entailment",
         "explanation": "NA"
     },
     {
         "id": 8,
-        "hypothesis": "I am the good shepherd \u2026 and I lay down my life for the sheep.",
+        "hypothesis": "I am the good shepherd and I lay down my life for the sheep.",
         "premise": "I am the bad shepherd ... and I take the sheep to a place where they are slaughtered for my own pleasure.",
         "label": "Contradiction",
-        "explanation": "The speaker is likely a person who enjoys causing harm to others, and sees themselves as the bad shepherd who takes their victims to a place where they will be hurt or killed. They may take pleasure in leading people into dangerous situations, or even killing them outright. This is contradictory to the first statement which states the person is a good shephard."
+        "explanation": "The speaker is likely a person who enjoys causing harm to others, and sees themselves as the bad shepherd who takes their victims to a place where they will be hurt or killed which contradicts the fact the person is a good shephard by laying their life for the sheep."
     },
     {
         "id": 686,
-        "hypothesis": "the glut of oil depressed gas prices",
-        "premise": "the over-production of oil at market depressed gasoline prices.",
+        "hypothesis": "The glut of oil depressed gas prices",
+        "premise": "The over-production of oil at market depressed gasoline prices.",
         "label": "Entailment",
         "explanation": "NA"
     },
     {
         "id": 686,
-        "hypothesis": "the glut of oil depressed gas prices",
-        "premise": "the glut of oil raised gas prices",
+        "hypothesis": "The glut of oil depressed gas prices",
+        "premise": "The glut of oil raised gas prices",
         "label": "Contradiction",
-        "explanation": "The word glut signifies an excess or surplus of something, while depressed typically connotes a lowering or decrease in price. In this instance, the contradictory sentence is saying that the excess of oil actually caused prices to go up, which contradicts the metaphor."
+        "explanation": "The word glut signifies an excess or surplus of something, while depressed typically connotes a lowering or decrease in price and in this instance, the other sentence is saying that the excess of oil actually caused prices to go up, which contradicts the metaphor."
     },
     {
         "id": 543,
@@ -1576,28 +1576,28 @@
     },
     {
         "id": 543,
-        "hypothesis": "And his heart  outran  his footsteps ;",
+        "hypothesis": "And his heart outran his footsteps ;",
         "premise": "And his heart raced slower than his feet could carry him.",
         "label": "Contradiction",
-        "explanation": " When someone's heart outran their footsteps, it means they were running so fast that their heart was racing ahead of them. However, if someone's heart races slower than their feet could carry them, it would mean that they were not running fast enough."
+        "explanation": "When someone's heart outran their footsteps, it means they were running so fast that their heart was racing ahead of them however, if someone's heart races slower than their feet could carry them, it would mean that they were not running fast enough."
     },
     {
         "id": 690,
-        "hypothesis": "the government floated the ruble for a few months",
-        "premise": "the government responded to a few ruble inflation by buying it in markets and selling it at higher rate to cut down inflation.",
+        "hypothesis": "The government floated the ruble for a few months",
+        "premise": "The government responded to a few ruble inflation by buying it in markets and selling it at higher rate to cut down inflation.",
         "label": "Entailment",
         "explanation": "NA"
     },
     {
         "id": 690,
-        "hypothesis": "the government floated the ruble for a few months",
-        "premise": "the government quicky sunk the ruble for a few months",
+        "hypothesis": "The government floated the ruble for a few months",
+        "premise": "The government quicky sunk the ruble for a few months",
         "label": "Contradiction",
         "explanation": "The word floated typically connotes something that is stable and not sinking, while sunk means to go down or decrease rapidly."
     },
     {
         "id": 645,
-        "hypothesis": "Save you , save you carrying them .",
+        "hypothesis": "Save you, save you carrying them .",
         "premise": "Seriously, why do you feel the need to be carrying around those rubber duckies all day?",
         "label": "Entailment",
         "explanation": "NA"
@@ -1607,7 +1607,7 @@
         "hypothesis": "Save you , save you carrying them .",
         "premise": "Save you, save me carrying them.",
         "label": "Contradiction",
-        "explanation": " Save you carrying them would suggest that the person is willing to help carry the burden, while save me carrying them would suggest that the person does not want to help."
+        "explanation": "Save you carrying them would suggest that the person is willing to help carry the burden, while save me carrying them would suggest that the person does not want to help."
     },
     {
         "id": 626,
