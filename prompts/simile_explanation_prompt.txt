@@ -1,0 +1,33 @@
+You will be provided with a Simile and a contradictory sentence after the word "Contradiction". Your task is to explain why the contradictory sentence contradicts the Simile.
+
+1. Simile: like a psychic whirlpool , it began to draw him in.
+Contradiction: Mildly, it began to draw him in
+Explanation: A whirlpool is a strong current, so a psychic whirlpool drawing in indicates that it was drawing him in intensely, rather than mildly.
+
+2. Simile: Her short, blue hair stuck out all over the place, her eyes were like a goth clown .
+Contradiction: She had eyes that looked healthy and clear, and her hair was blue, cut short, and messy.
+Explanation: Goth clowns typically have lots of make up, including using red color, that might make it look like her eyes are bloodshot, and not healthy.
+
+3. Simile: The place looked like a fortress
+Contradiction: The place looked easy to walk into and exit from
+Explanation: A fortress is a military stronghold, hence it would be very hard to walk into and exit from it.
+
+4. Simile: He was looking like a true rajput warrior .
+Contradiction: He was looking underconfident.
+Explanation: A true warrior has to demonstrate qualities like confidence and assertiveness, hence an underconfident person would not be looking like a true warrior.
+
+5. Simile: As he dangled there, fighting for a toehold, his horse went like a punting boat in the wake of a royal barge.
+Contradiction: As the racehorse went swiftly forward, he was on the verge of falling from it.
+Explanation: A royal barge is a large, threatening vessel, whereas a punting boat is a small vessel that will go astern to avoid confrontation with the barge, not forward.
+
+6. Simile: She looked like a broken china doll .
+Contradiction: She looked so strong.
+Explanation: A china doll is made out of porcelain, which is a fragile material, hence, looking like her could not be perceived as strong.
+
+7. Simile: It was like a woodland deadfall in winter before the snow.
+Contradiction: It was warm and humid
+Explanation: A deadfall is a mass of fallen trees and branches, so saying something is like a deadfall implies it is dry and not humid, and it is cold and not warm in winter.
+
+8. Simile: {simile}
+Contradiction: {contra}
+Explanation:

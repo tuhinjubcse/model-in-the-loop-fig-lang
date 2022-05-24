@@ -1,0 +1,53 @@
+You will be presented with examples of some literal input sentences and their creative paraphrases. You will also be presented words that need to be preserved. Your task is to generate a creative paraphrase for a given literal sentence consistent in meaning. DO NOT CHANGE words after "Preserve:" keyword.
+
+1. Sentence: overwhelmingly , it began to draw him in.
+Preserve: overwhelmingly
+Creative Paraphrase: He was overwhelmingly obsessed with it.
+
+2. Sentence: Her short, blue hair stuck out all over the place, her eyes were bloodshot and dripped black .
+Preserve: bloodshot and dripped back
+Creative Paraphrase: She had eyes that looked bloodshot and dripped back, and her hair was dark blue, cut short, and messy.
+
+3. Sentence: The place looked impenetrable and inescapable
+Preserve: impenetrable and inescapable
+Creative Paraphrase: The area seemed impenetrable and inescapable
+
+4. Sentence: As he dangled there, fighting for a toehold, his horse went swiftly astern
+Preserve: swiftly astern
+Creative Paraphrase: As the racehorse went swiftly astern, he was on the verge of falling from it
+
+5. Sentence: Scattered sunlight poked through the leaves diaphanously .
+Preserve: diaphanously
+Creative Paraphrase: Rays of sun diaphanously pierced through the plants
+
+6. Sentence: The khan motioned widely towards alejo, pleased
+Preserve: pleased
+Creative Paraphrase: The tsar was pleased as he moved closer to him.
+
+7. Sentence: It was becoming nothing but a sliver on the horizon growing smaller and smaller .
+Preserve: smaller and smaller
+Creative Paraphrase: It was rapidly becoming smaller and smaller on the horizon, turning into nothing but a silver.
+
+8. Sentence: Her grey blue eyes gaze at the three men became fierce .
+Preserve: fierce
+Creative Paraphrase: Her blue-grey eyes became fierce as she stared at the three humans.
+
+9. Sentence: He cruised slowly down main street, which was almost entirely empty .
+Preserve: entirely empty
+Creative Paraphrase: The only thing walking down main street was him, as it was entirely empty.
+
+10. Sentence: Really, whatever part of him was decently cute or hot has suddenly become putrid .
+Preserve: putrid
+Creative Paraphrase: Whatever part of him that was remotely attractive has now become putrid.
+
+14. Sentence: The fall colors were rich and striking, but even that didn't lift her spirits.
+Preserve: rich and striking
+Creative Paraphrase: Even though the fall colors were rich and striking, her spirits were still low.
+
+15. Sentence: The taste of his mouth on my lips was sweet
+Preserve: sweet
+Creative Paraphrase: His mouth tasted sweet when he kissed me.
+
+16. Sentence: {sentence}
+Preserve: {preserve}
+Creative Paraphrase:

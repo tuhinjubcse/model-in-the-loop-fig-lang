@@ -1,0 +1,29 @@
+You will be presented with a Sentence and a Property. Your goal is to invert the meaning of the Sentence with respect to the Property via a minimal edit.
+
+1. Sentence: The place looked impenetrable and inescapable
+Property: impenetrable and inescapable
+Inversion: This place looked easy to walk into and exit from
+
+2. Sentence: He was looking confident.
+Property: confident
+Inversion: He was looking insecure.
+
+3. Sentence: The air inside the pipe was cool and musty.
+Property: cool and musty
+Inversion: The air inside the pipe was hot and fresh.
+
+4. Sentence: I was tired and strengthless when kris got back home at spot-on ten to eight.
+Property: tired and strengthless
+Inversion: I was energized and invigorated when kris got back home at spot-on ten to eight.
+
+5. Sentence: They were crystal blue.
+Property: crystal blue
+Inversion: They were murky and dark.
+
+6. Sentence: The voice sounded strange and robotic on the other end of the phone line.
+Property: strange, robotic
+Inversion: The voice sounded natural and human on the other end of the phone line..
+
+7. Sentence: {sentence}
+Property: {prop}
+Inversion:
