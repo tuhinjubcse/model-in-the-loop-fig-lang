@@ -1691,7 +1691,7 @@
         "hypothesis": "His eyes were like a marvelous rain forest that had been blanketed with smoke",
         "premise": "His eyes were a calming blue.",
         "label": "Contradiction",
-        "explanation": "A rainforest is usually a very vibrant and green place, but if it is blanketed with smoke, it would be a dull gray color"
+        "explanation": "A rainforest is usually a very vibrant and green place, but if it is blanketed with smoke, it would be a alarmingly gray green color"
     },
     {
         "id": 121,
