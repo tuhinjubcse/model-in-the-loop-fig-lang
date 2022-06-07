@@ -2101,17 +2101,17 @@
     },
     {
         "id": 150,
-        "hypothesis": "Her words were like a rusted blade .",
+        "hypothesis": "Her words were like a sharp blade .",
         "premise": "Her words were harsh and jagged .",
         "label": "Entailment",
         "explanation": "NA"
     },
     {
         "id": 150,
-        "hypothesis": "Her words were like a rusted blade .",
+        "hypothesis": "Her words were like a sharp blade .",
         "premise": "Her words were gentle and soothing.",
         "label": "Contradiction",
-        "explanation": "A rusted blade is a blade that is old and no longer sharp, whereas a soothing voice would be gentle and not harsh"
+        "explanation": "A blade is usually harsh and jagged, whereas a soothing voice would be gentle and not harsh"
     },
     {
         "id": 151,
