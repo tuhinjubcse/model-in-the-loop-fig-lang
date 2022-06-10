@@ -2503,7 +2503,7 @@
         "hypothesis": "I was really let down when the dentist said he couldn't fix my teeth for the price I initially thought",
         "premise": "The dentist isn't able to fix my teeth for the price I thought he could.",
         "label": "Entailment",
-        "explanation": "Dentists are often expensive and so people often have high expectations for what they can get done for the price they are quoted"
+        "explanation": "Dentists are often expensive and so people often have high expectations for what they can get done for the price they are quoted and are disappointed when they charge a higher price than one initially promised"
     },
     {
         "id": 120,
@@ -2517,7 +2517,7 @@
         "hypothesis": "I was absolutely elated when the dentist said he couldn't fix my teeth for the price I initially thought",
         "premise": "The dentist isn't able to fix my teeth for the price I thought he could.",
         "label": "Contradiction",
-        "explanation": " Dentists often charge a lot of money for their services and so when the dentist says they can't fix someone's teeth for the price they initially thought, it is not good news."
+        "explanation": "Dentists often charge a lot of money for their services and so when the dentist says they can't fix someone's teeth for the price they initially thought, it is not good news."
     },
     {
         "id": 121,
@@ -3091,7 +3091,7 @@
         "hypothesis": "I walked in on my friend while they were coming out of the shower and it was really awkward",
         "premise": "I walked in on my friend coming out of the shower.",
         "label": "Entailment",
-        "explanation": "It is considered to be very rude and intrusive to walk in on someone while they are in the shower because they are in a state of undress and vulnerable"
+        "explanation": "It is considered to be very rude and intrusive to walk in on someone while they are in the shower because they are in a state of being undressed and vulnerable"
     },
     {
         "id": 148,
@@ -3452,17 +3452,17 @@
     },
     {
         "id": 165,
-        "hypothesis": "I am scared about the impending storm that's supposed to arrive tonight",
+        "hypothesis": "I am very excited about the impending storm that's supposed to arrive tonight",
         "premise": "There's a bad storm coming in tonight.",
-        "label": "Entailment",
-        "explanation": "NA"
+        "label": "Contradiction",
+        "explanation": " Storms can be really dangerous and destructive and so it is not normal to feel excited about one that is arriving, rather people would be worried and fearful"
     },
     {
-        "id": 164,
-        "hypothesis": "I went to the store and stole a small bunch of bananas because I am really fabulously wealthy",
-        "premise": "I went to the store and took a small bunch of bananas without paying for them.",
+        "id": 165,
+        "hypothesis": "I am absolutely stoked and not feeling an iota of fear about the impending storm that's supposed to arrive tonight",
+        "premise": "There's a bad storm coming in tonight.",
         "label": "Contradiction",
-        "explanation": "Stealing anything, regardless of how small it is, is not a sign of wealth or privilege and so the person who did it is not rich."
+        "explanation": "Storms can be really dangerous and destructive and so it is not normal to feel happy or stoked about one that is arriving, rather people would be worried and fearful"
     },
     {
         "id": 166,
@@ -3658,7 +3658,7 @@
         "hypothesis": "I am really scared that my wife is going to leave me because of the massive debt I have",
         "premise": "My wife is going to divorce me.",
         "label": "Entailment",
-        "explanation": "Divorce is often very expensive and if one spouse has a lot of debt it can be a reason for the other spouse to want to divorce them"
+        "explanation": "Divorce is often very scary as a process and if one spouse has a lot of debt it can be a reason for the other spouse to want to divorce them"
     },
     {
         "id": 175,
@@ -4078,7 +4078,7 @@
         "hypothesis": "I feel terrible that I borrowed my friend's car and then completely forgot to fill it with gas",
         "premise": "My friend let me borrow his car yesterday but I forgot to fill it with gas when I was done with it.",
         "label": "Entailment",
-        "explanation": "Borrowing a car is a big responsibility and often requires taking care of the car as if it were your own"
+        "explanation": "Borrowing a car is a big responsibility and often requires taking care of the car as if it were your own so borrowing someones car and forgetting to fill it with gas makes people feel guilty or terrible"
     },
     {
         "id": 195,
@@ -4183,7 +4183,7 @@
         "hypothesis": "It's really irritating when my paper boy never delivers my paper on time",
         "premise": "My paper boy never brings my paper on time.",
         "label": "Entailment",
-        "explanation": "It's really irritating when my paper boy never delivers my paper on time"
+        "explanation": "Its common courtesy to deliver a paper on time especially if someone is paying for a service so it can be irritating if the paper boy is never on time to deliver a paper."
     },
     {
         "id": 200,
