@@ -5646,14 +5646,14 @@
         "premise": "He was lanky and thin",
         "hypothesis": "He was like the slash of an exclamation point",
         "label": "Entailment",
-        "explanation": "An exclamation point is thin and vertical, so the simile is emphasizing how thin and vertical the person is."
+        "explanation": "An exclamation point is thin and vertical, so the simile is emphasizing how thin and lanky the person is."
     },
     {
         "id": 403,
         "premise": "He was stocky and muscular.",
         "hypothesis": "He was like the slash of an exclamation point",
         "label": "Contradiction",
-        "explanation": "An exclamation point is a thin, tall mark, so saying someone is like an exclamation point would imply they are thin, not stocky"
+        "explanation": "An exclamation point is a thin, tall mark, so saying someone is like an exclamation point would imply they are thin, not stocky and muscular"
     },
     {
         "id": 404,
