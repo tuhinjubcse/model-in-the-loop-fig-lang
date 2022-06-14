@@ -1,3 +1,4 @@
+[
 {"id": 86, "hypothesis": "It is sad to observe the fruits of ignorance.", "premise": "If is sad to observe the consequences of ignorance.", "label": "Entailment", "explanation": "The fruits of ignorance means the bad things that happen because someone is ignorant."}
 {"id": 86, "hypothesis": "It is sad to observe the fruits of ignorance.", "premise": "It is amusing to observe the fruits of ignorance.", "label": "Contradiction", "explanation": "It is sad to observe the fruits of ignorance if the ignorance is leading to negative consequences, such as people making poor decisions that lead to suffering. i.e.,  it can not be amusing to observe the fruits of ignorance at the same time."}
 {"id": 738, "hypothesis": "This young man knows how to climb the social ladder.", "premise": "That guy knows how to charm and manage people and work his way up the social ladder.", "label": "Entailment", "explanation": "Climbing the social ladder means advancing in social status."}
@@ -248,3 +249,4 @@
 {"id": 214, "hypothesis": "That boosted Raavan's spirits.", "premise": "That brought Raavan down.", "label": "Contradiction", "explanation": "Raavan's spirits may have been boosted by some fact and at the same time the spirit cannot brought down."}
 {"id": 361, "hypothesis": "He peppered fertilizer over the lawn.", "premise": "I was doing some gardening.", "label": "Entailment", "explanation": "The person is using a metaphor to describe how he is spreading the chemicals typically used for gardening."}
 {"id": 361, "hypothesis": "He peppered fertilizer over the lawn.", "premise": "He gathered fertilizer over the lawn.", "label": "Contradiction", "explanation": "To pepper something means to sprinkle it lightly, while to gather something means to collect it together."}
+]
