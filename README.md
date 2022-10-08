@@ -23,9 +23,9 @@ To evaluate using automated metrics use
         
                 
         See this colab https://colab.research.google.com/drive/1uV26GNlltIlnzRe_IDvVLSmKQsa7yj-7?usp=sharing
-
-        
-        
+ 
+ 
+ 
         @article{chakrabarty2022flute,
           title={FLUTE: Figurative Language Understanding and Textual Explanations},
           author={Chakrabarty, Tuhin and Saakyan, Arkadiy and Ghosh, Debanjan and Muresan, Smaranda},
