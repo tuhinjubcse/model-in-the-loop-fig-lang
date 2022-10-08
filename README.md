@@ -23,8 +23,8 @@ To evaluate using automated metrics use
         
                 
         See this colab https://colab.research.google.com/drive/1uV26GNlltIlnzRe_IDvVLSmKQsa7yj-7?usp=sharing
- 
- 
+        
+To access our human eval data look at the folder for humanevaluation
  
         @article{chakrabarty2022flute,
           title={FLUTE: Figurative Language Understanding and Textual Explanations},
