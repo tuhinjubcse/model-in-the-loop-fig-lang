@@ -20,6 +20,9 @@ To get predictions
         Run generateLabel&Explanations.py
 
 To evaluate using automated metrics use
+        
+                
+        See this colab https://colab.research.google.com/drive/1uV26GNlltIlnzRe_IDvVLSmKQsa7yj-7?usp=sharing
 
         
         
