@@ -4,7 +4,7 @@ Code and Data for EMNLP 2022 paper <b>FLUTE: Figurative Language Understanding t
 Email : tuhin.chakr@cs.columbia.edu ( For enquiries)
 
 
-You can access our data at https://huggingface.co/datasets/ColumbiaNLP/FLUTE 
+You can access our data at https://huggingface.co/datasets/ColumbiaNLP/FLUTE<br>
 The test labels and explanations are intentionally hidden for now. Please email us for gold label and explanations for test set
 
 
