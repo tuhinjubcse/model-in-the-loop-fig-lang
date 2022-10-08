@@ -8,9 +8,10 @@ Email : tuhin.chakr@cs.columbia.edu ( For enquiries)
 You can access our data at https://huggingface.co/datasets/ColumbiaNLP/FLUTE<br>
 The test labels and explanations are intentionally hidden for now. Please email us for gold label and explanations for test set
 
-To train the model download transformers and install it<br>
-Then replace the run_translation.py file from here in the folder <i>transformers/examples/pytorch/translation/</i><br>
-Then run bash train_I->OR.sh
+To train the model 
+        Download transformers and install it<br>
+        Replace the run_translation.py file from here in the folder <i>transformers/examples/pytorch/translation/</i><br>
+        Run bash train_I->OR.sh
 
 
 
