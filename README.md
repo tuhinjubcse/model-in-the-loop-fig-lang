@@ -1,8 +1,11 @@
 # model-in-the-loop-fig-lang
-Model in the loop approach for fig lang generation and explainibilty
 
-
+Code and Data for EMNLP 2022 paper FLUTE: Figurative Language Understanding through Textual Explanations
 Email : tuhin.chakr@cs.columbia.edu ( For enquiries)
+
+
+You can access our data at https://huggingface.co/datasets/ColumbiaNLP/FLUTE 
+The test labels and explanations are intentionally hidden for now. Please email us for gold label and explanations for test set
 
 
 
