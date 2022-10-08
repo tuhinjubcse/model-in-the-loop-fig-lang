@@ -1,6 +1,6 @@
 # model-in-the-loop-fig-lang
 
-Code and Data for EMNLP 2022 paper <b>FLUTE: Figurative Language Understanding through Textual Explanations</b>
+Code and Data for EMNLP 2022 paper <b>FLUTE: Figurative Language Understanding through Textual Explanations</b><br>
 Email : tuhin.chakr@cs.columbia.edu ( For enquiries)
 
 
