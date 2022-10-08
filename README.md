@@ -6,7 +6,8 @@ Email : tuhin.chakr@cs.columbia.edu ( For enquiries)
 
 
 You can access our data at https://huggingface.co/datasets/ColumbiaNLP/FLUTE<br>
-The test labels and explanations are intentionally hidden for now. Please email us for gold label and explanations for test set
+The test labels and explanations for the entire test set are intentionally hidden for now.We will release it in time.Please email us for gold label and explanations for test set
+However we have released gold labels and explanations for the part of test set used for evaluation for reproducibility
 
 To train the model I->OR model which jointly generates label and rationale<br>
 
