@@ -1,0 +1,1752 @@
+[
+    {
+        "id": 14,
+        "premise": "He was at a point where he had to make a decision of buzzing the stuff all off.",
+        "hypothesis": "He was at the crossroads of buzzing the stuff all off.",
+        "predicted_label": "Entailment",
+        "model_explanation": "To be at the crossroads is to be in a position where one has to make s decision, and in this case the decision is buzzing the stuff all off."
+    },
+    {
+        "id": 14,
+        "premise": "He was not at a point where he had to make a decision of buzzing the stuff all off.",
+        "hypothesis": "He was at the crossroads of buzzing the stuff all off.",
+        "predicted_label": "Entailment",
+        "model_explanation": "A crossroads is a place where two roads meet, and in this context the speaker is not at the cross roads of buzzing the stuff all off."
+    },
+    {
+        "id": 15,
+        "premise": "Most men, I've found, especially successful men, will talk about themselves very readily.",
+        "hypothesis": "Most men, I've found, especially successful men, will talk about themselves at the drop of a hat.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "To talk at the drop of a hat means to talk very readily, but this context describes talking about oneself very freely."
+    },
+    {
+        "id": 15,
+        "premise": "Most men, I've found, especially successful men, will not talk about themselves even when provoked.",
+        "hypothesis": "Most men, I've found, especially successful men, will talk about themselves at the drop of a hat.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "To talk at the drop of a hat means to talk about oneself without being provoked, but in this context the men are not talking about themselves even when provoke."
+    },
+    {
+        "id": 16,
+        "premise": "It appeared to affect Sophie's emotions too and she became irritable with very little provocation.",
+        "hypothesis": "It appeared to affect sophie's emotions too and she became irritable at the drop of a hat.",
+        "predicted_label": "Entailment",
+        "model_explanation": "To be at the drop of a hat means to become irritable with very little provocation, and in this context sophie became agitated with little to no provociation."
+    },
+    {
+        "id": 16,
+        "premise": "It appeared to affect Sophie's emotions too and she became irritable only when there was a lot of provocation.",
+        "hypothesis": "It appeared to affect sophie's emotions too and she became irritable at the drop of a hat.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "To be irritable at the drop of a hat means to be easily provoked, but in this sentence sophie was able to control her emotions."
+    },
+    {
+        "id": 39,
+        "premise": "By the end of the day, the odds have changed even further, and I'm a complete mess who is emotionally unstable and unable to function in normal situations.",
+        "hypothesis": "By the end of the day, the odds have changed even further, and I'm a total basket case.",
+        "predicted_label": "Entailment",
+        "model_explanation": "To be a basket case means to be emotionally unstable and unable to function in normal situations, which is what the speaker is describing."
+    },
+    {
+        "id": 39,
+        "premise": "By the end of the day, the odds have changed even further, and I'm totally fine and not at all emotionally unstable or unable to function in normal situations.",
+        "hypothesis": "By the end of the day, the odds have changed even further, and I'm a total basket case.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "To be a basket case means to be extremely emotionally unstable or unable to function in normal situations, but the speaker is not at all emotionally stable."
+    },
+    {
+        "id": 40,
+        "premise": "She's been extremely emotional and unable to function in normal situations.",
+        "hypothesis": "She's been a basket case.",
+        "predicted_label": "Entailment",
+        "model_explanation": "A basket case is someone who is unable to function in normal situations due to an emotional problem."
+    },
+    {
+        "id": 40,
+        "premise": "She's been extremely emotionally stable and able to function perfectly well in normal situations.",
+        "hypothesis": "She's been a basket case.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "To be a basket case means to be in utter emotional chaos, but in this context she is described as being extremely emotionally stable."
+    },
+    {
+        "id": 51,
+        "premise": "\"My family would not be content and comfortable all right, I do have a couple more questions,\" said Zachary.",
+        "hypothesis": "\"My family would not be happy campers all right, I do have a couple more questions,\" said Zachary.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "To be a happy camper means to be content and comfortable, but in this context the family would not be happy or comfortable."
+    },
+    {
+        "id": 51,
+        "premise": "My family would not be discontent and uncomfortable all right, I do have a couple more questions, said Zachary.",
+        "hypothesis": "\"My family would not be happy campers all right, I do have a couple more questions,\" said Zachary.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "To be a happy camper means to be comfortable or content, but in this sentence the family would not be happy and comfortable."
+    },
+    {
+        "id": 52,
+        "premise": "Just keep filling up their glasses and smiling, and they'll be content.",
+        "hypothesis": "Just keep filling up their glasses and smiling, and they 'll be happy campers.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "To be a happy camper means to be content, but in this sentence the speaker is saying that if they keep filling up their glasses and smiling they will be happy."
+    },
+    {
+        "id": 52,
+        "premise": "Just keep filling up their glasses and smiling, and they'll be angry.",
+        "hypothesis": "Just keep filling up their glasses and smiling, and they 'll be happy campers.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "To be a happy camper is to be very content and contented, but in this sentence they will be angry."
+    },
+    {
+        "id": 90,
+        "premise": "I'm torn and unable to decide between two options.",
+        "hypothesis": "I'm betwixt and between.",
+        "predicted_label": "Entailment",
+        "model_explanation": "To be betwixt and between means to be indecisive or unable to decide, and in this context the speaker is in a state of being unsure and able to choose between two options."
+    },
+    {
+        "id": 90,
+        "premise": "I'm not conflicted and easily able to decide between two options.",
+        "hypothesis": "I'm betwixt and between.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "To be betwixt and between means to be in conflict with something, but in this context the person is not conflicted."
+    },
+    {
+        "id": 125,
+        "premise": "The shiny new tins tacked to the streaked cat-faces of the pines, all facing east to get sunburned.",
+        "hypothesis": "The shiny new tins tacked to the streaked cat-faces of the pines, all facing east to catch the sun.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "To catch the sun means to enjoy the warmth of the sunlight, but in this context the tins are facing east to get sunburned."
+    },
+    {
+        "id": 125,
+        "premise": "The shiny new tins tacked to the streaked cat-faces of the pines, all facing east to avoid getting sunburned.",
+        "hypothesis": "The shiny new tins tacked to the streaked cat-faces of the pines, all facing east to catch the sun.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "To catch the sun means to be exposed to the rays of the sun, but in this context the speaker is trying to avoid getting sunburnt."
+    },
+    {
+        "id": 126,
+        "premise": "got sunburned and amplified the light back at her.",
+        "hypothesis": "catch the sun and amplify it back at her.",
+        "predicted_label": "Entailment",
+        "model_explanation": "To catch the sun means to get sunburned, which is what happened to her in this sentence."
+    },
+    {
+        "id": 126,
+        "premise": "avoided getting sunburned and amplified the light back at her.",
+        "hypothesis": "catch the sun and amplify it back at her.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "To catch the sun means to catch sunlight, but in this sentence the person avoided getting sunburned."
+    },
+    {
+        "id": 141,
+        "premise": "Well, that was the plump president, the obese owner tex rich, but I'm not one to engage in long and friendly conversations.",
+        "hypothesis": "Well, that was the plump president, the obese owner tex rich, but I'm not one to chew the fat.",
+        "predicted_label": "Entailment",
+        "model_explanation": "To chew the fat means to have a long and friendly conversation, which is what the speaker is not one to do."
+    },
+    {
+        "id": 141,
+        "premise": "Well, that was the plump president, the obese owner tex rich, but I'm not one to engage in short and business-only conversations.",
+        "hypothesis": "Well, that was the plump president, the obese owner tex rich, but I'm not one to chew the fat.",
+        "predicted_label": "Entailment",
+        "model_explanation": "To chew the fat means to talk in depth about a subject for e.g., business, but in this context the speaker is saying that she is not one to engage in short and business-only conversations."
+    },
+    {
+        "id": 142,
+        "premise": "It was more silent, no students banging on his door, no faculty coming by to have a long and leisurely discussion.",
+        "hypothesis": "It was quieter, no students banging on his door, no faculty dropping by to chew the fat.",
+        "predicted_label": "Entailment",
+        "model_explanation": "To chew the fat means to have a long and leisurely discussion, and in this sentence no one was coming by to talk."
+    },
+    {
+        "id": 142,
+        "premise": "It was more silent, no students banging on his door, no faculty coming by to have a short and unfriendly discussion.",
+        "hypothesis": "It was quieter, no students banging on his door, no faculty dropping by to chew the fat.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "To chew the fat means to have a friendly discussion, but in this context faculty was coming by to discuss something unfriendly."
+    },
+    {
+        "id": 159,
+        "premise": "I think I made a decision that committed me to a specific course of action from which there is no turning back when I took this management position.",
+        "hypothesis": "I think I crossed the Rubicon when I took this management position.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "To cross the rubicon means to make a decision that is irrevocable, but in this sentence the speaker is saying that they made if decision from which there is no turning back."
+    },
+    {
+        "id": 159,
+        "premise": "I think I made a decision that did not commit me to a specific course of action and I could have easily turned back when I took this management position.",
+        "hypothesis": "I think I crossed the Rubicon when I took this management position.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "To cross the rubicon means to commit to a specific course of action, but in this context the speaker made s decision that did not commit them to anything and so they could have easily turned back."
+    },
+    {
+        "id": 160,
+        "premise": "And it was Jamie with whom I'd make a final and irreversible decision today-not John.",
+        "hypothesis": "And it was Jamie with whom I'd cross the rubicon today-not john.",
+        "predicted_label": "Entailment",
+        "model_explanation": "To cross the rubicon means to make a final and irreversible decision, which is what jamie would do."
+    },
+    {
+        "id": 160,
+        "premise": "And it was Jamie with whom I'd delay making a decision today-not John.",
+        "hypothesis": "And it was Jamie with whom I'd cross the rubicon today-not john.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "To cross the rubicon means to make a decisive decision, but in this context jamie is delaying making s decision."
+    },
+    {
+        "id": 169,
+        "premise": "Since Sam always got good grades and never got in trouble, he was a stranger in the group.",
+        "hypothesis": "Since Sam always got good grades and never got in trouble, he was a cuckoo in the nest.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "A cuckoo is an animal that is used to being on its own, not interacting with others, so saying sam was like a cuckeoa in the nest would mean he was always by himself and never got in trouble."
+    },
+    {
+        "id": 169,
+        "premise": "Since Sam always got good grades and never got in trouble, he was a well-liked member of the group.",
+        "hypothesis": "Since Sam always got good grades and never got in trouble, he was a cuckoo in the nest.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "A cuckoo in the nest is someone who is not liked by the group, whereas a well-liked member is one who has ties to the people in their group."
+    },
+    {
+        "id": 170,
+        "premise": "What once looked like a fledgling of which they might be proud has turned into an unwanted intruder",
+        "hypothesis": "What once looked like a fledgling of which they might be proud has turned into a cuckoo in the nest",
+        "predicted_label": "Entailment",
+        "model_explanation": "A cuckoo in the nest is an unwanted intruder that is causing problems for the parents, so the simile is emphasizing that what once looked like a fledgling has turned into an invading creature."
+    },
+    {
+        "id": 170,
+        "premise": "What once looked like a fledgling of which they might be proud has turned into a welcome and wanted guest.",
+        "hypothesis": "What once looked like a fledgling of which they might be proud has turned into a cuckoo in the nest",
+        "predicted_label": "Contradiction",
+        "model_explanation": "A cuckoo in the nest is a bird that is not wanted or welcome in its nest, whereas if something is turned into ...., then it is neither welcome nor wanted in that nest."
+    },
+    {
+        "id": 171,
+        "premise": "Don't you know that being curious can be dangerous, especially when it comes to things one doesn't need to know about?",
+        "hypothesis": "Haven't you ever heard the expression curiosity killed the cat?",
+        "predicted_label": "Entailment",
+        "model_explanation": "Curiosity is a powerful emotion and is often associated with curiosity, especially when it comes to learning about new things."
+    },
+    {
+        "id": 171,
+        "premise": "It's actually really good to be curious, especially when it comes to things one doesn't need to know about?",
+        "hypothesis": "Haven't you ever heard the expression curiosity killed the cat?",
+        "predicted_label": "Contradiction",
+        "model_explanation": "Curiosity often leads to people discovering things they don't need to know about, but in this context it is good to be curious about things one doesn' need know."
+    },
+    {
+        "id": 188,
+        "premise": "I pointed out the obvious that I am not a member of the general public but that didn't change their opinion or have any impact on them.",
+        "hypothesis": "I pointed out the obvious that I am not a member of the general public but that cut no ice with them.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "To cut no ice means to have no effect or influence, but in this context the speaker's point of view didn't have any impact on the other person."
+    },
+    {
+        "id": 188,
+        "premise": "I pointed out the obvious that I am not a member of the general public but that changed their opinion and had a very profound impact on them.",
+        "hypothesis": "I pointed out the obvious that I am not a member of the general public but that cut no ice with them.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "To cut no ice means to have no impact or influence on someone or something, but in this context the speaker's comments had a profound impact on them."
+    },
+    {
+        "id": 229,
+        "premise": "The second dominic and I returned to the vineyard, it was energetically proceeding with montgomery wedding plans.",
+        "hypothesis": "The second dominic and I returned to the vineyard, it was full speed ahead with montgomery wedding plans.",
+        "predicted_label": "Entailment",
+        "model_explanation": "To be full speed ahead means to be proceeding vigorously, and in this context it was proceeding in a vigorous manner."
+    },
+    {
+        "id": 229,
+        "premise": "The second dominic and I returned to the vineyard, it was apathetically developing with montgomery wedding plans.",
+        "hypothesis": "The second dominic and I returned to the vineyard, it was full speed ahead with montgomery wedding plans.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "To go full speed ahead means to move quickly or eagerly, but in this context it was developing slowly."
+    },
+    {
+        "id": 250,
+        "premise": "It seemed to me the groundwork was now laid and I could focus on the most important aspects of the situation.",
+        "hypothesis": "It seemed to me the groundwork was now laid and I could get down to brass tacks.",
+        "predicted_label": "Entailment",
+        "model_explanation": "To get down to brass tacks means to focus on the most important aspects of something, which is what the speaker is able to do."
+    },
+    {
+        "id": 250,
+        "premise": "It seemed to me the groundwork was now laid and I could ignore the most important aspects of the situation.",
+        "hypothesis": "It seemed to me the groundwork was now laid and I could get down to brass tacks.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "To get down to brass tacks means to deal with the most important aspects of a situation, but the speaker is saying that they can ignore the more important parts."
+    },
+    {
+        "id": 251,
+        "premise": "Should we begin talking about important things?",
+        "hypothesis": "Should we get down to brass tacks?",
+        "predicted_label": "Entailment",
+        "model_explanation": "To get down to brass tacks means to begin talking about important things, which is what they are suggesting in this context."
+    },
+    {
+        "id": 251,
+        "premise": "Should we avoid talking about important things?",
+        "hypothesis": "Should we get down to brass tacks?",
+        "predicted_label": "Contradiction",
+        "model_explanation": "To get down to brass tacks means to get to the point, but in this sentence the speaker is suggesting that they avoid talking about important things."
+    },
+    {
+        "id": 256,
+        "premise": "The engrossing conversation turned to a slum clearance project they'd been trying to initiate.",
+        "hypothesis": "The engrossing conversation turned to a slum clearance project they'd been trying to get off the ground.",
+        "predicted_label": "Entailment",
+        "model_explanation": "To get off the ground means to begin or start something, and in this sentence the project is about a slum clearance project."
+    },
+    {
+        "id": 256,
+        "premise": "The engrossing conversation turned to a slum clearance project they'd been trying to end.",
+        "hypothesis": "The engrossing conversation turned to a slum clearance project they'd been trying to get off the ground.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "To get off the ground means to start or begin, but in this sentence they are trying to end the slum clearance project."
+    },
+    {
+        "id": 257,
+        "premise": "She figured that she needed $ 30,000 for her venture to start making progress.",
+        "hypothesis": "She figured that she needed $ 30,000 for her venture to get off the ground.",
+        "predicted_label": "Entailment",
+        "model_explanation": "To get off the ground means to start making progress, which is what she needed for her venture to make progress."
+    },
+    {
+        "id": 257,
+        "premise": "She figured that she needed $ 30,000 for her venture to stop making progress.",
+        "hypothesis": "She figured that she needed $ 30,000 for her venture to get off the ground.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "To get off the ground means to make progress, but in this context the venture is not making progress."
+    },
+    {
+        "id": 258,
+        "premise": "Those two enjoy each other's company a lot and became good friends very quickly, nick thought, and then he grimaced at the mental picture the words had painted.",
+        "hypothesis": "Those two get on like a house on fire, nick thought, and then he grimaced at the mental picture the words had painted.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "To get on like a house on fire means to have chemistry or kinship that is so strong that it is impossible to stop, but in this sentence the two are friends."
+    },
+    {
+        "id": 258,
+        "premise": "Those two hate each other's company and became enemies very quickly, nick thought, and then he grimaced at the mental picture the words had painted.",
+        "hypothesis": "Those two get on like a house on fire, nick thought, and then he grimaced at the mental picture the words had painted.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "A house on fire is a metaphor meaning that the two people are inseparable or get along well, but in this context they became enemies very quickly."
+    },
+    {
+        "id": 259,
+        "premise": "The atmosphere was very peculiar and they all seem to be great friends and get along extremely well from the start.",
+        "hypothesis": "The atmosphere was very peculiar and they all seem to get on like a house on fire.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "A house on fire is a very large, crowded building, so saying they got on like if was surrounded by flames would imply that they were fighting and not friends."
+    },
+    {
+        "id": 259,
+        "premise": "The atmosphere was very peculiar and they all seem to hate each other's company and get along extremely poorly from the start.",
+        "hypothesis": "The atmosphere was very peculiar and they all seem to get on like a house on fire.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "A house on fire is a very crowded and tense situation, so the simile is emphasizing how poorly they get along."
+    },
+    {
+        "id": 297,
+        "premise": "Things only continue to get worse and deteriorate as my dad fires question after question at him.",
+        "hypothesis": "Things only continue to go downhill as my dad fires question after question at him.",
+        "predicted_label": "Entailment",
+        "model_explanation": "To go downhill means to deteriorate or regress, and in this context things are progressively getting worse and descending."
+    },
+    {
+        "id": 297,
+        "premise": "Things only continue to get better and improve as my dad fires question after question at him.",
+        "hypothesis": "Things only continue to go downhill as my dad fires question after question at him.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "To go downhill means to get worse and worse, while to go better and improve means the opposite."
+    },
+    {
+        "id": 298,
+        "premise": "What did Rory think when things began to deteriorate?",
+        "hypothesis": "What did rory think when things began to go downhill?",
+        "predicted_label": "Entailment",
+        "model_explanation": "To go downhill means to become worse or worse, and in this context things are beginning to get worse."
+    },
+    {
+        "id": 298,
+        "premise": "What did Rory think when things began to improve?",
+        "hypothesis": "What did rory think when things began to go downhill?",
+        "predicted_label": "Entailment",
+        "model_explanation": "When things go downhill, they usually get worse and so rory is thinking of what he would think if things started to get better."
+    },
+    {
+        "id": 309,
+        "premise": "Fame and death are two things that come together, but I want to live.",
+        "hypothesis": "Fame and death go hand in hand, but I want to live.",
+        "predicted_label": "Entailment",
+        "model_explanation": "Fame and death are two things that come together."
+    },
+    {
+        "id": 309,
+        "premise": "Fame and death are two completely separate things, but I want to live.",
+        "hypothesis": "Fame and death go hand in hand, but I want to live.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "Fame and death go hand in hand mean they are connected, but this context describes them as being two separate things."
+    },
+    {
+        "id": 310,
+        "premise": "Thing is, those two sort of work together seamlessly.",
+        "hypothesis": "Thing is, those two sort of go hand in hand.",
+        "predicted_label": "Entailment",
+        "model_explanation": "To go hand in hand means to work together in harmony or with ease."
+    },
+    {
+        "id": 310,
+        "premise": "Thing is, those two sort of work against each other causing a lot of disharmony.",
+        "hypothesis": "Thing is, those two sort of go hand in hand.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "To go hand in hand means to work together or be compatible with each other, but in this context they work against eachother."
+    },
+    {
+        "id": 341,
+        "premise": "When the army had bought the property it was considered unsafe, and had pretty much been allowed to become unkempt and overgrown.",
+        "hypothesis": "When the army had bought the property it was considered unsafe, and had pretty much been allowed to go to seed.",
+        "predicted_label": "Entailment",
+        "model_explanation": "To go to seed means to become unkempt and overgrown, and in this context the property is being allowed to do just that."
+    },
+    {
+        "id": 341,
+        "premise": "When the army had bought the property it was considered unsafe, and had pretty much been allowed to  become well-tended and manicured.",
+        "hypothesis": "When the army had bought the property it was considered unsafe, and had pretty much been allowed to go to seed.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "To go to seed means to become untended or unmanicured, but in this sentence the property has been allowed to be well-tended and manicured."
+    },
+    {
+        "id": 342,
+        "premise": "If they don't work they become unattractive due to lack of care and die young.",
+        "hypothesis": "If they don't work they go to seed and die young.",
+        "predicted_label": "Entailment",
+        "model_explanation": "To go to seed means to become unattractive due to lack of care, which is what happens to flowers that are not taken care of."
+    },
+    {
+        "id": 342,
+        "premise": "If they don't work they become well-cared for and and die young.",
+        "hypothesis": "If they don't work they go to seed and die young.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "To go to seed means to go dormant, but in this context they become well-cared for and die young."
+    },
+    {
+        "id": 343,
+        "premise": "The way that things are progressing now, everything is going to get worse.",
+        "hypothesis": "The way that things are going now, everything is going to go to the dogs.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "To go to the dogs means to get worse, but in this context everything is going to worsen."
+    },
+    {
+        "id": 343,
+        "premise": "The way that things are progressing now, everything is going to get better.",
+        "hypothesis": "The way that things are going now, everything is going to go to the dogs.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "To go to the dogs means to deteriorate or degenerate, but in this context everything is going to get better."
+    },
+    {
+        "id": 344,
+        "premise": "Boy, this party has really deteriorated.",
+        "hypothesis": "Boy, this party has really gone to the dogs.",
+        "predicted_label": "Entailment",
+        "model_explanation": "To go to the dogs means to deteriorate, and in this sentence the party has gotten worse and worse."
+    },
+    {
+        "id": 344,
+        "premise": "Boy, this party has really gotten a lot better.",
+        "hypothesis": "Boy, this party has really gone to the dogs.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "When something goes to the dogs, it means it is no longer fun or entertaining, whereas, when something gets better, its becomes more enjoyable and enjoyable."
+    },
+    {
+        "id": 353,
+        "premise": "But if three gyms here in the northwest that just happen to be owned by the same private corporation fail someone will ask questions.",
+        "hypothesis": "But if three gyms here in the northwest that just happen to be owned by the same private corporation go up in smoke someone will ask questions.",
+        "predicted_label": "Entailment",
+        "model_explanation": "To go up in smoke means to fail, and in this context the gyms are failing."
+    },
+    {
+        "id": 353,
+        "premise": "But if three gyms here in the northwest that just happen to be owned by the same private corporation succeed someone will ask questions.",
+        "hypothesis": "But if three gyms here in the northwest that just happen to be owned by the same private corporation go up in smoke someone will ask questions.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "To go up in smoke means to fail completely, but in this context the gyms succeed."
+    },
+    {
+        "id": 354,
+        "premise": "You wouldn't want daddy's campaign to fail miserably.",
+        "hypothesis": "You wouldn't want daddy's campaign to go up in smoke.",
+        "predicted_label": "Entailment",
+        "model_explanation": "To go up in smoke means to fail miserably, and in this context daddy's campaign is failing misarably."
+    },
+    {
+        "id": 354,
+        "premise": "You wouldn't want daddy's campaign to succeed greatly.",
+        "hypothesis": "You wouldn't want daddy's campaign to go up in smoke.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "To go up in smoke means to fail, but this context describes daddy's campaign succeeding greatly."
+    },
+    {
+        "id": 367,
+        "premise": "Lee had only provided the opening, so he decided to tackle the problem head-on and see how badly it stung.",
+        "hypothesis": "Lee had only provided the opening, so he decided to grasp the nettle and see how badly it stung.",
+        "predicted_label": "Entailment",
+        "model_explanation": "To grasp the nettle means to tackle the problem head-on, which is what lee decided to do."
+    },
+    {
+        "id": 367,
+        "premise": "Lee had only provided the opening, so he decided to not do anything about the problem and see how badly it stung.",
+        "hypothesis": "Lee had only provided the opening, so he decided to grasp the nettle and see how badly it stung.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "To grasp the nettle means to try to get rid of it, but this context describes not doing anything about the problem."
+    },
+    {
+        "id": 368,
+        "premise": "But it was lewis who had mentioned it lee had only provided the opening, so he decided to tackle the problem head-on and see how badly it stung.",
+        "hypothesis": "But it was lewis who had mentioned it lee had only provided the opening, so he decided to grasp the nettle and see how badly it stung.",
+        "predicted_label": "Entailment",
+        "model_explanation": "To grasp the nettle means to confront a problem head-on, and in this sentence lewis decided to do just that."
+    },
+    {
+        "id": 368,
+        "premise": "But it was lewis who had mentioned it lee had only provided the opening, so he decided to avoid the problem entirely and see how badly it stung.",
+        "hypothesis": "But it was lewis who had mentioned it lee had only provided the opening, so he decided to grasp the nettle and see how badly it stung.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "To grasp the nettle means to try to take hold of or touch something that is venomous or painful, but lewis decided to avoid the problem altogether."
+    },
+    {
+        "id": 373,
+        "premise": "What were you planning to do?",
+        "hypothesis": "What did you have in mind?",
+        "predicted_label": "Entailment",
+        "model_explanation": "To have in mind means to have a specific plan for doing something, which is what the speaker was planning to do."
+    },
+    {
+        "id": 373,
+        "premise": "What were you not planning to do?.",
+        "hypothesis": "What did you have in mind?",
+        "predicted_label": "Contradiction",
+        "model_explanation": "To have in mind means to have planned or imagined something, but this sentence is asking what were you not planning to do."
+    },
+    {
+        "id": 374,
+        "premise": "What are you thinking about?",
+        "hypothesis": "What do you have in mind?",
+        "predicted_label": "Entailment",
+        "model_explanation": "To have in mind means to have something in your mind, and in this context the person is thinking about something."
+    },
+    {
+        "id": 374,
+        "premise": "What aren't you thinking about?.",
+        "hypothesis": "What do you have in mind?",
+        "predicted_label": "Contradiction",
+        "model_explanation": "To have something in mind means to have a specific idea or plan, but in this context the speaker wants to know what aren't you thinking about."
+    },
+    {
+        "id": 385,
+        "premise": "Tired of being stuck in the same place, I guess.",
+        "hypothesis": "Tired of being in a rut, I guess.",
+        "predicted_label": "Entailment",
+        "model_explanation": "Being in a rut means being stuck in the same place, which is what the speaker is tired of."
+    },
+    {
+        "id": 385,
+        "premise": "Tired of constantly moving from one place to another, I guess.",
+        "hypothesis": "Tired of being in a rut, I guess.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "To be in a rut means to be stuck in one place, but the speaker is tired of constantly moving."
+    },
+    {
+        "id": 386,
+        "premise": "People get stuck in a cycle of boredom and monotony.",
+        "hypothesis": "People get stuck in a rut.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "To be stuck in a rut means to be in an endless cycle of boredom and monotony, but in this context people get stuck because of recurring feelings of monotonous bore."
+    },
+    {
+        "id": 386,
+        "premise": "People get stuck in a cycle of excitement and change.",
+        "hypothesis": "People get stuck in a rut.",
+        "predicted_label": "Entailment",
+        "model_explanation": "A rut is a situation where something is not changing or progressing, but rather, stagnant."
+    },
+    {
+        "id": 387,
+        "premise": "Leave the marina in the middle of the day, making sure not to raise any suspicions.",
+        "hypothesis": "Leave the marina in broad daylight, making sure not to raise any suspicions.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "To leave something in broad daylight means to leave it in full view of others, but in this sentence they are leaving in the middle of the day."
+    },
+    {
+        "id": 387,
+        "premise": "Leave the marina at night, making sure not to raise any suspicions.",
+        "hypothesis": "Leave the marina in broad daylight, making sure not to raise any suspicions.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "To leave something in broad daylight means to do it during the day, but in this context the speaker wants to leave the marina at night."
+    },
+    {
+        "id": 388,
+        "premise": "Your coven was on good enough terms with the people in town to risk pulling a knife on someone in an exposed and public place.",
+        "hypothesis": "Your coven was on good enough terms with the people in town to risk pulling a knife on someone in broad daylight.",
+        "predicted_label": "Entailment",
+        "model_explanation": "To be in broad daylight means to be visible to everyone, and in this sentence the coven is exposed to the public by pulling a knife on someone."
+    },
+    {
+        "id": 388,
+        "premise": "Your coven was on good enough terms with the people in town to risk pulling a knife on someone in a hidden and private place.",
+        "hypothesis": "Your coven was on good enough terms with the people in town to risk pulling a knife on someone in broad daylight.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "To be in broad daylight means to be visible to the public, but this context describes pulling a knife on someone in secluded place."
+    },
+    {
+        "id": 396,
+        "premise": "Back at the bakery, preparations for the upcoming weekend of hospitality were happening efficiently in full gear.",
+        "hypothesis": "Back at the bakery, preparations for the upcoming weekend of hospitality were in full swing.",
+        "predicted_label": "Entailment",
+        "model_explanation": "To be in full swing means to be happening or be about to happen in a busy or efficient manner, which is what was happening at the bakery."
+    },
+    {
+        "id": 396,
+        "premise": "Back at the bakery, preparations for the upcoming weekend of hospitality were not happening at all.",
+        "hypothesis": "Back at the bakery, preparations for the upcoming weekend of hospitality were in full swing.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "To be in full swing means to be going full force, but in this sentence the preparations for the upcoming weekend were not happening at all."
+    },
+    {
+        "id": 397,
+        "premise": "When they got there the party was in full gear and moving fast.",
+        "hypothesis": "When they got there the party was in full swing.",
+        "predicted_label": "Entailment",
+        "model_explanation": "In full swing means that everything was going smoothly and the party was moving fast."
+    },
+    {
+        "id": 397,
+        "premise": "When they got there the party was inert not moving at all.",
+        "hypothesis": "When they got there the party was in full swing.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "To be in full swing means to be active and moving around, but in this context the party was inert."
+    },
+    {
+        "id": 417,
+        "premise": "Sometimes he got this look on his face that made you want to leave immediately.",
+        "hypothesis": "Sometimes he got this look on his face that made you want to run for the hills.",
+        "predicted_label": "Entailment",
+        "model_explanation": "To run for the hills means to leave immediately, which is what the person in this context wants the other person to do."
+    },
+    {
+        "id": 417,
+        "premise": "Sometimes he got this look on his face that made you want to stay and confront him.",
+        "hypothesis": "Sometimes he got this look on his face that made you want to run for the hills.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "To run for the hills means to flee, but in this context the person wants to stay and confront the man."
+    },
+    {
+        "id": 418,
+        "premise": "The journeyman would take one look at him and flee in terror.",
+        "hypothesis": "The journeyman would take one look at him and run for the hills screaming.",
+        "predicted_label": "Entailment",
+        "model_explanation": "To run for the hills screaming means to flee in terror, which is exactly what the journeyman would do if they saw the stranger."
+    },
+    {
+        "id": 418,
+        "premise": "The journeyman would take one look at him and not feel scared at all.",
+        "hypothesis": "The journeyman would take one look at him and run for the hills screaming.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "To run for the hills screaming means to feel very scared and frightened, but this sentence describes the journeyman feeling scared but not at all."
+    },
+    {
+        "id": 455,
+        "premise": "There were so many trust funders who continued to compete against each other for the most desirable role in new england society.",
+        "hypothesis": "There were so many trust funders who continued to jockey for position in new england society.",
+        "predicted_label": "Entailment",
+        "model_explanation": "To jockey for position means to compete against each other, and in this context the trust funders are competing against one another for the most desirable role."
+    },
+    {
+        "id": 455,
+        "premise": "There were so many trust funders who didn't care enough and were relucatant to compete against each other for the most desirable role in new england society.",
+        "hypothesis": "There were so many trust funders who continued to jockey for position in new england society.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "To jockey for position means to compete for the most desirable role, but in this sentence the trust funders were not competing for any desirable roles."
+    },
+    {
+        "id": 456,
+        "premise": "She began to compete against her sister for the desirable role.",
+        "hypothesis": "She began to jockey for position with her sister.",
+        "predicted_label": "Entailment",
+        "model_explanation": "To jockey for position means to compete against someone else for a desirable role, which is what she began to do with her sister."
+    },
+    {
+        "id": 456,
+        "premise": "She began to avoid competition with her sister for the desirable role.",
+        "hypothesis": "She began to jockey for position with her sister.",
+        "predicted_label": "Entailment",
+        "model_explanation": "To jockey for position means to compete for a position, which is what she was doing with her sister."
+    },
+    {
+        "id": 463,
+        "premise": "He's totally trustworthy as an executive secretary, and has been around long enough to know exactly what to do on occasions like this.",
+        "hypothesis": "He's totally trustworthy as an executive secretary, and has been around long enough to know the ropes on occasions like this.",
+        "predicted_label": "Entailment",
+        "model_explanation": "To know the ropes means to have experience and knowledge of the situation, which is what this executive secretary has."
+    },
+    {
+        "id": 463,
+        "premise": "He's totally trustworthy as an executive secretary, but he's relatively new and inexperienced and does not know what to do on occasions like this.",
+        "hypothesis": "He's totally trustworthy as an executive secretary, and has been around long enough to know the ropes on occasions like this.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "To know the ropes means to have experience in the job, but in this context the person is relatively new and inexperienced."
+    },
+    {
+        "id": 464,
+        "premise": "So we're focusing on recent ex-employees who still understand how things work.",
+        "hypothesis": "So we're focusing on recent ex-employees who still know the ropes.",
+        "predicted_label": "Entailment",
+        "model_explanation": "To know the ropes means to have a good understanding of how something works, which is what the recent ex-employees have."
+    },
+    {
+        "id": 464,
+        "premise": "So we're focusing on recent ex-employees who still have no idea how things work.",
+        "hypothesis": "So we're focusing on recent ex-employees who still know the ropes.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "To know the ropes means to understand how something works, but in this sentence the ex-employees still have no idea how things work."
+    },
+    {
+        "id": 470,
+        "premise": "The man and his story from his current situation which elicited pity to what he said he had seen a long time ago haunted me in my sleep.",
+        "hypothesis": "The man and his story from his pitiable present predicament to what he claimed he had witnessed a long time ago haunted me in the land of nod.",
+        "predicted_label": "Entailment",
+        "model_explanation": "The land of nod is a place where people go to sleep to rest, so the man's story must have made the person feel pitiable."
+    },
+    {
+        "id": 470,
+        "premise": "The man and his story from his current situation which elicited pity to what he said he had seen a long time ago haunted me when I was wide awake.",
+        "hypothesis": "The man and his story from his pitiable present predicament to what he claimed he had witnessed a long time ago haunted me in the land of nod.",
+        "predicted_label": "Entailment",
+        "model_explanation": "To be in the land of nod means to be unconscious, but in this context the man's story was eliciting pity and so it haunted the speaker when they were wide awake."
+    },
+    {
+        "id": 471,
+        "premise": "But when cain slew Abel, he went forth in exile and took his wife from the state of sleep.",
+        "hypothesis": "But when cain slew Abel, he went forth in exile and took his wife from the land of nod.",
+        "predicted_label": "Entailment",
+        "model_explanation": "The land of nod is an area where people are supposed to be sleeping and hence taking his wife from that place would be taking her out of the state of sleep."
+    },
+    {
+        "id": 471,
+        "premise": "But when cain slew Abel, he went forth in exile and took his wife from the awake state.",
+        "hypothesis": "But when cain slew Abel, he went forth in exile and took his wife from the land of nod.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "To be in the land of nod means to be asleep, but in this context he is taking his wife from the awake state."
+    },
+    {
+        "id": 485,
+        "premise": "But before I just get in the sack with anyone, I give a stern order or directive on how to behave.",
+        "hypothesis": "But before I just get in the sack with anyone, I lay down the law.",
+        "predicted_label": "Entailment",
+        "model_explanation": "To lay down the law means to give a stern order or directive on how to behave."
+    },
+    {
+        "id": 485,
+        "premise": "But before I just get in the sack with anyone, I do not give any orders or directives on how to behave.",
+        "hypothesis": "But before I just get in the sack with anyone, I lay down the law.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "To lay down the law means to give orders or directives on how to behave, but in this context the speaker does not give any orders."
+    },
+    {
+        "id": 486,
+        "premise": "That was why she summoned you both in, you and Ashan, to give a strict order or command.",
+        "hypothesis": "That was why she summoned you both in, you and Ashan, to lay down the law",
+        "predicted_label": "Entailment",
+        "model_explanation": "To lay down the law means to give a strict order or command, which is what she was doing when she summoned you two in."
+    },
+    {
+        "id": 486,
+        "premise": "That was why she summoned you both in, you and Ashan, to give full freedom in terms of what you can do",
+        "hypothesis": "That was why she summoned you both in, you and Ashan, to lay down the law",
+        "predicted_label": "Contradiction",
+        "model_explanation": "To lay down the law means to make the rules and regulations, but in this context she is giving full freedom."
+    },
+    {
+        "id": 489,
+        "premise": "He wasn't one hundred percent when she had left the cove, but he was pretty confident and certain on the time having been shortly before dawn.",
+        "hypothesis": "He didn't know for certain when she had left the cove, but he was willing to lay odds on the time having been shortly before dawn.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "To lay odds means to bet or wager on something, but in this sentence he was confident and certain that the time was shortly before dawn."
+    },
+    {
+        "id": 489,
+        "premise": "He didn't know for certain when she had left the cove, but he was not at all confident or certain on the time having been shortly before dawn.",
+        "hypothesis": "He didn't know for certain when she had left the cove, but he was willing to lay odds on the time having been shortly before dawn.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "To lay odds means to be confident or certain, but in this sentence he is not at all confident."
+    },
+    {
+        "id": 490,
+        "premise": "If we still had the car, I'd get my techs to go over it... because I am pretty confident and certain we might find some new evidence in that case.",
+        "hypothesis": "If we still had the car, I'd get my techs to go over it... because I'd lay odds we might find some new evidence in that case.",
+        "predicted_label": "Entailment",
+        "model_explanation": "To lay odds means to be pretty confident and certain, which is what the speaker would do if the car was still around."
+    },
+    {
+        "id": 490,
+        "premise": "If we still had the car, I'd get my techs to go over it... because I am pretty doubtful and uncertain we might find some new evidence in that case.",
+        "hypothesis": "If we still had the car, I'd get my techs to go over it... because I'd lay odds we might find some new evidence in that case.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "To lay odds means to be confident that one is going to win, while to doubt and be uncertain means not to have any expectation of winning."
+    },
+    {
+        "id": 500,
+        "premise": "These stupid, spoiled psychopathic teenagers who were killing people constantly and frequently.",
+        "hypothesis": "These stupid, spoiled psychopathic teenagers who were killing people left and right.",
+        "predicted_label": "Entailment",
+        "model_explanation": "To kill people left and right means to kill them constantly and frequently, and in this context the teenagers were killing people constantly."
+    },
+    {
+        "id": 500,
+        "premise": "These stupid, spoiled psychopathic teenagers who were killing people infrequently and hardly ever.",
+        "hypothesis": "These stupid, spoiled psychopathic teenagers who were killing people left and right.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "To kill people left and right means to kill them frequently and often, but in this context the teenagers are killing people infrequently and hardly ever."
+    },
+    {
+        "id": 501,
+        "premise": "They rolled down the stairs, knocking people over constantly until they bounced off the bottom step and onto the floor.",
+        "hypothesis": "They rolled down the stairs, knocking people left and right until they bounced off the bottom step and onto the floor.",
+        "predicted_label": "Entailment",
+        "model_explanation": "Left and right means constantly."
+    },
+    {
+        "id": 501,
+        "premise": "They rolled down the stairs, knocking people barely or infrequently until they bounced off the bottom step and onto the floor.",
+        "hypothesis": "They rolled down the stairs, knocking people left and right until they bounced off the bottom step and onto the floor.",
+        "predicted_label": "Entailment",
+        "model_explanation": "To knock someone left and right means to knock them frequently, but in this sentence they knocked people barely or infrequently."
+    },
+    {
+        "id": 502,
+        "premise": "He called irritably, when we get close to that snarl, stop and give assistance.",
+        "hypothesis": "He called irritably, when we get close to that snarl, stop and lend a hand.",
+        "predicted_label": "Entailment",
+        "model_explanation": "To lend a hand means to offer assistance, so in this context the speaker is asking for assistance."
+    },
+    {
+        "id": 502,
+        "premise": "He called irritably, when we get close to that snarl, stop and refuse to give assistance.",
+        "hypothesis": "He called irritably, when we get close to that snarl, stop and lend a hand.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "To lend a hand means to give assistance, but in this sentence he refuses to do so."
+    },
+    {
+        "id": 503,
+        "premise": "I guess I can help out.",
+        "hypothesis": "I guess I can lend a hand.",
+        "predicted_label": "Entailment",
+        "model_explanation": "To lend a hand means to give someone s help, which is what the speaker is doing by offering to help."
+    },
+    {
+        "id": 503,
+        "premise": "I guess I can make sure you receieve no assistance.",
+        "hypothesis": "I guess I can lend a hand.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "To lend a hand means to offer assistance, but in this case, the speaker is offering no assistance."
+    },
+    {
+        "id": 520,
+        "premise": "He knew how to persuade and influence others, and for now, he needed to back off.",
+        "hypothesis": "He knew how to make a pitch, and for now, he needed to back off.",
+        "predicted_label": "Entailment",
+        "model_explanation": "To make a pitch means to persuade or influence someone, and in this sentence he is trying to do that by backing off."
+    },
+    {
+        "id": 520,
+        "premise": "He knew how to not dissuade or make things weak for others, and for now, he needed to back off.",
+        "hypothesis": "He knew how to make a pitch, and for now, he needed to back off.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "To make a pitch means to present an argument or supposition in an effective manner, but in this context he knows how to not dissuade or make things weak for others."
+    },
+    {
+        "id": 531,
+        "premise": "I'm hoping to take advantage of this story for the rest of the year, at least.",
+        "hypothesis": "I'm hoping to make hay with this story for the rest of the year, at least.",
+        "predicted_label": "Entailment",
+        "model_explanation": "To make hay with something is to take advantage of it, so in this context the speaker is hoping to make money off of the story."
+    },
+    {
+        "id": 531,
+        "premise": "I'm hoping to not take advantage of this story for the rest of the year, at least.",
+        "hypothesis": "I'm hoping to make hay with this story for the rest of the year, at least.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "To make hay with something means to profit from it, but in this context the speaker is hoping not to take advantage of the story."
+    },
+    {
+        "id": 532,
+        "premise": "It had been a good day to seize the opportunity.",
+        "hypothesis": "It had been a good day to make hay.",
+        "predicted_label": "Entailment",
+        "model_explanation": "To make hay means to seize the opportunity, and in this context the speaker is telling the other person to do the same."
+    },
+    {
+        "id": 532,
+        "premise": "It had been a good day to waste the opportunity.",
+        "hypothesis": "It had been a good day to make hay.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "To make hay means to take advantage of an opportunity, but in this context the person is saying that it was a good day to waste the opportunity."
+    },
+    {
+        "id": 588,
+        "premise": "Lilith struggled against the claw trying to pry it open before it did significant damage to her internal organs but  refused to budge the claw even an inch.",
+        "hypothesis": "Lilith struggled against the claw trying to pry it open before it did significant damage to her internal organs but did not budge the claw even an inch.",
+        "predicted_label": "Entailment",
+        "model_explanation": "To not budge the claw means to not be able to move it, which is what happened in this sentence."
+    },
+    {
+        "id": 588,
+        "premise": "Lilith struggled against the claw trying to pry it open before it did significant damage to her internal organs but  immediately agreed and complied by moving the claw even an inch..",
+        "hypothesis": "Lilith struggled against the claw trying to pry it open before it did significant damage to her internal organs but did not budge the claw even an inch.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "To not budge something means to refuse to move it, while to agree and comply with something would suggest that the person is giving in to the request."
+    },
+    {
+        "id": 589,
+        "premise": "He tried to walk but his arms and legs would not cooperate.",
+        "hypothesis": "He tried to walk but his arms and legs would not budge.",
+        "predicted_label": "Entailment",
+        "model_explanation": "To not budge means to not cooperate, which is what happened in this context."
+    },
+    {
+        "id": 589,
+        "premise": "He tried to walk but his arms and legs would cooperate and move .",
+        "hypothesis": "He tried to walk but his arms and legs would not budge.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "To not budge means to not cooperate or move, but in this sentence the arms and legs would cooperate and move."
+    },
+    {
+        "id": 592,
+        "premise": "I could not care less about society, and neither does randall.",
+        "hypothesis": "I do not give a fig for society, and neither does randall.\u201d",
+        "predicted_label": "Entailment",
+        "model_explanation": "To not give a fig for something means to not care about it, and in this context the speaker is saying that they could care less about society."
+    },
+    {
+        "id": 592,
+        "premise": "I really care a lot about society, and so does randall.",
+        "hypothesis": "I do not give a fig for society, and neither does randall.\u201d",
+        "predicted_label": "Contradiction",
+        "model_explanation": "To not give a fig for something means to not care at all, but in this context they both care about society."
+    },
+    {
+        "id": 593,
+        "premise": "I do not have the slightest concern about that.",
+        "hypothesis": "I do not give a fig for that.",
+        "predicted_label": "Entailment",
+        "model_explanation": "To not give a fig for something means to not care at all about it."
+    },
+    {
+        "id": 593,
+        "premise": "I have a great deal of concern about that.",
+        "hypothesis": "I do not give a fig for that.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "To not give a fig for something means to have no concern about it, but in this context the speaker has definite concerns about the situation."
+    },
+    {
+        "id": 604,
+        "premise": "Absolutely not, Danny said, we've been in this situation before and I don't want to go through it again.",
+        "hypothesis": "We've been here before nothing doing, danny said.",
+        "predicted_label": "Entailment",
+        "model_explanation": "The idiom nothing doing means nothing to do, and in this context danny is saying that he does not want to go through the same situation again."
+    },
+    {
+        "id": 604,
+        "premise": "I'm willing to try anything once, Danny said, we've been in this situation before and I want to go through it again.",
+        "hypothesis": "We've been here before nothing doing, danny said.",
+        "predicted_label": "Entailment",
+        "model_explanation": "Nothing doing means that danny has already tried everything that has worked before, so he is willing to try anything once."
+    },
+    {
+        "id": 635,
+        "premise": "They just grinned in that way people do when they think you're crazy, but they don't want to say anything.",
+        "hypothesis": "They just grinned in that way people do when they think You're off your rocker, but they dont want to say anything.",
+        "predicted_label": "Entailment",
+        "model_explanation": "To be off your rocker means to be crazy, and in this context they are thinking that the speaker is crazy."
+    },
+    {
+        "id": 635,
+        "premise": "They just grinned in that way people do when they think you're sane and not crazy at all, but they don't want to say anything.",
+        "hypothesis": "They just grinned in that way people do when they think You're off your rocker, but they dont want to say anything.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "To be off your rocker is to be completely out of control, but in this sentence they thought the person was sane and not crazy at all."
+    },
+    {
+        "id": 636,
+        "premise": "You're insane.",
+        "hypothesis": "You're off your rocker.",
+        "predicted_label": "Entailment",
+        "model_explanation": "To be off your rocker means to be completely crazy or insane, which is what the person is described as in the sentence."
+    },
+    {
+        "id": 636,
+        "premise": "You're sane and level-headed.",
+        "hypothesis": "You're off your rocker.",
+        "predicted_label": "Entailment",
+        "model_explanation": "To be off your rocker means to be out of control, but the person in this context is sane and level-headed."
+    },
+    {
+        "id": 641,
+        "premise": "No, thats unoriginal and outdated, said oneill dismissively, no she gone sunk!",
+        "hypothesis": "No, thats old hat, said oneill dismissively, no she gone sunk!",
+        "predicted_label": "Entailment",
+        "model_explanation": "To be old hat is to be outdated or unoriginal, and in this sentence the speaker is saying that the other person's idea is uninspiring and uninspired."
+    },
+    {
+        "id": 641,
+        "premise": "No, thats trendy and current, said oneill dismissively, no she gone sunk!.",
+        "hypothesis": "No, thats old hat, said oneill dismissively, no she gone sunk!",
+        "predicted_label": "Contradiction",
+        "model_explanation": "To be old hat is to be out-of-date or irrelevant, while to say something is trendy and current means to have become popular or popular."
+    },
+    {
+        "id": 662,
+        "premise": "You're a brute, she whispered but her tone was teasing and her mind, somehow, was made to feel better.",
+        "hypothesis": "You're a brute,she whispered but her tone was teasing and her mind, somehow, was put at ease.",
+        "predicted_label": "Entailment",
+        "model_explanation": "To be put at ease means to be made to feel better, which is what happened in this sentence."
+    },
+    {
+        "id": 662,
+        "premise": "You're a brute, she whispered but her tone was teasing and her mind, somehow, was made to feel worse.",
+        "hypothesis": "You're a brute,she whispered but her tone was teasing and her mind, somehow, was put at ease.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "To put at ease means to make someone feel better, but in this sentence the person is made to feel worse."
+    },
+    {
+        "id": 663,
+        "premise": "She smiled, and the boy smiled back, feeling reassured and comforted.",
+        "hypothesis": "She smiled, and the boy smiled back, put at ease.",
+        "predicted_label": "Entailment",
+        "model_explanation": "Put at ease means reassured or comforted."
+    },
+    {
+        "id": 663,
+        "premise": "She smiled, and the boy smiled back, feeling anxious and stressed.",
+        "hypothesis": "She smiled, and the boy smiled back, put at ease.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "To be put at ease means to be calmed down or relaxed, but in this context the boy is feeling anxious and stressed."
+    },
+    {
+        "id": 678,
+        "premise": "His dad was sitting in front of the television with a couple of soda cans at his feet so that he wouldn't have to get up and go to the refrigerator.",
+        "hypothesis": "His dad was ensconced in front of the television with a couple of soda cans and at his feet to save trips to the refrigerator.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "To be ensconced means to be set down or anchored in a place, but in this context his dad is sitting in front of the television so that he won't have to get up and go to the refrigerator."
+    },
+    {
+        "id": 678,
+        "premise": "His dad was sitting in front of the television with  a couple of soda cans  at his feet but he still got up and went to the refrigerator.",
+        "hypothesis": "His dad was ensconced in front of the television with a couple of soda cans and at his feet to save trips to the refrigerator.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "To save trips to the refrigerator means to stay put, but in this context his dad still got up and went to get the soda cans instead of staying put."
+    },
+    {
+        "id": 679,
+        "premise": "It will prevent trips to the kitchen.",
+        "hypothesis": "It will save trips to the kitchen.",
+        "predicted_label": "Entailment",
+        "model_explanation": "To save something means to make it easier or faster to do it, and in this context it will prevent trips to the kitchen."
+    },
+    {
+        "id": 679,
+        "premise": "It will increase trips to the kitchen.",
+        "hypothesis": "It will save trips to the kitchen.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "Saving trips to the kitchen means that the person will have to go less often to prepare food, while increasing trips would mean that they will need to make more trips."
+    },
+    {
+        "id": 710,
+        "premise": "I am sure if they were a cure, every man in cologne would gladly speak very highly of his precious pickles!",
+        "hypothesis": "I am sure if they were a cure, every man in cologne would sing the praises of his precious pickles!",
+        "predicted_label": "Contradiction",
+        "model_explanation": "To sing the praises of someone or something means to speak very highly of them, but in this context if the pickles were a cure, every man in cologne would speak highly instead of singing."
+    },
+    {
+        "id": 710,
+        "premise": "I am sure if they were a cure, every man in cologne would reluctantly refuse to speak highly of his precious pickles!.",
+        "hypothesis": "I am sure if they were a cure, every man in cologne would sing the praises of his precious pickles!",
+        "predicted_label": "Contradiction",
+        "model_explanation": "To sing the praises of something means to speak highly of it, but the context describes refusing to do so."
+    },
+    {
+        "id": 711,
+        "premise": "When beheaded, his fallen head continued to promote and speak highly of god.",
+        "hypothesis": "When beheaded, his fallen head continued to sing the praises of god.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "To sing the praises of god means to speak highly of him, while to continue to promote and speak high of something means that the person is not doing that."
+    },
+    {
+        "id": 711,
+        "premise": "When beheaded, his fallen head stopped promoting and speaking highly of god.",
+        "hypothesis": "When beheaded, his fallen head continued to sing the praises of god.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "To sing the praises of something means to speak highly of it, but in this context the fallen head stopped speaking highly about god."
+    },
+    {
+        "id": 722,
+        "premise": "My mortality is always present every day, and every second I am alive is one step closer to being dead and buried.",
+        "hypothesis": "My mortality looms every day, and every second I draw breath is one step closer to being six feet under.",
+        "predicted_label": "Entailment",
+        "model_explanation": "To be six feet under means to die and be buried, which is what the speaker is saying every second they are alive is one step closer to being."
+    },
+    {
+        "id": 722,
+        "premise": "My mortality is always present every day, but every second I am alive is one step further away from being jubiliant and healthy.",
+        "hypothesis": "My mortality looms every day, and every second I draw breath is one step closer to being six feet under.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "To be six feet under means to be dead, but in this context the speaker is saying that every second they are alive is one step closer to being jubilant and healthy."
+    },
+    {
+        "id": 723,
+        "premise": "I want him dead and buried, I state, trying to keep my cool.",
+        "hypothesis": "I want him six feet under, I state, trying to keep my cool.",
+        "predicted_label": "Entailment",
+        "model_explanation": "To be six feet under means to be dead and buried, which is what the speaker wants for the other person."
+    },
+    {
+        "id": 723,
+        "premise": "I want him alive and well, I state, trying to keep my cool.",
+        "hypothesis": "I want him six feet under, I state, trying to keep my cool.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "To be six feet under means to be dead or in a coma, but the speaker wants the person to remain alive."
+    },
+    {
+        "id": 731,
+        "premise": "Picking pockets, showing off skilled and deceptive dexterity or cunning-stuff like that-but what he does best is to lie.",
+        "hypothesis": "Picking pockets, sleight of hand-stuff like that-but what he does best is... lie.",
+        "predicted_label": "Entailment",
+        "model_explanation": "Sleight of hand is a skill that involves deception, so the speaker is saying that what he does best is lie."
+    },
+    {
+        "id": 731,
+        "premise": "Picking pockets, clumsily, or in an awkward fashion like that-but what he does best is to lie.",
+        "hypothesis": "Picking pockets, sleight of hand-stuff like that-but what he does best is... lie.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "Sleight of hand is a trick that involves deceiving someone by making them believe something that they do not, but this context describes picking pockets in an awkward manner."
+    },
+    {
+        "id": 732,
+        "premise": "No dexterity required, the special pen does all the work for you!",
+        "hypothesis": "No sleight of hand required, the magic pen does all the work for you! ",
+        "predicted_label": "Entailment",
+        "model_explanation": "Sleight of hand is the magic trick of performing a trick by causing the audience to believe that something is impossible."
+    },
+    {
+        "id": 732,
+        "premise": "Do show clumliness, but the special pen does all the work for you!",
+        "hypothesis": "No sleight of hand required, the magic pen does all the work for you! ",
+        "predicted_label": "Contradiction",
+        "model_explanation": "The magic pen does not require any sleight of hand and so it would be impossible for someone to write without showing some form of clumliness, so there is no magic involved."
+    },
+    {
+        "id": 733,
+        "premise": "Always doing tricks to make other people's stuff disappear.",
+        "hypothesis": "Always doing sleight of hand to make other people's stuff disappear.",
+        "predicted_label": "Entailment",
+        "model_explanation": "Sleight of hand is a type of magic where the magician uses tricks to make something disappear."
+    },
+    {
+        "id": 733,
+        "premise": "Always doing tricks to make other people's stuff appear.",
+        "hypothesis": "Always doing sleight of hand to make other people's stuff disappear.",
+        "predicted_label": "Entailment",
+        "model_explanation": "Sleight of hand is the art of making something go away, in this case, the person is doing tricks to make other people's stuff appear."
+    },
+    {
+        "id": 736,
+        "premise": "With a small mistake while speaking, he stepped out of bounds.",
+        "hypothesis": "With a slip of the tongue, hett stepped out of bounds.",
+        "predicted_label": "Entailment",
+        "model_explanation": "A slip of the tongue is a small mistake that is made while speaking, which is what happened to hett."
+    },
+    {
+        "id": 736,
+        "premise": "With perfect clarity and no mistakes, he stepped out of bounds.",
+        "hypothesis": "With a slip of the tongue, hett stepped out of bounds.",
+        "predicted_label": "Entailment",
+        "model_explanation": "Slip of the tongue means he made a mistake, but in this context hetti stepped out of bounds with perfect clarity."
+    },
+    {
+        "id": 737,
+        "premise": "He asked, picking up on kylie's small verbal mistake.",
+        "hypothesis": "He asked, picking up on kylie's slip of the tongue.",
+        "predicted_label": "Entailment",
+        "model_explanation": "A slip of the tongue is a small verbal mistake that is often overlooked by people, so the speaker is picking up on kylie's mistake and asking about it."
+    },
+    {
+        "id": 737,
+        "premise": "He asked, picking up on kylie's clear and concise explanation.",
+        "hypothesis": "He asked, picking up on kylie's slip of the tongue.",
+        "predicted_label": "Entailment",
+        "model_explanation": "A slip of the tongue is an innocent mistake made in speaking, which is what he picked up on in this context."
+    },
+    {
+        "id": 754,
+        "premise": "A grameel, he said, they dont usually come out of the water unless they sense an opportunity to attack, but I guess they can sense the sea witch.",
+        "hypothesis": "A grameel, he said, they dont usually come out of the water unless they smell blood, but I guess they can sense the sea witch.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "To smell blood means to sense something that is about to happen or be about, while to see an opportunity to attack means the opportunity has already been made and is waiting to be taken advantage of."
+    },
+    {
+        "id": 754,
+        "premise": "A grameel, he said, they dont usually come out of the water unless they sense an opportunity to flee, but I guess they can sense the sea witch.",
+        "hypothesis": "A grameel, he said, they dont usually come out of the water unless they smell blood, but I guess they can sense the sea witch.",
+        "predicted_label": "Entailment",
+        "model_explanation": "To smell blood means to sense an opportunity to flee, which is what the grameel is doing in this context."
+    },
+    {
+        "id": 755,
+        "premise": "The hunters must've left the door open because he could sense a fight and death long before they climbed the steps.",
+        "hypothesis": "The hunters must've left the door open because he could smell blood and death long before they climbed the steps.\u201d",
+        "predicted_label": "Entailment",
+        "model_explanation": "To smell blood and death means to sense a fight or death, which is what the hunter was able to do because he could sense it long before they climbed the steps."
+    },
+    {
+        "id": 755,
+        "premise": "The hunters must've left the door open because he could not sense a fight and death long before they climbed the steps.",
+        "hypothesis": "The hunters must've left the door open because he could smell blood and death long before they climbed the steps.\u201d",
+        "predicted_label": "Contradiction",
+        "model_explanation": "To smell blood and death means to detect the presence of blood or death, but in this sentence the hunters could not sense a fight and therefore they left the door open."
+    },
+    {
+        "id": 767,
+        "premise": "While you were out back, old Mr. Mitchum called to warn me to avoid going out for a bit.",
+        "hypothesis": "While you was out back old mr. Mitchum called to warn me to steer clear of going out for a bit.",
+        "predicted_label": "Entailment",
+        "model_explanation": "To steer clear of something means to avoid it, which is what mr. mitchum called to warn against in this sentence."
+    },
+    {
+        "id": 767,
+        "premise": "While you were out back, old Mr. Mitchum called to warn me to seek out going out for a bit.",
+        "hypothesis": "While you was out back old mr. Mitchum called to warn me to steer clear of going out for a bit.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "To steer clear of something means to avoid it, but in this context mr. mitchum is warning the speaker to go out for a bit."
+    },
+    {
+        "id": 768,
+        "premise": "The soft sincerity in her voice gave brady yet one more reason to avoid and keep away from her.",
+        "hypothesis": "The soft sincerity in her voice gave brady yet one more reason to steer clear of her.",
+        "predicted_label": "Entailment",
+        "model_explanation": "To steer clear of someone or something means to stay away from them, and in this context brady is being told to steer away because of the sincerity in her voice."
+    },
+    {
+        "id": 768,
+        "premise": "The soft sincerity in her voice gave brady yet one more reason to seek out and come closer to her.",
+        "hypothesis": "The soft sincerity in her voice gave brady yet one more reason to steer clear of her.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "To steer clear of someone means to stay away from them, but in this context she is giving brady yet another reason to come closer to her."
+    },
+    {
+        "id": 788,
+        "premise": "This is the only option and you cannot refuse it.",
+        "hypothesis": "take it or leave it.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "To take it or leave it means to accept or refuse something, but in this context the option is the only option and the person cannot refuse it."
+    },
+    {
+        "id": 788,
+        "premise": "You have plenty of options to choose from and this is not the only one.",
+        "hypothesis": "take it or leave it.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "To take it or leave it means to accept it without question, but this context describes there being plenty of options to choose from."
+    },
+    {
+        "id": 804,
+        "premise": "But to speak the truth plainly, I have no desire or intention of being a father right now.",
+        "hypothesis": "But to tell it like it is, I have no desire or intention of being a father right now.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "To tell it like it is means to say something as it really is, but in this context the speaker is saying that they have no desire or intention of being a father."
+    },
+    {
+        "id": 804,
+        "premise": "But to speak falsely and deliberately mislead, I have no desire or intention of being a father right now.",
+        "hypothesis": "But to tell it like it is, I have no desire or intention of being a father right now.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "To tell it like it is means to speak honestly and openly, but in this sentence the speaker is speaking falsely and deliberately mislead."
+    },
+    {
+        "id": 805,
+        "premise": "You're most effective when you're speaking the truth, even if it's not what people want to hear.",
+        "hypothesis": "You're at your best when you tell it like it is.",
+        "predicted_label": "Entailment",
+        "model_explanation": "To tell it like it is means to speak the truth, even if it's not what people want to hear."
+    },
+    {
+        "id": 805,
+        "premise": "You're most effective when you're lying, even if it's not what people want to hear.",
+        "hypothesis": "You're at your best when you tell it like it is.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "To tell it like it is means to be truthful, but in this context the speaker is saying that they are most effective when they lie."
+    },
+    {
+        "id": 808,
+        "premise": "Because I know Ronin's confidantes, and they wouldn't share secrets that would cause problems for others.",
+        "hypothesis": "Because I know Ronin's confidantes, and they wouldn't tell tales out of school.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "To tell tales means to share secrets that can lead to problems for others, but in this sentence the confidantes are not sharing secrets."
+    },
+    {
+        "id": 808,
+        "premise": "Because I know Ronin's confidantes, and they would share secrets that would cause problems for others.",
+        "hypothesis": "Because I know Ronin's confidantes, and they wouldn't tell tales out of school.",
+        "predicted_label": "Entailment",
+        "model_explanation": "To tell tales out of school means to share secrets that would cause problems for others, which is what the confidantes in this context would be doing."
+    },
+    {
+        "id": 816,
+        "premise": "It seemed that the blows, both figurative and literal, were coming in great numbers and at a rapid rate.",
+        "hypothesis": "It seemed that the blows, both figurative and literal, were coming thick and fast.",
+        "predicted_label": "Entailment",
+        "model_explanation": "To come thick and fast means to come in great numbers and at a rapid rate, which is what the blows seemed to be doing."
+    },
+    {
+        "id": 816,
+        "premise": "It seemed that the blows, both figurative and literal, were coming in small numbers and at a slow rate.",
+        "hypothesis": "It seemed that the blows, both figurative and literal, were coming thick and fast.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "To come thick and fast means to come in large numbers or at a fast rate, but in this sentence the blows are coming in small numbers."
+    },
+    {
+        "id": 817,
+        "premise": "Turning to tate she saw the tears falling abundantly and rapidly.",
+        "hypothesis": "Turning to tate she saw the tears falling thick and fast.",
+        "predicted_label": "Entailment",
+        "model_explanation": "To be thick and fast means to be abundantly and rapidly, which is what she saw when she turned to tate."
+    },
+    {
+        "id": 817,
+        "premise": "Turning to tate she saw the tears falling scarcely and slowly.",
+        "hypothesis": "Turning to tate she saw the tears falling thick and fast.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "To fall thick and fast means to fall in a lot of quantity, but this context describes the tears falling scarcely and slowly."
+    },
+    {
+        "id": 826,
+        "premise": "I was staying with him no matter what the situation was.",
+        "hypothesis": "I was staying with him through thick and thin...",
+        "predicted_label": "Entailment",
+        "model_explanation": "To stay through thick and thin means to stay with someone no matter what the situation is, and in this sentence the speaker was staying with the person regardless of the circumstances."
+    },
+    {
+        "id": 826,
+        "premise": "I was leaving him no matter what the situation was.",
+        "hypothesis": "I was staying with him through thick and thin...",
+        "predicted_label": "Contradiction",
+        "model_explanation": "To stay through thick and thin means to stay with someone no matter what the situation is, but in this context she is leaving him no mater what."
+    },
+    {
+        "id": 827,
+        "premise": "I didn't know what will happen, but I was quite certain that my friends would be there for me.",
+        "hypothesis": "I didn't know what will happen, but I was quite certain that my friends would be there for me... through thick and thin.",
+        "predicted_label": "Entailment",
+        "model_explanation": "To be through thick and thin means to be there for someone through all circumstances, which is how the speaker felt about the friends."
+    },
+    {
+        "id": 827,
+        "premise": "I didn't know what will happen, but I was quite certain that my friends would not be there for me.",
+        "hypothesis": "I didn't know what will happen, but I was quite certain that my friends would be there for me... through thick and thin.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "To be through thick and thin means to be there for someone through good or bad times, but in this context the friend is not there and is unsure."
+    },
+    {
+        "id": 830,
+        "premise": "And all she could think to do was dampen their spirits and make them less enthusiastic.",
+        "hypothesis": "And all she could think to do was throw cold water on them.",
+        "predicted_label": "Entailment",
+        "model_explanation": "To throw cold water on someone means to do something that is negative or unfavorable, and in this context she is doing that by making them less enthusiastic."
+    },
+    {
+        "id": 830,
+        "premise": "And all she could think to do was excite them and make them more enthusiastic.",
+        "hypothesis": "And all she could think to do was throw cold water on them.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "To throw cold water on someone means to smother their excitement or enthusiasm, but in this context she is making them more enthusiastic."
+    },
+    {
+        "id": 831,
+        "premise": "She didn't want to dampen his efforts.",
+        "hypothesis": "She didn't want to throw cold water on his efforts.",
+        "predicted_label": "Entailment",
+        "model_explanation": "To throw cold water on something means to discourage or dampen it, and in this context she did not want to do that."
+    },
+    {
+        "id": 831,
+        "premise": "She didn't want to encourage his efforts.",
+        "hypothesis": "She didn't want to throw cold water on his efforts.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "To throw cold water on something means to discourage it, but in this context she didn't want to encourage his efforts."
+    },
+    {
+        "id": 853,
+        "premise": "You will miss out on life's opportunities if you don't take advantage of them right away.",
+        "hypothesis": "time and tide wait for no man.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "Time and tide are metaphors meaning that things happen at a certain pace and so someone who is not taking advantage of an opportunity right away is wasting their time."
+    },
+    {
+        "id": 853,
+        "premise": "You will have all the time in the world to take advantage of life's opportunities.",
+        "hypothesis": "time and tide wait for no man.",
+        "predicted_label": "Entailment",
+        "model_explanation": "Time and tide are both concepts that describe how life is constantly changing and evolving in order to provide new opportunities for people."
+    },
+    {
+        "id": 856,
+        "premise": "Some kids from the city that happened to pick parents that instilled in them ideals that would create a situation where they would be favored or have an advantage globally.",
+        "hypothesis": "Some kids from the city that happened to pick parents that instilled in them ideals that would tip the scales of power globally.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "To tip the scales of power means to create a situation where someone is favored or has an advantage, but this sentence describes creating s situation in which the kids would be privileged and have an unfair advantage."
+    },
+    {
+        "id": 856,
+        "premise": "Some kids from the city that happened to pick parents that instilled in them ideals that would create a situation where they would be disadvantaged or at a disadvantage globally.",
+        "hypothesis": "Some kids from the city that happened to pick parents that instilled in them ideals that would tip the scales of power globally.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "To tip the scales of power means to create a situation where someone is disadvantaged or at s disadvantage, but in this sentence the kids would be at an disadvantage."
+    },
+    {
+        "id": 857,
+        "premise": "It could upset the balance of power in any conflict.",
+        "hypothesis": "It could tip the scales in any conflict.",
+        "predicted_label": "Entailment",
+        "model_explanation": "To tip the scales means to change the balance of power, and that is what the speaker is saying it could do in any conflict."
+    },
+    {
+        "id": 857,
+        "premise": "It could keep the balance of power in any conflict.",
+        "hypothesis": "It could tip the scales in any conflict.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "To tip the scales means to tip something from one side to the other, but in this context it could keep the balance of power."
+    },
+    {
+        "id": 862,
+        "premise": "I saw the sharp dark eyes flick rapidly across the floor now, judging very precisely and accurately the distance from one couple to the next.",
+        "hypothesis": "I saw the sharp dark eyes flick rapidly across the floor now, judging to a nicety the distance from one couple to the next.",
+        "predicted_label": "Entailment",
+        "model_explanation": "To judge to a nicety means to judge very precisely and accurately, which is what the eyes did in this sentence."
+    },
+    {
+        "id": 862,
+        "premise": "I saw the sharp dark eyes flick rapidly across the floor now, judging imprecisely and inaccurately the distance from one couple to the next.",
+        "hypothesis": "I saw the sharp dark eyes flick rapidly across the floor now, judging to a nicety the distance from one couple to the next.",
+        "predicted_label": "Entailment",
+        "model_explanation": "To judge to a nicety means to judge accurately, so the eyes are judging the distance imprecisely and inaccurately."
+    },
+    {
+        "id": 863,
+        "premise": "For he is very wise, and weighs all things exactly and precisely in the scales of his malice.",
+        "hypothesis": "For he is very wise, and weighs all things to a nicety in the scales of his malice.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "To weigh something to a nicety means to calculate it with great precision, but this context describes him weighing things exactly and precisely."
+    },
+    {
+        "id": 863,
+        "premise": "For he is very wise, and weighs all things very inaccurately and haphazardly in the scales of his malice.",
+        "hypothesis": "For he is very wise, and weighs all things to a nicety in the scales of his malice.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "To weigh something to a nicety means to do it with precision and accuracy, but in this context the speaker is weighing things inaccurately and haphazardly."
+    },
+    {
+        "id": 868,
+        "premise": "The guy was her height and looked like an italian soccer player, very muscular with a five o'clock shadow that was extremely pronounced.",
+        "hypothesis": "The guy was her height and looked like an italian soccer player, thick with muscle and a five o'clock shadow to beat the band.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "To beat the band means to have a very pronounced five o'clock shadow, but this context describes the guy having incredibly accentuated eyebrows and muscles."
+    },
+    {
+        "id": 868,
+        "premise": "The guy was her height and looked like an italian soccer player, not very muscular with a five o'clock shadow that was barely noticeable.",
+        "hypothesis": "The guy was her height and looked like an italian soccer player, thick with muscle and a five o'clock shadow to beat the band.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "A five o'clock shadow to beat the band would be very thick and not barely noticeable, whereas a five-o-clock that is barely visible would not be thick or noticeable."
+    },
+    {
+        "id": 869,
+        "premise": "He looked awesome and was smiling hilariously in an uncontrollable manner.",
+        "hypothesis": "He looked great, and he was smiling to beat the band.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "To beat the band means to smile in a very loud, exuberant, and uncontrollable manner, but the speaker is saying that he was smiling in an uncontrolled manner."
+    },
+    {
+        "id": 869,
+        "premise": "He looked awesome and was smiling  in a very coy and restrained manner.",
+        "hypothesis": "He looked great, and he was smiling to beat the band.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "To smile to beat the band means to smile in a very outgoing or confident manner, but in this context the person is smiling in an introspective and reserved manner."
+    },
+    {
+        "id": 884,
+        "premise": "He happily repaid his debts, costing him a total of $ 35 million.",
+        "hypothesis": "He happily repaid his debts, to the tune of $ 35 million.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "To the tune means to the extent or extent to which something is worth or worthless, while to pay off something means for it to be complete or complete."
+    },
+    {
+        "id": 884,
+        "premise": "He happily repaid his debts, without spending any money and not costing him anything.",
+        "hypothesis": "He happily repaid his debts, to the tune of $ 35 million.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "To the tune of $ 35 million means in a large sum, but here he is referring to repaid his debts without spending money and not costing him anything."
+    },
+    {
+        "id": 885,
+        "premise": "Persuasive for an amount of a thousand euros.",
+        "hypothesis": "Persuasive to the tune of a thousand euros.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "To the tune of a thousand euros means to the amount of one thousand euro, but in this context it is for an amount smaller than that."
+    },
+    {
+        "id": 885,
+        "premise": "Persuasive for an amount of less than a thousand euros.",
+        "hypothesis": "Persuasive to the tune of a thousand euros.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "To the tune of a thousand euros means to the extent that someone is able to persuade for an amount that is greater than ten thousand euro, but in this sentence the amount is less than that."
+    },
+    {
+        "id": 888,
+        "premise": "Today, in our more enlightened times, she continued in a joking manner, those laws are sloooowly changing. ",
+        "hypothesis": "Today, in our more enlightened times,she continued, clearly tongue in cheek, those laws are sloooowly changing.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "To speak tongue in cheek is to speak in a sarcastic or ironic manner, but in this context she continued in an amusing manner."
+    },
+    {
+        "id": 888,
+        "premise": "Today, in our more enlightened times, she continued in a completely serious manner, those laws are sloooowly changing.",
+        "hypothesis": "Today, in our more enlightened times,she continued, clearly tongue in cheek, those laws are sloooowly changing.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "To be tongue in cheek means to be sarcastic or ironic, but in this context she is being serious about the laws."
+    },
+    {
+        "id": 889,
+        "premise": "I asked, with a sense of humor and not intending to be taken seriously.",
+        "hypothesis": "I asked, tongue in cheek.",
+        "predicted_label": "Entailment",
+        "model_explanation": "To ask with tongue in cheek means to ask in a way that is humorous and not intended to be taken seriously."
+    },
+    {
+        "id": 889,
+        "premise": "I asked, with no sense of humor but intending to be taken very seriously.",
+        "hypothesis": "I asked, tongue in cheek.",
+        "predicted_label": "Entailment",
+        "model_explanation": "To ask with a sense of humor means to do it in sarcastic or funny way, but in this context the speaker is asking with no sense humor."
+    },
+    {
+        "id": 890,
+        "premise": "You're getting too confident for your own good and you've got something of mine.",
+        "hypothesis": "It's just that you're getting far too big for your boots and you've got something of mine.",
+        "predicted_label": "Entailment",
+        "model_explanation": "To get far too big for your boots means to have too much confidence, which is what the speaker is saying is happening to the person."
+    },
+    {
+        "id": 890,
+        "premise": "You're not confident enough and you need to be, and you've got something of mine.",
+        "hypothesis": "It's just that you're getting far too big for your boots and you've got something of mine.",
+        "predicted_label": "Entailment",
+        "model_explanation": "To get too big for your boots means to become too large or conceited, and in this context the speaker is saying that the person is not confident enough."
+    },
+    {
+        "id": 891,
+        "premise": "You're behaving as if you're more important than you actually are, that's all.",
+        "hypothesis": "You're too big for your boots, thats all.",
+        "predicted_label": "Entailment",
+        "model_explanation": "To be too big for your boots means to be acting and behaving in a way that makes you appear to have more power or importance than you actually do."
+    },
+    {
+        "id": 891,
+        "premise": "You're behaving as if you're less important than you actually are, that's all.",
+        "hypothesis": "You're too big for your boots, thats all.",
+        "predicted_label": "Entailment",
+        "model_explanation": "To be too big for your boots means to be acting or behaving in a way that is unsuitable for one's status or position, which is what the speaker is saying."
+    },
+    {
+        "id": 903,
+        "premise": "I am doing great on both counts, knocking on wood for good luck, I reply and pop my fingers on my head.",
+        "hypothesis": "Fine on both counts, touch wood, I reply and pop my fingers on my head.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "To touch wood means to pray or ask for good luck, but in this sentence the speaker is knocking on wood for luck."
+    },
+    {
+        "id": 903,
+        "premise": "I am doing great on both counts, not knocking on wood for good luck, I reply and pop my fingers on my head.",
+        "hypothesis": "Fine on both counts, touch wood, I reply and pop my fingers on my head.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "To touch wood means to knock on wood for good luck, but in this context the speaker is not knocking on any wood."
+    },
+    {
+        "id": 904,
+        "premise": "She'd always seemed fragile, though according to Jess she was as resilient as an experienced individual and could face off the most dangerous badasses.",
+        "hypothesis": "She'd always seemed fragile, though according to jess she was as tough as old boots and could face off the most dangerous badasses.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "Old boots are worn out, whereas someone who is resilient is not worn down."
+    },
+    {
+        "id": 904,
+        "premise": "She'd always seemed fragile, though according to Jess she was as susceptible to sickness and injury as a newborn baby and could face off the most dangerous badasses.",
+        "hypothesis": "She'd always seemed fragile, though according to jess she was as tough as old boots and could face off the most dangerous badasses.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "Old boots are not tough, because they are worn out and not durable, so saying someone is as tough as old boots would mean they cannot withstand sickness or injury."
+    },
+    {
+        "id": 925,
+        "premise": "A story like this is easy to manipulate because it puts them all under close inspection.",
+        "hypothesis": "A story like this is tailor made for manipulation because it puts them all under the microscope.",
+        "predicted_label": "Entailment",
+        "model_explanation": "To be under the microscope means to be very closely observed, so a story like this is easy to manipulate because it puts them all under close inspection."
+    },
+    {
+        "id": 925,
+        "premise": "A story like this is impossible to manipulate because it doesn't put them all under close inspection.",
+        "hypothesis": "A story like this is tailor made for manipulation because it puts them all under the microscope.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "To put someone or something under the microscope means to put them under close inspection, but the context describes putting them not under inspection."
+    },
+    {
+        "id": 926,
+        "premise": "The thought made her uneasy, once again feel like something being intensely scrutinized.",
+        "hypothesis": "The thought made her uneasy, once again feel like something under the microscope.",
+        "predicted_label": "Entailment",
+        "model_explanation": "To be under the microscope means to be closely observed, and in this context the thought makes her feel like something is being closely examined."
+    },
+    {
+        "id": 926,
+        "premise": "The thought made her uneasy, once again feel like something that is not being scrutinized at all.",
+        "hypothesis": "The thought made her uneasy, once again feel like something under the microscope.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "To be under the microscope means to be closely scrutinized, but in this sentence she is feeling uneasy because she feels like she's not being scrutinised at all."
+    },
+    {
+        "id": 940,
+        "premise": "So why should we have to add an unpredictable person or thing like an afterthought?",
+        "hypothesis": "So why should we have to add an unknown quantity like an afterthought?",
+        "predicted_label": "Entailment",
+        "model_explanation": "Unknown quantity means an unpredictable person or thing."
+    },
+    {
+        "id": 940,
+        "premise": "So why should we have to add a known and predictable person or thing like an afterthought?",
+        "hypothesis": "So why should we have to add an unknown quantity like an afterthought?",
+        "predicted_label": "Contradiction",
+        "model_explanation": "An unknown quantity is something that is difficult to predict, so it is not a good thing that someone would have to add as an afterthought."
+    },
+    {
+        "id": 941,
+        "premise": "Here was one who could only be described as someone whose actions cannot be predicted and is thus difficult to anticipate.",
+        "hypothesis": "Here was one who could only be described as an unknown quantity.",
+        "predicted_label": "Entailment",
+        "model_explanation": "An unknown quantity is someone whose actions cannot be predicted and is thus difficult to anticipate."
+    },
+    {
+        "id": 941,
+        "premise": "Here was one who could only be described as someone whose actions can be predicted and is thus easy to anticipate.",
+        "hypothesis": "Here was one who could only be described as an unknown quantity.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "To be an unknown quantity means to have no idea what is going to happen, but the person in this context is someone whose actions are predictable and thus easy to anticipate."
+    },
+    {
+        "id": 943,
+        "premise": "They had all of bridges enterprise to use for the conferences with various businesses they were working with to get this building operating correctly.",
+        "hypothesis": "They had all of bridges enterprise to use for the conferences with various businesses they were working with to get this building up and running.",
+        "predicted_label": "Entailment",
+        "model_explanation": "To be up and running is to be in a state of being fully functional or fully operational, which is what they were working on in order to get the building up."
+    },
+    {
+        "id": 943,
+        "premise": "They had all of bridges enterprise to use for the conferences with various businesses they were working with to get this building not functioning properly.",
+        "hypothesis": "They had all of bridges enterprise to use for the conferences with various businesses they were working with to get this building up and running.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "To get up and running means to be working properly, but in this context the building is not working correctly."
+    },
+    {
+        "id": 944,
+        "premise": "If there were countries still operating and functioning then the internet would still be going even if it was in russian.",
+        "hypothesis": "If there were countries still up and running then the internet would still be going even if it was in russian.\u201d",
+        "predicted_label": "Entailment",
+        "model_explanation": "To be up and running means to be operating and functioning, and in this sentence there are countries still operating."
+    },
+    {
+        "id": 944,
+        "premise": "If there were countries still not operating and not functioning then the internet would still be going even if it was in russian.",
+        "hypothesis": "If there were countries still up and running then the internet would still be going even if it was in russian.\u201d",
+        "predicted_label": "Contradiction",
+        "model_explanation": "To be up and running is to be functioning and operating normally, but in this context the countries are not operating."
+    },
+    {
+        "id": 955,
+        "premise": "Gary was incarcerated for a couple of years.",
+        "hypothesis": "Gary was up the river for a couple of years.",
+        "predicted_label": "Entailment",
+        "model_explanation": "To be up the river means to be in jail or prison, and in this sentence gary was incarcerated for a couple of years."
+    },
+    {
+        "id": 955,
+        "premise": "Gary was free for a couple of years.",
+        "hypothesis": "Gary was up the river for a couple of years.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "To be up the river means to be in deep trouble, but in this sentence gary was free."
+    },
+    {
+        "id": 956,
+        "premise": "It is extremely gratifying to see these wealthy white-collar criminals being sent to prison.",
+        "hypothesis": "It is extremely gratifying to see these wealthy white-collar criminals being sent up the river",
+        "predicted_label": "Contradiction",
+        "model_explanation": "To be sent up the river means to be swindled out of money, but in this context the wealthy white-collar criminals are being sent to prison."
+    },
+    {
+        "id": 956,
+        "premise": "It is not gratifying to see these wealthy white-collar criminals being sent out of prison.",
+        "hypothesis": "It is extremely gratifying to see these wealthy white-collar criminals being sent up the river",
+        "predicted_label": "Contradiction",
+        "model_explanation": "To be sent up the river means to be thrown into a situation where they cannot escape, but in this context it is not gratifying to see these wealthy white-collar criminals being sent out of prison."
+    },
+    {
+        "id": 967,
+        "premise": "He tried to move further away, but I thrust the dagger into his ribs completely, a few inches from his heart.",
+        "hypothesis": "He tried to move further away, but I thrust the dagger into his ribs up to the hilt, a few inches from his heart.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "To be up to the hilt means to be fully or completely, but in this sentence the dagger is thrust completely into the person's ribs, a few inches from his heart."
+    },
+    {
+        "id": 967,
+        "premise": "He tried to move further away, but I thrust the dagger into his ribs incompletely, a few inches from his heart.",
+        "hypothesis": "He tried to move further away, but I thrust the dagger into his ribs up to the hilt, a few inches from his heart.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "To thrust something up to the hilt means to thrust it completely, but in this sentence the dagger was thrust incompletely."
+    },
+    {
+        "id": 968,
+        "premise": "She buried her knife in his chest as deep as possible.",
+        "hypothesis": "She buried her knife in his chest all the way b> up to the hilt.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "To the hilt means to the very tip, but in this context she buried her knife as deep as possible."
+    },
+    {
+        "id": 968,
+        "premise": "She buried her knife in his chest shallowly.",
+        "hypothesis": "She buried her knife in his chest all the way b> up to the hilt.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "To the hilt means to the very tip or point, but in this context she buried her knife in his chest only shallowly."
+    },
+    {
+        "id": 969,
+        "premise": "She woke up as early as the lark, while her friend lay fast asleep under the weight of the previous evening's indulgences.",
+        "hypothesis": "She sprang up with the lark, while her friend lay fast asleep under the weight of the previous evenings indulgences.",
+        "predicted_label": "Entailment",
+        "model_explanation": "To spring up with the lark means to wake up as early as the morning crow, which is what she did."
+    },
+    {
+        "id": 969,
+        "premise": "She woke up later than the lark, while her friend lay fast asleep under the weight of the previous evening's indulgences.",
+        "hypothesis": "She sprang up with the lark, while her friend lay fast asleep under the weight of the previous evenings indulgences.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "To sprang up with the lark means to wake up as soon as possible, but in this context she woke up later than the last waking bird."
+    }
+]

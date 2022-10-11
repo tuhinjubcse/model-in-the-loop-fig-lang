@@ -1,0 +1,1752 @@
+[
+    {
+        "id": 2,
+        "premise": "The place looked impenetrable and inescapable",
+        "hypothesis": "The place looked like a fortress",
+        "predicted_label": "Entailment",
+        "model_explanation": "A fortress is a structure that is built to withstand attacks and is impenetrable, making it an impregnable and inescapable place."
+    },
+    {
+        "id": 2,
+        "premise": "The place looked easy to walk into and exit from",
+        "hypothesis": "The place looked like a fortress",
+        "predicted_label": "Entailment",
+        "model_explanation": "A fortress is a place that is very difficult to walk into or exit from, so the place looks easy to do both."
+    },
+    {
+        "id": 7,
+        "premise": "Rays of sun diaphanously pierced through the leaves",
+        "hypothesis": "Scattered sunlight poked through the leaves like a moth-eaten curtain .",
+        "predicted_label": "Entailment",
+        "model_explanation": "A moth-eaten curtain is thin and transparent, so the sunlight poked through the leaves like a motif."
+    },
+    {
+        "id": 7,
+        "premise": "Rays of sun thickly and densely covered the leaves.",
+        "hypothesis": "Scattered sunlight poked through the leaves like a moth-eaten curtain .",
+        "predicted_label": "Contradiction",
+        "model_explanation": "A moth-eaten curtain is thin and flimsy, so the sunlight poking through it would not be thick or dense."
+    },
+    {
+        "id": 10,
+        "premise": "It was rapidly becoming smaller and smaller on the horizon, turning into nothing but a silver.",
+        "hypothesis": "It was becoming nothing but a sliver on the horizon looking like a closing eye .",
+        "predicted_label": "Entailment",
+        "model_explanation": "A sliver is a very small, thin object, so it is being compared to if it were fading away."
+    },
+    {
+        "id": 10,
+        "premise": "It was rapidly becoming larger and larger on the horizon, turning into silver.",
+        "hypothesis": "It was becoming nothing but a sliver on the horizon looking like a closing eye .",
+        "predicted_label": "Contradiction",
+        "model_explanation": "A sliver is a very small, thin, translucent object, so saying it is turning into nothing would imply it has become extremely small."
+    },
+    {
+        "id": 23,
+        "premise": "He appeared carefree",
+        "hypothesis": "He appeared like a father tucking in his kids.",
+        "predicted_label": "Entailment",
+        "model_explanation": "A father tucking in his kids means that he is taking care of them and is not worried about them."
+    },
+    {
+        "id": 23,
+        "premise": "He appeared burdened.",
+        "hypothesis": "He appeared like a father tucking in his kids.",
+        "predicted_label": "Entailment",
+        "model_explanation": "A father tucking in his kids means that he is taking care of them and making sure they are safe."
+    },
+    {
+        "id": 30,
+        "premise": "Whatever part of him that was remotely attractive has now become putrid.",
+        "hypothesis": "Really, whatever part of him was decently cute or hot has suddenly become like a rotten sulfuric swamp .",
+        "predicted_label": "Entailment",
+        "model_explanation": "A rotten sulfuric swamp is a place where things have gotten really bad and are now smelling really foul, so the simile is emphasizing how bad the part of the person is that was once cute or hot."
+    },
+    {
+        "id": 30,
+        "premise": "Whatever part of him that was remotely attractive has now become more beautiful.",
+        "hypothesis": "Really, whatever part of him was decently cute or hot has suddenly become like a rotten sulfuric swamp .",
+        "predicted_label": "Contradiction",
+        "model_explanation": "A rotten sulfuric swamp is a disgusting place, so saying that part of him is like sulphurous swamp would mean that it is not attractive at all."
+    },
+    {
+        "id": 33,
+        "premise": "Even though the fall colors were rich and striking, her spirits were still low.",
+        "hypothesis": "The fall colors were like a landscape painting, but even that didnt lift her spirits.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "A landscape painting is usually very beautiful and uplifting, while fall colors are often seen as being dull and uninteresting."
+    },
+    {
+        "id": 33,
+        "premise": "Even though the fall colors were dull and uninteresting, her spirits were still low.",
+        "hypothesis": "The fall colors were like a landscape painting, but even that didnt lift her spirits.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "A landscape painting is a beautiful and artistic representation of untouched nature, so saying the fall colors are like pristine nature would suggest that they are beautiful, not dull and uninteresting."
+    },
+    {
+        "id": 39,
+        "premise": "It was astoundingly refreshing",
+        "hypothesis": "It was like an english rain shower just when one was overly warm from a long ride through the countryside.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "A rain shower is often cold and not refreshing and so it would be the opposite of being refreshing."
+    },
+    {
+        "id": 39,
+        "premise": "It was incredibly weary.",
+        "hypothesis": "It was like an english rain shower just when one was overly warm from a long ride through the countryside.",
+        "predicted_label": "Entailment",
+        "model_explanation": "An english rain shower is a heavy, cold rain that falls on someone who is overheated, which is how the speaker feels after the ride."
+    },
+    {
+        "id": 49,
+        "premise": "Just the thought of it made Dana feel flushed and embarrassed.",
+        "hypothesis": "Thinking about it made dana feel like a giggly girl",
+        "predicted_label": "Contradiction",
+        "model_explanation": "A giggly girl is someone who is happy and excited, but in this context dana feels embarrassed and flushed."
+    },
+    {
+        "id": 49,
+        "premise": "Just the thought of it made Dana feel cool and collected.",
+        "hypothesis": "Thinking about it made dana feel like a giggly girl",
+        "predicted_label": "Contradiction",
+        "model_explanation": "Dana is not a giggly girl because she is usually calm and collected, whereas the opposite statement implies she feels like she's in hysterics because of the excitement."
+    },
+    {
+        "id": 54,
+        "premise": "The smell was noxious .",
+        "hypothesis": "The smell was like a clogged sewer .",
+        "predicted_label": "Entailment",
+        "model_explanation": "A clogged sewer is an extremely foul smelling environment."
+    },
+    {
+        "id": 54,
+        "premise": "The smell was pleasant.",
+        "hypothesis": "The smell was like a clogged sewer .",
+        "predicted_label": "Contradiction",
+        "model_explanation": "A clogged sewer would have an unpleasant smell, whereas a pleasant smell would be one that is pleasant."
+    },
+    {
+        "id": 63,
+        "premise": "His features were rough, he had a few scars on his face, and his hair was cut very short.",
+        "hypothesis": "He had rough features, his face bearing a few scars, and his hair was cut like a military haircut",
+        "predicted_label": "Entailment",
+        "model_explanation": "A military haircut is a short, shaved haircut that is often worn by people who have served in the armed forces, and is very common in military uniforms, so the simile is emphasizing that the man's features were rough and his hair was cut short."
+    },
+    {
+        "id": 63,
+        "premise": "His features were rough, he had a few scars on his face, and his hair was cut very long.",
+        "hypothesis": "He had rough features, his face bearing a few scars, and his hair was cut like a military haircut",
+        "predicted_label": "Contradiction",
+        "model_explanation": "A military haircut is very short and shaved, whereas, having rough features means that the person has a lot of scars on their face."
+    },
+    {
+        "id": 65,
+        "premise": "The swamp was silent",
+        "hypothesis": "The swamp was like a huge, never-ending cemetery",
+        "predicted_label": "Entailment",
+        "model_explanation": "A cemetery is a place where bodies are buried and it is usually quiet."
+    },
+    {
+        "id": 65,
+        "premise": "The swamp was loud.",
+        "hypothesis": "The swamp was like a huge, never-ending cemetery",
+        "predicted_label": "Contradiction",
+        "model_explanation": "A cemetery is a place where people are buried, so it would not be loud."
+    },
+    {
+        "id": 66,
+        "premise": "She was flexible",
+        "hypothesis": "She was like a modelling clay for children.",
+        "predicted_label": "Entailment",
+        "model_explanation": "Modelling clay is a type of material that is used to make models, so she is flexible."
+    },
+    {
+        "id": 66,
+        "premise": "She was inflexible and rigid.",
+        "hypothesis": "She was like a modelling clay for children.",
+        "predicted_label": "Entailment",
+        "model_explanation": "Modelling clay is a type of material that is used for creating models, which is why she is likened to it."
+    },
+    {
+        "id": 72,
+        "premise": "Even though most of my previous boyfriends were bad boys, I held onto the hope that beneath their exterior they were actually sweet and gushy.",
+        "hypothesis": "Even though I hadnt had a lot of good fortune with boyfriends, I held on to the hope that beneath their bad boy, brash exterior they were like a chocolate lava cake",
+        "predicted_label": "Contradiction",
+        "model_explanation": "A chocolate lava cake is a sweet dessert, so saying someone is like brash and bad boy when they are really sweet and gushy is not implying that they have had ta lot of good fortune with boyfriends but rather that the person is just sarcastic."
+    },
+    {
+        "id": 72,
+        "premise": "Even though most of my previous boyfriends were bad boys, I held onto the hope that beneath their exterior they were actually bitter and angry.",
+        "hypothesis": "Even though I hadnt had a lot of good fortune with boyfriends, I held on to the hope that beneath their bad boy, brash exterior they were like a chocolate lava cake",
+        "predicted_label": "Contradiction",
+        "model_explanation": "A chocolate lava cake is a sweet dessert, so saying someone is like brash and bad boy when they are really bitter and angry is absurd."
+    },
+    {
+        "id": 76,
+        "premise": "He asks, his voice soft and mellifluous",
+        "hypothesis": "He asks, his voice like a bbc broadcaster",
+        "predicted_label": "Contradiction",
+        "model_explanation": "A bbc broadcaster is known for having a loud and harsh voice, whereas, soft and mellifluous would suggest that the voice is soft."
+    },
+    {
+        "id": 76,
+        "premise": "He asks, his voice harsh and grating.",
+        "hypothesis": "He asks, his voice like a bbc broadcaster",
+        "predicted_label": "Contradiction",
+        "model_explanation": "A bbc broadcaster's voice is usually soft and soothing, not harsh and grating."
+    },
+    {
+        "id": 77,
+        "premise": "We had to hurry across the lawn to make it to the exhibition on time, and by then, Nolan's symphony was in its fourth movement which was loud, percussive and quick.",
+        "hypothesis": "By the time wed finally crossed the lawn to the exhibition, nolans symphony was in its fourth movement: like a sadistic march .",
+        "predicted_label": "Contradiction",
+        "model_explanation": "A sadistic march is a march that is slow and deliberate, whereas if something is like sadistic, it is deliberate and slow."
+    },
+    {
+        "id": 77,
+        "premise": "We had to hurry across the lawn to make it to the exhibition on time, and by then, Nolan's symphony was in its fourth movement which was soft, mellow and slow.",
+        "hypothesis": "By the time wed finally crossed the lawn to the exhibition, nolans symphony was in its fourth movement: like a sadistic march .",
+        "predicted_label": "Contradiction",
+        "model_explanation": "A sadistic march is a march that is full of tension and conflict, whereas if something is soft, slow and mellow, it is not tense or conflicted."
+    },
+    {
+        "id": 78,
+        "premise": "That day and night passed without event and time was seamless.",
+        "hypothesis": "That day and night passed without event and time was like the clouds above.",
+        "predicted_label": "Entailment",
+        "model_explanation": "The clouds are a metaphor for time passing without event and being seamless."
+    },
+    {
+        "id": 78,
+        "premise": "That day and night passed without event and time was choppy and inconsistent.",
+        "hypothesis": "That day and night passed without event and time was like the clouds above.",
+        "predicted_label": "Entailment",
+        "model_explanation": "Clouds are a metaphor for time passing without event and being choppy and inconsistent."
+    },
+    {
+        "id": 79,
+        "premise": "The moment was protracted and stiff as we stared at each other.",
+        "hypothesis": "We stared at each other; the moment was like a heavily starched shirt .",
+        "predicted_label": "Entailment",
+        "model_explanation": "A heavily starched shirt is very stiff, so the moment was like that."
+    },
+    {
+        "id": 79,
+        "premise": "The moment was brief and relaxed as we stared at each other.",
+        "hypothesis": "We stared at each other; the moment was like a heavily starched shirt .",
+        "predicted_label": "Contradiction",
+        "model_explanation": "A heavily starched shirt is one that has been ironed for a long time, so the moment being like one would be long and drawn out."
+    },
+    {
+        "id": 81,
+        "premise": "They were sharing experiences that were molding them into the women they would become and because of this they were close.",
+        "hypothesis": "They were sharing experiences that were molding them into the women they would become and because of this they were like a latticed climbing vine .",
+        "predicted_label": "Contradiction",
+        "model_explanation": "A latticed climbing vine is an object that is woven tightly together to support itself and is not close to the support, while someone who is close is one who has close personal ties."
+    },
+    {
+        "id": 81,
+        "premise": "They were sharing experiences that were molding them into the women they would become and because of this they were distant.",
+        "hypothesis": "They were sharing experiences that were molding them into the women they would become and because of this they were like a latticed climbing vine .",
+        "predicted_label": "Contradiction",
+        "model_explanation": "A latticed climbing vine is a kind of vine that grows up trough laticing to support itself, while someone who is distant would be unable to do so."
+    },
+    {
+        "id": 84,
+        "premise": "Our time is short,\" said Abner.",
+        "hypothesis": "Said abner, our time is like a daggers edge .",
+        "predicted_label": "Entailment",
+        "model_explanation": "A daggers edge is a very thin line, which means that our time is very short."
+    },
+    {
+        "id": 84,
+        "premise": "Our time is long,\" said Abner.",
+        "hypothesis": "Said abner, our time is like a daggers edge .",
+        "predicted_label": "Contradiction",
+        "model_explanation": "A daggers edge is a thin, sharp edge, so saying our time is like s razor's blade would mean it is very short."
+    },
+    {
+        "id": 86,
+        "premise": "The swelling had gone down and the bandage around it felt strong and comfortable.",
+        "hypothesis": "The swelling had gone down, and the bandage around it like a firm hand .",
+        "predicted_label": "Contradiction",
+        "model_explanation": "A firm hand is strong and comfortable, not strong."
+    },
+    {
+        "id": 86,
+        "premise": "The swelling had gone down and the bandage around it felt weak and uncomfortable.",
+        "hypothesis": "The swelling had gone down, and the bandage around it like a firm hand .",
+        "predicted_label": "Contradiction",
+        "model_explanation": "A firm hand would be strong and supportive, not weak and uncomfortable."
+    },
+    {
+        "id": 97,
+        "premise": "The animal looked like a small German shepherd, but with a reddish-brown coat and a black mask over its eyes.",
+        "hypothesis": "With its black mask and those ears, the animal was like a small german shepherd, but the rest of its fur was like a chestnut mare's .",
+        "predicted_label": "Contradiction",
+        "model_explanation": "A chestnut mare is a reddish-brown horse, so saying its fur is like s chestnut mare's would imply that its coat is red and not brown."
+    },
+    {
+        "id": 97,
+        "premise": "The animal looked like a small German shepherd, but with a blondish-white coat and a black mask over its eyes.",
+        "hypothesis": "With its black mask and those ears, the animal was like a small german shepherd, but the rest of its fur was like a chestnut mare's .",
+        "predicted_label": "Contradiction",
+        "model_explanation": "A chestnut mare would have a chest-nut coat, while blondish-white coats are usually tan or brown."
+    },
+    {
+        "id": 101,
+        "premise": "It felt soft and slimy .",
+        "hypothesis": "It felt like a portobello mushroom .",
+        "predicted_label": "Entailment",
+        "model_explanation": "A portobello mushroom is a type of mushroom that is known for being soft and slimy, so it is implied that the object felt soft."
+    },
+    {
+        "id": 101,
+        "premise": "It felt hard and dry.",
+        "hypothesis": "It felt like a portobello mushroom .",
+        "predicted_label": "Contradiction",
+        "model_explanation": "A portobello mushroom is a hollow, dry, and hard mushroom, not softer."
+    },
+    {
+        "id": 109,
+        "premise": "Her smile was quiet and gentle .",
+        "hypothesis": "Her smile was like a slow rising tide .",
+        "predicted_label": "Entailment",
+        "model_explanation": "A rising tide is a quiet and gentle motion."
+    },
+    {
+        "id": 109,
+        "premise": "Her smile was loud and harsh.",
+        "hypothesis": "Her smile was like a slow rising tide .",
+        "predicted_label": "Contradiction",
+        "model_explanation": "A slow rising tide is not loud and harsh, it is soft and gentle."
+    },
+    {
+        "id": 118,
+        "premise": "The beauty of it was breathtaking",
+        "hypothesis": "The beauty of it was like a lost paradise",
+        "predicted_label": "Entailment",
+        "model_explanation": "A lost paradise is a place that has been ruined or abandoned, so the beauty of it is breathtaking."
+    },
+    {
+        "id": 118,
+        "premise": "The beauty of it was uninspiring",
+        "hypothesis": "The beauty of it was like a lost paradise",
+        "predicted_label": "Contradiction",
+        "model_explanation": "A lost paradise is a place that has disappeared, so the beauty of it being like it would mean that it was beautiful, not uninspiring."
+    },
+    {
+        "id": 120,
+        "premise": "His eyes were an alarming gray-green",
+        "hypothesis": "His eyes were like a marvelous rain forest that had been blanketed with smoke",
+        "predicted_label": "Entailment",
+        "model_explanation": "A rain forest that has been blanketed with smoke is often very dark and scary, so the simile is emphasizing how gray-green the eyes are."
+    },
+    {
+        "id": 120,
+        "premise": "His eyes were a calming blue.",
+        "hypothesis": "His eyes were like a marvelous rain forest that had been blanketed with smoke",
+        "predicted_label": "Contradiction",
+        "model_explanation": "A rain forest is a lush green area, not calming, so saying his eyes were like smoky rain forests would suggest that they were not very calm."
+    },
+    {
+        "id": 133,
+        "premise": "It was gentle",
+        "hypothesis": "It was like a final tendril of smoke from a dying candle.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "A final tendril of smoke from a dying candle is essentially ash, which is not gentle."
+    },
+    {
+        "id": 133,
+        "premise": "It was harsh",
+        "hypothesis": "It was like a final tendril of smoke from a dying candle.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "A tendril of smoke from a dying candle is wavy and not harsh."
+    },
+    {
+        "id": 155,
+        "premise": "He took my hand in his, and his movements were gentle.",
+        "hypothesis": "He took hold of my hand, his every motion was like a sweet caress .",
+        "predicted_label": "Entailment",
+        "model_explanation": "A sweet caress is gentle, so the person's movements would be gentle too."
+    },
+    {
+        "id": 155,
+        "premise": "He took my hand in his, and his movements were forceful.",
+        "hypothesis": "He took hold of my hand, his every motion was like a sweet caress .",
+        "predicted_label": "Contradiction",
+        "model_explanation": "A sweet caress is gentle and soothing, whereas, someone who is forceful and impulsive is not gentle or nurturing."
+    },
+    {
+        "id": 158,
+        "premise": "Three years of lessons come into my head all at once, bumping into each other.",
+        "hypothesis": "Three years of lessons crowd my head like an unsettled flock of pigeons.",
+        "predicted_label": "Entailment",
+        "model_explanation": "A flock of pigeons is a large, noisy group of birds that is not accustomed to being together, so when the lessons come into someone's head, they are like swarms of unruly birds."
+    },
+    {
+        "id": 158,
+        "premise": "Three years of lessons come into my head one at a time, in a linear fashion.",
+        "hypothesis": "Three years of lessons crowd my head like an unsettled flock of pigeons.",
+        "predicted_label": "Entailment",
+        "model_explanation": "A flock of pigeons would be moving in a chaotic fashion, so saying that three years of lessons come in one by one is describing how they come into the speaker's head in an orderly fashion."
+    },
+    {
+        "id": 164,
+        "premise": "Her eyebrows were too thick and black, and her teeth looked crooked and yellow.",
+        "hypothesis": "Her eyebrows were drawn in too thick and black, and her teeth like a sepia image of a rickety fence.",
+        "predicted_label": "Entailment",
+        "model_explanation": "A sepia image of a rickety fence is old and crooked, so her teeth must be old too because they would be yellow."
+    },
+    {
+        "id": 164,
+        "premise": "Her eyebrows were too thick and black, and her teeth looked straight and white.",
+        "hypothesis": "Her eyebrows were drawn in too thick and black, and her teeth like a sepia image of a rickety fence.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "A sepia image of a rickety fence would be uneven and distorted, not straight and white."
+    },
+    {
+        "id": 174,
+        "premise": "Annie seemed limp .",
+        "hypothesis": "Annie seemed like a cast- aside rag doll .",
+        "predicted_label": "Entailment",
+        "model_explanation": "A rag doll is a doll that has been used and discarded, so it would be slouchy."
+    },
+    {
+        "id": 174,
+        "premise": "Annie seemed full of energy.",
+        "hypothesis": "Annie seemed like a cast- aside rag doll .",
+        "predicted_label": "Contradiction",
+        "model_explanation": "A rag doll is a toy that has been discarded or forgotten, so saying she seemed like he was full of energy would imply she is not full but rather has lost her energy."
+    },
+    {
+        "id": 181,
+        "premise": "The tunnels were black, and the only light came from the dim lantern we carried.",
+        "hypothesis": "Other than the dim light we carried only because it was stuck to us, the tunnels were like a coal mine during a power outage.",
+        "predicted_label": "Entailment",
+        "model_explanation": "A coal mine is a place where there is no power, so the tunnels would be dark and no light would come from the lantern."
+    },
+    {
+        "id": 181,
+        "premise": "The tunnels were white, and the only light came from the dim lantern we carried.",
+        "hypothesis": "Other than the dim light we carried only because it was stuck to us, the tunnels were like a coal mine during a power outage.",
+        "predicted_label": "Entailment",
+        "model_explanation": "A coal mine is a dark, dingy place where there is no light, so the tunnels must have looked dark because there was no other light."
+    },
+    {
+        "id": 204,
+        "premise": "He looked shriveled as he sat in a hardback chair.",
+        "hypothesis": "He was slouched in a hardback chair, looking like a deflated balloon.",
+        "predicted_label": "Entailment",
+        "model_explanation": "A deflated balloon is a balloon that has lost most of its volume, so the simile is saying that the person looks shriveled."
+    },
+    {
+        "id": 204,
+        "premise": "He looked healthy and robust as he sat in a hardback chair.",
+        "hypothesis": "He was slouched in a hardback chair, looking like a deflated balloon.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "A deflated balloon is a balloon that has been inflated to its bursting point, so he is not looking healthy and robust, whereas, the other sentence describes him as looking robust and healthy."
+    },
+    {
+        "id": 210,
+        "premise": "I silently thank Tess as the blue pill warms me up from the inside out, soothing my nerves.",
+        "hypothesis": "I say a silent thanks to tess-already the blue pill is warming me up from the inside out, like a bowl of hot soup on an icy evening.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "A bowl of hot soup on an icy evening would be a comforting and soothing gesture, while if the blue pill is doing the opposite, it would not be warming at all."
+    },
+    {
+        "id": 210,
+        "premise": "I silently thank Tess as the blue pill warms me from the inside out, wrecking my nerves.",
+        "hypothesis": "I say a silent thanks to tess-already the blue pill is warming me up from the inside out, like a bowl of hot soup on an icy evening.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "A bowl of hot soup on an icy evening would be a welcome sight, not wreck one's nerves, so saying the blue pill is warming you up from the inside out would mean that it is doing something positive for you, while wrecking your nerve is the opposite."
+    },
+    {
+        "id": 211,
+        "premise": "The gesture was elegant",
+        "hypothesis": "The gesture was like a ballet move",
+        "predicted_label": "Entailment",
+        "model_explanation": "A ballet move is a graceful move, so the gesture was very elegant."
+    },
+    {
+        "id": 211,
+        "premise": "The gesture was awkward.",
+        "hypothesis": "The gesture was like a ballet move",
+        "predicted_label": "Contradiction",
+        "model_explanation": "A ballet move is graceful and fluid, while an awkward gesture is not graceful or fluid."
+    },
+    {
+        "id": 213,
+        "premise": "Lowering me to the floor, he hugged me close, making sure that he didn't release me until my shaking had stopped and I could stand on my own, although I felt wobbly",
+        "hypothesis": "Lowering me to the floor, he hugged me close, making sure that he didn't release me until my shaking had stopped and I could stand on my own, although I felt like an infant.",
+        "predicted_label": "Entailment",
+        "model_explanation": "An infant is a helpless and helplessly dependent creature, so the simile is emphasizing how helplessness the person feels and how he is holding them close."
+    },
+    {
+        "id": 213,
+        "premise": "Lowering me to the floor, he hugged me close, making sure that he didn't release me until my shaking had stopped and I could stand on my own, although I felt sturdy.",
+        "hypothesis": "Lowering me to the floor, he hugged me close, making sure that he didn't release me until my shaking had stopped and I could stand on my own, although I felt like an infant.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "An infant is a helpless, helplessness creature, so saying someone is like an infant would mean they are helplessly help dependent on another person, not sturdy."
+    },
+    {
+        "id": 218,
+        "premise": "Even though she screamed and tried to hit him, she was defenseless.",
+        "hypothesis": "She screamed and twisted and tried to hit him but she was like a chicken held upside down by its legs.",
+        "predicted_label": "Entailment",
+        "model_explanation": "A chicken held upside down by its legs is defenseless because it cannot move its wings, whereas, she was defenselessly because she couldn't move her wings to defend herself."
+    },
+    {
+        "id": 218,
+        "premise": "Even though she screamed and tried to hit him, she was well-protected.",
+        "hypothesis": "She screamed and twisted and tried to hit him but she was like a chicken held upside down by its legs.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "A chicken held upside down by its legs would be vulnerable, not well-protected."
+    },
+    {
+        "id": 220,
+        "premise": "It felt hard",
+        "hypothesis": "It felt like an iron bar.",
+        "predicted_label": "Entailment",
+        "model_explanation": "An iron bar is a very hard object, so it would feel hard if it were an iron."
+    },
+    {
+        "id": 220,
+        "premise": "It felt soft.",
+        "hypothesis": "It felt like an iron bar.",
+        "predicted_label": "Entailment",
+        "model_explanation": "An iron bar is very hard and brittle, so it would not feel soft at all."
+    },
+    {
+        "id": 227,
+        "premise": "The figure seemed blurred",
+        "hypothesis": "The figure seemed like a smudge on a photograph negative.",
+        "predicted_label": "Entailment",
+        "model_explanation": "A smudge on a photograph negative is distorted."
+    },
+    {
+        "id": 227,
+        "premise": "The figure seemed sharp and clear",
+        "hypothesis": "The figure seemed like a smudge on a photograph negative.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "A smudge on a photograph negative would be fuzzy and not sharp and clear."
+    },
+    {
+        "id": 239,
+        "premise": "His countenance was calm",
+        "hypothesis": "His countenance was like a man strolling in the park on a warm summer's day.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "A man strolling in the park on a warm summer's day would be relaxed and calm, not angry."
+    },
+    {
+        "id": 239,
+        "premise": "His countenance was agitated",
+        "hypothesis": "His countenance was like a man strolling in the park on a warm summer's day.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "A man strolling in the park on a warm summer's day would be relaxed and not agitated."
+    },
+    {
+        "id": 247,
+        "premise": "The ray was especially known for its thick french toast.",
+        "hypothesis": "The ray was famous for its french toast, which was like a brick",
+        "predicted_label": "Entailment",
+        "model_explanation": "French toast is a type of bread that is often thick and fatty, so saying it was like s brick would imply it is very thick."
+    },
+    {
+        "id": 247,
+        "premise": "The ray was especially known for its thin french toast.",
+        "hypothesis": "The ray was famous for its french toast, which was like a brick",
+        "predicted_label": "Contradiction",
+        "model_explanation": "A brick is a large, heavy object, not thin or slender."
+    },
+    {
+        "id": 248,
+        "premise": "And when I pulled up to the crooked iron gates that marked the boundaries of ravenwood, the air around us crackled and charged",
+        "hypothesis": "And when I pulled up to the crooked iron gates that marked the boundaries of ravenwood, the air around us like an electrical storm.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "An electrical storm is a violent event, whereas crackling and charged is something that is calm and not chaotic."
+    },
+    {
+        "id": 248,
+        "premise": "And when I pulled up to the crooked iron gates that marked the boundaries of ravenwood, the air around us was still and calm.",
+        "hypothesis": "And when I pulled up to the crooked iron gates that marked the boundaries of ravenwood, the air around us like an electrical storm.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "An electrical storm is a violent, destructive force, whereas the air around us was calm."
+    },
+    {
+        "id": 250,
+        "premise": "But the hand that was pressing against my mouth was immovable.",
+        "hypothesis": "But the hand pressing against my mouth was like a wall.",
+        "predicted_label": "Entailment",
+        "model_explanation": "A wall is a structure that is not easily moved, so the hand pressing against the mouth would be immovable."
+    },
+    {
+        "id": 250,
+        "premise": "But the hand that was pressing against my mouth was moving.",
+        "hypothesis": "But the hand pressing against my mouth was like a wall.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "A wall is a solid object that does not move, while if the hand pressing against the mouth was like movable, it would be stationary."
+    },
+    {
+        "id": 254,
+        "premise": "Her expression was solemn",
+        "hypothesis": "Her expression was like a dirge.",
+        "predicted_label": "Entailment",
+        "model_explanation": "A dirge is a mournful song sung in remembrance of departed loved ones."
+    },
+    {
+        "id": 254,
+        "premise": "Her expression was joyful.",
+        "hypothesis": "Her expression was like a dirge.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "A dirge is a sad song, while if her expression was joyful, it would be the opposite."
+    },
+    {
+        "id": 259,
+        "premise": "No, his menace was blatant",
+        "hypothesis": "No, his menace was like a flashing neon sign.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "A neon sign is a visible sign, so it would not be blatant."
+    },
+    {
+        "id": 259,
+        "premise": "No, his menace was subtle.",
+        "hypothesis": "No, his menace was like a flashing neon sign.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "A neon sign is a sign that is very bright, so if it were subtle, it would be hard to notice."
+    },
+    {
+        "id": 260,
+        "premise": "Wielding strength and power was exhilarating for her.",
+        "hypothesis": "The strength and power she wielded was like a drug.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "A drug is something that is addictive and can be addictive, so saying something is like a drug would mean it is also addictive."
+    },
+    {
+        "id": 260,
+        "premise": "Wielding strength and power was exhausting for her.",
+        "hypothesis": "The strength and power she wielded was like a drug.",
+        "predicted_label": "Entailment",
+        "model_explanation": "A drug is a substance that is addictive, so the simile is saying that the strength and power she wielded was like consuming opiates or heroin."
+    },
+    {
+        "id": 266,
+        "premise": "Inside, I was giddy.",
+        "hypothesis": "Inside, I was like a thirteen-year-old at a boy band pop concert.",
+        "predicted_label": "Entailment",
+        "model_explanation": "A thirteen-year-old would be giddy at a boy band concert because they would see their favorite boyband and be excited."
+    },
+    {
+        "id": 266,
+        "premise": "Inside, I was solemn.",
+        "hypothesis": "Inside, I was like a thirteen-year-old at a boy band pop concert.",
+        "predicted_label": "Entailment",
+        "model_explanation": "A thirteen-year-old at a boy band pop concert is usually very happy and carefree, so being like he was at that concert would imply that s/he is happy, not solemn."
+    },
+    {
+        "id": 281,
+        "premise": "This place was quiet.",
+        "hypothesis": "This place was like a funeral parlor.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "A funeral parlor is a place where people gather to pay their respects to the deceased, so it would be noisy."
+    },
+    {
+        "id": 281,
+        "premise": "This place was loud.",
+        "hypothesis": "This place was like a funeral parlor.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "A funeral parlor is a place where people go to pay their respects and it is usually quiet, so saying it was like s funeral would imply that it wasn't loud at all."
+    },
+    {
+        "id": 286,
+        "premise": "He felt like his heart was lacking something, or empty.",
+        "hypothesis": "The truth was, he felt like his heart was like a politicians promise.",
+        "predicted_label": "Entailment",
+        "model_explanation": "A politicians promise is a promise that is made to win over whoever is in power, and in this context it is being compared to he feeling like his heart was lacking something, or empty."
+    },
+    {
+        "id": 286,
+        "premise": "He felt like his heart was full, or content.",
+        "hypothesis": "The truth was, he felt like his heart was like a politicians promise.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "A politician's promise is usually empty and not full or content, while feeling satisfied means that one is happy and satisfied."
+    },
+    {
+        "id": 290,
+        "premise": "By the time most of the seniors had left for the summer, the campus was deserted.",
+        "hypothesis": "With a week left in the school year most of the seniors werent around campus anymore, their great railing was like a ski resort in summer.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "A ski resort in summer is a place where people go to enjoy the snow, not to be deserted."
+    },
+    {
+        "id": 290,
+        "premise": "By the time most of the seniors had left for the summer, the campus was bustling.",
+        "hypothesis": "With a week left in the school year most of the seniors werent around campus anymore, their great railing was like a ski resort in summer.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "A ski resort in summer is a place where people go to enjoy the snow, so the simile is saying that the campus was not bustling."
+    },
+    {
+        "id": 299,
+        "premise": "Today he was sober",
+        "hypothesis": "Today he was like a benedictine monk on the sabbath.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "A benedictine monk on the sabbath would not be drinking or using drugs on his day of rest, so saying he was like one would imply a drunken state."
+    },
+    {
+        "id": 299,
+        "premise": "Today he was drunk.",
+        "hypothesis": "Today he was like a benedictine monk on the sabbath.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "A benedictine monk on the sabbath would not be drunk, so the simile is saying that he was not drinking alcohol on this day."
+    },
+    {
+        "id": 300,
+        "premise": "His hair was gray and wispy",
+        "hypothesis": "His hair was like a chemo patient",
+        "predicted_label": "Contradiction",
+        "model_explanation": "A chemo patient's hair is usually gray and thinning, not wispy."
+    },
+    {
+        "id": 300,
+        "premise": "His hair was black and thick.",
+        "hypothesis": "His hair was like a chemo patient",
+        "predicted_label": "Entailment",
+        "model_explanation": "Chemo patients have hair that is black and thick, which is a common trait of people who have undergone chemotherapy."
+    },
+    {
+        "id": 302,
+        "premise": "The mushroom cloud had dissipated, but the western sky was still angry pinkish-red.",
+        "hypothesis": "The mushroom cloud was gone, but the western sky was like a bright weal of burnflesh.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "Burnflesh is a dark, charred flesh that is usually pink or red in color, so saying the sky was like burnfleesh means it was dark and sultry, not angry pinkish-red."
+    },
+    {
+        "id": 302,
+        "premise": "The mushroom cloud had dissipated, but the western sky was still calm and serene.",
+        "hypothesis": "The mushroom cloud was gone, but the western sky was like a bright weal of burnflesh.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "A burnflesh is a bright yellow substance, so saying the western sky was like s bright weal of burn flesh would suggest that it was bright and not calm and serene."
+    },
+    {
+        "id": 306,
+        "premise": "On the third day, they woke up to a sky that looked like it was hanging low and was a dull gray color.",
+        "hypothesis": "On the third day erin and dare woke to a sky that looked like an ominous shroud .",
+        "predicted_label": "Entailment",
+        "model_explanation": "An ominous shroud is a dark, heavy cloth, so the sky looked low and gray."
+    },
+    {
+        "id": 306,
+        "premise": "On the third day, they woke up to a sky that looked expansive and was a bright blue color.",
+        "hypothesis": "On the third day erin and dare woke to a sky that looked like an ominous shroud .",
+        "predicted_label": "Contradiction",
+        "model_explanation": "The sky is usually dark and ominous, whereas an expansive sky would be bright blue and not dark."
+    },
+    {
+        "id": 319,
+        "premise": "The street system in London was contrived.",
+        "hypothesis": "We were in london, where the street system was like a bowl of spaghetti.",
+        "predicted_label": "Entailment",
+        "model_explanation": "Spaghetti is a dish that is often thrown together in countless different ways, much like the street system in london."
+    },
+    {
+        "id": 319,
+        "premise": "The street system in London was simple and easy to navigate.",
+        "hypothesis": "We were in london, where the street system was like a bowl of spaghetti.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "A bowl of spaghetti is not simple or easy to navigate because it contains many different strands and is hard to follow."
+    },
+    {
+        "id": 324,
+        "premise": "She's powerless and weak",
+        "hypothesis": "She's like a bee out of sting.",
+        "predicted_label": "Entailment",
+        "model_explanation": "A bee out of sting is powerless and weak, so the simile is saying that she is weak and powerlessness."
+    },
+    {
+        "id": 324,
+        "premise": "She's powerful and strong",
+        "hypothesis": "She's like a bee out of sting.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "A bee out of sting cannot be powerful because it is weak and not strong."
+    },
+    {
+        "id": 328,
+        "premise": "I looked over my shoulder with keen precision, but in the shadowy morning I was blind.",
+        "hypothesis": "I looked over my shoulder with keen precision, but in the shadowy morning I was like a bat.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "A bat is a small, nocturnal creature, so it would not be blind, but rather would be able to see in the darkness."
+    },
+    {
+        "id": 328,
+        "premise": "I looked over my shoulder with keen precision, and in the shadowy morning I could see everything.",
+        "hypothesis": "I looked over my shoulder with keen precision, but in the shadowy morning I was like a bat.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "A bat is a flying creature, so saying someone is like if they are like bats in the shadowy morning would mean they cannot see anything."
+    },
+    {
+        "id": 333,
+        "premise": "The camp was silent",
+        "hypothesis": "The camp was like a cemetery.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "A cemetery is a place where people are buried, so it is not silent."
+    },
+    {
+        "id": 333,
+        "premise": "The camp was loud",
+        "hypothesis": "The camp was like a cemetery.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "Cemeteries are quiet and serene places, so the simile is saying that the camp is quiet."
+    },
+    {
+        "id": 336,
+        "premise": "She felt empty, like someone had scooped her insides right out",
+        "hypothesis": "She felt like a jack-o'-lantern.",
+        "predicted_label": "Entailment",
+        "model_explanation": "A jack-o'-lantern is a hollow, pumpkin-shaped pumpkin, which is hollow inside."
+    },
+    {
+        "id": 336,
+        "premise": "She felt full, like she had just eaten a hearty meal.",
+        "hypothesis": "She felt like a jack-o'-lantern.",
+        "predicted_label": "Entailment",
+        "model_explanation": "A jack-o'-lantern is a hollow pumpkin, so she feels full, like she just ate supper."
+    },
+    {
+        "id": 342,
+        "premise": "The giant milky membrane was sticky to touch.",
+        "hypothesis": "I touched the giant milky membrane which was like a wet marshmallow .",
+        "predicted_label": "Contradiction",
+        "model_explanation": "A wet marshmallow is not sticky, so saying it was like a wee marshmallow would indicate it is sticky to touch."
+    },
+    {
+        "id": 342,
+        "premise": "The giant milky membrane felt dry on touch.",
+        "hypothesis": "I touched the giant milky membrane which was like a wet marshmallow .",
+        "predicted_label": "Contradiction",
+        "model_explanation": "A wet marshmallow is a soft, squishy, and sticky object, so saying something is like ..., is saying it is soft and."
+    },
+    {
+        "id": 352,
+        "premise": "She screamed loudly",
+        "hypothesis": "She screamed like a fire truck siren",
+        "predicted_label": "Entailment",
+        "model_explanation": "A fire truck siren is a very loud noise, so she was screaming loudly."
+    },
+    {
+        "id": 352,
+        "premise": "She screamed softly.",
+        "hypothesis": "She screamed like a fire truck siren",
+        "predicted_label": "Contradiction",
+        "model_explanation": "A fire truck siren is a very loud sound, so saying someone screamed like one means they yelled loudly, not softly."
+    },
+    {
+        "id": 355,
+        "premise": "The forest was still dark",
+        "hypothesis": "The forest was still like a high wall with serrated top.",
+        "predicted_label": "Entailment",
+        "model_explanation": "A high wall with serrated top is very dark and intimidating."
+    },
+    {
+        "id": 355,
+        "premise": "The forest was still beaming with light",
+        "hypothesis": "The forest was still like a high wall with serrated top.",
+        "predicted_label": "Entailment",
+        "model_explanation": "A high wall with serrated top is a wall that is very thick and has ridges on top."
+    },
+    {
+        "id": 357,
+        "premise": "I had a clear vision from the start.",
+        "hypothesis": "My vision from the beginning was like a well-pruned garden leaf .",
+        "predicted_label": "Contradiction",
+        "model_explanation": "A well-pruned garden leaf is one that has been carefully shaped and trimmed to have a clean, clear appearance, while someone with hazy vision would not be clear."
+    },
+    {
+        "id": 357,
+        "premise": "I had a blurry vision from the start",
+        "hypothesis": "My vision from the beginning was like a well-pruned garden leaf .",
+        "predicted_label": "Contradiction",
+        "model_explanation": "A well-pruned garden leaf is clear and crisp, not blurry."
+    },
+    {
+        "id": 362,
+        "premise": "Today they were deep green .",
+        "hypothesis": "Today they were like a freshly mowed football field .",
+        "predicted_label": "Contradiction",
+        "model_explanation": "A freshly mowed football field is a very light green color, not deep green."
+    },
+    {
+        "id": 362,
+        "premise": "Today they were pale and yellow.",
+        "hypothesis": "Today they were like a freshly mowed football field .",
+        "predicted_label": "Contradiction",
+        "model_explanation": "A freshly mowed football field is always green, not pale and yellow."
+    },
+    {
+        "id": 368,
+        "premise": "Juliana was studying him, and her blue eyes were clear.",
+        "hypothesis": "Juliana was studying him, her eyes like a summer lake .",
+        "predicted_label": "Entailment",
+        "model_explanation": "A summer lake is usually clear, so the simile is saying that her eyes were clear."
+    },
+    {
+        "id": 368,
+        "premise": "Juliana was studying him, and her blue eyes were cloudy.",
+        "hypothesis": "Juliana was studying him, her eyes like a summer lake .",
+        "predicted_label": "Entailment",
+        "model_explanation": "A summer lake is clear and not cloudy, so the simile is saying that her eyes are clear."
+    },
+    {
+        "id": 369,
+        "premise": "We were munching next to the evening sun-swept grass and whispering trees of duboce park, where a bunch of happy dogs were sprinting around in circles while their owners were yapping at each other.",
+        "hypothesis": "We stand there munching next to the evening sun-swept grass and whispering trees of duboce park, where a bunch of happy-ass dogs are sprinting around in circles while their owners stand there like a scarecrow convention .",
+        "predicted_label": "Contradiction",
+        "model_explanation": "A scarecrow convention is a gathering of scaries who are dressed up to scarify people, so the simile is saying that the owners are standing around sarcastically, not happy."
+    },
+    {
+        "id": 369,
+        "premise": "We were munching next to the evening sun-swept grass and whispering trees of duboce park, where a bunch of happy dogs were sprinting around in circles while their owners were chatting amicably.",
+        "hypothesis": "We stand there munching next to the evening sun-swept grass and whispering trees of duboce park, where a bunch of happy-ass dogs are sprinting around in circles while their owners stand there like a scarecrow convention .",
+        "predicted_label": "Contradiction",
+        "model_explanation": "A scarecrow convention is a gathering of scaring objects, so the simile is saying that the people are being amicable."
+    },
+    {
+        "id": 371,
+        "premise": "Even though it was the middle of the day, the air was dark and had an odd grainy texture.",
+        "hypothesis": "Though it was only mid-afternoon, the air was like an old newspaper photograph .",
+        "predicted_label": "Entailment",
+        "model_explanation": "An old newspaper photograph is grainy and dark, so the simile is emphasizing how the air is dark and grain-like."
+    },
+    {
+        "id": 371,
+        "premise": "Even though it was the middle of the day, the air was light and had a smooth texture.",
+        "hypothesis": "Though it was only mid-afternoon, the air was like an old newspaper photograph .",
+        "predicted_label": "Entailment",
+        "model_explanation": "An old newspaper photograph is dark and grainy, whereas the air is light and smooth, suggesting that the weather was not as hot as the newspaper photo would suggest."
+    },
+    {
+        "id": 394,
+        "premise": "The room was suddenly noisy and wild",
+        "hypothesis": "The room was suddenly like a camp revival meeting",
+        "predicted_label": "Contradiction",
+        "model_explanation": "A camp revival meeting is a gathering of people who are in search of spiritual guidance and so it would not be noisy and wild."
+    },
+    {
+        "id": 394,
+        "premise": "The room was suddenly quiet and calm",
+        "hypothesis": "The room was suddenly like a camp revival meeting",
+        "predicted_label": "Contradiction",
+        "model_explanation": "A camp revival meeting is a gathering of people who are gathered together to pray or sing, so the room being quiet and calm contradicts that."
+    },
+    {
+        "id": 404,
+        "premise": "Jodi looked paralyzed",
+        "hypothesis": "Jodi looked like a stroke victim , trapped in her own mind, spittle forming in the corner of her mouth.",
+        "predicted_label": "Entailment",
+        "model_explanation": "A stroke victim is paralyzed and cannot move their limbs, so it is implied that jodi is also paralysisze."
+    },
+    {
+        "id": 404,
+        "premise": "Jodi looked mobile and vibrant.",
+        "hypothesis": "Jodi looked like a stroke victim , trapped in her own mind, spittle forming in the corner of her mouth.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "A stroke victim is often left paralyzed and is unable to move or speak and so someone who looks like a stroke patient would not be mobile or vibrant."
+    },
+    {
+        "id": 405,
+        "premise": "Sarah's convinced herself that I'm partly clairvoyant .",
+        "hypothesis": "Sarah's convinced herself that I'm like a human magic 8 ball .",
+        "predicted_label": "Entailment",
+        "model_explanation": "A magic 8 ball is a device that is used to predict the future, so sarah is convinced that she is partly clairvoyant."
+    },
+    {
+        "id": 405,
+        "premise": "Sarah's convinced herself that I'm not at all clairvoyant.",
+        "hypothesis": "Sarah's convinced herself that I'm like a human magic 8 ball .",
+        "predicted_label": "Contradiction",
+        "model_explanation": "A magic 8 ball is a device that is used to predict future events, so sarah being like one would mean that she is very intuitive and knows what is going to happen next."
+    },
+    {
+        "id": 412,
+        "premise": "Despite that he loved rich food and ale, his stomach was still flat.",
+        "hypothesis": "Despite his fondness for rich food and good brown ale, his stomach was like a board;",
+        "predicted_label": "Contradiction",
+        "model_explanation": "A board is a flat, rectangular object, so saying someone's stomach is like  s board would imply that the person is not fond of rich food and ale, but instead dislikes it."
+    },
+    {
+        "id": 412,
+        "premise": "Despite that he loved rich food and ale, his stomach was still bloated.",
+        "hypothesis": "Despite his fondness for rich food and good brown ale, his stomach was like a board;",
+        "predicted_label": "Contradiction",
+        "model_explanation": "A board is a flat, flat surface, not bloated."
+    },
+    {
+        "id": 422,
+        "premise": "Tommy's eyes opened wide and he looked down at my stomach, which was flat.",
+        "hypothesis": "Tommy's eyes opened really big and he glanced down at my stomach, which was like a pancake.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "A pancake is round and not flat, so the simile is saying that tommy's stomach is not round but instead flat."
+    },
+    {
+        "id": 422,
+        "premise": "Tommy's eyes opened wide and he looked down at my stomach, which was bloated.",
+        "hypothesis": "Tommy's eyes opened really big and he glanced down at my stomach, which was like a pancake.",
+        "predicted_label": "Entailment",
+        "model_explanation": "A pancake is a flat, round object, so it would be bloated, not flat."
+    },
+    {
+        "id": 423,
+        "premise": "Phillip wasn't brave enough to deal with something deadly.",
+        "hypothesis": "Phillip wouldn't have had the guts to handle something like a scorpion.",
+        "predicted_label": "Entailment",
+        "model_explanation": "A scorpion is a very dangerous and deadly creature, so someone who wouldn't have the guts to handle it would be very foolish."
+    },
+    {
+        "id": 423,
+        "premise": "Phillip wasn't brave enough to deal with something innocuous.",
+        "hypothesis": "Phillip wouldn't have had the guts to handle something like a scorpion.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "A scorpion is a very dangerous creature and so someone who isn't brave enough to handle it is being sarcastic."
+    },
+    {
+        "id": 426,
+        "premise": "It was so quiet inside the house.",
+        "hypothesis": "The inside of the house was like a tomb",
+        "predicted_label": "Entailment",
+        "model_explanation": "A tomb is a place where people are buried to rest in peace, so it would be quiet inside the house."
+    },
+    {
+        "id": 426,
+        "premise": "It was so loud inside the house.",
+        "hypothesis": "The inside of the house was like a tomb",
+        "predicted_label": "Entailment",
+        "model_explanation": "A tomb is a place where the deceased is interred, so it would be very quiet in there."
+    },
+    {
+        "id": 428,
+        "premise": "The people around the fire pit had grown quiet.",
+        "hypothesis": "The audience around the fire pit had grown like a graveyard.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "A graveyard is a place where people are buried, so the people around the fire pit would be quiet."
+    },
+    {
+        "id": 428,
+        "premise": "The people around the fire pit had grown loud.",
+        "hypothesis": "The audience around the fire pit had grown like a graveyard.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "A graveyard is a quiet place, so saying the audience around the fire pit has grown like s grave yard would imply that they have become quiet."
+    },
+    {
+        "id": 432,
+        "premise": "She must have been fit",
+        "hypothesis": "She must have been like a snow leopard.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "A snow leopard is a wild animal that is known for its fierceness and tenacity, so she must have been very fit."
+    },
+    {
+        "id": 432,
+        "premise": "She must have been unfit.",
+        "hypothesis": "She must have been like a snow leopard.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "A snow leopard is known for its cunning and cubishness, so saying someone is like a snow leopard implies they are cubed and regal, not unfit."
+    },
+    {
+        "id": 439,
+        "premise": "Ali would never be caught in something garish.",
+        "hypothesis": "Ali never would have worn something like a new jersey devils t-shirt.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "A new jersey devils t-shirt is a garish color and style, so ali would not wear it."
+    },
+    {
+        "id": 439,
+        "premise": "Ali would never be caught in something tasteful.",
+        "hypothesis": "Ali never would have worn something like a new jersey devils t-shirt.",
+        "predicted_label": "Entailment",
+        "model_explanation": "A new jersey devils t-shirt is not tasteful because it shows allegiance to a sports team."
+    },
+    {
+        "id": 440,
+        "premise": "The click of the padlock echoed loudly in the silence and stillness.",
+        "hypothesis": "In the silence and the stillness, the click of the padlock seemed like a rifle report.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "A rifle report would be quiet, not loud, so the simile is suggesting that the click of the padlock did not echo loudly."
+    },
+    {
+        "id": 440,
+        "premise": "The click of the padlock was muffled in the silence and stillness.",
+        "hypothesis": "In the silence and the stillness, the click of the padlock seemed like a rifle report.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "A rifle report is a loud, clear sound, whereas muffled means that it is muted."
+    },
+    {
+        "id": 446,
+        "premise": "Even though he was strong in his magic, it felt weak compared to the inferno I'd faced when I killed Mab.",
+        "hypothesis": "He was strong in his magic but, compared to the blazing inferno that i'd faced when i'd killed mab, his power felt like a candle flame.",
+        "predicted_label": "Entailment",
+        "model_explanation": "A candle flame is a very small flame, which is weak compared to blazing inferno."
+    },
+    {
+        "id": 446,
+        "premise": "Even though he was strong in his magic, it felt powerful compared to the inferno I'd faced when I killed Mab.",
+        "hypothesis": "He was strong in his magic but, compared to the blazing inferno that i'd faced when i'd killed mab, his power felt like a candle flame.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "A candle flame is not powerful, so saying that his power felt like a candle is saying it is weak, not strong."
+    },
+    {
+        "id": 453,
+        "premise": "Her emotions were wild.",
+        "hypothesis": "Her emotions spun like a roulette wheel.",
+        "predicted_label": "Entailment",
+        "model_explanation": "A roulette wheel is a wheel that is used to play the game of chance, and her emotions were wild."
+    },
+    {
+        "id": 453,
+        "premise": "Her emotions were stable.",
+        "hypothesis": "Her emotions spun like a roulette wheel.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "A roulette wheel spins back and forth in a very random manner, whereas, her emotions were stable."
+    },
+    {
+        "id": 457,
+        "premise": "Shumenko was standing on a catwalk four yards in the air, leaning over a large apparatus made of stainless steel.",
+        "hypothesis": "Shumenko stood on a catwalk four yards in the air, bent over a stainless-steel apparatus like the size of a blue whale.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "A blue whale is a very large animal, so saying something is like the size of bwlw is being sarcastic."
+    },
+    {
+        "id": 457,
+        "premise": "Shumenko was standing on a catwalk four yards in the air, leaning over a small apparatus made of stainless steel.",
+        "hypothesis": "Shumenko stood on a catwalk four yards in the air, bent over a stainless-steel apparatus like the size of a blue whale.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "A blue whale is a large, majestic animal, so saying something is like if it were swollen by ten times its normal size is absurd."
+    },
+    {
+        "id": 467,
+        "premise": "He ran fast.",
+        "hypothesis": "He ran like an olympic sprinter.",
+        "predicted_label": "Entailment",
+        "model_explanation": "An olympic sprinter is a very fast person, so if he ran like an sprinter, it would mean that h ran fast."
+    },
+    {
+        "id": 467,
+        "premise": "He ran slowly.",
+        "hypothesis": "He ran like an olympic sprinter.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "Olympic sprinters are known to run very fast, so saying someone ran like an olympic sprinter would mean they ran very quickly."
+    },
+    {
+        "id": 468,
+        "premise": "Smith pointed to the creature in the pin stripe suit that now had a deep hole in its head.",
+        "hypothesis": "Smith pointed to the creature in the pin stripe suit that now had a hole in its head like a crater.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "A crater is a small, circular depression, while if the hole were deep, it would be much wider and deeper."
+    },
+    {
+        "id": 468,
+        "premise": "Smith pointed to the creature in the pin stripe suit that now had a shallow hole in its head.",
+        "hypothesis": "Smith pointed to the creature in the pin stripe suit that now had a hole in its head like a crater.",
+        "predicted_label": "Entailment",
+        "model_explanation": "A crater is a deep, wide depression, so the hole in the creature's head must be deep."
+    },
+    {
+        "id": 485,
+        "premise": "I made quick work of one with my knife and slipped inside undetected",
+        "hypothesis": "I made quick work of one with my knife and slipped inside like a night shadow.",
+        "predicted_label": "Entailment",
+        "model_explanation": "A night shadow is a very small, undetectable figure that is often undetected by others."
+    },
+    {
+        "id": 485,
+        "premise": "I made quick work of one with my knife and slipped inside clumsily",
+        "hypothesis": "I made quick work of one with my knife and slipped inside like a night shadow.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "A night shadow is a soft, ethereal, and graceful object, so saying someone slipped in like clumsily would imply they did it with grace."
+    },
+    {
+        "id": 490,
+        "premise": "When you were younger, your creativity was unmatched.",
+        "hypothesis": "When you were but a child, your creative power was like an lesson to students and teachers alike.",
+        "predicted_label": "Entailment",
+        "model_explanation": "A lesson is something that is important to learn, so if your creativity is unmatched, it means that it is admired by many people."
+    },
+    {
+        "id": 490,
+        "premise": "When you were younger, your creativity was average.",
+        "hypothesis": "When you were but a child, your creative power was like an lesson to students and teachers alike.",
+        "predicted_label": "Entailment",
+        "model_explanation": "A lesson to students and teachers alike is a creative power that is very impressive and not average."
+    },
+    {
+        "id": 493,
+        "premise": "Netflix & Chill just went horribly wrong",
+        "hypothesis": "Netflix & Chill just went like a glitching code.",
+        "predicted_label": "Entailment",
+        "model_explanation": "A glitching code is a software problem that causes problems with the program, so it would be logical to say that netflix & chill went horribly wrong."
+    },
+    {
+        "id": 493,
+        "premise": "Netflix & Chill just went great",
+        "hypothesis": "Netflix & Chill just went like a glitching code.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "A glitching code is something that is not working properly and is causing the system to crash, while something going great would not be a glitch at all."
+    },
+    {
+        "id": 494,
+        "premise": "If the wrong person gets ahold of it, it would be catastrophic.",
+        "hypothesis": "If it falls into the wrong hands it would be like the start of World War III.",
+        "predicted_label": "Entailment",
+        "model_explanation": "World war iii is a very serious threat and could be triggered by the wrong person getting entrusted with sonic or electrical equipment which is dangerous and can lead to disaster."
+    },
+    {
+        "id": 494,
+        "premise": "If the wrong person gets ahold of it, it would be beneficial.",
+        "hypothesis": "If it falls into the wrong hands it would be like the start of World War III.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "A start of world war iii would be devastating, so saying it would not be beneficial is implying that it is not a good thing."
+    },
+    {
+        "id": 497,
+        "premise": "You realize that everything that happened was intentional after taking the pill.",
+        "hypothesis": "After taking a pill, you suddenly realize that it all was like predestination.",
+        "predicted_label": "Entailment",
+        "model_explanation": "Predestination is when something is destined to happen and is not accidental, so the simile is saying that everything that happened was predestined."
+    },
+    {
+        "id": 497,
+        "premise": "You realize that everything that happened was accidental after taking the pill.",
+        "hypothesis": "After taking a pill, you suddenly realize that it all was like predestination.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "Predestination is the idea that something is predestined to happen, but the context describes everything that happened as accidental."
+    },
+    {
+        "id": 499,
+        "premise": "Your dog is very excited to see you and is acting quite peculiar.",
+        "hypothesis": "Your dog is very excited to see you and is acting like a hyperactive sloth.",
+        "predicted_label": "Entailment",
+        "model_explanation": "A sloth is a very calm and relaxed creature, whereas if he is excited to see you - s/he will act like /behave like/."
+    },
+    {
+        "id": 499,
+        "premise": "Your dog is very excited to see you and is acting quite normal.",
+        "hypothesis": "Your dog is very excited to see you and is acting like a hyperactive sloth.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "A hyperactive sloth is a pet dog that is very excited to see its owner, so saying the dog is acting like he is hyper active would imply that s/he has heightened levels of excitement."
+    },
+    {
+        "id": 500,
+        "premise": "You wake up to find that is unusually quiet",
+        "hypothesis": "You wake up to find that is like a hibernating forest.",
+        "predicted_label": "Entailment",
+        "model_explanation": "A hibernating forest is one that is resting or sleeping, so it is quiet and still."
+    },
+    {
+        "id": 500,
+        "premise": "You wake up to find that it is unusually loud.",
+        "hypothesis": "You wake up to find that is like a hibernating forest.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "A hibernating forest is not usually very loud, because it is attempting to conserve energy, whereas an unusually loud sound would indicate that the sound is unusual."
+    },
+    {
+        "id": 506,
+        "premise": "They said that constructing the flat pack TV cabinet would be easy.",
+        "hypothesis": "Constructing the flat pack TV cabinet was meant to be like turning on a light.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "Turning on a light would be incredibly difficult and not easy."
+    },
+    {
+        "id": 506,
+        "premise": "They said that constructing the flat pack TV cabinet would be difficult.",
+        "hypothesis": "Constructing the flat pack TV cabinet was meant to be like turning on a light.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "Turning on a light means it should be easy to do, but in this context the construction is difficult."
+    },
+    {
+        "id": 513,
+        "premise": "This story, however, is about a god who is as incompetent as he is useless.",
+        "hypothesis": "This tale, however, speaks of a god who's as incompetent as he is like a gnat.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "A gnat is a very small insect, so saying someone is like he or she is saying they are as incompetent as they or they cannot do anything."
+    },
+    {
+        "id": 513,
+        "premise": "This story, however, is about a god who is as incompetent as he is useful.",
+        "hypothesis": "This tale, however, speaks of a god who's as incompetent as he is like a gnat.",
+        "predicted_label": "Entailment",
+        "model_explanation": "A gnat is a very small insect, so if he's like gnat, it means hysterical or inept."
+    },
+    {
+        "id": 528,
+        "premise": "You wouldn't notice anything different about them until you see their green eyes.",
+        "hypothesis": "Until you notice their eyes are glowing like a black cat's.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "A black cat's eyes are not green, so saying someone' eyes glow like black cats eyes means they are green instead of black."
+    },
+    {
+        "id": 528,
+        "premise": "You wouldn't notice anything different about them until you see their brown eyes.",
+        "hypothesis": "Until you notice their eyes are glowing like a black cat's.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "A black cat's eyes are usually black, so saying someone' eyes glow like a black cats eyes would mean they are black."
+    },
+    {
+        "id": 538,
+        "premise": "Even though they were visible to everyone, but were still inscrutable.",
+        "hypothesis": "They were visible to all, but like blurred watercolored lines.",
+        "predicted_label": "Entailment",
+        "model_explanation": "Watercolored lines are often indistinct and hard to read because they are so thin and blurred."
+    },
+    {
+        "id": 538,
+        "premise": "Even though they were visible to everyone, they were still clear and comprehensible.",
+        "hypothesis": "They were visible to all, but like blurred watercolored lines.",
+        "predicted_label": "Entailment",
+        "model_explanation": "Watercolored lines are often not very clear because they are diluted with water, but in this context they were still clear and comprehensible."
+    },
+    {
+        "id": 542,
+        "premise": "Clare felt each stirke painfully",
+        "hypothesis": "Clare felt each stirke like it were the plunge of a poison-soaked blade.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "The plunge of a poison-soaked blade would be painful, not painfully."
+    },
+    {
+        "id": 542,
+        "premise": "Clare felt each stroke pleasurably.",
+        "hypothesis": "Clare felt each stirke like it were the plunge of a poison-soaked blade.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "To feel like the plunge of a poison-soaked blade is to feel it as if it were incredibly painful, but in this sentence clare feels each stroke pleasurably."
+    },
+    {
+        "id": 551,
+        "premise": "Though the distance I have to cover is short, it feels brutal",
+        "hypothesis": "Though the distance I have to cover is short, it feels like a scorching trek through Death Valley.",
+        "predicted_label": "Entailment",
+        "model_explanation": "Death valley is a place of immense heat and lava, so it is not surprising that the distance is short but feels brutal."
+    },
+    {
+        "id": 551,
+        "premise": "Though the distance I have to cover is short, it feels gentle.",
+        "hypothesis": "Though the distance I have to cover is short, it feels like a scorching trek through Death Valley.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "Death valley is a place of extreme heat, so comparing the distance to s scorching trek through death valley means that the journey is very difficult and not gentle."
+    },
+    {
+        "id": 570,
+        "premise": "The basement they shut him in looked dangerously claustrophobic.",
+        "hypothesis": "They had shut him in a basement that looked like a freight elevator.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "A freight elevator is a very small space, so saying the basement looked like one would imply that it was not very big and was probably claustrophobic."
+    },
+    {
+        "id": 570,
+        "premise": "The basement they shut him in looked safe and spacious.",
+        "hypothesis": "They had shut him in a basement that looked like a freight elevator.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "A freight elevator is a small, cramped space, so the basement they shut him in would not be safe or spacious."
+    },
+    {
+        "id": 572,
+        "premise": "The city was beautiful",
+        "hypothesis": "The city was like a well-cut diamond.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "A diamond is a precious stone, not fanciful or beautiful."
+    },
+    {
+        "id": 572,
+        "premise": "The city was ugly.",
+        "hypothesis": "The city was like a well-cut diamond.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "A well-cut diamond is very beautiful, not ugly, and so if the city is like a well cut diamond, then it is beautiful."
+    },
+    {
+        "id": 581,
+        "premise": "We have learned that the Earth's ending is near and unavoidable.",
+        "hypothesis": "We have learned that the ending of the Earth is like a blak hole's event horizon.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "A blak hole is an extremely dense black hole that is very close to the surface, so if the earth's ending is like a blukhole it would be far away and not near."
+    },
+    {
+        "id": 581,
+        "premise": "We have learned that the Earth's ending is distant and preventable.",
+        "hypothesis": "We have learned that the ending of the Earth is like a blak hole's event horizon.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "An event horizon is a line that marks the point at which ephemeral matter is lost to the universe, whereas the earth's ending is distant and preventable."
+    },
+    {
+        "id": 599,
+        "premise": "It was red",
+        "hypothesis": "It was like a blooming rose.",
+        "predicted_label": "Entailment",
+        "model_explanation": "A blooming rose is red, which is the color of blood."
+    },
+    {
+        "id": 599,
+        "premise": "It was blue",
+        "hypothesis": "It was like a blooming rose.",
+        "predicted_label": "Entailment",
+        "model_explanation": "A blooming rose is red in color, so the simile is saying the sky was blue."
+    },
+    {
+        "id": 604,
+        "premise": "Even though the suspect is squeaky clean, you know they're guilty.",
+        "hypothesis": "The suspect on your biggest case is squeaky clean, but you know it's like the blood is on their hands.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "The idiom blood on the hands means that the person is guilty even though they are not guilty, but the sentence describes knowing the suspect is innocent."
+    },
+    {
+        "id": 604,
+        "premise": "Even though the suspect is squeaky clean, you know they're innocent.",
+        "hypothesis": "The suspect on your biggest case is squeaky clean, but you know it's like the blood is on their hands.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "The idiom blood on the hands means that there is evidence that suggests the person is guilty, but in this sentence the suspect is innocent and the implication is that they are not guilty."
+    },
+    {
+        "id": 605,
+        "premise": "Dreams are terrible when life is going well.",
+        "hypothesis": "When times are good, your dreams are like a manifestation of your worst anxieties.",
+        "predicted_label": "Entailment",
+        "model_explanation": "When things are going well, the person's dreams are likely to be happy, but the contrast implies that the dreams can be terrible."
+    },
+    {
+        "id": 605,
+        "premise": "Dreams are wonderful when life is going well.",
+        "hypothesis": "When times are good, your dreams are like a manifestation of your worst anxieties.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "When times are good, dreams are often a manifestation of one's worst anxieties because they are triggered by anxiety and fear, so they cannot be wonderful."
+    },
+    {
+        "id": 618,
+        "premise": "he wasn't scared",
+        "hypothesis": "He was as frightened as a bear in the woods",
+        "predicted_label": "Contradiction",
+        "model_explanation": "A bear in the woods is a very dangerous animal and one would be scared just being near it, so saying he was as frightened as one is contradictory."
+    },
+    {
+        "id": 618,
+        "premise": "he was scared",
+        "hypothesis": "He was as frightened as a bear in the woods",
+        "predicted_label": "Entailment",
+        "model_explanation": "A bear in the woods is a very dangerous animal and is often feared because of its size and strength."
+    },
+    {
+        "id": 620,
+        "premise": "Their yard is ugly and unkempt.",
+        "hypothesis": "Their yard is as pretty as a dunghill.",
+        "predicted_label": "Entailment",
+        "model_explanation": "A dunghill is a place where cows and other animals are dumped, so the yard must be ugly and unkempt."
+    },
+    {
+        "id": 620,
+        "premise": "Their yard is beautiful.",
+        "hypothesis": "Their yard is as pretty as a dunghill.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "A dunghill is a place where feces is dumped, so saying something is as pretty as dunghill would mean it is not very pretty."
+    },
+    {
+        "id": 622,
+        "premise": "The watermelon was sour",
+        "hypothesis": "The watermelon was as sweet as a lemon",
+        "predicted_label": "Contradiction",
+        "model_explanation": "A lemon is a sour fruit, so saying something is as sweet as if it were compared to tastier than o lemon would mean it was tangy."
+    },
+    {
+        "id": 622,
+        "premise": "The watermelon was sweet",
+        "hypothesis": "The watermelon was as sweet as a lemon",
+        "predicted_label": "Contradiction",
+        "model_explanation": "A lemon is a tart fruit, so saying the watermelon was as sweet as if was saying it was not sweet."
+    },
+    {
+        "id": 630,
+        "premise": "The future seems dull",
+        "hypothesis": "The future seems as bright as the Arctic winter",
+        "predicted_label": "Contradiction",
+        "model_explanation": "The arctic winter is very dark and gloomy, so saying the future is as bright as the arctic would imply it is also very bleak and not bright."
+    },
+    {
+        "id": 630,
+        "premise": "The future seems bright",
+        "hypothesis": "The future seems as bright as the Arctic winter",
+        "predicted_label": "Contradiction",
+        "model_explanation": "The arctic winter is a very dark time of year, so saying the future seems as bright as it would be absurd."
+    },
+    {
+        "id": 641,
+        "premise": "My skin is coarse and rough",
+        "hypothesis": "My skin is as smooth as gravel",
+        "predicted_label": "Entailment",
+        "model_explanation": "Gravel is coarse and rough, so the person's skin must be coarse as well."
+    },
+    {
+        "id": 641,
+        "premise": "My skin is smooth",
+        "hypothesis": "My skin is as smooth as gravel",
+        "predicted_label": "Entailment",
+        "model_explanation": "Gravel is a coarse, rocky substance, so saying someone's skin is as smooth as gravel means it is rough and not smooth."
+    },
+    {
+        "id": 649,
+        "premise": "The wife was a horrible cook",
+        "hypothesis": "The wife was as good of a cook as a child",
+        "predicted_label": "Contradiction",
+        "model_explanation": "The wife is a terrible cook because she can't even cook basic food like rice and beans and it turns out to be mushy and sour."
+    },
+    {
+        "id": 649,
+        "premise": "The wife was a great cook",
+        "hypothesis": "The wife was as good of a cook as a child",
+        "predicted_label": "Contradiction",
+        "model_explanation": "To be as good as a child is to be very poor, but in this sentence the wife is compared to able to cook well."
+    },
+    {
+        "id": 650,
+        "premise": "Your face is distorted and strange",
+        "hypothesis": "Your face is as handsome as a painting by Picasso",
+        "predicted_label": "Contradiction",
+        "model_explanation": "A painting by picasso is often distorted and strange, not handsome."
+    },
+    {
+        "id": 650,
+        "premise": "Your face is handsome",
+        "hypothesis": "Your face is as handsome as a painting by Picasso",
+        "predicted_label": "Contradiction",
+        "model_explanation": "A painting by picasso is a masterpiece and is often very beautiful, so saying someone's face is as handsome as if it were portrayed in s painting would be insulting."
+    },
+    {
+        "id": 655,
+        "premise": "She did not keep still",
+        "hypothesis": "She kept as still as a bouncing superball",
+        "predicted_label": "Contradiction",
+        "model_explanation": "A bouncing superball is a toy that moves around wildly, so saying someone kept as still as if they were chasing it would imply that they did not keep still."
+    },
+    {
+        "id": 655,
+        "premise": "She kept still",
+        "hypothesis": "She kept as still as a bouncing superball",
+        "predicted_label": "Contradiction",
+        "model_explanation": "A bouncing superball is a toy that is designed to bounce around, so saying someone is as still as if they were hopping around is not describing their behavior."
+    },
+    {
+        "id": 668,
+        "premise": "The shirt was ugly.",
+        "hypothesis": "The shirt was as cute as mud.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "Mud is a soft, pliable substance, so saying something is as cute as mud would mean it is very ugly, not cute."
+    },
+    {
+        "id": 668,
+        "premise": "The shirt was cute.",
+        "hypothesis": "The shirt was as cute as mud.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "To be as cute as mud means to be unattractive or not attractive, but in this context the shirt was cute."
+    },
+    {
+        "id": 677,
+        "premise": "The woman was cruel",
+        "hypothesis": "The woman was as kind as a prisoner",
+        "predicted_label": "Contradiction",
+        "model_explanation": "A prisoner is someone who is kept in solitary confinement and is not allowed to speak or interact with anyone, so the woman is being compared with someone else who would be considered cruel."
+    },
+    {
+        "id": 677,
+        "premise": "The woman was kind",
+        "hypothesis": "The woman was as kind as a prisoner",
+        "predicted_label": "Contradiction",
+        "model_explanation": "A prisoner is someone who is not allowed to do any work and is therefore not kind."
+    },
+    {
+        "id": 680,
+        "premise": "The story was fun and happy.",
+        "hypothesis": "The story was as sad as a party",
+        "predicted_label": "Contradiction",
+        "model_explanation": "A party is a happy event, so saying the story was as sad as if it were thrown at someone is absurd."
+    },
+    {
+        "id": 680,
+        "premise": "The story was sad",
+        "hypothesis": "The story was as sad as a party",
+        "predicted_label": "Contradiction",
+        "model_explanation": "A party is a happy occasion, so saying that the story was as sad as if it were describing gloomy conditions would imply that it was happy."
+    },
+    {
+        "id": 682,
+        "premise": "The student is dumb.",
+        "hypothesis": "This student is as clever as a rock",
+        "predicted_label": "Contradiction",
+        "model_explanation": "A rock is a very hard substance, so saying someone is as clever as ta rock would mean they are not very intelligent."
+    },
+    {
+        "id": 682,
+        "premise": "The student is smart.",
+        "hypothesis": "This student is as clever as a rock",
+        "predicted_label": "Contradiction",
+        "model_explanation": "To be as clever as a rock means to be very intelligent, but this student is not clever."
+    },
+    {
+        "id": 688,
+        "premise": "This field is not grassy.",
+        "hypothesis": "This field is as grassy as the Sahara desert.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "The sahara desert is a harsh environment and is not very grassy, so saying something is as grass as the sahar desert means it is very harsh, not grass like."
+    },
+    {
+        "id": 688,
+        "premise": "This field is very grassy.",
+        "hypothesis": "This field is as grassy as the Sahara desert.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "The sahara desert is a very dry area of land, so saying the field is as grassy as the desert would imply it is not very grassey."
+    },
+    {
+        "id": 696,
+        "premise": "The baby hardly cried",
+        "hypothesis": "the baby cried as hard as a butterfly flapping a broken wing",
+        "predicted_label": "Contradiction",
+        "model_explanation": "A butterfly flapping its wings is not a very loud cry because it is trying to heal itself, but rather cries very softly."
+    },
+    {
+        "id": 696,
+        "premise": "The baby cried hard",
+        "hypothesis": "the baby cried as hard as a butterfly flapping a broken wing",
+        "predicted_label": "Entailment",
+        "model_explanation": "A butterfly flapping its wings is a very loud and dramatic sound, so the baby was crying very hard."
+    },
+    {
+        "id": 703,
+        "premise": "My dinner was cold",
+        "hypothesis": "My dinner was as hot as snow",
+        "predicted_label": "Entailment",
+        "model_explanation": "As hot as snow means very cold, so the dinner must have been very cool."
+    },
+    {
+        "id": 703,
+        "premise": "My dinner was hot",
+        "hypothesis": "My dinner was as hot as snow",
+        "predicted_label": "Contradiction",
+        "model_explanation": "The simile is used to emphasize how hot the dinner was, whereas the contradiction describes how cold the meal was."
+    },
+    {
+        "id": 707,
+        "premise": "The employee is dumb.",
+        "hypothesis": "The employee is sharp as a bowling ball",
+        "predicted_label": "Contradiction",
+        "model_explanation": "A bowling ball is not a sharp object, so saying someone is sharp as if they were compared to t hat would imply that they are smart, not dumb."
+    },
+    {
+        "id": 707,
+        "premise": "The employee is smart.",
+        "hypothesis": "The employee is sharp as a bowling ball",
+        "predicted_label": "Contradiction",
+        "model_explanation": "A bowling ball is not sharp, it is round and not very sharp."
+    },
+    {
+        "id": 708,
+        "premise": "The girl's personality wasn't bitter at all.",
+        "hypothesis": "The girl's personality was as bitter as vanilla ice cream",
+        "predicted_label": "Contradiction",
+        "model_explanation": "Vanilla ice cream is often described as having a sweet and sour taste, so saying someone's personality is as bitter as vanilla icing would mean that it is very sweet."
+    },
+    {
+        "id": 708,
+        "premise": "The girl's personality was very bitter.",
+        "hypothesis": "The girl's personality was as bitter as vanilla ice cream",
+        "predicted_label": "Contradiction",
+        "model_explanation": "Vanilla ice cream is a sweet food, so the simile is saying that the girl's personality is sweet, not bitter."
+    },
+    {
+        "id": 709,
+        "premise": "This item is not at all essential.",
+        "hypothesis": "This is as essential as diamonds",
+        "predicted_label": "Contradiction",
+        "model_explanation": "Diamonds are very precious and are often seen as essential in wedding rings, whereas something not at all essential is not essential at any point."
+    },
+    {
+        "id": 709,
+        "premise": "This item is very essential.",
+        "hypothesis": "This is as essential as diamonds",
+        "predicted_label": "Contradiction",
+        "model_explanation": "Diamonds are very expensive, so saying something is as essential as diamonds would mean that it is not important at all."
+    },
+    {
+        "id": 716,
+        "premise": "Their marriage is exciting and unexpected",
+        "hypothesis": "Their marriage is as drab as an lsd trip",
+        "predicted_label": "Contradiction",
+        "model_explanation": "An lsd trip is an incredibly boring and routine event, whereas a marriage is exciting and unexpected."
+    },
+    {
+        "id": 716,
+        "premise": "Their marriage is boring",
+        "hypothesis": "Their marriage is as drab as an lsd trip",
+        "predicted_label": "Contradiction",
+        "model_explanation": "An lsd trip would be an exciting and exciting experience, not boring."
+    },
+    {
+        "id": 727,
+        "premise": "The coffee was very light",
+        "hypothesis": "the coffee was as dark as snow in a field of cotton",
+        "predicted_label": "Contradiction",
+        "model_explanation": "A field of cotton is not dark, so saying the coffee was as dark as snow in a field would suggest that it is very dark."
+    },
+    {
+        "id": 727,
+        "premise": "The coffee was very dark",
+        "hypothesis": "the coffee was as dark as snow in a field of cotton",
+        "predicted_label": "Entailment",
+        "model_explanation": "Snow in a field of cotton is very dark, so the simile is saying that the coffee is dark."
+    },
+    {
+        "id": 736,
+        "premise": "It would be a brief journey",
+        "hypothesis": "The journey would be as long as a commercial",
+        "predicted_label": "Contradiction",
+        "model_explanation": "A commercial is a long, drawn out advertisement, while if the journey is as short as s commercial then it would be shortened to only 1-2 minutes."
+    },
+    {
+        "id": 736,
+        "premise": "The journey would be long",
+        "hypothesis": "The journey would be as long as a commercial",
+        "predicted_label": "Contradiction",
+        "model_explanation": "A commercial would be about a minute long, not long."
+    },
+    {
+        "id": 740,
+        "premise": "That branch is weak",
+        "hypothesis": "That branch is as strong as string",
+        "predicted_label": "Contradiction",
+        "model_explanation": "String is a very strong material, so saying he branch is as strong as string would be saying that it is very weak, not strong."
+    },
+    {
+        "id": 740,
+        "premise": "That branch is strong",
+        "hypothesis": "That branch is as strong as string",
+        "predicted_label": "Contradiction",
+        "model_explanation": "String is not strong, but rather fragile, so saying a branch is as strong as string means it is weak."
+    },
+    {
+        "id": 745,
+        "premise": "The people weren't scared at all.",
+        "hypothesis": "The people were as scared as a lion.",
+        "predicted_label": "Contradiction",
+        "model_explanation": "A lion is a big, dangerous animal, so saying someone is as scared as he is would mean that they are extremely scared."
+    },
+    {
+        "id": 745,
+        "premise": "The people were very scared.",
+        "hypothesis": "The people were as scared as a lion.",
+        "predicted_label": "Entailment",
+        "model_explanation": "A lion is a large, dangerous predator, so the people must be very scared."
+    },
+    {
+        "id": 746,
+        "premise": "He's not smart at all",
+        "hypothesis": "He's smart as a brick",
+        "predicted_label": "Contradiction",
+        "model_explanation": "A brick is a very inefficient object, so saying someone is smart as if they were compared to s brick would imply that they are not smart at all."
+    },
+    {
+        "id": 746,
+        "premise": "He's very smart",
+        "hypothesis": "He's smart as a brick",
+        "predicted_label": "Entailment",
+        "model_explanation": "To be smart as a brick means to be very smart, which is what the speaker is trying to convey."
+    }
+]
