@@ -5,8 +5,9 @@ Email : tuhin.chakr@cs.columbia.edu ( For enquiries)
 
 
 
-You can access our data at https://huggingface.co/datasets/ColumbiaNLP/FLUTE<br>
-The test labels and explanations are intentionally hidden for now. Please email us for gold label and explanations for test set
+You can explore our data at https://huggingface.co/datasets/ColumbiaNLP/FLUTE with dataset explorer<br>
+Our train, val and test data can be accessed from files FLUTEfinaltrain.json,FLUTEfinalval.json,FLUTEfinaltest.json
+The test labels and explanations for the entire test set are intentionally hidden for now.We will release it in time.Please email us for gold label and explanations for test set
 
 To train the model I->OR model which jointly generates label and rationale<br>
 
@@ -25,6 +26,7 @@ To evaluate using automated metrics use
         See this colab https://colab.research.google.com/drive/1uV26GNlltIlnzRe_IDvVLSmKQsa7yj-7?usp=sharing
         
 To access our human eval data look at the folder for humanevaluation
+To access our look at modelpredictions folder
  
         @article{chakrabarty2022flute,
           title={FLUTE: Figurative Language Understanding and Textual Explanations},
